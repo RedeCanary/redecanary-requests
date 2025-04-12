@@ -20,7 +20,21 @@ linguagens de programação comumente usadas:
 import requests
 
 def main():
+    try:
+        response = requests.get("https://raw.githubusercontent.com/RedeCanary/redecanary-requests/refs/heads/main/enchants.json")
+        response.raise_for_status()
+        data = response.json()
+        
+        for enchant in data:
+            print("---------\nID: {}\nNome: {}\nConflitos: {}".format(
+                data[enchant]["id"], 
+                data[enchant]["translated"], 
+                data[enchant]["extra"]["conflicts"]
+            ))
 
+    except Exception as e:
+        print(f"Ocorreu um erro: {e}")
 
-main();
+if __name__ == "__main__":
+    main()
 ```
