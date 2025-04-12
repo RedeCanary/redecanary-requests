@@ -16,3 +16,11 @@ Abaixo há exemplos de como fazer usos de requisições em algumas
 linguagens de programação comumente usadas:
 
 🐍 **Python**
+```python
+import requests
+
+def main():
+
+
+main();
+```
