@@ -26,7 +26,7 @@ def main():
         data = response.json()
         
         for enchant in data:
-            print("---------\nID: {}\nNome: {}\nConflitos: {}".format(
+            print("ID: {}\nNome: {}\nConflitos: {}".format(
                 data[enchant]["id"], 
                 data[enchant]["translated"], 
                 data[enchant]["extra"]["conflicts"]
