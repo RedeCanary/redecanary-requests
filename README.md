@@ -16,6 +16,9 @@ Abaixo há exemplos de como fazer usos de requisições em algumas
 linguagens de programação comumente usadas:
 
 🐍 **Python**
+  Requisitos:
+    - Biblioteca requests
+    - Python 3.0 ou superior
 ```python
 import requests
 
@@ -40,6 +43,10 @@ if __name__ == "__main__":
 ```
 
 ☕ **Java**
+  Requisitos:
+    - Biblioteca GSON (Google)
+    - Framework Lombok
+    - Java 8 ou superior
 ```java
     public static void main(String[] args) {
         try {
@@ -85,6 +92,10 @@ public class EnchantmentsMap {
 ```
 
 ⚙️ **Rust**
+  Requisitos:
+    - Biblioteca serde/serde_Json
+    - Biblioteca reqwest/tokio
+    - Rust nightly ou outro
 ```rust
 #[derive(Debug, Serialize, Deserialize)]
 struct EnchantmentMap {
