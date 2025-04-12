@@ -83,3 +83,34 @@ public class EnchantmentsMap {
         }
 }
 ```
+
+⚙️ **Rust**
+```rust
+#[derive(Debug, Serialize, Deserialize)]
+struct EnchantmentMap {
+    pub enchantments: HashMap<String, Enchantment>,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct Enchantment {
+    pub translated: String,
+    pub reference: String,
+    pub id: i32,
+}
+
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let resp = reqwest::get("https://raw.githubusercontent.com/RedeCanary/redecanary-requests/refs/heads/main/enchants.json")
+        .await?
+        .json::<EnchantmentMap>()
+        .await?;
+
+    if let Some(enchant) = resp.enchantments.get("CRITICAL") {
+        println!("Nome: {}", enchant.translated);
+        println!("Referência: {}", enchant.reference);
+        println!("Id: {}", enchant.id);
+    }
+
+    Ok(())
+}
+```
