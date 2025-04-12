@@ -27,9 +27,9 @@ def main():
         
         for enchant in data:
             print("ID: {}\nNome: {}\nConflitos: {}".format(
-                data[enchant]["id"], 
-                data[enchant]["translated"], 
-                data[enchant]["extra"]["conflicts"]
+                data[enchant]["CRITICAL"]["id"], 
+                data[enchant]["CRITICAL"]["translated"], 
+                data[enchant]["CRITICAL"]["extra"]["conflicts"]
             ))
 
     except Exception as e:
