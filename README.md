@@ -38,3 +38,48 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+☕ **Java**
+```java
+    public static void main(String[] args) {
+        try {
+            final String URL_LINK = "https://raw.githubusercontent.com/RedeCanary/redecanary-requests/refs/heads/main/enchants.json";
+            final URL url = new URL(URL_LINK);
+            final HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+            connection.setRequestMethod("GET");
+
+            final String content = getContent(URL_LINK);
+            connection.disconnect();
+
+            final Gson gson = new Gson();
+            final EnchantmentsMap enchantmentMap = gson.fromJson(content, EnchantmentsMap.class);
+            final EnchantmentsMap.Enchant enchant = enchantmentMap.getEnchantments().get("CRITICAL");
+
+            System.out.println("Nome: " + enchant.getTranslatedName());
+            System.out.println("Referência: " + enchant.getReference());
+            System.out.println("Id: " + enchant.getId());
+
+        } catch (IOException ignored) {}
+    }
+
+@Getter
+@AllArgsConstructor
+public class EnchantmentsMap {
+
+        @SerializedName("enchantments")
+        protected Map<String, Enchant> enchantments;
+
+        @Getter
+        @AllArgsConstructor
+        public static class Enchant {
+                @SerializedName("id")
+                protected int id;
+
+                @SerializedName("reference")
+                protected String reference;
+
+                @SerializedName("translated")
+                protected String translatedName;
+        }
+}
+```
