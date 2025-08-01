@@ -2,13 +2,22 @@
     "updates": {
         "skyblock": {
             "0": {
-                "name": "Sky Block 1.0.0",
+                "name": "§aSky Block §e§lBETA",
+                "type": "NETHER_STAR",
+                "data" "12/08/25",
+                "description": "§7Esta é a primeira beta\n§7oficial do Sky Block.\n\n§eTodos os sistemas estão\n§esendo frequentemente testados!"
+            },
+            "1": {
+                "name": "§aSky Block §bv1.0.0",
+                "type": "EMERALD",
+                "data" "12/01/26",
                 "description": "§7Esta é a primeira versão\n§7oficial do Sky Block.\n\n§aSistema de Ilhas\n§aSistema de Coleções\n§aHabilidades§7, §aEncantamentos§7\n§ae muito mais!"
             }
         },
         "bedwars": {
             "0": {
                 "name": "Bed Wars 1.0.0",
+                "type": "BED",
                 "description": "§7Esta é a primeira versão\n§7oficial do Bed Wars.\n\n§aSistema de Salas\n§aSistema de Partidas\n§ae muito mais!"
             }
         }
