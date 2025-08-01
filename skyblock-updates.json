@@ -1,4 +1,16 @@
-updates:
-    0:
-        name: "Sky Block 1.0.0"
-        description: "§7Esta é a primeira versão\n§7oficial do Sky Block.\n\n§aSistema de Ilhas\n§aSistema de Coleções\n§aHabilidades§7, §aEncantamentos§7\n§7e muito mais!"
+{
+    "updates": {
+        "skyblock": {
+            "0": {
+                "name": "Sky Block 1.0.0",
+                "description": "§7Esta é a primeira versão\n§7oficial do Sky Block.\n\n§aSistema de Ilhas\n§aSistema de Coleções\n§aHabilidades§7, §aEncantamentos§7\n§ae muito mais!"
+            }
+        },
+        "bedwars": {
+            "0": {
+                "name": "Bed Wars 1.0.0",
+                "description": "§7Esta é a primeira versão\n§7oficial do Bed Wars.\n\n§aSistema de Salas\n§aSistema de Partidas\n§ae muito mais!"
+            }
+        }
+    }
+}
