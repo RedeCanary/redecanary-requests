@@ -12,6 +12,12 @@
                 "type": "NETHER_STAR",
                 "data": "25/11/25",
                 "description": "§7Esta é a segunda beta\n§7oficial do Sky Block.\n\n§eNesta beta quase todos\n§eos sistemas estão prontos!\n\n§eO destaque desta beta\n§eé a separação do Fim\n§eentre servidores."
+            },
+            "2": {
+                "name": "§aSky Block §e§lBETA 0.9",
+                "type": "NETHER_STAR",
+                "data": "07/02/26",
+                "description": "§7Esta é a terceira beta\n§7oficial do Sky Block.\n\n§eNesta beta quase todos\n§efizemos muitas correções!\n\n§eO destaque desta beta\n§eé a separação do Nether\n§eentre servidores."
             }
         },
         "bedwars": {
