@@ -1,0 +1,5744 @@
+{
+  "CAPACETE_DE_COGUMELO": {
+    "key": "CAPACETE_DE_COGUMELO",
+    "displayName": "Capacete de Cogumelo",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "sellPrice": 160.0,
+    "baseAttributes": {
+      "DEFENSE": 15,
+      "MAX_HEALTH": 40
+    }
+  },
+  "PEITORAL_DE_COGUMELO": {
+    "key": "PEITORAL_DE_COGUMELO",
+    "displayName": "Peitoral de Cogumelo",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "sellPrice": 256.0,
+    "baseAttributes": {
+      "DEFENSE": 15,
+      "MAX_HEALTH": 60
+    }
+  },
+  "CALCAS_DE_COGUMELO": {
+    "key": "CALCAS_DE_COGUMELO",
+    "displayName": "Calças de Cogumelo",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "sellPrice": 224.0,
+    "baseAttributes": {
+      "DEFENSE": 15,
+      "MAX_HEALTH": 50
+    }
+  },
+  "BOTAS_DE_COGUMELO": {
+    "key": "BOTAS_DE_COGUMELO",
+    "displayName": "Botas de Cogumelo",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "sellPrice": 128.0,
+    "baseAttributes": {
+      "DEFENSE": 15,
+      "MAX_HEALTH": 30
+    }
+  },
+  "CAPACETE_DRAGAO_JOVEM": {
+    "key": "CAPACETE_DRAGAO_JOVEM",
+    "displayName": "Capacete do Dragão Jovem",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "MAX_HEALTH": 70,
+      "SPEED": 20
+    }
+  },
+  "PEITORAL_DRAGAO_JOVEM": {
+    "key": "PEITORAL_DRAGAO_JOVEM",
+    "displayName": "Peitoral do Dragão Jovem",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 160,
+      "MAX_HEALTH": 120,
+      "SPEED": 20
+    }
+  },
+  "CALCAS_DRAGAO_JOVEM": {
+    "key": "CALCAS_DRAGAO_JOVEM",
+    "displayName": "Calças do Dragão Jovem",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 140,
+      "MAX_HEALTH": 100,
+      "SPEED": 20
+    }
+  },
+  "BOTAS_DRAGAO_JOVEM": {
+    "key": "BOTAS_DRAGAO_JOVEM",
+    "displayName": "Botas do Dragão Jovem",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "MAX_HEALTH": 60,
+      "SPEED": 20
+    }
+  },
+  "CAPACETE_DRAGAO_ANCIAO": {
+    "key": "CAPACETE_DRAGAO_ANCIAO",
+    "displayName": "Capacete do Dragão Ancião",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "MAX_HEALTH": 70
+    }
+  },
+  "PEITORAL_DRAGAO_ANCIAO": {
+    "key": "PEITORAL_DRAGAO_ANCIAO",
+    "displayName": "Peitoral do Dragão Ancião",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 160,
+      "MAX_HEALTH": 120
+    }
+  },
+  "CALCAS_DRAGAO_ANCIAO": {
+    "key": "CALCAS_DRAGAO_ANCIAO",
+    "displayName": "Calças do Dragão Ancião",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 120,
+      "MAX_HEALTH": 100
+    }
+  },
+  "BOTAS_DRAGAO_ANCIAO": {
+    "key": "BOTAS_DRAGAO_ANCIAO",
+    "displayName": "Botas do Dragão Ancião",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "MAX_HEALTH": 60
+    }
+  },
+  "CAPACETE_DRAGAO_SABIO": {
+    "key": "CAPACETE_DRAGAO_SABIO",
+    "displayName": "Capacete do Dragão Sábio",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "MAX_HEALTH": 70,
+      "MAX_INTELLIGENCE": 75
+    }
+  },
+  "PEITORAL_DRAGAO_SABIO": {
+    "key": "PEITORAL_DRAGAO_SABIO",
+    "displayName": "Peitoral do Dragão Sábio",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 160,
+      "MAX_HEALTH": 120,
+      "MAX_INTELLIGENCE": 75
+    }
+  },
+  "CALCAS_DRAGAO_SABIO": {
+    "key": "CALCAS_DRAGAO_SABIO",
+    "displayName": "Calças do Dragão Sábio",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 120,
+      "MAX_HEALTH": 100,
+      "MAX_INTELLIGENCE": 75
+    }
+  },
+  "BOTAS_DRAGAO_SABIO": {
+    "key": "BOTAS_DRAGAO_SABIO",
+    "displayName": "Botas do Dragão Sábio",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "MAX_HEALTH": 60,
+      "MAX_INTELLIGENCE": 75
+    }
+  },
+  "CAPACETE_DRAGAO_INSTAVEL": {
+    "key": "CAPACETE_DRAGAO_INSTAVEL",
+    "displayName": "Capacete do Dragão Instável",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "MAX_HEALTH": 70,
+      "CRIT_CHANCE": 10,
+      "CRIT_DAMAGE": 15
+    }
+  },
+  "PEITORAL_DRAGAO_INSTAVEL": {
+    "key": "PEITORAL_DRAGAO_INSTAVEL",
+    "displayName": "Peitoral do Dragão Instável",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "baseAttributes": {
+      "DEFENSE": 160,
+      "MAX_HEALTH": 120,
+      "CRIT_CHANCE": 10,
+      "CRIT_DAMAGE": 15
+    }
+  },
+  "CALCAS_DRAGAO_INSTAVEL": {
+    "key": "CALCAS_DRAGAO_INSTAVEL",
+    "displayName": "Calças do Dragão Instável",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 120,
+      "MAX_HEALTH": 100,
+      "CRIT_CHANCE": 10,
+      "CRIT_DAMAGE": 15
+    }
+  },
+  "BOTAS_DRAGAO_INSTAVEL": {
+    "key": "BOTAS_DRAGAO_INSTAVEL",
+    "displayName": "Botas do Dragão Instável",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "MAX_HEALTH": 60,
+      "CRIT_CHANCE": 10,
+      "CRIT_DAMAGE": 15
+    }
+  },
+  "CAPACETE_DRAGAO_FORTE": {
+    "key": "CAPACETE_DRAGAO_FORTE",
+    "displayName": "Capacete do Dragão Forte",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "MAX_HEALTH": 70,
+      "STRENGTH": 25
+    }
+  },
+  "PEITORAL_DRAGAO_FORTE": {
+    "key": "PEITORAL_DRAGAO_FORTE",
+    "displayName": "Peitoral do Dragão Forte",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 160,
+      "MAX_HEALTH": 120,
+      "STRENGTH": 25
+    }
+  },
+  "CALCAS_DRAGAO_FORTE": {
+    "key": "CALCAS_DRAGAO_FORTE",
+    "displayName": "Calças do Dragão Forte",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 140,
+      "MAX_HEALTH": 100,
+      "STRENGTH": 25
+    }
+  },
+  "BOTAS_DRAGAO_FORTE": {
+    "key": "BOTAS_DRAGAO_FORTE",
+    "displayName": "Botas do Dragão Forte",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "MAX_HEALTH": 60,
+      "STRENGTH": 25
+    }
+  },
+  "CAPACETE_DRAGAO_PROTETOR": {
+    "key": "CAPACETE_DRAGAO_PROTETOR",
+    "displayName": "Capacete do Dragão Protetor",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 135,
+      "MAX_HEALTH": 70
+    }
+  },
+  "PEITORAL_DRAGAO_PROTETOR": {
+    "key": "PEITORAL_DRAGAO_PROTETOR",
+    "displayName": "Peitoral do Dragão Protetor",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 185,
+      "MAX_HEALTH": 120
+    }
+  },
+  "CALCAS_DRAGAO_PROTETOR": {
+    "key": "CALCAS_DRAGAO_PROTETOR",
+    "displayName": "Calças do Dragão Protetor",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 175,
+      "MAX_HEALTH": 100
+    }
+  },
+  "BOTAS_DRAGAO_PROTETOR": {
+    "key": "BOTAS_DRAGAO_PROTETOR",
+    "displayName": "Botas do Dragão Protetor",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 115,
+      "MAX_HEALTH": 60
+    }
+  },
+  "CAPACETE_DRAGAO_SUPERIOR": {
+    "key": "CAPACETE_DRAGAO_SUPERIOR",
+    "displayName": "Capacete do Dragão Superior",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "DEFENSE": 170,
+      "MAX_HEALTH": 130,
+      "CRIT_CHANCE": 2,
+      "MAX_INTELLIGENCE": 25,
+      "CRIT_DAMAGE": 8,
+      "STRENGTH": 10,
+      "SPEED": 3
+    }
+  },
+  "PEITORAL_DRAGAO_SUPERIOR": {
+    "key": "PEITORAL_DRAGAO_SUPERIOR",
+    "displayName": "Peitoral do Dragão Superior",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "DEFENSE": 170,
+      "MAX_HEALTH": 130,
+      "CRIT_CHANCE": 2,
+      "MAX_INTELLIGENCE": 25,
+      "CRIT_DAMAGE": 8,
+      "STRENGTH": 10,
+      "SPEED": 3
+    }
+  },
+  "CALCAS_DRAGAO_SUPERIOR": {
+    "key": "CALCAS_DRAGAO_SUPERIOR",
+    "displayName": "Calças do Dragão Superior",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "DEFENSE": 170,
+      "MAX_HEALTH": 130,
+      "CRIT_CHANCE": 2,
+      "MAX_INTELLIGENCE": 25,
+      "CRIT_DAMAGE": 8,
+      "STRENGTH": 10,
+      "SPEED": 3
+    }
+  },
+  "BOTAS_DRAGAO_SUPERIOR": {
+    "key": "BOTAS_DRAGAO_SUPERIOR",
+    "displayName": "Botas do Dragão Superior",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "DEFENSE": 170,
+      "MAX_HEALTH": 130,
+      "CRIT_CHANCE": 2,
+      "MAX_INTELLIGENCE": 25,
+      "CRIT_DAMAGE": 8,
+      "STRENGTH": 10,
+      "SPEED": 3
+    }
+  },
+  "CAPACETE_DE_CRISTAL": {
+    "key": "CAPACETE_DE_CRISTAL",
+    "displayName": "Capacete de Cristal",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 12
+    },
+    "baseAttributes": {
+      "DEFENSE": 20,
+      "MAX_INTELLIGENCE": 45
+    }
+  },
+  "PEITORAL_DE_CRISTAL": {
+    "key": "PEITORAL_DE_CRISTAL",
+    "displayName": "Peitoral de Cristal",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 12
+    },
+    "description": [
+      "§7Nível de Luz: §a0%",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 40,
+      "MAX_INTELLIGENCE": 45
+    }
+  },
+  "CALCAS_DE_CRISTAL": {
+    "key": "CALCAS_DE_CRISTAL",
+    "displayName": "Calças de Cristal",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 12
+    },
+    "baseAttributes": {
+      "DEFENSE": 30,
+      "MAX_INTELLIGENCE": 45
+    }
+  },
+  "BOTAS_DE_CRISTAL": {
+    "key": "BOTAS_DE_CRISTAL",
+    "displayName": "Botas de Cristal",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 12
+    },
+    "baseAttributes": {
+      "DEFENSE": 10,
+      "MAX_INTELLIGENCE": 45
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_X": {
+    "key": "CAPACETE_DA_PERFEICAO_X",
+    "displayName": "Capacete da Perfeição - X",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 290,
+      "MAX_HEALTH": -150
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_X": {
+    "key": "PEITORAL_DA_PERFEICAO_X",
+    "displayName": "Peitoral da Perfeição - X",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 340,
+      "MAX_HEALTH": -150
+    }
+  },
+  "CALCAS_DA_PERFEICAO_X": {
+    "key": "CALCAS_DA_PERFEICAO_X",
+    "displayName": "Calças da Perfeição - X",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 300,
+      "MAX_HEALTH": -150
+    }
+  },
+  "BOTAS_DA_PERFEICAO_X": {
+    "key": "BOTAS_DA_PERFEICAO_X",
+    "displayName": "Botas da Perfeição - X",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 270,
+      "MAX_HEALTH": -150
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_IX": {
+    "key": "CAPACETE_DA_PERFEICAO_IX",
+    "displayName": "Capacete da Perfeição - IX",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 270,
+      "MAX_HEALTH": -125
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_IX": {
+    "key": "PEITORAL_DA_PERFEICAO_IX",
+    "displayName": "Peitoral da Perfeição - IX",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 320,
+      "MAX_HEALTH": -125
+    }
+  },
+  "CALCAS_DA_PERFEICAO_IX": {
+    "key": "CALCAS_DA_PERFEICAO_IX",
+    "displayName": "Calças da Perfeição - IX",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 280,
+      "MAX_HEALTH": -125
+    }
+  },
+  "BOTAS_DA_PERFEICAO_IX": {
+    "key": "BOTAS_DA_PERFEICAO_IX",
+    "displayName": "Botas da Perfeição - IX",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 250,
+      "MAX_HEALTH": -125
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_VIII": {
+    "key": "CAPACETE_DA_PERFEICAO_VIII",
+    "displayName": "Capacete da Perfeição - VIII",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 250,
+      "MAX_HEALTH": -100
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_VIII": {
+    "key": "PEITORAL_DA_PERFEICAO_VIII",
+    "displayName": "Peitoral da Perfeição - VIII",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 300,
+      "MAX_HEALTH": -100
+    }
+  },
+  "CALCAS_DA_PERFEICAO_VIII": {
+    "key": "CALCAS_DA_PERFEICAO_VIII",
+    "displayName": "Calças da Perfeição - VIII",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 260,
+      "MAX_HEALTH": -100
+    }
+  },
+  "BOTAS_DA_PERFEICAO_VIII": {
+    "key": "BOTAS_DA_PERFEICAO_VIII",
+    "displayName": "Botas da Perfeição - VIII",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 230,
+      "MAX_HEALTH": -100
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_VII": {
+    "key": "CAPACETE_DA_PERFEICAO_VII",
+    "displayName": "Capacete da Perfeição - VII",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 230,
+      "MAX_HEALTH": -75
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_VII": {
+    "key": "PEITORAL_DA_PERFEICAO_VII",
+    "displayName": "Peitoral da Perfeição - VII",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 280,
+      "MAX_HEALTH": -75
+    }
+  },
+  "CALCAS_DA_PERFEICAO_VII": {
+    "key": "CALCAS_DA_PERFEICAO_VII",
+    "displayName": "Calças da Perfeição - VII",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 240,
+      "MAX_HEALTH": -75
+    }
+  },
+  "BOTAS_DA_PERFEICAO_VII": {
+    "key": "BOTAS_DA_PERFEICAO_VII",
+    "displayName": "Botas da Perfeição - VII",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 210,
+      "MAX_HEALTH": -75
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_VI": {
+    "key": "CAPACETE_DA_PERFEICAO_VI",
+    "displayName": "Capacete da Perfeição - VI",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 210,
+      "MAX_HEALTH": -50
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_VI": {
+    "key": "PEITORAL_DA_PERFEICAO_VI",
+    "displayName": "Peitoral da Perfeição - VI",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 260,
+      "MAX_HEALTH": -50
+    }
+  },
+  "CALCAS_DA_PERFEICAO_VI": {
+    "key": "CALCAS_DA_PERFEICAO_VI",
+    "displayName": "Calças da Perfeição - VI",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 220,
+      "MAX_HEALTH": -50
+    }
+  },
+  "BOTAS_DA_PERFEICAO_VI": {
+    "key": "BOTAS_DA_PERFEICAO_VI",
+    "displayName": "Botas da Perfeição - VI",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 190,
+      "MAX_HEALTH": -50
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_V": {
+    "key": "CAPACETE_DA_PERFEICAO_V",
+    "displayName": "Capacete da Perfeição - V",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 190,
+      "MAX_HEALTH": -50
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_V": {
+    "key": "PEITORAL_DA_PERFEICAO_V",
+    "displayName": "Peitoral da Perfeição - V",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 240,
+      "MAX_HEALTH": -50
+    }
+  },
+  "CALCAS_DA_PERFEICAO_V": {
+    "key": "CALCAS_DA_PERFEICAO_V",
+    "displayName": "Calças da Perfeição - V",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 200,
+      "MAX_HEALTH": -50
+    }
+  },
+  "BOTAS_DA_PERFEICAO_V": {
+    "key": "BOTAS_DA_PERFEICAO_V",
+    "displayName": "Botas da Perfeição - V",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 170,
+      "MAX_HEALTH": -50
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_IV": {
+    "key": "CAPACETE_DA_PERFEICAO_IV",
+    "displayName": "Capacete da Perfeição - IV",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 170,
+      "MAX_HEALTH": -50
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_IV": {
+    "key": "PEITORAL_DA_PERFEICAO_IV",
+    "displayName": "Peitoral da Perfeição - IV",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 220,
+      "MAX_HEALTH": -50
+    }
+  },
+  "CALCAS_DA_PERFEICAO_IV": {
+    "key": "CALCAS_DA_PERFEICAO_IV",
+    "displayName": "Calças da Perfeição - IV",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 180,
+      "MAX_HEALTH": -50
+    }
+  },
+  "BOTAS_DA_PERFEICAO_IV": {
+    "key": "BOTAS_DA_PERFEICAO_IV",
+    "displayName": "Botas da Perfeição - IV",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 150,
+      "MAX_HEALTH": -50
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_III": {
+    "key": "CAPACETE_DA_PERFEICAO_III",
+    "displayName": "Capacete da Perfeição - III",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 150,
+      "MAX_HEALTH": -25
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_III": {
+    "key": "PEITORAL_DA_PERFEICAO_III",
+    "displayName": "Peitoral da Perfeição - III",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 200,
+      "MAX_HEALTH": -25
+    }
+  },
+  "CALCAS_DA_PERFEICAO_III": {
+    "key": "CALCAS_DA_PERFEICAO_III",
+    "displayName": "Calças da Perfeição - III",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 180,
+      "MAX_HEALTH": -25
+    }
+  },
+  "BOTAS_DA_PERFEICAO_III": {
+    "key": "BOTAS_DA_PERFEICAO_III",
+    "displayName": "Botas da Perfeição - III",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 130,
+      "MAX_HEALTH": -25
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_II": {
+    "key": "CAPACETE_DA_PERFEICAO_II",
+    "displayName": "Capacete da Perfeição - II",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 130,
+      "MAX_HEALTH": -25
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_II": {
+    "key": "PEITORAL_DA_PERFEICAO_II",
+    "displayName": "Peitoral da Perfeição - II",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 180,
+      "MAX_HEALTH": -25
+    }
+  },
+  "CALCAS_DA_PERFEICAO_II": {
+    "key": "CALCAS_DA_PERFEICAO_II",
+    "displayName": "Calças da Perfeição - II",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 160,
+      "MAX_HEALTH": -25
+    }
+  },
+  "BOTAS_DA_PERFEICAO_II": {
+    "key": "BOTAS_DA_PERFEICAO_II",
+    "displayName": "Botas da Perfeição - II",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "MAX_HEALTH": -25
+    }
+  },
+  "CAPACETE_DA_PERFEICAO_I": {
+    "key": "CAPACETE_DA_PERFEICAO_I",
+    "displayName": "Capacete da Perfeição - I",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "MAX_HEALTH": -25
+    }
+  },
+  "PEITORAL_DA_PERFEICAO_I": {
+    "key": "PEITORAL_DA_PERFEICAO_I",
+    "displayName": "Peitoral da Perfeição - I",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 160,
+      "MAX_HEALTH": -25
+    }
+  },
+  "CALCAS_DA_PERFEICAO_I": {
+    "key": "CALCAS_DA_PERFEICAO_I",
+    "displayName": "Calças da Perfeição - I",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 140,
+      "MAX_HEALTH": -25
+    }
+  },
+  "BOTAS_DA_PERFEICAO_I": {
+    "key": "BOTAS_DA_PERFEICAO_I",
+    "displayName": "Botas da Perfeição - I",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "MAX_HEALTH": -25
+    }
+  },
+  "CAPACETE_DO_GOLEM": {
+    "key": "CAPACETE_DO_GOLEM",
+    "displayName": "Capacete de Golem",
+    "rarity": "UNCOMMON",
+    "category": "HELMET",
+    "sellPrice": 40000.0,
+    "baseAttributes": {
+      "DEFENSE": 70,
+      "MAX_HEALTH": 50,
+      "SPEED": 5
+    }
+  },
+  "PEITORAL_DO_GOLEM": {
+    "key": "PEITORAL_DO_GOLEM",
+    "displayName": "Peitoral de Golem",
+    "rarity": "UNCOMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 64400.0,
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "MAX_HEALTH": 70,
+      "SPEED": 5
+    }
+  },
+  "CALCAS_DO_GOLEM": {
+    "key": "CALCAS_DO_GOLEM",
+    "displayName": "Calças de Golem",
+    "rarity": "UNCOMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 56000.0,
+    "baseAttributes": {
+      "DEFENSE": 80,
+      "MAX_HEALTH": 65,
+      "SPEED": 5
+    }
+  },
+  "BOTAS_DO_GOLEM": {
+    "key": "BOTAS_DO_GOLEM",
+    "displayName": "Botas de Golem",
+    "rarity": "UNCOMMON",
+    "category": "BOOTS",
+    "sellPrice": 32000.0,
+    "baseAttributes": {
+      "DEFENSE": 50,
+      "MAX_HEALTH": 40,
+      "SPEED": 5
+    }
+  },
+  "CAPACETE_DE_BRASA": {
+    "key": "CAPACETE_DE_BRASA",
+    "displayName": "Capacete de Brasa",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 35,
+      "MAX_HEALTH": 40,
+      "MAX_INTELLIGENCE": 5
+    }
+  },
+  "PEITORAL_DE_BRASA": {
+    "key": "PEITORAL_DE_BRASA",
+    "displayName": "Peitoral de Brasa",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 10
+    },
+    "description": [
+      "§7Calor Acumulado: §e0",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 60,
+      "MAX_HEALTH": 65,
+      "MAX_INTELLIGENCE": 5
+    }
+  },
+  "CALCAS_DE_BRASA": {
+    "key": "CALCAS_DE_BRASA",
+    "displayName": "Calças de Brasa",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 55,
+      "MAX_HEALTH": 60,
+      "MAX_INTELLIGENCE": 5
+    }
+  },
+  "BOTAS_DE_BRASA": {
+    "key": "BOTAS_DE_BRASA",
+    "displayName": "Botas de Brasa",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 30,
+      "MAX_HEALTH": 35,
+      "MAX_INTELLIGENCE": 5
+    }
+  },
+  "CAPACETE_DE_ABOBORA": {
+    "key": "CAPACETE_DE_ABOBORA",
+    "displayName": "Capacete de Abóbora",
+    "rarity": "UNCOMMON",
+    "category": "HELMET",
+    "sellPrice": 192.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 15,
+      "DEFENSE": 20,
+      "MAX_HEALTH": 90
+    }
+  },
+  "PEITORAL_DE_ABOBORA": {
+    "key": "PEITORAL_DE_ABOBORA",
+    "displayName": "Peitoral de Abóbora",
+    "rarity": "UNCOMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 384.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 15,
+      "DEFENSE": 20,
+      "MAX_HEALTH": 110
+    }
+  },
+  "CALCAS_DE_ABOBORA": {
+    "key": "CALCAS_DE_ABOBORA",
+    "displayName": "Calças de Abóbora",
+    "rarity": "UNCOMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 336.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 15,
+      "DEFENSE": 20,
+      "MAX_HEALTH": 120
+    }
+  },
+  "BOTAS_DE_ABOBORA": {
+    "key": "BOTAS_DE_ABOBORA",
+    "displayName": "Botas de Abóbora",
+    "rarity": "UNCOMMON",
+    "category": "BOOTS",
+    "sellPrice": 192.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 15,
+      "DEFENSE": 20,
+      "MAX_HEALTH": 90
+    }
+  },
+  "CAPACETE_DE_BROTO": {
+    "key": "CAPACETE_DE_BROTO",
+    "displayName": "Capacete de Broto",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 25,
+      "DEFENSE": 30,
+      "MAX_HEALTH": 120
+    }
+  },
+  "PEITORAL_DE_BROTO": {
+    "key": "PEITORAL_DE_BROTO",
+    "displayName": "Peitoral de Broto",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 25,
+      "DEFENSE": 30,
+      "MAX_HEALTH": 145
+    }
+  },
+  "CALCAS_DE_BROTO": {
+    "key": "CALCAS_DE_BROTO",
+    "displayName": "Calças de Broto",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 25,
+      "DEFENSE": 30,
+      "MAX_HEALTH": 145
+    }
+  },
+  "BOTAS_DE_BROTO": {
+    "key": "BOTAS_DE_BROTO",
+    "displayName": "Botas de Broto",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 25,
+      "DEFENSE": 8,
+      "MAX_HEALTH": 120
+    }
+  },
+  "CAPACETE_DE_RAIZES": {
+    "key": "CAPACETE_DE_RAIZES",
+    "displayName": "Capacete de Raízes",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 40,
+      "DEFENSE": 40,
+      "MAX_HEALTH": 145
+    }
+  },
+  "PEITORAL_DE_RAIZES": {
+    "key": "PEITORAL_DE_RAIZES",
+    "displayName": "Peitoral de Raízes",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 40,
+      "DEFENSE": 40,
+      "MAX_HEALTH": 175
+    }
+  },
+  "CALCAS_DE_RAIZES": {
+    "key": "CALCAS_DE_RAIZES",
+    "displayName": "Calças de Raízes",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 40,
+      "DEFENSE": 40,
+      "MAX_HEALTH": 175
+    }
+  },
+  "BOTAS_DE_RAIZES": {
+    "key": "BOTAS_DE_RAIZES",
+    "displayName": "Botas de Raízes",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 40,
+      "DEFENSE": 40,
+      "MAX_HEALTH": 145
+    }
+  },
+  "CAPACETE_DO_SOL": {
+    "key": "CAPACETE_DO_SOL",
+    "displayName": "Capacete do Sol",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 25
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 40,
+      "DEFENSE": 40,
+      "MAX_HEALTH": 145
+    }
+  },
+  "PEITORAL_DO_SOL": {
+    "key": "PEITORAL_DO_SOL",
+    "displayName": "Peitoral do Sol",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 25
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 40,
+      "DEFENSE": 40,
+      "MAX_HEALTH": 175
+    }
+  },
+  "CALCAS_DO_SOL": {
+    "key": "CALCAS_DO_SOL",
+    "displayName": "Calças do Sol",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 25
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 40,
+      "DEFENSE": 40,
+      "MAX_HEALTH": 175
+    }
+  },
+  "BOTAS_DO_SOL": {
+    "key": "BOTAS_DO_SOL",
+    "displayName": "Botas do Sol",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 25
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 40,
+      "DEFENSE": 40,
+      "MAX_HEALTH": 145
+    }
+  },
+  "CAPACETE_DE_ESMERALDA": {
+    "key": "CAPACETE_DE_ESMERALDA",
+    "displayName": "Capacete de Esmeralda",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 384000.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 50,
+      "HASTE": 30
+    }
+  },
+  "PEITORAL_DE_ESMERALDA": {
+    "key": "PEITORAL_DE_ESMERALDA",
+    "displayName": "Peitoral de Esmeralda",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 628800.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 100,
+      "HASTE": 30
+    }
+  },
+  "CALCAS_DE_ESMERALDA": {
+    "key": "CALCAS_DE_ESMERALDA",
+    "displayName": "Calças de Esmeralda",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 575200.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 75,
+      "HASTE": 30
+    }
+  },
+  "BOTAS_DE_ESMERALDA": {
+    "key": "BOTAS_DE_ESMERALDA",
+    "displayName": "Botas de Esmeralda",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 307400.0,
+    "skillRequirement": {
+      "type": "MINING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 45,
+      "HASTE": 30
+    }
+  },
+  "CAPACETE_DE_BLAZE": {
+    "key": "CAPACETE_DE_BLAZE",
+    "displayName": "Capacete de Blaze",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 1750000.0,
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 14
+    },
+    "baseAttributes": {
+      "DEFENSE": 80,
+      "STRENGTH": 10,
+      "SPEED": 2
+    }
+  },
+  "PEITORAL_DE_BLAZE": {
+    "key": "PEITORAL_DE_BLAZE",
+    "displayName": "Peitoral de Blaze",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 245000.0,
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 14
+    },
+    "baseAttributes": {
+      "DEFENSE": 150,
+      "STRENGTH": 10,
+      "SPEED": 2
+    }
+  },
+  "CALCAS_DE_BLAZE": {
+    "key": "CALCAS_DE_BLAZE",
+    "displayName": "Calças de Blaze",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 245000.0,
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 14
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "STRENGTH": 10,
+      "SPEED": 2
+    }
+  },
+  "BOTAS_DE_BLAZE": {
+    "key": "BOTAS_DE_BLAZE",
+    "displayName": "Botas de Blaze",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 140000.0,
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 14
+    },
+    "baseAttributes": {
+      "DEFENSE": 70,
+      "STRENGTH": 10,
+      "SPEED": 2
+    }
+  },
+  "CAPACETE_DE_LAPIS": {
+    "key": "CAPACETE_DE_LAPIS",
+    "displayName": "Capacete de Lápis",
+    "rarity": "UNCOMMON",
+    "category": "HELMET",
+    "description": [
+      "§7Cada parte desta armadura faz",
+      "§7com que você receberá §a50% §7de",
+      "§7experiência bônus ao quebrar",
+      "§7minérios.",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 25
+    }
+  },
+  "PEITORAL_DE_LAPIS": {
+    "key": "PEITORAL_DE_LAPIS",
+    "displayName": "Peitoral de Lápis",
+    "rarity": "UNCOMMON",
+    "category": "CHESTPLATE",
+    "description": [
+      "§7Cada parte desta armadura faz",
+      "§7com que você receberá §a50% §7de",
+      "§7experiência bônus ao quebrar",
+      "§7minérios.",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 40
+    }
+  },
+  "CALCAS_DE_LAPIS": {
+    "key": "CALCAS_DE_LAPIS",
+    "displayName": "Calças de Lápis",
+    "rarity": "UNCOMMON",
+    "category": "LEGGINGS",
+    "description": [
+      "§7Cada parte desta armadura faz",
+      "§7com que você receberá §a50% §7de",
+      "§7experiência bônus ao quebrar",
+      "§7minérios.",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 35
+    }
+  },
+  "BOTAS_DE_LAPIS": {
+    "key": "BOTAS_DE_LAPIS",
+    "displayName": "Botas de Lápis",
+    "rarity": "UNCOMMON",
+    "category": "BOOTS",
+    "description": [
+      "§7Cada parte desta armadura faz",
+      "§7com que você receberá §a50% §7de",
+      "§7experiência bônus ao quebrar",
+      "§7minérios.",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 20
+    }
+  },
+  "CAPACETE_DO_MINERADOR": {
+    "key": "CAPACETE_DO_MINERADOR",
+    "displayName": "Capacete Do Minerador",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "description": [
+      "§7Cada parte desta armadura aumenta",
+      "§7drasticamente a sua §a⚜ Defesa §7bônus",
+      "§7quando estiver dentro de uma mina.",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 5,
+      "HASTE": 10
+    }
+  },
+  "PEITORAL_DO_MINERADOR": {
+    "key": "PEITORAL_DO_MINERADOR",
+    "displayName": "Peitoral Do Minerador",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "description": [
+      "§7Cada parte desta armadura aumenta",
+      "§7drasticamente a sua §a⚜ Defesa §7bônus",
+      "§7quando estiver dentro de uma mina.",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 5,
+      "HASTE": 10
+    }
+  },
+  "CALCAS_DO_MINERADOR": {
+    "key": "CALCAS_DO_MINERADOR",
+    "displayName": "Calças Do Minerador",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "description": [
+      "§7Cada parte desta armadura aumenta",
+      "§7drasticamente a sua §a⚜ Defesa §7bônus",
+      "§7quando estiver dentro de uma mina.",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 5,
+      "HASTE": 10
+    }
+  },
+  "BOTAS_DO_MINERADOR": {
+    "key": "BOTAS_DO_MINERADOR",
+    "displayName": "Botas Do Minerador",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "description": [
+      "§7Cada parte desta armadura aumenta",
+      "§7drasticamente a sua §a⚜ Defesa §7bônus",
+      "§7quando estiver dentro de uma mina.",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 5,
+      "HASTE": 10
+    }
+  },
+  "CAPACETE_DE_DIAMANTE_REFORCADO": {
+    "key": "CAPACETE_DE_DIAMANTE_REFORCADO",
+    "displayName": "Capacete de Diamante Reforçado",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "sellPrice": 3400.0,
+    "baseAttributes": {
+      "DEFENSE": 60
+    }
+  },
+  "PEITORAL_DE_DIAMANTE_REFORCADO": {
+    "key": "PEITORAL_DE_DIAMANTE_REFORCADO",
+    "displayName": "Peitoral de Diamante Reforçado",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "sellPrice": 5240.0,
+    "baseAttributes": {
+      "DEFENSE": 120
+    }
+  },
+  "CALCAS_DE_DIAMANTE_REFORCADO": {
+    "key": "CALCAS_DE_DIAMANTE_REFORCADO",
+    "displayName": "Calças de Diamante Reforçado",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "sellPrice": 4960.0,
+    "baseAttributes": {
+      "DEFENSE": 95
+    }
+  },
+  "BOTAS_DE_DIAMANTE_REFORCADO": {
+    "key": "BOTAS_DE_DIAMANTE_REFORCADO",
+    "displayName": "Botas de Diamante Reforçado",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "sellPrice": 2120.0,
+    "baseAttributes": {
+      "DEFENSE": 45
+    }
+  },
+  "CAPACETE_DO_CORREDOR": {
+    "key": "CAPACETE_DO_CORREDOR",
+    "displayName": "Capacete do Corredor",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 256000.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 70,
+      "SPEED": 15
+    }
+  },
+  "PEITORAL_DO_CORREDOR": {
+    "key": "PEITORAL_DO_CORREDOR",
+    "displayName": "Peitoral do Corredor",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 409000.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 120,
+      "SPEED": 15
+    }
+  },
+  "CALCAS_DO_CORREDOR": {
+    "key": "CALCAS_DO_CORREDOR",
+    "displayName": "Calças do Corredor",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 358400.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 95,
+      "SPEED": 15
+    }
+  },
+  "BOTAS_DO_CORREDOR": {
+    "key": "BOTAS_DO_CORREDOR",
+    "displayName": "Botas do Corredor",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 204800.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 65,
+      "SPEED": 15
+    }
+  },
+  "CAPACETE_DE_MAGMA": {
+    "key": "CAPACETE_DE_MAGMA",
+    "displayName": "Capacete de Magma",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 45500.0,
+    "baseAttributes": {
+      "DEFENSE": 15,
+      "MAX_HEALTH": 50
+    }
+  },
+  "PEITORAL_DE_MAGMA": {
+    "key": "PEITORAL_DE_MAGMA",
+    "displayName": "Peitoral de Magma",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 73920.0,
+    "description": [
+      "§7Cubos de Magma Mortos: §a0",
+      "§7Bônus de Vida: §a0",
+      "§7Bônus de Defesa: §a0",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 30,
+      "MAX_HEALTH": 100
+    }
+  },
+  "CALCAS_DE_MAGMA": {
+    "key": "CALCAS_DE_MAGMA",
+    "displayName": "Calças de Magma",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 63680.0,
+    "baseAttributes": {
+      "DEFENSE": 25,
+      "MAX_HEALTH": 75
+    }
+  },
+  "BOTAS_DE_MAGMA": {
+    "key": "BOTAS_DE_MAGMA",
+    "displayName": "Botas de Magma",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 36960.0,
+    "baseAttributes": {
+      "DEFENSE": 15,
+      "MAX_HEALTH": 45
+    }
+  },
+  "CAPACETE_DE_CARVALHO": {
+    "key": "CAPACETE_DE_CARVALHO",
+    "displayName": "Capacete de Carvalho",
+    "rarity": "COMMON",
+    "category": "HELMET",
+    "sellPrice": 100.0,
+    "baseAttributes": {
+      "MAX_HEALTH": 35
+    }
+  },
+  "PEITORAL_DE_CARVALHO": {
+    "key": "PEITORAL_DE_CARVALHO",
+    "displayName": "Peitoral de Carvalho",
+    "rarity": "COMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 160.0,
+    "baseAttributes": {
+      "MAX_HEALTH": 20
+    }
+  },
+  "CALCAS_DE_CARVALHO": {
+    "key": "CALCAS_DE_CARVALHO",
+    "displayName": "Calças de Carvalho",
+    "rarity": "COMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 140.0,
+    "baseAttributes": {
+      "MAX_HEALTH": 30
+    }
+  },
+  "BOTAS_DE_CARVALHO": {
+    "key": "BOTAS_DE_CARVALHO",
+    "displayName": "Botas de Carvalho",
+    "rarity": "COMMON",
+    "category": "BOOTS",
+    "sellPrice": 80.0,
+    "baseAttributes": {
+      "MAX_HEALTH": 15
+    }
+  },
+  "CAPACETE_DE_PEDREGULHO": {
+    "key": "CAPACETE_DE_PEDREGULHO",
+    "displayName": "Capacete de Pedregulho",
+    "rarity": "UNCOMMON",
+    "category": "HELMET",
+    "sellPrice": 400.0,
+    "baseAttributes": {
+      "DEFENSE": 15,
+      "HASTE": 5
+    }
+  },
+  "PEITORAL_DE_PEDREGULHO": {
+    "key": "PEITORAL_DE_PEDREGULHO",
+    "displayName": "Peitoral de Pedregulho",
+    "rarity": "UNCOMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 660.0,
+    "baseAttributes": {
+      "DEFENSE": 40,
+      "HASTE": 5
+    }
+  },
+  "CALCAS_DE_PEDREGULHO": {
+    "key": "CALCAS_DE_PEDREGULHO",
+    "displayName": "Calças de Pedregulho",
+    "rarity": "UNCOMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 560.0,
+    "baseAttributes": {
+      "DEFENSE": 30,
+      "HASTE": 5
+    }
+  },
+  "BOTAS_DE_PEDREGULHO": {
+    "key": "BOTAS_DE_PEDREGULHO",
+    "displayName": "Botas de Pedregulho",
+    "rarity": "UNCOMMON",
+    "category": "BOOTS",
+    "sellPrice": 320.0,
+    "baseAttributes": {
+      "DEFENSE": 5,
+      "HASTE": 5
+    }
+  },
+  "CAPACETE_DE_CACTO": {
+    "key": "CAPACETE_DE_CACTO",
+    "displayName": "Capacete de Cacto",
+    "rarity": "COMMON",
+    "category": "HELMET",
+    "sellPrice": 60.0,
+    "baseAttributes": {
+      "DEFENSE": 10,
+      "MAX_HEALTH": 5
+    }
+  },
+  "PEITORAL_DE_CACTO": {
+    "key": "PEITORAL_DE_CACTO",
+    "displayName": "Peitoral de Cacto",
+    "rarity": "COMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 96.0,
+    "baseAttributes": {
+      "DEFENSE": 20,
+      "MAX_HEALTH": 15
+    }
+  },
+  "CALCAS_DE_CACTO": {
+    "key": "CALCAS_DE_CACTO",
+    "displayName": "Calças de Cacto",
+    "rarity": "COMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 84.0,
+    "baseAttributes": {
+      "DEFENSE": 15,
+      "MAX_HEALTH": 10
+    }
+  },
+  "BOTAS_DE_CACTO": {
+    "key": "BOTAS_DE_CACTO",
+    "displayName": "Botas de Cacto",
+    "rarity": "COMMON",
+    "category": "BOOTS",
+    "sellPrice": 48.0,
+    "baseAttributes": {
+      "DEFENSE": 10,
+      "MAX_HEALTH": 5
+    }
+  },
+  "CAPACETE_DE_CRESCIMENTO": {
+    "key": "CAPACETE_DE_CRESCIMENTO",
+    "displayName": "Capacete de Crescimento",
+    "rarity": "RARE",
+    "category": "HELMET",
+    "sellPrice": 10800.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 5
+    },
+    "baseAttributes": {
+      "DEFENSE": 40,
+      "MAX_HEALTH": 80
+    }
+  },
+  "PEITORAL_DE_CRESCIMENTO": {
+    "key": "PEITORAL_DE_CRESCIMENTO",
+    "displayName": "Peitoral de Crescimento",
+    "rarity": "RARE",
+    "category": "CHESTPLATE",
+    "sellPrice": 15310.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 5
+    },
+    "baseAttributes": {
+      "DEFENSE": 65,
+      "MAX_HEALTH": 200
+    }
+  },
+  "CALCAS_DE_CRESCIMENTO": {
+    "key": "CALCAS_DE_CRESCIMENTO",
+    "displayName": "Calças de Crescimento",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "sellPrice": 13440.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 5
+    },
+    "baseAttributes": {
+      "DEFENSE": 50,
+      "MAX_HEALTH": 100
+    }
+  },
+  "BOTAS_DE_CRESCIMENTO": {
+    "key": "BOTAS_DE_CRESCIMENTO",
+    "displayName": "Botas de Crescimento",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "sellPrice": 7660.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 5
+    },
+    "baseAttributes": {
+      "DEFENSE": 25,
+      "MAX_HEALTH": 50
+    }
+  },
+  "CAPACETE_DE_TRIGO": {
+    "key": "CAPACETE_DE_TRIGO",
+    "displayName": "Capacete da Fazenda",
+    "rarity": "COMMON",
+    "category": "HELMET",
+    "sellPrice": 48.0,
+    "baseAttributes": {
+      "DEFENSE": 30
+    }
+  },
+  "PEITORAL_DE_TRIGO": {
+    "key": "PEITORAL_DE_TRIGO",
+    "displayName": "Peitoral da Fazenda",
+    "rarity": "COMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 96.0,
+    "baseAttributes": {
+      "DEFENSE": 15
+    }
+  },
+  "CALCAS_DE_TRIGO": {
+    "key": "CALCAS_DE_TRIGO",
+    "displayName": "Calças da Fazenda",
+    "rarity": "COMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 84.0,
+    "baseAttributes": {
+      "DEFENSE": 25
+    }
+  },
+  "BOTAS_DE_TRIGO": {
+    "key": "BOTAS_DE_TRIGO",
+    "displayName": "Botas da Fazenda",
+    "rarity": "COMMON",
+    "category": "BOOTS",
+    "sellPrice": 48.0,
+    "baseAttributes": {
+      "DEFENSE": 5
+    }
+  },
+  "CAPACETE_DE_FERRO": {
+    "key": "CAPACETE_DE_FERRO",
+    "displayName": "Capacete de Ferro",
+    "rarity": "COMMON",
+    "category": "HELMET",
+    "sellPrice": 40.0,
+    "baseAttributes": {
+      "DEFENSE": 25
+    }
+  },
+  "PEITORAL_DE_FERRO": {
+    "key": "PEITORAL_DE_FERRO",
+    "displayName": "Peitoral de Ferro",
+    "rarity": "COMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 54.0,
+    "baseAttributes": {
+      "DEFENSE": 35
+    }
+  },
+  "CALCAS_DE_FERRO": {
+    "key": "CALCAS_DE_FERRO",
+    "displayName": "Calças de Ferro",
+    "rarity": "COMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 56.0,
+    "baseAttributes": {
+      "DEFENSE": 30
+    }
+  },
+  "BOTAS_DE_FERRO": {
+    "key": "BOTAS_DE_FERRO",
+    "displayName": "Botas de Ferro",
+    "rarity": "COMMON",
+    "category": "BOOTS",
+    "sellPrice": 32.0,
+    "baseAttributes": {
+      "DEFENSE": 20
+    }
+  },
+  "CAPACETE_DE_OURO": {
+    "key": "CAPACETE_DE_OURO",
+    "displayName": "Capacete de Ouro",
+    "rarity": "COMMON",
+    "category": "HELMET",
+    "sellPrice": 40.0,
+    "baseAttributes": {
+      "DEFENSE": 30
+    }
+  },
+  "PEITORAL_DE_OURO": {
+    "key": "PEITORAL_DE_OURO",
+    "displayName": "Peitoral de Ouro",
+    "rarity": "COMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 54.0,
+    "baseAttributes": {
+      "DEFENSE": 40
+    }
+  },
+  "CALCAS_DE_OURO": {
+    "key": "CALCAS_DE_OURO",
+    "displayName": "Calças de Ouro",
+    "rarity": "COMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 56.0,
+    "baseAttributes": {
+      "DEFENSE": 35
+    }
+  },
+  "BOTAS_DE_OURO": {
+    "key": "BOTAS_DE_OURO",
+    "displayName": "Botas de Ouro",
+    "rarity": "COMMON",
+    "category": "BOOTS",
+    "sellPrice": 32.0,
+    "baseAttributes": {
+      "DEFENSE": 25
+    }
+  },
+  "CAPACETE_DE_DIAMANTE": {
+    "key": "CAPACETE_DE_DIAMANTE",
+    "displayName": "Capacete de Diamante",
+    "rarity": "COMMON",
+    "category": "HELMET",
+    "sellPrice": 40.0,
+    "baseAttributes": {
+      "DEFENSE": 35
+    }
+  },
+  "PEITORAL_DE_DIAMANTE": {
+    "key": "PEITORAL_DE_DIAMANTE",
+    "displayName": "Peitoral de Diamante",
+    "rarity": "COMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 54.0,
+    "baseAttributes": {
+      "DEFENSE": 45
+    }
+  },
+  "CALCAS_DE_DIAMANTE": {
+    "key": "CALCAS_DE_DIAMANTE",
+    "displayName": "Calças de Diamante",
+    "rarity": "COMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 56.0,
+    "baseAttributes": {
+      "DEFENSE": 40
+    }
+  },
+  "BOTAS_DE_DIAMANTE": {
+    "key": "BOTAS_DE_DIAMANTE",
+    "displayName": "Botas de Diamante",
+    "rarity": "COMMON",
+    "category": "BOOTS",
+    "sellPrice": 32.0,
+    "baseAttributes": {
+      "DEFENSE": 30
+    }
+  },
+  "CAPACETE_DE_COURO": {
+    "key": "CAPACETE_DE_COURO",
+    "displayName": "Capacete de Couro",
+    "rarity": "COMMON",
+    "category": "HELMET",
+    "sellPrice": 5.0,
+    "baseAttributes": {
+      "DEFENSE": 5
+    }
+  },
+  "PEITORAL_DE_COURO": {
+    "key": "PEITORAL_DE_COURO",
+    "displayName": "Peitoral de Couro",
+    "rarity": "COMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 8.0,
+    "baseAttributes": {
+      "DEFENSE": 10
+    }
+  },
+  "CALCAS_DE_COURO": {
+    "key": "CALCAS_DE_COURO",
+    "displayName": "Calças de Couro",
+    "rarity": "COMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 7.0,
+    "baseAttributes": {
+      "DEFENSE": 5
+    }
+  },
+  "BOTAS_DE_COURO": {
+    "key": "BOTAS_DE_COURO",
+    "displayName": "Botas de Couro",
+    "rarity": "COMMON",
+    "category": "BOOTS",
+    "sellPrice": 6.0,
+    "baseAttributes": {
+      "DEFENSE": 5
+    }
+  },
+  "CAPACETE_DE_MALHA": {
+    "key": "CAPACETE_DE_MALHA",
+    "displayName": "Capacete de Malha",
+    "rarity": "COMMON",
+    "category": "HELMET",
+    "sellPrice": 30.0,
+    "baseAttributes": {
+      "DEFENSE": 15
+    }
+  },
+  "PEITORAL_DE_MALHA": {
+    "key": "PEITORAL_DE_MALHA",
+    "displayName": "Peitoral de Malha",
+    "rarity": "COMMON",
+    "category": "CHESTPLATE",
+    "sellPrice": 56.0,
+    "baseAttributes": {
+      "DEFENSE": 20
+    }
+  },
+  "CALCAS_DE_MALHA": {
+    "key": "CALCAS_DE_MALHA",
+    "displayName": "Calças de Malha",
+    "rarity": "COMMON",
+    "category": "LEGGINGS",
+    "sellPrice": 42.0,
+    "baseAttributes": {
+      "DEFENSE": 15
+    }
+  },
+  "BOTAS_DE_MALHA": {
+    "key": "BOTAS_DE_MALHA",
+    "displayName": "Botas de Malha",
+    "rarity": "COMMON",
+    "category": "BOOTS",
+    "sellPrice": 24.0,
+    "baseAttributes": {
+      "DEFENSE": 15
+    }
+  },
+  "CAPACETE_DE_BISCOITO": {
+    "key": "CAPACETE_DE_BISCOITO",
+    "displayName": "Capacete de Biscoito",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "sellPrice": 25600.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 55,
+      "MAX_HEALTH": 40,
+      "SPEED": 5
+    }
+  },
+  "PEITORAL_DE_BISCOITO": {
+    "key": "PEITORAL_DE_BISCOITO",
+    "displayName": "Peitoral de Biscoito",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 40960.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "description": [
+      "§7Cacau Coletado: §8(§a0§7/§c25.000§8)",
+      "§7Bônus de Defesa: §a0",
+      "§7Bônus de Velocidade: §a0",
+      ""
+    ],
+    "baseAttributes": {
+      "DEFENSE": 65,
+      "MAX_HEALTH": 50,
+      "SPEED": 5
+    }
+  },
+  "CALCAS_DE_BISCOITO": {
+    "key": "CALCAS_DE_BISCOITO",
+    "displayName": "Calças de Biscoito",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 35840.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 60,
+      "MAX_HEALTH": 45,
+      "SPEED": 5
+    }
+  },
+  "BOTAS_DE_BISCOITO": {
+    "key": "BOTAS_DE_BISCOITO",
+    "displayName": "Botas de Biscoito",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 20480.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 50,
+      "MAX_HEALTH": 35,
+      "SPEED": 5
+    }
+  },
+  "CAPACETE_DO_TROVAO": {
+    "key": "CAPACETE_DO_TROVAO",
+    "displayName": "Capacete do Velocista",
+    "rarity": "LEGENDARY",
+    "category": "HELMET",
+    "sellPrice": 256000.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "BONUS_ATTACK_SPEED": 15,
+      "SPEED": 40
+    }
+  },
+  "PEITORAL_DO_TROVAO": {
+    "key": "PEITORAL_DO_TROVAO",
+    "displayName": "Peitoral do Velocista",
+    "rarity": "LEGENDARY",
+    "category": "CHESTPLATE",
+    "sellPrice": 409000.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "DEFENSE": 140,
+      "BONUS_ATTACK_SPEED": 15,
+      "SPEED": 40
+    }
+  },
+  "CALCAS_DO_TROVAO": {
+    "key": "CALCAS_DO_TROVAO",
+    "displayName": "Calças do Velocista",
+    "rarity": "LEGENDARY",
+    "category": "LEGGINGS",
+    "sellPrice": 358400.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "DEFENSE": 115,
+      "BONUS_ATTACK_SPEED": 15,
+      "SPEED": 40
+    }
+  },
+  "BOTAS_DO_TROVAO": {
+    "key": "BOTAS_DO_TROVAO",
+    "displayName": "Botas do Velocista",
+    "rarity": "LEGENDARY",
+    "category": "BOOTS",
+    "sellPrice": 204800.0,
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 20
+    },
+    "baseAttributes": {
+      "DEFENSE": 85,
+      "BONUS_ATTACK_SPEED": 15,
+      "SPEED": 40
+    }
+  },
+  "CAPACETE_DE_TUBERCULO": {
+    "key": "CAPACETE_DE_TUBERCULO",
+    "displayName": "Capacete de Tubérculo",
+    "rarity": "UNCOMMON",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 7
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 5,
+      "MAX_HEALTH": 25
+    }
+  },
+  "PEITORAL_DE_TUBERCULO": {
+    "key": "PEITORAL_DE_TUBERCULO",
+    "displayName": "Peitoral de Tubérculo",
+    "rarity": "UNCOMMON",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 7
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 5,
+      "MAX_HEALTH": 45
+    }
+  },
+  "CALCAS_DE_TUBERCULO": {
+    "key": "CALCAS_DE_TUBERCULO",
+    "displayName": "Calças de Tubérculo",
+    "rarity": "UNCOMMON",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 7
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 5,
+      "MAX_HEALTH": 35
+    }
+  },
+  "BOTAS_DE_TUBERCULO": {
+    "key": "BOTAS_DE_TUBERCULO",
+    "displayName": "Botas de Tubérculo",
+    "rarity": "UNCOMMON",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "FARMING_SKILL",
+      "level": 7
+    },
+    "baseAttributes": {
+      "FARMING_FORTUNE": 5,
+      "MAX_HEALTH": 20
+    }
+  },
+  "CAPACETE_DE_TUBARAO": {
+    "key": "CAPACETE_DE_TUBARAO",
+    "displayName": "Capacete de Tubarão",
+    "rarity": "EPIC",
+    "category": "HELMET",
+    "skillRequirement": {
+      "type": "FISHING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 110,
+      "MAX_HEALTH": 70,
+      "FISHING_FORTUNE": 10,
+      "CRIT_DAMAGE": 10,
+      "FISHING_SPEED": 15
+    }
+  },
+  "PEITORAL_DE_TUBARAO": {
+    "key": "PEITORAL_DE_TUBARAO",
+    "displayName": "Peitoral de Tubarão",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "FISHING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 160,
+      "MAX_HEALTH": 120,
+      "FISHING_FORTUNE": 10,
+      "CRIT_DAMAGE": 10,
+      "FISHING_SPEED": 15
+    }
+  },
+  "CALCAS_DE_TUBARAO": {
+    "key": "CALCAS_DE_TUBARAO",
+    "displayName": "Calças de Tubarão",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "skillRequirement": {
+      "type": "FISHING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 120,
+      "MAX_HEALTH": 100,
+      "FISHING_FORTUNE": 10,
+      "CRIT_DAMAGE": 10,
+      "FISHING_SPEED": 15
+    }
+  },
+  "BOTAS_DE_TUBARAO": {
+    "key": "BOTAS_DE_TUBARAO",
+    "displayName": "Botas de Tubarão",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "skillRequirement": {
+      "type": "FISHING_SKILL",
+      "level": 15
+    },
+    "baseAttributes": {
+      "DEFENSE": 90,
+      "MAX_HEALTH": 60,
+      "FISHING_FORTUNE": 10,
+      "CRIT_DAMAGE": 10,
+      "FISHING_SPEED": 15
+    }
+  },
+  "PEITORAL_DE_ZUMBI": {
+    "key": "PEITORAL_DE_ZUMBI",
+    "displayName": "Peitoral de Zumbi",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "sellPrice": 164280.0,
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 40,
+      "MAX_HEALTH": 200
+    }
+  },
+  "CALCAS_DE_ZUMBI": {
+    "key": "CALCAS_DE_ZUMBI",
+    "displayName": "Calças de Zumbi",
+    "rarity": "EPIC",
+    "category": "LEGGINGS",
+    "sellPrice": 123040.0,
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 30,
+      "MAX_HEALTH": 160
+    }
+  },
+  "BOTAS_DE_ZUMBI": {
+    "key": "BOTAS_DE_ZUMBI",
+    "displayName": "Botas de Zumbi",
+    "rarity": "EPIC",
+    "category": "BOOTS",
+    "sellPrice": 82480.0,
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 25,
+      "MAX_HEALTH": 120
+    }
+  },
+  "CHAPEU_DE_SLIME": {
+    "key": "CHAPEU_DE_SLIME",
+    "displayName": "Chapéu de Slime",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 320.0,
+    "description": [
+      "§7Garante imunidade contra",
+      "§7repulsão de monstros.",
+      ""
+    ],
+    "baseAttributes": {
+      "MAX_HEALTH": 50
+    }
+  },
+  "CHAPEU_DE_ZUMBI": {
+    "key": "CHAPEU_DE_ZUMBI",
+    "displayName": "Chapéu de Zumbi",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 16.0,
+    "baseAttributes": {
+      "DEFENSE": 10,
+      "MAX_HEALTH": 15
+    }
+  },
+  "CHAPEU_DE_ESQUELETO": {
+    "key": "CHAPEU_DE_ESQUELETO",
+    "displayName": "Chapéu de Esqueleto",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 360.0,
+    "baseAttributes": {
+      "MAX_INTELLIGENCE": 10,
+      "SPEED": 2
+    }
+  },
+  "CHAPEU_DE_BLAZE": {
+    "key": "CHAPEU_DE_BLAZE",
+    "displayName": "Chapéu de Blaze",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 48.0,
+    "baseAttributes": {
+      "STRENGTH": 20
+    }
+  },
+  "CHAPEU_DE_GHAST": {
+    "key": "CHAPEU_DE_GHAST",
+    "displayName": "Chapéu de Ghast",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 780.0,
+    "baseAttributes": {
+      "MAX_HEALTH": 100
+    }
+  },
+  "CHAPEU_DE_CREEPER": {
+    "key": "CHAPEU_DE_CREEPER",
+    "displayName": "Chapéu de Creeper",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 48.0,
+    "baseAttributes": {
+      "DEFENSE": 5,
+      "MAX_HEALTH": 5,
+      "CRIT_CHANCE": 5,
+      "MAX_INTELLIGENCE": 5,
+      "CRIT_DAMAGE": 5,
+      "STRENGTH": 5
+    }
+  },
+  "CHAPEU_DE_CUBO_DE_MAGMA": {
+    "key": "CHAPEU_DE_CUBO_DE_MAGMA",
+    "displayName": "Chapéu de Cubo de Magma",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 640.0,
+    "baseAttributes": {
+      "MAX_HEALTH": 20
+    }
+  },
+  "CHAPEU_DE_ARANHA": {
+    "key": "CHAPEU_DE_ARANHA",
+    "displayName": "Chapéu de Aranha",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 200.0,
+    "baseAttributes": {
+      "CRIT_CHANCE": 25
+    }
+  },
+  "CHAPEU_DE_VACA": {
+    "key": "CHAPEU_DE_VACA",
+    "displayName": "Chapéu de Vaca",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 200.0,
+    "baseAttributes": {
+      "DEFENSE": 5,
+      "MAX_HEALTH": 10
+    }
+  },
+  "CHAPEU_DE_GALINHA": {
+    "key": "CHAPEU_DE_GALINHA",
+    "displayName": "Chapéu de Galinha",
+    "rarity": "COMMON",
+    "category": "HAT",
+    "sellPrice": 200.0,
+    "baseAttributes": {
+      "MAX_HEALTH": 20
+    }
+  },
+  "CORACAO_DE_ZOMBIE": {
+    "key": "CORACAO_DE_ZOMBIE",
+    "displayName": "Coração de Zumbi",
+    "rarity": "RARE",
+    "category": "HAT",
+    "sellPrice": 41920.0,
+    "baseAttributes": {
+      "MAX_HEALTH": 50
+    }
+  },
+  "PAINEL_DO_DIA": {
+    "key": "PAINEL_DO_DIA",
+    "displayName": "Painel do Dia",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 50.0,
+    "description": [
+      "§7Quando colocado em sua ilha,",
+      "§7será sempre dia.",
+      ""
+    ]
+  },
+  "PAINEL_DA_NOITE": {
+    "key": "PAINEL_DA_NOITE",
+    "displayName": "Painel da Noite",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 50.0,
+    "description": [
+      "§7Quando colocado em sua ilha,",
+      "§7será sempre noite.",
+      ""
+    ]
+  },
+  "PAINEL_DO_ALVORECER": {
+    "key": "PAINEL_DO_ALVORECER",
+    "displayName": "Painel do Alvorecer",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 50.0,
+    "description": [
+      "§7Quando colocado em sua ilha,",
+      "§7será sempre alvorecer.",
+      ""
+    ]
+  },
+  "POTE_DE_EXPERIENCIA": {
+    "key": "POTE_DE_EXPERIENCIA",
+    "displayName": "Pote de Experiência",
+    "rarity": "UNCOMMON",
+    "category": "OTHER"
+  },
+  "SKIN_PARA_MASCOTE": {
+    "key": "SKIN_PARA_MASCOTE",
+    "displayName": "Skin para Mascote |",
+    "rarity": "SPECIAL",
+    "category": "OTHER"
+  },
+  "FARINHA_DE_OSSO_ENCANTADA": {
+    "key": "FARINHA_DE_OSSO_ENCANTADA",
+    "displayName": "Farinha de Osso Encantada",
+    "rarity": "COMMON",
+    "category": "OTHER",
+    "sellPrice": 64.0
+  },
+  "SOPA_MAGICA": {
+    "key": "SOPA_MAGICA",
+    "displayName": "Sopa Mágica",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 10.0,
+    "description": [
+      "§7Ao consumir esta sopa, você",
+      "§7poderá voar por §a2 §7minutos em",
+      "§7ilhas privadas. O efeito se perde",
+      "§7ao trocar de ilha.",
+      ""
+    ]
+  },
+  "TELEPAD": {
+    "key": "TELEPAD",
+    "displayName": "Teletransportador",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 8150.0,
+    "description": [
+      "§7Coloque este teletransportador",
+      "§7no chão para conseguir viajar",
+      "§7até outro colocado em sua ilha.",
+      "",
+      "§8Máximo de 12 por ilha.",
+      ""
+    ]
+  },
+  "CAIXA_DE_CORREIO": {
+    "key": "CAIXA_DE_CORREIO",
+    "displayName": "Caixa de Correio",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "BALDE_DE_MAGMA_ENCANTADO": {
+    "key": "BALDE_DE_MAGMA_ENCANTADO",
+    "displayName": "Balde de Magma Encantado",
+    "rarity": "LEGENDARY",
+    "category": "OTHER",
+    "sellPrice": 617760.0,
+    "description": [
+      "§7Aumenta a velocidade do minion",
+      "§7em §a35%§7.",
+      ""
+    ]
+  },
+  "BALDE_DE_LAVA_ENCANTADO": {
+    "key": "BALDE_DE_LAVA_ENCANTADO",
+    "displayName": "Balde de Lava Encantado",
+    "rarity": "EPIC",
+    "category": "OTHER",
+    "sellPrice": 60000.0,
+    "description": [
+      "§7Aumenta a velocidade do minion",
+      "§7em §a25%§7.",
+      ""
+    ]
+  },
+  "FRASCO_DE_EXPERIENCIA_GRANDE": {
+    "key": "FRASCO_DE_EXPERIENCIA_GRANDE",
+    "displayName": "Frasco de Experiência Grande",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 180.0
+  },
+  "FRASCO_DE_EXPERIENCIA_GIGANTE": {
+    "key": "FRASCO_DE_EXPERIENCIA_GIGANTE",
+    "displayName": "Frasco de Experiência Gigante",
+    "rarity": "EPIC",
+    "category": "OTHER",
+    "sellPrice": 76980.0
+  },
+  "FRASCO_DE_EXPERIENCIA": {
+    "key": "FRASCO_DE_EXPERIENCIA",
+    "displayName": "Frasco de Experiência",
+    "rarity": "COMMON",
+    "category": "OTHER",
+    "sellPrice": 3.0,
+    "description": [
+      "§7Quebre para receber experiência",
+      ""
+    ]
+  },
+  "PORQUINHO_QUEBRADO": {
+    "key": "PORQUINHO_QUEBRADO",
+    "displayName": "Porquinho Quebrado",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 15000.0,
+    "description": [
+      "§7O porquinho serve para salvar as",
+      "§7suas coins ao morrer. O seu porquinho",
+      "§7já se encontra quebrado.",
+      ""
+    ]
+  },
+  "PORQUINHO": {
+    "key": "PORQUINHO",
+    "displayName": "Porquinho",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 15000.0,
+    "description": [
+      "§7Salva todas suas coins quando",
+      "§7você morre. Irá funcionar apenas",
+      "§7se estiver em seu inventário.",
+      "§cMuito frágil!",
+      "",
+      "§8Funcionará quando você tiver",
+      "§8mais de 20 mil coins.",
+      ""
+    ]
+  },
+  "TALISMA_CASA_DE_PASSARINHO": {
+    "key": "TALISMA_CASA_DE_PASSARINHO",
+    "displayName": "Talismã Casa de Passarinho",
+    "rarity": "SPECIAL",
+    "category": "ACCESSORY",
+    "sellPrice": 500.0,
+    "description": [
+      "§7Aumenta §a+15 §f✦ Velocidade §7sempre que",
+      "§7você estiver em uma dessas áreas:",
+      "",
+      "§8§l⋅ §cCemitério",
+      "§8§l⋅ §cCovil das Aranhas",
+      ""
+    ]
+  },
+  "TALISMA_COMPACTADOR_PESSOAL_III": {
+    "key": "TALISMA_COMPACTADOR_PESSOAL_III",
+    "displayName": "Talismã Compactador Pessoal III",
+    "rarity": "EPIC",
+    "category": "ACCESSORY",
+    "sellPrice": 2790400.0,
+    "description": [
+      "§7Automaticamente transforma certos",
+      "§7itens em seu inventário em sua",
+      "§7forma encantada.",
+      "",
+      "§fEspaço: §a5 Itens",
+      "§fIntervalo: §33s",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã Compactador Pessoal I",
+      "§8§l⋅ §fTalismã Compactador Pessoal II",
+      ""
+    ]
+  },
+  "TALISMA_COMPACTADOR_PESSOAL_II": {
+    "key": "TALISMA_COMPACTADOR_PESSOAL_II",
+    "displayName": "Talismã Compactador Pessoal II",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 635520.0,
+    "description": [
+      "§7Automaticamente transforma certos",
+      "§7itens em seu inventário em sua",
+      "§7forma encantada.",
+      "",
+      "§fEspaço: §a3 Itens",
+      "§fIntervalo: §310s",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã Compactador Pessoal I",
+      "§8§l⋅ §fTalismã Compactador Pessoal III",
+      ""
+    ]
+  },
+  "TALISMA_COMPACTADOR_PESSOAL_I": {
+    "key": "TALISMA_COMPACTADOR_PESSOAL_I",
+    "displayName": "Talismã Compactador Pessoal I",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 158880.0,
+    "description": [
+      "§7Automaticamente transforma certos",
+      "§7itens em seu inventário em sua",
+      "§7forma encantada.",
+      "",
+      "§fEspaço: §a1 Item",
+      "§fIntervalo: §315s",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã Compactador Pessoal II",
+      "§8§l⋅ §fTalismã Compactador Pessoal III",
+      ""
+    ]
+  },
+  "TALISMA_AMPLIFICADOR_DE_POCOES_III": {
+    "key": "TALISMA_AMPLIFICADOR_DE_POCOES_III",
+    "displayName": "Talismã Amplificador de Poções III",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 6400.0,
+    "description": [
+      "§7Aumenta em §a50% §7a duração de",
+      "§7qualquer poção consumida.",
+      ""
+    ]
+  },
+  "TALISMA_AMPLIFICADOR_DE_POCOES_II": {
+    "key": "TALISMA_AMPLIFICADOR_DE_POCOES_II",
+    "displayName": "Talismã Amplificador de Poções II",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 856.0,
+    "description": [
+      "§7Aumenta em §a25% §7a duração de",
+      "§7qualquer poção consumida.",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã Amplificador de Poções III",
+      ""
+    ]
+  },
+  "TALISMA_AMPLIFICADOR_DE_POCOES_I": {
+    "key": "TALISMA_AMPLIFICADOR_DE_POCOES_I",
+    "displayName": "Talismã Amplificador de Poções I",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 432.0,
+    "description": [
+      "§7Aumenta em §a10% §7a duração de",
+      "§7qualquer poção consumida.",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã Amplificador de Poções II",
+      "§8§l⋅ §fTalismã Amplificador de Poções III",
+      ""
+    ]
+  },
+  "TALISMA_DA_EXPERIENCIA": {
+    "key": "TALISMA_DA_EXPERIENCIA",
+    "displayName": "Talismã da Experiência",
+    "rarity": "EPIC",
+    "category": "ACCESSORY",
+    "sellPrice": 223.0,
+    "description": [
+      "§7Aumenta em §a25% §7o ganho de",
+      "§7experiência para encantamentos.",
+      ""
+    ]
+  },
+  "TALISMA_DA_GANANCIA": {
+    "key": "TALISMA_DA_GANANCIA",
+    "displayName": "Talismã da Ganância",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 2500.0,
+    "description": [
+      "§7Ganhe bônus de coins ao matar monstros.",
+      "   "
+    ]
+  },
+  "TALISMA_PETRIFICADO": {
+    "key": "TALISMA_PETRIFICADO",
+    "displayName": "Talismã Petrificado",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "description": [
+      "§7Dá imunidade a dano",
+      "§7causados por efeito de §8Decomposição§7.",
+      ""
+    ]
+  },
+  "TALISMA_DO_CAMPONES": {
+    "key": "TALISMA_DO_CAMPONES",
+    "displayName": "Talismã do Camponês",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 20960.0,
+    "description": [
+      "§7Aumenta a taxa de crescimento das",
+      "§7plantações públicas, forçando um",
+      "§7crescimento extra a cada §a3 §7segundos.",
+      ""
+    ]
+  },
+  "TALISMA_DE_BRASA": {
+    "key": "TALISMA_DE_BRASA",
+    "displayName": "Talismã de Brasa",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 15000.0,
+    "description": [
+      "§7Aumenta o dano causado em monstros",
+      "§7do §cNether §7em 25%§7.",
+      ""
+    ]
+  },
+  "TALISMA_DA_GRAVIDADE": {
+    "key": "TALISMA_DA_GRAVIDADE",
+    "displayName": "Talismã da Gravidade",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 768.0,
+    "description": [
+      "§7Dá entre §a+1 §7e §a+10§7 mais força",
+      "§7e defesa quanto mais próximo do",
+      "§7centro de sua ilha você estiver.",
+      ""
+    ]
+  },
+  "TALISMA_DA_INTIMIDACAO": {
+    "key": "TALISMA_DA_INTIMIDACAO",
+    "displayName": "Talismã da Intimidação",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 2500.0,
+    "description": [
+      "§7Monstros de nível I deixam de",
+      "§7ser provocados por você.",
+      ""
+    ]
+  },
+  "TALISMA_DA_LEVEZA_III": {
+    "key": "TALISMA_DA_LEVEZA_III",
+    "displayName": "Talismã da Leveza III",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 17376.0,
+    "description": [
+      "§bEfeito único: Leveza",
+      "§7Aumenta em §a10.0 §7blocos o quão",
+      "§7alto você pode cair antes de",
+      "§7receber dano.",
+      ""
+    ]
+  },
+  "TALISMA_DA_LEVEZA_II": {
+    "key": "TALISMA_DA_LEVEZA_II",
+    "displayName": "Talismã da Leveza II",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 2032.0,
+    "description": [
+      "§bEfeito único: Leveza",
+      "§7Aumenta em §a7.0 §7blocos o quão",
+      "§7alto você pode cair antes de",
+      "§7receber dano.",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã da Leveza III",
+      ""
+    ]
+  },
+  "TALISMA_DA_LEVEZA_I": {
+    "key": "TALISMA_DA_LEVEZA_I",
+    "displayName": "Talismã da Leveza I",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 192.0,
+    "description": [
+      "§bEfeito único: Leveza",
+      "§7Aumenta em §a5.0 §7blocos o quão",
+      "§7alto você pode cair antes de",
+      "§7receber dano.",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã da Leveza II",
+      "§8§l⋅ §fTalismã da Leveza III",
+      ""
+    ]
+  },
+  "TALISMA_DA_MINA": {
+    "key": "TALISMA_DA_MINA",
+    "displayName": "Talismã da Mina",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 500.0,
+    "description": [
+      "§7Aumenta §a+10 §f✦ Velocidade §7sempre que",
+      "§7você estiver em uma dessas áreas:",
+      "",
+      "§8§l⋅ §bMina de Diamante",
+      "§8§l⋅ §aMina de Ouro",
+      "§8§l⋅ §aMina de Redstone",
+      "§8§l⋅ §cMina de Obsidiana",
+      "§8§l⋅ §aMina de Esmeralda",
+      "§8§l⋅ §aMina de Lápis",
+      "§8§l⋅ §aMina de Carvão",
+      ""
+    ]
+  },
+  "TALISMA_DA_NOITE": {
+    "key": "TALISMA_DA_NOITE",
+    "displayName": "Talismã da Noite",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 54960.0,
+    "description": [
+      "§7Aumenta em §a+5 §7a sua §c⚔ Força",
+      "§7e §a⚜ Defesa §7durante a noite.",
+      ""
+    ]
+  },
+  "TALISMA_DA_PRESSA": {
+    "key": "TALISMA_DA_PRESSA",
+    "displayName": "Talismã da Pressa",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 680.0,
+    "description": [
+      "§7Dá §a+5 §6⸕ Pressa §7enquanto",
+      "§7estiver sendo usado.",
+      "   "
+    ],
+    "baseAttributes": {
+      "HASTE": 10
+    }
+  },
+  "TALISMA_ENCAROCADO_III": {
+    "key": "TALISMA_ENCAROCADO_III",
+    "displayName": "Talismã Encaroçado III",
+    "rarity": "EPIC",
+    "category": "ACCESSORY",
+    "sellPrice": 192.0,
+    "description": [
+      "§7Aumenta em §a5.0% §7a sua porcentagem",
+      "§7de regeneração.",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã Encaroçado I",
+      "§8§l⋅ §fTalismã Encaroçado II",
+      ""
+    ]
+  },
+  "TALISMA_ENCAROCADO_II": {
+    "key": "TALISMA_ENCAROCADO_II",
+    "displayName": "Talismã Encaroçado II",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 192.0,
+    "description": [
+      "§7Aumenta em §a3.0% §7a sua porcentagem",
+      "§7de regeneração.",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã Encaroçado I",
+      "§8§l⋅ §fTalismã Encaroçado III",
+      ""
+    ]
+  },
+  "TALISMA_ENCAROCADO_I": {
+    "key": "TALISMA_ENCAROCADO_I",
+    "displayName": "Talismã Encaroçado I",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 192.0,
+    "description": [
+      "§7Aumenta em §a1.0% §7a sua porcentagem",
+      "§7de regeneração.",
+      "",
+      "§7Este talismã é incompatível com:",
+      "§8§l⋅ §fTalismã Encaroçado II",
+      "§8§l⋅ §fTalismã Encaroçado III",
+      ""
+    ]
+  },
+  "TALISMA_DA_VELOCIDADE": {
+    "key": "TALISMA_DA_VELOCIDADE",
+    "displayName": "Talismã da Velocidade",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 0.0,
+    "description": [
+      "§7Aumenta §a+2 §f✦ Velocidade §7enquanto",
+      "§7estiver sendo usado.",
+      ""
+    ]
+  },
+  "TALISMA_DE_ARANHA": {
+    "key": "TALISMA_DE_ARANHA",
+    "displayName": "Talismã de Aranha",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 200.0,
+    "description": [
+      "§7Reduz em §a5% §7o dano recebido",
+      "§7em Aranhas, Aranhas da Caverna e Traças.",
+      ""
+    ]
+  },
+  "TALISMA_DE_COINS": {
+    "key": "TALISMA_DE_COINS",
+    "displayName": "Talismã de Coins",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 38.0,
+    "description": [
+      "§7Coins irão ser adicionadas em",
+      "§7sua carteira de maneira aleatória",
+      "§7quando você estiver em áreas",
+      "§7públicas.",
+      ""
+    ]
+  },
+  "TALISMA_DE_RESISTENCIA_A_LAVA": {
+    "key": "TALISMA_DE_RESISTENCIA_A_LAVA",
+    "displayName": "Talismã de Resistência à Lava",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 200.0,
+    "description": [
+      "§7Dá imunidade a danos",
+      "§7causados por §6Lava§7.",
+      ""
+    ]
+  },
+  "TALISMA_DE_RESISTENCIA_AO_FOGO": {
+    "key": "TALISMA_DE_RESISTENCIA_AO_FOGO",
+    "displayName": "Talismã de Resistência ao Fogo",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 200.0,
+    "description": [
+      "§7Reduz em 20% danos",
+      "§7causados por §cFogo§7.",
+      ""
+    ]
+  },
+  "TALISMA_DE_VISAO_NOTURNA": {
+    "key": "TALISMA_DE_VISAO_NOTURNA",
+    "displayName": "Talismã de Visão Noturna",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 209.0,
+    "description": [
+      "§7Fornece visão §aNoturna I §7enquanto",
+      "§7estiver em seu inventário.",
+      ""
+    ]
+  },
+  "TALISMA_DO_ANTIDOTO": {
+    "key": "TALISMA_DO_ANTIDOTO",
+    "displayName": "Talismã do Antídoto",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 90.0,
+    "description": [
+      "§7Dá imunidade a dano",
+      "§7causados por efeito de §aVeneno§7.",
+      ""
+    ]
+  },
+  "TALISMA_DO_COELHO": {
+    "key": "TALISMA_DO_COELHO",
+    "displayName": "Talismã do Coelho",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 1000.0,
+    "description": [
+      "§7Dá §a+16 §f✦ Velocidade §7enquanto",
+      "§7estiver sendo usado.",
+      ""
+    ]
+  },
+  "TALISMA_DO_DIA": {
+    "key": "TALISMA_DO_DIA",
+    "displayName": "Talismã do Dia",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 54960.0,
+    "description": [
+      "§7Aumenta em §a+5 §7a sua §c⚔ Força",
+      "§7e §a⚜ Defesa §7durante o dia.",
+      ""
+    ]
+  },
+  "TALISMA_DO_ESQUELETO": {
+    "key": "TALISMA_DO_ESQUELETO",
+    "displayName": "Talismã do Esqueleto",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 100.0,
+    "description": [
+      "§7Reduz em §a5% §7o dano recebido",
+      "§7de Esqueletos.",
+      ""
+    ]
+  },
+  "TALISMA_DO_FAZENDEIRO": {
+    "key": "TALISMA_DO_FAZENDEIRO",
+    "displayName": "Talismã do Fazendeiro",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 0.0,
+    "description": [
+      "§7Aumenta §a+10 §f✦ Velocidade §7sempre que",
+      "§7você estiver em uma dessas áreas:",
+      "",
+      "§8§l⋅ §aFazenda",
+      "§8§l⋅ §aRancho",
+      "§8§l⋅ §aCânion",
+      ""
+    ]
+  },
+  "TALISMA_DO_LENHADOR": {
+    "key": "TALISMA_DO_LENHADOR",
+    "displayName": "Talismã do Lenhador",
+    "rarity": "UNCOMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 168.0,
+    "description": [
+      "§7Aumenta §a+10 §f✦ Velocidade §7sempre que",
+      "§7você estiver em uma dessas áreas:",
+      "",
+      "§8§l⋅ §cCemitério",
+      "§8§l⋅ §aFloresta",
+      ""
+    ]
+  },
+  "TALISMA_DO_SPAWN": {
+    "key": "TALISMA_DO_SPAWN",
+    "displayName": "Talismã do Spawn",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 500.0,
+    "description": [
+      "§7Aumenta §a+10 §f✦ Velocidade §7sempre que",
+      "§7você estiver em uma dessas áreas:",
+      "",
+      "§8§l⋅ §aVilarejo",
+      ""
+    ]
+  },
+  "TALISMA_DO_ZUMBI": {
+    "key": "TALISMA_DO_ZUMBI",
+    "displayName": "Talismã do Zumbi",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 100.0,
+    "description": [
+      "§7Reduz em §a5% §7o dano recebido",
+      "§7de Zumbis.",
+      ""
+    ]
+  },
+  "TALISMA_ENERGETICO": {
+    "key": "TALISMA_ENERGETICO",
+    "displayName": "Talismã Energético",
+    "rarity": "RARE",
+    "category": "ACCESSORY",
+    "sellPrice": 15000.0,
+    "description": [
+      "§7Dá §a+20 §f✦ Velocidade §7enquanto",
+      "§7estiver sendo usado",
+      "§7em ilhas públicas.",
+      ""
+    ]
+  },
+  "TALISMA_MAGNETISMO": {
+    "key": "TALISMA_MAGNETISMO",
+    "displayName": "Talismã Magnético",
+    "rarity": "COMMON",
+    "category": "ACCESSORY",
+    "sellPrice": 384.0,
+    "description": [
+      "§7Aumenta em §a3.0x §7o seu alcance",
+      "§7para coletar itens do chão.",
+      ""
+    ]
+  },
+  "COLAR_DO_LORDE_DO_NETHER": {
+    "key": "COLAR_DO_LORDE_DO_NETHER",
+    "displayName": "Colar do Lorde do Nether",
+    "rarity": "EPIC",
+    "category": "NECKLACE",
+    "sellPrice": 35000.0,
+    "description": [
+      "§7Monstros de nível XX ou inferior",
+      "§7deixam de ser provocados por você.",
+      "",
+      "§7Caso haja todos os §a4 §7acessórios",
+      "§7do §cLorde do Nether§7, os atributos",
+      "§7base deles serão duplicados.",
+      ""
+    ],
+    "baseAttributes": {
+      "CRIT_DAMAGE": 5,
+      "STRENGTH": 10
+    }
+  },
+  "MANTO_DO_LORDE_DO_NETHER": {
+    "key": "MANTO_DO_LORDE_DO_NETHER",
+    "displayName": "Manto do Lorde do Nether",
+    "rarity": "EPIC",
+    "category": "CLOAK",
+    "sellPrice": 35000.0,
+    "description": [
+      "§7Garante 50% de redução contra",
+      "§7repulsão de monstros.",
+      "",
+      "§7Caso haja todos os §a4 §7acessórios",
+      "§7do §cLorde do Nether§7, os atributos",
+      "§7base deles serão duplicados.",
+      ""
+    ],
+    "baseAttributes": {
+      "CRIT_DAMAGE": 5,
+      "STRENGTH": 10
+    }
+  },
+  "CINTURAO_DO_LORDE_DO_NETHER": {
+    "key": "CINTURAO_DO_LORDE_DO_NETHER",
+    "displayName": "Cinturão do Lorde do Nether",
+    "rarity": "EPIC",
+    "category": "BELT",
+    "sellPrice": 35000.0,
+    "description": [
+      "§7Concede imunidade a danos",
+      "§7causados por §cFogo§7.",
+      "",
+      "§7Caso haja todos os §a4 §7acessórios",
+      "§7do §cLorde do Nether§7, os atributos",
+      "§7base deles serão duplicados.",
+      ""
+    ],
+    "baseAttributes": {
+      "CRIT_DAMAGE": 5,
+      "STRENGTH": 10
+    }
+  },
+  "BRACELETE_DO_LORDE_DO_NETHER": {
+    "key": "BRACELETE_DO_LORDE_DO_NETHER",
+    "displayName": "Bracelete do Lorde do Nether",
+    "rarity": "EPIC",
+    "category": "BRACELET",
+    "sellPrice": 35000.0,
+    "description": [
+      "§7Concede 5% de chance a cada hit",
+      "§7de obter §a+150 §c⚔ Força §7durante",
+      "§75 segundos",
+      "",
+      "§7Caso haja todos os §a4 §7acessórios",
+      "§7do §cLorde do Nether§7, os atributos",
+      "§7base deles serão duplicados.",
+      ""
+    ],
+    "baseAttributes": {
+      "CRIT_DAMAGE": 5,
+      "STRENGTH": 10
+    }
+  },
+  "SUPER_COMPACTADOR": {
+    "key": "SUPER_COMPACTADOR",
+    "displayName": "Super Compactador",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 70000.0,
+    "description": [
+      "§7Transformará automaticamente os",
+      "§7materiais produzidos por seu minion",
+      "§7em encantados quando houver recursos",
+      "§7suficientes para isso no minion.",
+      ""
+    ]
+  },
+  "COMPACTADOR": {
+    "key": "COMPACTADOR",
+    "displayName": "Compactador",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 600.0,
+    "description": [
+      "§7Este item vai transformar em blocos",
+      "§7os materiais produzidos pelo",
+      "§7minion automaticamente.",
+      ""
+    ]
+  },
+  "FORNALHA_DE_FUNDICAO": {
+    "key": "FORNALHA_DE_FUNDICAO",
+    "displayName": "Fornalha de Fundição",
+    "rarity": "COMMON",
+    "category": "OTHER",
+    "sellPrice": 576.0,
+    "description": [
+      "§7Este item irá derreter automáticamente",
+      "§7os minérios coletados por um minion.",
+      ""
+    ]
+  },
+  "PENA_MAGNETICA": {
+    "key": "PENA_MAGNETICA",
+    "displayName": "Pena Magnética",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 192.0,
+    "description": [
+      "§7Pode ser usado como um upgrade",
+      "§7do minion para que ele sempre",
+      "§7consiga penas.",
+      ""
+    ]
+  },
+  "EXPANSOR_DE_MINIONS": {
+    "key": "EXPANSOR_DE_MINIONS",
+    "displayName": "Expansor de Minions",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 5000.0,
+    "description": [
+      "§7Aumenta o raio de atividade",
+      "§7do minion em §a1 §7bloco. Também",
+      "§7reduz seu intervalo em §a5%§7.",
+      ""
+    ]
+  },
+  "VENDEDOR_AUTOMATICO_EFICIENTE": {
+    "key": "VENDEDOR_AUTOMATICO_EFICIENTE",
+    "displayName": "Vendedor Automático Eficiente",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 320000.0,
+    "description": [
+      "§7Venderá automaticamente os itens",
+      "§7produzidos pelo minion quando seu",
+      "§7inventário estiver cheio por §a75%",
+      "§7o valor padrão dos itens.",
+      ""
+    ]
+  },
+  "VENDEDOR_AUTOMATICO": {
+    "key": "VENDEDOR_AUTOMATICO",
+    "displayName": "Vendedor Automático",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 2000.0,
+    "description": [
+      "§7Venderá automaticamente os itens",
+      "§7produzidos pelo minion quando seu",
+      "§7inventário estiver cheio por §a50%",
+      "§7o valor padrão dos itens.",
+      ""
+    ]
+  },
+  "ILHA_CASARAO": {
+    "key": "ILHA_CASARAO",
+    "displayName": "Ilha Casarão",
+    "rarity": "SPECIAL",
+    "category": "OTHER"
+  },
+  "ILHA_ENCANTADA": {
+    "key": "ILHA_ENCANTADA",
+    "displayName": "Ilha Encantada",
+    "rarity": "SPECIAL",
+    "category": "OTHER"
+  },
+  "ILHA_ARMAZEM": {
+    "key": "ILHA_ARMAZEM",
+    "displayName": "Ilha Armazém",
+    "rarity": "SPECIAL",
+    "category": "OTHER"
+  },
+  "ILHA_MINI_JARDIM": {
+    "key": "ILHA_MINI_JARDIM",
+    "displayName": "Ilha Mini Jardim",
+    "rarity": "UNCOMMON",
+    "category": "OTHER"
+  },
+  "ILHA_ZUMBI": {
+    "key": "ILHA_ZUMBI",
+    "displayName": "Ilha Zumbi",
+    "rarity": "SPECIAL",
+    "category": "OTHER"
+  },
+  "PORTAL_COVIL_DAS_ARANHAS": {
+    "key": "PORTAL_COVIL_DAS_ARANHAS",
+    "displayName": "Portal para Covil das Aranhas",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_NETHER": {
+    "key": "PORTAL_NETHER",
+    "displayName": "Portal para Nether",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_O_FIM": {
+    "key": "PORTAL_O_FIM",
+    "displayName": "Portal para O Fim",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_FAZENDA": {
+    "key": "PORTAL_FAZENDA",
+    "displayName": "Portal para Fazenda",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_CANION": {
+    "key": "PORTAL_CANION",
+    "displayName": "Portal para Cânion",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_CAMINHO_DOS_EUCALIPTOS": {
+    "key": "PORTAL_CAMINHO_DOS_EUCALIPTOS",
+    "displayName": "Portal para Caminho dos Eucaliptos",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_FLORESTA_ESCURA": {
+    "key": "PORTAL_FLORESTA_ESCURA",
+    "displayName": "Portal para Floresta Escura",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_GRANDE_MINA": {
+    "key": "PORTAL_GRANDE_MINA",
+    "displayName": "Portal para Grande Mina",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_TAIGA": {
+    "key": "PORTAL_TAIGA",
+    "displayName": "Portal para Taiga",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_SAVANA": {
+    "key": "PORTAL_SAVANA",
+    "displayName": "Portal para Savana",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_SELVA": {
+    "key": "PORTAL_SELVA",
+    "displayName": "Portal para Selva",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "PORTAL_VILAREJO": {
+    "key": "PORTAL_VILAREJO",
+    "displayName": "Portal para Vilarejo",
+    "rarity": "COMMON",
+    "category": "OTHER"
+  },
+  "LIVRO_DE_CRITICO": {
+    "key": "LIVRO_DE_CRITICO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_TOQUE_SUAVE": {
+    "key": "LIVRO_DE_TOQUE_SUAVE",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PROTECAO_CONTRA_FOGO": {
+    "key": "LIVRO_DE_PROTECAO_CONTRA_FOGO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PROTECAO_CONTRA_PROJETEIS": {
+    "key": "LIVRO_DE_PROTECAO_CONTRA_PROJETEIS",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PROTECAO_CONTRA_EXPLOSOES": {
+    "key": "LIVRO_DE_PROTECAO_CONTRA_EXPLOSOES",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PROTECAO": {
+    "key": "LIVRO_DE_PROTECAO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_GARIMPO": {
+    "key": "LIVRO_DE_GARIMPO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_BROTO": {
+    "key": "LIVRO_DE_BROTO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_ENTALHE": {
+    "key": "LIVRO_DE_ENTALHE",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_SERRAGEM": {
+    "key": "LIVRO_DE_SERRAGEM",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_CHAMAS": {
+    "key": "LIVRO_DE_CHAMAS",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_EXECUCAO": {
+    "key": "LIVRO_DE_EXECUCAO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_ASPECTO_FLAMEJANTE": {
+    "key": "LIVRO_DE_ASPECTO_FLAMEJANTE",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_MATADOR_DE_GIGANTES": {
+    "key": "LIVRO_DE_MATADOR_DE_GIGANTES",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_SEDE_DE_SANGUE": {
+    "key": "LIVRO_DE_SEDE_DE_SANGUE",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_CRESCIMENTO": {
+    "key": "LIVRO_DE_CRESCIMENTO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_REPLANTAR": {
+    "key": "LIVRO_DE_REPLANTAR",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_REPULSAO": {
+    "key": "LIVRO_DE_REPULSAO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_AFIACAO": {
+    "key": "LIVRO_DE_AFIACAO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_ESPINHOS": {
+    "key": "LIVRO_DE_ESPINHOS",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PESO_PENA": {
+    "key": "LIVRO_DE_PESO_PENA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_SORTE": {
+    "key": "LIVRO_DE_SORTE",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PILHAGEM": {
+    "key": "LIVRO_DE_PILHAGEM",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_CUBISMO": {
+    "key": "LIVRO_DE_CUBISMO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PONTARIA": {
+    "key": "LIVRO_DE_PONTARIA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_JULGAMENTO": {
+    "key": "LIVRO_DE_JULGAMENTO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_FORCA": {
+    "key": "LIVRO_DE_FORCA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_SOBRECARGA": {
+    "key": "LIVRO_DE_SOBRECARGA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_VAMPIRISMO": {
+    "key": "LIVRO_DE_VAMPIRISMO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_ATIRADOR": {
+    "key": "LIVRO_DE_ATIRADOR",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_ESPERTEZA": {
+    "key": "LIVRO_DE_ESPERTEZA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_RUINA_DE_ARTROPODES": {
+    "key": "LIVRO_DE_RUINA_DE_ARTROPODES",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_VENENO": {
+    "key": "LIVRO_DE_VENENO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_GANANCIA": {
+    "key": "LIVRO_DE_GANANCIA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_FORTUNA": {
+    "key": "LIVRO_DE_FORTUNA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_GUERREIRO_DO_FIM": {
+    "key": "LIVRO_DE_GUERREIRO_DO_FIM",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_AUTODERRETIMENTO": {
+    "key": "LIVRO_DE_AUTODERRETIMENTO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_DANO_EM_AREA": {
+    "key": "LIVRO_DE_DANO_EM_AREA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_COLHEITA": {
+    "key": "LIVRO_DE_COLHEITA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PENETRACAO": {
+    "key": "LIVRO_DE_PENETRACAO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_MAGNETISMO": {
+    "key": "LIVRO_DE_MAGNETISMO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_ACUCARADO": {
+    "key": "LIVRO_DE_ACUCARADO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_TURBILHAO": {
+    "key": "LIVRO_DE_TURBILHAO",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_ASPECTO_CONGELANTE": {
+    "key": "LIVRO_DE_ASPECTO_CONGELANTE",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_ALJAVA_INFINITA": {
+    "key": "LIVRO_DE_ALJAVA_INFINITA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_LIMIAR_DA_LAMINA": {
+    "key": "LIVRO_DE_LIMIAR_DA_LAMINA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_CATACLISMA": {
+    "key": "LIVRO_DE_CATACLISMA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_CACADOR_DE_DRAGOES": {
+    "key": "LIVRO_DE_CACADOR_DE_DRAGOES",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_GUERREIRO_DO_FIM_7": {
+    "key": "LIVRO_DE_GUERREIRO_DO_FIM_7",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_PRIMEIRO_HIT": {
+    "key": "LIVRO_DE_PRIMEIRO_HIT",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_EFIENCIA": {
+    "key": "LIVRO_DE_EFIENCIA",
+    "displayName": "Livro Encantado",
+    "rarity": "COMMON",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIDROMEL": {
+    "key": "LIVRO_DE_HIDROMEL",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_TRIGO": {
+    "key": "LIVRO_DE_HIPER_TRIGO",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_BATATA": {
+    "key": "LIVRO_DE_HIPER_BATATA",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_CENOURA": {
+    "key": "LIVRO_DE_HIPER_CENOURA",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_CACTO": {
+    "key": "LIVRO_DE_HIPER_CACTO",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_ABOBORA": {
+    "key": "LIVRO_DE_HIPER_ABOBORA",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_CANA": {
+    "key": "LIVRO_DE_HIPER_CANA",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_MELANCIA": {
+    "key": "LIVRO_DE_HIPER_MELANCIA",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_CACAU": {
+    "key": "LIVRO_DE_HIPER_CACAU",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_COGUMELOS": {
+    "key": "LIVRO_DE_HIPER_COGUMELOS",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_HIPER_FUNGOS": {
+    "key": "LIVRO_DE_HIPER_FUNGOS",
+    "displayName": "Livro Encantado",
+    "rarity": "RARE",
+    "category": "MODIFIER"
+  },
+  "LIVRO_DE_BATATA_QUENTE": {
+    "key": "LIVRO_DE_BATATA_QUENTE",
+    "displayName": "Livro de Batata Quente",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "sellPrice": 15203.0,
+    "description": [
+      "§7Aplique em armas e armaduras",
+      "§7para aumentar alguns atributos",
+      "§7destes itens de forma permanente.",
+      ""
+    ]
+  },
+  "LIVRO_DE_CENOURA_ASSADA": {
+    "key": "LIVRO_DE_CENOURA_ASSADA",
+    "displayName": "Livro de Cenoura Assada",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "sellPrice": 24300.0,
+    "description": [
+      "§7Aplique em armas e armaduras que",
+      "§7atingiram o limite de livros de",
+      "§7Batata Quente aplicados para poder",
+      "§7aumentar alguns de seus atributos de",
+      "§7forma permanente.",
+      ""
+    ]
+  },
+  "LIVRO_DE_COELHO_ASSADO": {
+    "key": "LIVRO_DE_COELHO_ASSADO",
+    "displayName": "Livro de Coelho Assado",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "sellPrice": 9600.0,
+    "description": [
+      "§7Aplique em armaduras para aumentar",
+      "§7a velocidade destes itens de forma",
+      "§7permanente.",
+      ""
+    ]
+  },
+  "RECOMBINADOR": {
+    "key": "RECOMBINADOR",
+    "displayName": "Recombinador",
+    "rarity": "LEGENDARY",
+    "category": "MODIFIER",
+    "sellPrice": 45000.0,
+    "description": [
+      "§7Aplique em seus itens para",
+      "§7aumentar a raridade do mesmo",
+      "§7de modo permanente.",
+      "",
+      "§8O recombinador só pode ser",
+      "§8usado uma vez por item!",
+      ""
+    ]
+  },
+  "ENDER_TIME": {
+    "key": "ENDER_TIME",
+    "displayName": "Pérola do Tempo",
+    "rarity": "RARE",
+    "category": "MODIFIER",
+    "sellPrice": 15000.0,
+    "description": [
+      "§7Aplique este modificador usando",
+      "§7uma bigorna junto com seu item.",
+      "§7Este modificador pode ser aplicado",
+      "§7em espadas.",
+      "",
+      "§9Profunda §7(§9RARA§7):",
+      "§7Força: §a+20",
+      "§7Dano Crítico: §a+10",
+      "§7Inteligência: §a+50",
+      "",
+      "§9Aprofundamento do Fim",
+      "§7Aumenta o raio de teletransporte",
+      "§7em até §a4 §7blocos.",
+      ""
+    ]
+  },
+  "PEDRA_DO_DRAGAO": {
+    "key": "PEDRA_DO_DRAGAO",
+    "displayName": "Pedra do Dragão",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "sellPrice": 45000.0,
+    "description": [
+      "§7Aplique este modificador usando",
+      "§7uma bigorna junto com seu item.",
+      "§7Este modificador pode ser aplicado",
+      "§7em espadas.",
+      "",
+      "§9Dragonada §7(§6LENDáRIA§7):",
+      "§7Força: §a+25",
+      "§7Dano Crítico: §a+20",
+      "§7Chance de Crítico: §a+10",
+      "§7Inteligência: §a+15",
+      ""
+    ]
+  },
+  "PEDACO_DE_COLOSSO": {
+    "key": "PEDACO_DE_COLOSSO",
+    "displayName": "Pedaço de Colosso",
+    "rarity": "RARE",
+    "category": "MODIFIER",
+    "sellPrice": 10000.0,
+    "description": [
+      "§7Aplique este modificador usando",
+      "§7uma bigorna junto com seu item.",
+      "§7Este modificador pode ser aplicado",
+      "§7em armaduras.",
+      "",
+      "§9Colossal §7(§6LENDáRIA§7):",
+      "§7Vida: §a+60",
+      "§7Defesa: §a+40",
+      ""
+    ]
+  },
+  "APERFEICOADOR": {
+    "key": "APERFEICOADOR",
+    "displayName": "Aperfeiçoador",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "sellPrice": 45000.0,
+    "description": [
+      "§7Aplique em sua §5Armadura da Perfeição §7para",
+      "§7para aumentar alguns atributos deste item de",
+      "§7forma permanente e melhorar sua raridade.",
+      ""
+    ]
+  },
+  "BRASA_REMANESCENTE": {
+    "key": "BRASA_REMANESCENTE",
+    "displayName": "Brasa Remanescente",
+    "rarity": "RARE",
+    "category": "MODIFIER",
+    "sellPrice": 45000.0,
+    "description": [
+      "§7Aplique este modificador usando",
+      "§7uma bigorna junto com seu item.",
+      "§7Este modificador pode ser aplicado",
+      "§7em espadas.",
+      "",
+      "§9Embrasada §7(§6LENDáRIA§7):",
+      "§7Força: §a+30",
+      "§7Dano Crítico: §a+20",
+      "§7Chance de Crítico: §a+10",
+      "§7Inteligência: §a+35",
+      ""
+    ]
+  },
+  "OLHO_DE_INVOCACAO": {
+    "key": "OLHO_DE_INVOCACAO",
+    "displayName": "Olho de Invocação",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "ENIGM_OF_END": {
+    "key": "ENIGM_OF_END",
+    "displayName": "Enigma do Fim",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "FRAGMENTO_DE_CRISTAL": {
+    "key": "FRAGMENTO_DE_CRISTAL",
+    "displayName": "Fragmento de Cristal",
+    "rarity": "RARE",
+    "category": "OTHER"
+  },
+  "FRAGMENTO_DE_BRASA": {
+    "key": "FRAGMENTO_DE_BRASA",
+    "displayName": "Fragmento de Brasa",
+    "rarity": "RARE",
+    "category": "OTHER"
+  },
+  "ESCAMA_DRAGAO_ANCIAO": {
+    "key": "ESCAMA_DRAGAO_ANCIAO",
+    "displayName": "Escamas do Dragão Ancião",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "ESCAMA_DRAGAO_SABIO": {
+    "key": "ESCAMA_DRAGAO_SABIO",
+    "displayName": "Escamas do Dragão Sábio",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "ESCAMA_DRAGAO_JOVEM": {
+    "key": "ESCAMA_DRAGAO_JOVEM",
+    "displayName": "Escamas do Dragão Jovem",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "ESCAMA_DRAGAO_PROTETOR": {
+    "key": "ESCAMA_DRAGAO_PROTETOR",
+    "displayName": "Escamas do Dragão Protetor",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "ESCAMA_DRAGAO_INSTAVEL": {
+    "key": "ESCAMA_DRAGAO_INSTAVEL",
+    "displayName": "Escamas do Dragão Instável",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "ESCAMA_DRAGAO_FORTE": {
+    "key": "ESCAMA_DRAGAO_FORTE",
+    "displayName": "Escamas do Dragão Forte",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "ESCAMA_DRAGAO_SUPERIOR": {
+    "key": "ESCAMA_DRAGAO_SUPERIOR",
+    "displayName": "Escamas do Dragão Superior",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "RAIZ": {
+    "key": "RAIZ",
+    "displayName": "Raiz",
+    "rarity": "LEGENDARY",
+    "category": "OTHER"
+  },
+  "RAIZ_LUMINESCENTE": {
+    "key": "RAIZ_LUMINESCENTE",
+    "displayName": "Raiz Luminescente",
+    "rarity": "LEGENDARY",
+    "category": "OTHER"
+  },
+  "ADULBO": {
+    "key": "ADULBO",
+    "displayName": "Adulbo",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "ADULBO_COMPRIMIDO": {
+    "key": "ADULBO_COMPRIMIDO",
+    "displayName": "Adulbo Comprimido",
+    "rarity": "EPIC",
+    "category": "OTHER"
+  },
+  "PEITORAL_DE_OBSIDIANA": {
+    "key": "PEITORAL_DE_OBSIDIANA",
+    "displayName": "Peitoral de Obsidiana",
+    "rarity": "EPIC",
+    "category": "CHESTPLATE",
+    "skillRequirement": {
+      "type": "COMBAT_SKILL",
+      "level": 10
+    },
+    "baseAttributes": {
+      "DEFENSE": 250
+    }
+  },
+  "CALCAS_DE_CREEPER": {
+    "key": "CALCAS_DE_CREEPER",
+    "displayName": "Calças de Creeper",
+    "rarity": "RARE",
+    "category": "LEGGINGS",
+    "sellPrice": 66400.0,
+    "baseAttributes": {
+      "DEFENSE": 65,
+      "MAX_HEALTH": 200
+    }
+  },
+  "TESOURA": {
+    "key": "TESOURA",
+    "displayName": "Tesoura",
+    "rarity": "COMMON",
+    "category": "SHEAR",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "BOTAS_DE_ARANHA": {
+    "key": "BOTAS_DE_ARANHA",
+    "displayName": "Botas de Aranha",
+    "rarity": "RARE",
+    "category": "BOOTS",
+    "sellPrice": 61880.0,
+    "baseAttributes": {
+      "DEFENSE": 45,
+      "MAX_INTELLIGENCE": 50,
+      "SPEED": 6
+    }
+  },
+  "ARCO_DO_FIM": {
+    "key": "ARCO_DO_FIM",
+    "displayName": "Arco do Fim",
+    "rarity": "EPIC",
+    "category": "BOW",
+    "baseAttributes": {
+      "DAMAGE": 140
+    }
+  },
+  "ARCO_DE_WITHER": {
+    "key": "ARCO_DE_WITHER",
+    "displayName": "Arco de Wither",
+    "rarity": "UNCOMMON",
+    "category": "BOW",
+    "sellPrice": 20.0,
+    "baseAttributes": {
+      "DAMAGE": 30
+    }
+  },
+  "ARCO_SELVAGEM": {
+    "key": "ARCO_SELVAGEM",
+    "displayName": "Arco Selvagem",
+    "rarity": "UNCOMMON",
+    "category": "BOW",
+    "sellPrice": 485.0,
+    "baseAttributes": {
+      "DAMAGE": 50
+    }
+  },
+  "ARCO_EXPLOSIVO": {
+    "key": "ARCO_EXPLOSIVO",
+    "displayName": "Arco Explosivo",
+    "rarity": "EPIC",
+    "category": "BOW",
+    "sellPrice": 485.0,
+    "baseAttributes": {
+      "DAMAGE": 50
+    }
+  },
+  "ARCO_DE_MAGMA": {
+    "key": "ARCO_DE_MAGMA",
+    "displayName": "Arco de Magma",
+    "rarity": "EPIC",
+    "category": "BOW",
+    "sellPrice": 73920.0,
+    "baseAttributes": {
+      "DAMAGE": 100,
+      "STRENGTH": 100
+    }
+  },
+  "ARCO_DO_ENDERMAN": {
+    "key": "ARCO_DO_ENDERMAN",
+    "displayName": "Arco do Enderman",
+    "rarity": "RARE",
+    "category": "BOW",
+    "sellPrice": 4689.0,
+    "baseAttributes": {
+      "DAMAGE": 60
+    }
+  },
+  "ARCO_DE_APOLLO": {
+    "key": "ARCO_DE_APOLLO",
+    "displayName": "Arco de Apollo",
+    "rarity": "LEGENDARY",
+    "category": "BOW",
+    "baseAttributes": {
+      "DAMAGE": 160,
+      "STRENGTH": 50
+    }
+  },
+  "CANHAO_DE_BACON": {
+    "key": "CANHAO_DE_BACON",
+    "displayName": "Canhão de Bacon",
+    "rarity": "SPECIAL",
+    "category": "BOW",
+    "baseAttributes": {
+      "DAMAGE": 250,
+      "STRENGTH": 230
+    }
+  },
+  "ARCO_FURACAO": {
+    "key": "ARCO_FURACAO",
+    "displayName": "Arco Furacão",
+    "rarity": "EPIC",
+    "category": "BOW",
+    "baseAttributes": {
+      "DAMAGE": 120,
+      "STRENGTH": 50
+    }
+  },
+  "ARCO": {
+    "key": "ARCO",
+    "displayName": "Arco",
+    "rarity": "COMMON",
+    "category": "BOW",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 10
+    }
+  },
+  "BOLSA_DE_ENDER_PEQUENA": {
+    "key": "BOLSA_DE_ENDER_PEQUENA",
+    "displayName": "Bolsa de Ender Pequena",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 2320.0
+  },
+  "BOLSA_DE_ENDER_MEDIA": {
+    "key": "BOLSA_DE_ENDER_MEDIA",
+    "displayName": "Bolsa de Ender Média",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 38160.0
+  },
+  "BOLSA_DE_ENDER_GRANDE": {
+    "key": "BOLSA_DE_ENDER_GRANDE",
+    "displayName": "Bolsa de Ender Grande",
+    "rarity": "EPIC",
+    "category": "OTHER",
+    "sellPrice": 56080.0
+  },
+  "ESPADA_DO_GOLEM": {
+    "key": "ESPADA_DO_GOLEM",
+    "displayName": "Espada do Golem",
+    "rarity": "RARE",
+    "category": "SWORD",
+    "sellPrice": 56000.0,
+    "baseAttributes": {
+      "DEFENSE": 25,
+      "DAMAGE": 80,
+      "STRENGTH": 125
+    }
+  },
+  "ASPECTO_DO_FIM": {
+    "key": "ASPECTO_DO_FIM",
+    "displayName": "Aspecto do Fim",
+    "rarity": "RARE",
+    "category": "SWORD",
+    "sellPrice": 56448.0,
+    "baseAttributes": {
+      "DAMAGE": 100,
+      "STRENGTH": 100
+    }
+  },
+  "MACHADO_VULCANICO": {
+    "key": "MACHADO_VULCANICO",
+    "displayName": "Machado Vulcânico",
+    "rarity": "LEGENDARY",
+    "category": "SWORD",
+    "sellPrice": 576000.0,
+    "baseAttributes": {
+      "DAMAGE": 150,
+      "HASTE": 60,
+      "STRENGTH": 100
+    }
+  },
+  "CAJADO_DA_VIDA": {
+    "key": "CAJADO_DA_VIDA",
+    "displayName": "Cajado de Cura",
+    "rarity": "EPIC",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 100,
+      "MAX_INTELLIGENCE": 20,
+      "STRENGTH": 75
+    }
+  },
+  "CUTELO": {
+    "key": "CUTELO",
+    "displayName": "Cutelo",
+    "rarity": "UNCOMMON",
+    "category": "SWORD",
+    "sellPrice": 20.0,
+    "baseAttributes": {
+      "DAMAGE": 10,
+      "STRENGTH": 40
+    }
+  },
+  "ESPADA_DE_PEDRA_DO_FIM": {
+    "key": "ESPADA_DE_PEDRA_DO_FIM",
+    "displayName": "Espada de Pedra do Fim",
+    "rarity": "EPIC",
+    "category": "SWORD",
+    "sellPrice": 20480.0,
+    "baseAttributes": {
+      "DAMAGE": 50,
+      "STRENGTH": 50
+    }
+  },
+  "LANCA_TEIA": {
+    "key": "LANCA_TEIA",
+    "displayName": "Lança Teia",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 864.0
+  },
+  "BUQUE_FUNEBRE": {
+    "key": "BUQUE_FUNEBRE",
+    "displayName": "Buquê Fúnebre",
+    "rarity": "SPECIAL",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 125,
+      "MAX_INTELLIGENCE": -40,
+      "MAGIC_DAMAGE": 50,
+      "STRENGTH": 70
+    }
+  },
+  "LAMINA_DE_ESMERALDA": {
+    "key": "LAMINA_DE_ESMERALDA",
+    "displayName": "Lâmina de Esmeralda",
+    "rarity": "EPIC",
+    "category": "SWORD",
+    "sellPrice": 153000.5,
+    "baseAttributes": {
+      "DAMAGE": 35
+    }
+  },
+  "BUMERANGUE": {
+    "key": "BUMERANGUE",
+    "displayName": "Bumerangue",
+    "rarity": "LEGENDARY",
+    "category": "BOW",
+    "baseAttributes": {
+      "DAMAGE": 200,
+      "STRENGTH": 130
+    }
+  },
+  "ESPADA_FLAMEJANTE": {
+    "key": "ESPADA_FLAMEJANTE",
+    "displayName": "Espada Flamejante",
+    "rarity": "COMMON",
+    "category": "SWORD",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 50
+    }
+  },
+  "PRESA_DE_PRATA": {
+    "key": "PRESA_DE_PRATA",
+    "displayName": "Presa de Prata",
+    "rarity": "UNCOMMON",
+    "category": "SWORD",
+    "sellPrice": 2000.0,
+    "baseAttributes": {
+      "DAMAGE": 100
+    }
+  },
+  "ESPADA_DO_DRAGAO": {
+    "key": "ESPADA_DO_DRAGAO",
+    "displayName": "Espada do Dragão",
+    "rarity": "LEGENDARY",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 245,
+      "CRIT_CHANCE": 1,
+      "MAX_INTELLIGENCE": 50,
+      "CRIT_DAMAGE": 50,
+      "STRENGTH": 125
+    }
+  },
+  "CAJADO_DO_BONZO": {
+    "key": "CAJADO_DO_BONZO",
+    "displayName": "Cajado do Bonzo",
+    "rarity": "RARE",
+    "category": "SWORD",
+    "sellPrice": 20480.0,
+    "baseAttributes": {
+      "DAMAGE": 160,
+      "MAX_INTELLIGENCE": 250
+    }
+  },
+  "GRAVETO_DO_DESENVOLVEDOR": {
+    "key": "GRAVETO_DO_DESENVOLVEDOR",
+    "displayName": "Graveto do Desenvolvedor",
+    "rarity": "SPECIAL",
+    "category": "SWORD"
+  },
+  "ESPADA_SALTITANTE": {
+    "key": "ESPADA_SALTITANTE",
+    "displayName": "Espada Saltitante",
+    "rarity": "EPIC",
+    "category": "SWORD",
+    "sellPrice": 245760.0,
+    "baseAttributes": {
+      "DAMAGE": 150,
+      "CRIT_DAMAGE": 25,
+      "STRENGTH": 100
+    }
+  },
+  "VARA_DE_BRASA": {
+    "key": "VARA_DE_BRASA",
+    "displayName": "Vara de Brasa",
+    "rarity": "EPIC",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 80,
+      "MAX_INTELLIGENCE": 50,
+      "STRENGTH": 35
+    }
+  },
+  "ESPADA_DO_PIGMAN": {
+    "key": "ESPADA_DO_PIGMAN",
+    "displayName": "Espada do Pigman",
+    "rarity": "LEGENDARY",
+    "category": "SWORD",
+    "sellPrice": 3075000.0,
+    "baseAttributes": {
+      "DAMAGE": 200,
+      "CRIT_CHANCE": 5,
+      "CRIT_DAMAGE": 20,
+      "STRENGTH": 100
+    }
+  },
+  "ESPADA_DO_MORTO_VIVO": {
+    "key": "ESPADA_DO_MORTO_VIVO",
+    "displayName": "Espada do Morto-Vivo",
+    "rarity": "COMMON",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 30
+    }
+  },
+  "ESPADA_DA_ARANHA": {
+    "key": "ESPADA_DA_ARANHA",
+    "displayName": "Espada da Aranha",
+    "rarity": "COMMON",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 30
+    }
+  },
+  "ESPADA_DO_FIM": {
+    "key": "ESPADA_DO_FIM",
+    "displayName": "Espada do Fim",
+    "rarity": "RARE",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 35
+    }
+  },
+  "VARA_DE_PESCA": {
+    "key": "VARA_DE_PESCA",
+    "displayName": "Vara de Pesca",
+    "rarity": "COMMON",
+    "category": "FISHING_ROD",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 10
+    }
+  },
+  "PICARETA_DE_MADEIRA": {
+    "key": "PICARETA_DE_MADEIRA",
+    "displayName": "Picareta de Madeira",
+    "rarity": "COMMON",
+    "category": "PICKAXE",
+    "baseAttributes": {
+      "DAMAGE": 5,
+      "HASTE": 2
+    }
+  },
+  "PICARETA_DE_PEDRA": {
+    "key": "PICARETA_DE_PEDRA",
+    "displayName": "Picareta de Pedra",
+    "rarity": "COMMON",
+    "category": "PICKAXE",
+    "baseAttributes": {
+      "DAMAGE": 7,
+      "HASTE": 3
+    }
+  },
+  "PICARETA_DE_FERRO": {
+    "key": "PICARETA_DE_FERRO",
+    "displayName": "Picareta de Ferro",
+    "rarity": "COMMON",
+    "category": "PICKAXE",
+    "baseAttributes": {
+      "DAMAGE": 10,
+      "HASTE": 4
+    }
+  },
+  "PICARETA_DE_OURO": {
+    "key": "PICARETA_DE_OURO",
+    "displayName": "Picareta de Ouro",
+    "rarity": "COMMON",
+    "category": "PICKAXE",
+    "baseAttributes": {
+      "DAMAGE": 10,
+      "HASTE": 5
+    }
+  },
+  "PICARETA_DE_DIAMANTE": {
+    "key": "PICARETA_DE_DIAMANTE",
+    "displayName": "Picareta de Diamante",
+    "rarity": "COMMON",
+    "category": "PICKAXE",
+    "baseAttributes": {
+      "DAMAGE": 15,
+      "HASTE": 6
+    }
+  },
+  "PICARETA_PROMISSORA": {
+    "key": "PICARETA_PROMISSORA",
+    "displayName": "Picareta Promissora",
+    "rarity": "UNCOMMON",
+    "category": "PICKAXE",
+    "sellPrice": 17.5,
+    "baseAttributes": {
+      "DAMAGE": 25
+    }
+  },
+  "PICARETA_INICIAL": {
+    "key": "PICARETA_INICIAL",
+    "displayName": "Picareta Inicial",
+    "rarity": "COMMON",
+    "category": "PICKAXE",
+    "sellPrice": 6.0,
+    "baseAttributes": {
+      "DAMAGE": 15
+    }
+  },
+  "PA_DE_PEDERNEIRA": {
+    "key": "PA_DE_PEDERNEIRA",
+    "displayName": "Pá de Pederneira",
+    "rarity": "COMMON",
+    "category": "SHOVEL",
+    "sellPrice": 40.0,
+    "description": [
+      "§7Garante 100% de chance de receber uma",
+      "§7pederneira ao coletar cascalho.",
+      "§7Também pode ser usado como um upgrade",
+      "§7do minion para que ele sempre",
+      "§7consiga pederneiras.",
+      ""
+    ],
+    "baseAttributes": {
+      "DAMAGE": 25
+    }
+  },
+  "PA_DE_MADEIRA": {
+    "key": "PA_DE_MADEIRA",
+    "displayName": "Pá de Madeira",
+    "rarity": "COMMON",
+    "category": "SHOVEL",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "PA_DE_PEDRA": {
+    "key": "PA_DE_PEDRA",
+    "displayName": "Pá de Pedra",
+    "rarity": "COMMON",
+    "category": "SHOVEL",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "PA_DE_FERRO": {
+    "key": "PA_DE_FERRO",
+    "displayName": "Pá de Ferro",
+    "rarity": "COMMON",
+    "category": "SHOVEL",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "PA_DE_OURO": {
+    "key": "PA_DE_OURO",
+    "displayName": "Pá de Ouro",
+    "rarity": "COMMON",
+    "category": "SHOVEL",
+    "baseAttributes": {
+      "DAMAGE": 10
+    }
+  },
+  "PA_DE_DIAMANTE": {
+    "key": "PA_DE_DIAMANTE",
+    "displayName": "Pá de Diamante",
+    "rarity": "COMMON",
+    "category": "SHOVEL",
+    "baseAttributes": {
+      "DAMAGE": 12
+    }
+  },
+  "MACHADO_DE_MADEIRA": {
+    "key": "MACHADO_DE_MADEIRA",
+    "displayName": "Machado de Madeira",
+    "rarity": "COMMON",
+    "category": "AXE",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "MACHADO_DE_PEDRA": {
+    "key": "MACHADO_DE_PEDRA",
+    "displayName": "Machado de Pedra",
+    "rarity": "COMMON",
+    "category": "AXE",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "MACHADO_DE_FERRO": {
+    "key": "MACHADO_DE_FERRO",
+    "displayName": "Machado de Ferro",
+    "rarity": "COMMON",
+    "category": "AXE",
+    "baseAttributes": {
+      "DAMAGE": 10
+    }
+  },
+  "MACHADO_DE_OURO": {
+    "key": "MACHADO_DE_OURO",
+    "displayName": "Machado de Ouro",
+    "rarity": "COMMON",
+    "category": "AXE",
+    "baseAttributes": {
+      "DAMAGE": 10
+    }
+  },
+  "MACHADO_FEROZ": {
+    "key": "MACHADO_FEROZ",
+    "displayName": "Machado Feroz",
+    "rarity": "RARE",
+    "category": "AXE",
+    "sellPrice": 480.0,
+    "baseAttributes": {
+      "DAMAGE": 45
+    }
+  },
+  "MACHADO_DE_ABOBORA": {
+    "key": "MACHADO_DE_ABOBORA",
+    "displayName": "Machado de Abóbora",
+    "rarity": "EPIC",
+    "category": "AXE",
+    "sellPrice": 480.0,
+    "baseAttributes": {
+      "FARMING_FORTUNE": 30,
+      "DAMAGE": 50
+    }
+  },
+  "MACHADO_DE_MELANCIA": {
+    "key": "MACHADO_DE_MELANCIA",
+    "displayName": "Machado de Melancia",
+    "rarity": "RARE",
+    "category": "AXE",
+    "sellPrice": 280.0,
+    "baseAttributes": {
+      "FARMING_FORTUNE": 20,
+      "DAMAGE": 50
+    }
+  },
+  "MACHADO_DE_FUNGOSO": {
+    "key": "MACHADO_DE_FUNGOSO",
+    "displayName": "Machado Fúngico",
+    "rarity": "EPIC",
+    "category": "AXE",
+    "sellPrice": 480.0,
+    "baseAttributes": {
+      "FARMING_FORTUNE": 45,
+      "DAMAGE": 50
+    }
+  },
+  "MACHADO_ABSOLUTO": {
+    "key": "MACHADO_ABSOLUTO",
+    "displayName": "Machado Absoluto",
+    "rarity": "LEGENDARY",
+    "category": "AXE",
+    "sellPrice": 480.0,
+    "baseAttributes": {
+      "FARMING_FORTUNE": 50,
+      "DAMAGE": 50
+    }
+  },
+  "MACHADO_DO_POMAR": {
+    "key": "MACHADO_DO_POMAR",
+    "displayName": "Machado do Pomar",
+    "rarity": "UNCOMMON",
+    "category": "AXE",
+    "sellPrice": 25.0,
+    "baseAttributes": {
+      "DAMAGE": 25
+    }
+  },
+  "MACHADO_EFICIENTE": {
+    "key": "MACHADO_EFICIENTE",
+    "displayName": "Machado Eficiente",
+    "rarity": "UNCOMMON",
+    "category": "AXE",
+    "sellPrice": 6.0,
+    "baseAttributes": {
+      "DAMAGE": 25
+    }
+  },
+  "MACHADO_PROMISSOR": {
+    "key": "MACHADO_PROMISSOR",
+    "displayName": "Machado Promissor",
+    "rarity": "UNCOMMON",
+    "category": "AXE",
+    "sellPrice": 6.0,
+    "baseAttributes": {
+      "DAMAGE": 25
+    }
+  },
+  "MACHADO_SELVAGEM": {
+    "key": "MACHADO_SELVAGEM",
+    "displayName": "Machado Selvagem",
+    "rarity": "UNCOMMON",
+    "category": "AXE",
+    "sellPrice": 480.0,
+    "baseAttributes": {
+      "DAMAGE": 10
+    }
+  },
+  "MACHADO_DE_DIAMANTE": {
+    "key": "MACHADO_DE_DIAMANTE",
+    "displayName": "Machado de Diamante",
+    "rarity": "COMMON",
+    "category": "AXE",
+    "baseAttributes": {
+      "DAMAGE": 15
+    }
+  },
+  "MACHADO_INICIAL": {
+    "key": "MACHADO_INICIAL",
+    "displayName": "Machado Inicial",
+    "rarity": "COMMON",
+    "category": "AXE",
+    "sellPrice": 6.0,
+    "baseAttributes": {
+      "DAMAGE": 15
+    }
+  },
+  "ESPADA_DE_MADEIRA": {
+    "key": "ESPADA_DE_MADEIRA",
+    "displayName": "Espada de Madeira",
+    "rarity": "COMMON",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "ESPADA_DE_PEDRA": {
+    "key": "ESPADA_DE_PEDRA",
+    "displayName": "Espada de Pedra",
+    "rarity": "COMMON",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 10
+    }
+  },
+  "ESPADA_DE_FERRO": {
+    "key": "ESPADA_DE_FERRO",
+    "displayName": "Espada de Ferro",
+    "rarity": "COMMON",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 10,
+      "STRENGTH": 5
+    }
+  },
+  "ESPADA_DE_OURO": {
+    "key": "ESPADA_DE_OURO",
+    "displayName": "Espada de Ouro",
+    "rarity": "COMMON",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 15,
+      "STRENGTH": 5
+    }
+  },
+  "ESPADA_DE_DIAMANTE": {
+    "key": "ESPADA_DE_DIAMANTE",
+    "displayName": "Espada de Diamante",
+    "rarity": "COMMON",
+    "category": "SWORD",
+    "baseAttributes": {
+      "DAMAGE": 15,
+      "STRENGTH": 10
+    }
+  },
+  "ENXADA_DO_INICIANTE": {
+    "key": "ENXADA_DO_INICIANTE",
+    "displayName": "Enxada do Iniciante",
+    "rarity": "COMMON",
+    "category": "HOE",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 25
+    }
+  },
+  "ENXADA_DE_MADEIRA": {
+    "key": "ENXADA_DE_MADEIRA",
+    "displayName": "Enxada de Madeira",
+    "rarity": "COMMON",
+    "category": "HOE",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "ENXADA_DE_PEDRA": {
+    "key": "ENXADA_DE_PEDRA",
+    "displayName": "Enxada de Pedra",
+    "rarity": "COMMON",
+    "category": "HOE",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "ENXADA_DE_FERRO": {
+    "key": "ENXADA_DE_FERRO",
+    "displayName": "Enxada de Ferro",
+    "rarity": "COMMON",
+    "category": "HOE",
+    "baseAttributes": {
+      "DAMAGE": 5
+    }
+  },
+  "ENXADA_DE_OURO": {
+    "key": "ENXADA_DE_OURO",
+    "displayName": "Enxada de Ouro",
+    "rarity": "COMMON",
+    "category": "HOE",
+    "baseAttributes": {
+      "DAMAGE": 10
+    }
+  },
+  "ENXADA_DE_DIAMANTE": {
+    "key": "ENXADA_DE_DIAMANTE",
+    "displayName": "Enxada de Diamante",
+    "rarity": "COMMON",
+    "category": "HOE",
+    "baseAttributes": {
+      "DAMAGE": 12
+    }
+  },
+  "PRESENTE": {
+    "key": "PRESENTE",
+    "displayName": "Presente de Aniversário",
+    "rarity": "SPECIAL",
+    "category": "OTHER",
+    "description": [
+      "§7Ao abrir um presente de aniversário",
+      "§7você pode ganhar qualquer item do Sky Block",
+      "§7independente de sua exclusividade.",
+      "",
+      "§eClique direito para abrir!",
+      ""
+    ]
+  },
+  "ABOBORA_ENCANTADA": {
+    "key": "ABOBORA_ENCANTADA",
+    "displayName": "Abóbora Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 640.0
+  },
+  "ACUCAR_ENCANTADO": {
+    "key": "ACUCAR_ENCANTADO",
+    "displayName": "Açúcar Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 320.0
+  },
+  "AREIA_ENCANTADA": {
+    "key": "AREIA_ENCANTADA",
+    "displayName": "Areia Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 320.0
+  },
+  "BARRA_DE_FERRO_ENCANTADA": {
+    "key": "BARRA_DE_FERRO_ENCANTADA",
+    "displayName": "Barra de Ferro Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 800.0
+  },
+  "BARRA_DE_OURO_ENCANTADA": {
+    "key": "BARRA_DE_OURO_ENCANTADA",
+    "displayName": "Barra de Ouro Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 800.0
+  },
+  "BATATA_ASSADA_ENCANTADA": {
+    "key": "BATATA_ASSADA_ENCANTADA",
+    "displayName": "Batata Assada Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 25600.0
+  },
+  "BATATA_ENCANTADA": {
+    "key": "BATATA_ENCANTADA",
+    "displayName": "Batata Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "BISCOITO_ENCANTADO": {
+    "key": "BISCOITO_ENCANTADO",
+    "displayName": "Biscoito Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 5120.0
+  },
+  "BLOCO_DE_CARVAO_ENCANTADO": {
+    "key": "BLOCO_DE_CARVAO_ENCANTADO",
+    "displayName": "Bloco de Carvão Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 57600.0,
+    "description": [
+      "§7Aumenta a velocidade do seu",
+      "§7minion em 15% por 1 hora.",
+      ""
+    ]
+  },
+  "BLOCO_DE_COGUMELO_MARROM_ENCANTADO": {
+    "key": "BLOCO_DE_COGUMELO_MARROM_ENCANTADO",
+    "displayName": "Bloco de Cogumelo Marrom Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 8000.0
+  },
+  "BLOCO_DE_COGUMELO_VERMELHO_ENCANTADO": {
+    "key": "BLOCO_DE_COGUMELO_VERMELHO_ENCANTADO",
+    "displayName": "Bloco de Cogumelo Vermelho Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 8000.0
+  },
+  "BLOCO_DE_DIAMANTE_ENCANTADO": {
+    "key": "BLOCO_DE_DIAMANTE_ENCANTADO",
+    "displayName": "Bloco de Diamante Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 204000.0
+  },
+  "BLOCO_DE_ESMERALDA_ENCANTADO": {
+    "key": "BLOCO_DE_ESMERALDA_ENCANTADO",
+    "displayName": "Bloco de Esmeralda Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 153600.0
+  },
+  "BLOCO_DE_FERRO_ENCANTADO": {
+    "key": "BLOCO_DE_FERRO_ENCANTADO",
+    "displayName": "Bloco de Ferro Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 12800.0
+  },
+  "BLOCO_DE_LAPIS_LAZULI_ENCANTADO": {
+    "key": "BLOCO_DE_LAPIS_LAZULI_ENCANTADO",
+    "displayName": "Bloco de Lápis Lazuli Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 76960.0
+  },
+  "BLOCO_DE_MELANCIA_ENCANTADO": {
+    "key": "BLOCO_DE_MELANCIA_ENCANTADO",
+    "displayName": "Bloco de Melancia Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 5120.0
+  },
+  "BLOCO_DE_OURO_ENCANTADO": {
+    "key": "BLOCO_DE_OURO_ENCANTADO",
+    "displayName": "Bloco de Ouro Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 12800.0
+  },
+  "BLOCO_DE_QUARTZO_ENCANTADO": {
+    "key": "BLOCO_DE_QUARTZO_ENCANTADO",
+    "displayName": "Bloco de Quartzo Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 57600.0
+  },
+  "BLOCO_DE_REDSTONE_ENCANTADO": {
+    "key": "BLOCO_DE_REDSTONE_ENCANTADO",
+    "displayName": "Bloco de Redstone Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 76960.0
+  },
+  "BLOCO_DE_SLIME_ENCANTADO": {
+    "key": "BLOCO_DE_SLIME_ENCANTADO",
+    "displayName": "Bloco de Slime Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 128000.0
+  },
+  "CACAU_ENCANTADO": {
+    "key": "CACAU_ENCANTADO",
+    "displayName": "Cacau Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "VERDE_DO_CACTO_ENCANTADO": {
+    "key": "VERDE_DO_CACTO_ENCANTADO",
+    "displayName": "Verde do Cacto Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 256.0
+  },
+  "CORACAO_DE_MAGMA": {
+    "key": "CORACAO_DE_MAGMA",
+    "displayName": "Coração de Magma",
+    "rarity": "EPIC",
+    "category": "OTHER",
+    "sellPrice": 437720.0
+  },
+  "CACTO_ENCANTADO": {
+    "key": "CACTO_ENCANTADO",
+    "displayName": "Cacto Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 40960.0
+  },
+  "CANA_DE_ACUCAR_ENCANTADA": {
+    "key": "CANA_DE_ACUCAR_ENCANTADA",
+    "displayName": "Cana de Açúcar Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 51200.0
+  },
+  "CARNE_DE_COELHO_ASSADA_ENCANTADA": {
+    "key": "CARNE_DE_COELHO_ASSADA_ENCANTADA",
+    "displayName": "Carne de Coelho Assada Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 2400.0
+  },
+  "CARNE_DE_COELHO_CRUA_ENCANTADA": {
+    "key": "CARNE_DE_COELHO_CRUA_ENCANTADA",
+    "displayName": "Carne de Coelho Crua Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "CARNE_DE_PORCO_ASSADA_ENCANTADA": {
+    "key": "CARNE_DE_PORCO_ASSADA_ENCANTADA",
+    "displayName": "Carne de Porco Assada Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 12800.0
+  },
+  "CARNE_DE_PORCO_ENCANTADA": {
+    "key": "CARNE_DE_PORCO_ENCANTADA",
+    "displayName": "Carne de Porco Crua Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 800.0
+  },
+  "CARNE_PODRE_ENCANTADA": {
+    "key": "CARNE_PODRE_ENCANTADA",
+    "displayName": "Carne Podre Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 320.0
+  },
+  "CARVAO_ENCANTADO": {
+    "key": "CARVAO_ENCANTADO",
+    "displayName": "Carvão Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 360.0,
+    "description": [
+      "§7Aumenta a velocidade do seu",
+      "§7minion em 15% por 30 minutos.",
+      ""
+    ]
+  },
+  "CATALIZADOR": {
+    "key": "CATALIZADOR",
+    "displayName": "Catalizador",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 17500.0,
+    "description": [
+      "§7Aumenta a velocidade do seu",
+      "§7minion em 3x por 3 horas.",
+      ""
+    ]
+  },
+  "CENOURA_DOURADA_ENCANTADA": {
+    "key": "CENOURA_DOURADA_ENCANTADA",
+    "displayName": "Cenoura Dourada Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 25600.0
+  },
+  "CENOURA_ENCANTADA": {
+    "key": "CENOURA_ENCANTADA",
+    "displayName": "Cenoura Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "COGUMELO_MARROM_ENCANTADO": {
+    "key": "COGUMELO_MARROM_ENCANTADO",
+    "displayName": "Cogumelo Marrom Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 640.0
+  },
+  "COGUMELO_VERMELHO_ENCANTADO": {
+    "key": "COGUMELO_VERMELHO_ENCANTADO",
+    "displayName": "Cogumelo Vermelho Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 640.0
+  },
+  "COURO_ENCANTADO": {
+    "key": "COURO_ENCANTADO",
+    "displayName": "Couro Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 480.0
+  },
+  "CREME_DE_MAGMA_ENCANTADO": {
+    "key": "CREME_DE_MAGMA_ENCANTADO",
+    "displayName": "Creme de Magma Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 1520.0
+  },
+  "DIAMANTE_ENCANTADO": {
+    "key": "DIAMANTE_ENCANTADO",
+    "displayName": "Diamante Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 1280.0
+  },
+  "ESMERALDA_ENCANTADA": {
+    "key": "ESMERALDA_ENCANTADA",
+    "displayName": "Esmeralda Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 960.0
+  },
+  "FOGOS_DE_ARTIFICIOS_ENCANTADO": {
+    "key": "FOGOS_DE_ARTIFICIOS_ENCANTADO",
+    "displayName": "Fogos de Artifícios Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 19200.0
+  },
+  "FARDO_DE_FENO_ENCANTADO": {
+    "key": "FARDO_DE_FENO_ENCANTADO",
+    "displayName": "Fardo de Feno Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 800.0
+  },
+  "FRANGO_CRU_ENCANTADO": {
+    "key": "FRANGO_CRU_ENCANTADO",
+    "displayName": "Frango Cru Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 640.0
+  },
+  "FUNGO_DO_NETHER_ENCANTADO": {
+    "key": "FUNGO_DO_NETHER_ENCANTADO",
+    "displayName": "Fungo do Nether Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "GELO_COMPACTADO_ENCANTADO": {
+    "key": "GELO_COMPACTADO_ENCANTADO",
+    "displayName": "Gelo Compactado Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 51200.0
+  },
+  "GELO_ENCANTADO": {
+    "key": "GELO_ENCANTADO",
+    "displayName": "Gelo Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 320.0
+  },
+  "GOMA_DE_SLIME_ENCANTADA": {
+    "key": "GOMA_DE_SLIME_ENCANTADA",
+    "displayName": "Goma de Slime Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 800.0
+  },
+  "LAGRIMA_DE_GHAST_ENCANTADA": {
+    "key": "LAGRIMA_DE_GHAST_ENCANTADA",
+    "displayName": "Lágrima de Ghast Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 2080.0
+  },
+  "LAMPADA_DE_REDSTONE_ENCANTADA": {
+    "key": "LAMPADA_DE_REDSTONE_ENCANTADA",
+    "displayName": "Lâmpada de Redstone Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 1.2288E7
+  },
+  "LAPIS_LAZULI_ENCANTADA": {
+    "key": "LAPIS_LAZULI_ENCANTADA",
+    "displayName": "Lápis Lazuli Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "LINHA_ENCANTADA": {
+    "key": "LINHA_ENCANTADA",
+    "displayName": "Linha Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 480.0
+  },
+  "MADEIRA_DA_SELVA_ENCANTADA": {
+    "key": "MADEIRA_DA_SELVA_ENCANTADA",
+    "displayName": "Madeira da Selva Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 360.0
+  },
+  "MADEIRA_DE_ACACIA_ENCANTADA": {
+    "key": "MADEIRA_DE_ACACIA_ENCANTADA",
+    "displayName": "Madeira de Acácia Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 360.0
+  },
+  "MADEIRA_DE_BETULA_ENCANTADA": {
+    "key": "MADEIRA_DE_BETULA_ENCANTADA",
+    "displayName": "Madeira de Bétula Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 360.0
+  },
+  "MADEIRA_DE_CARVALHO_ENCANTADA": {
+    "key": "MADEIRA_DE_CARVALHO_ENCANTADA",
+    "displayName": "Madeira de Carvalho Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 360.0
+  },
+  "MADEIRA_DE_CARVALHO_ESCURO_ENCANTADA": {
+    "key": "MADEIRA_DE_CARVALHO_ESCURO_ENCANTADA",
+    "displayName": "Madeira de Carvalho Escuro Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 360.0
+  },
+  "MADEIRA_DE_PINHEIRO_ENCANTADA": {
+    "key": "MADEIRA_DE_PINHEIRO_ENCANTADA",
+    "displayName": "Madeira de Pinheiro Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 360.0
+  },
+  "MELANCIA_ENCANTADA": {
+    "key": "MELANCIA_ENCANTADA",
+    "displayName": "Melancia Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "OLHO_DE_ARANHA_ENCANTADO": {
+    "key": "OLHO_DE_ARANHA_ENCANTADO",
+    "displayName": "Olho de Aranha Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 420.0
+  },
+  "OLHO_DE_ARANHA_FERMENTADO_ENCANTADO": {
+    "key": "OLHO_DE_ARANHA_FERMENTADO_ENCANTADO",
+    "displayName": "Olho de Aranha Fermentado Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 30600.0
+  },
+  "OLHO_DO_FIM_ENCANTADO": {
+    "key": "OLHO_DO_FIM_ENCANTADO",
+    "displayName": "Olho do Fim Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 4480.0
+  },
+  "OSSO_ENCANTADO": {
+    "key": "OSSO_ENCANTADO",
+    "displayName": "Osso Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 320.0
+  },
+  "OBSIDIANA_ENCANTADA": {
+    "key": "OBSIDIANA_ENCANTADA",
+    "displayName": "Obsidiana Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 1920.0
+  },
+  "PAO_ENCANTADO": {
+    "key": "PAO_ENCANTADO",
+    "displayName": "Pão Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 96.0,
+    "description": [
+      "§7Aumenta a velocidade do seu",
+      "§7minion em 10% por 30 minutos.",
+      ""
+    ]
+  },
+  "PEDERNEIRA_ENCANTADA": {
+    "key": "PEDERNEIRA_ENCANTADA",
+    "displayName": "Pederneira Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 640.0
+  },
+  "PEDRA_DO_FIM_ENCANTADA": {
+    "key": "PEDRA_DO_FIM_ENCANTADA",
+    "displayName": "Pedra do Fim Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "PEDRA_LUMINOSA_ENCANTADA": {
+    "key": "PEDRA_LUMINOSA_ENCANTADA",
+    "displayName": "Pedra Luminosa Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 76800.0
+  },
+  "PEDREGULHO_ENCANTADO": {
+    "key": "PEDREGULHO_ENCANTADO",
+    "displayName": "Pedregulho Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "PENA_ENCANTADA": {
+    "key": "PENA_ENCANTADA",
+    "displayName": "Pena Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 480.0
+  },
+  "PEROLA_DO_FIM_ENCANTADA": {
+    "key": "PEROLA_DO_FIM_ENCANTADA",
+    "displayName": "Pérola do Fim Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "PO_DE_BLAZE_ENCANTADO": {
+    "key": "PO_DE_BLAZE_ENCANTADO",
+    "displayName": "Pó de Blaze Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 480.0
+  },
+  "PO_DE_PEDRA_LUMINOSA_ENCANTADO": {
+    "key": "PO_DE_PEDRA_LUMINOSA_ENCANTADO",
+    "displayName": "Pó de Pedra Luminosa Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 480.0
+  },
+  "POLVORA_ENCANTADA": {
+    "key": "POLVORA_ENCANTADA",
+    "displayName": "Pólvora Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 320.0
+  },
+  "QUARTZO_ENCANTADO": {
+    "key": "QUARTZO_ENCANTADO",
+    "displayName": "Quartzo Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 360.0
+  },
+  "REDSTONE_ENCANTADA": {
+    "key": "REDSTONE_ENCANTADA",
+    "displayName": "Redstone Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 481.0
+  },
+  "ROCHA_DO_NETHER_COMPACTA_ENCANTADA": {
+    "key": "ROCHA_DO_NETHER_COMPACTA_ENCANTADA",
+    "displayName": "Rocha do Nether Compacta Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 51200.0
+  },
+  "ROCHA_DO_NETHER_ENCANTADA": {
+    "key": "ROCHA_DO_NETHER_ENCANTADA",
+    "displayName": "Rocha do Nether Encantada",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 320.0
+  },
+  "TEIA": {
+    "key": "TEIA",
+    "displayName": "Teia",
+    "rarity": "COMMON",
+    "category": "OTHER",
+    "sellPrice": 14.0
+  },
+  "TRIGO_ENCANTADO": {
+    "key": "TRIGO_ENCANTADO",
+    "displayName": "Trigo Encantado",
+    "rarity": "UNCOMMON",
+    "category": "OTHER",
+    "sellPrice": 160.0
+  },
+  "TORTA_DE_ABOBORA_ENCANTADA": {
+    "key": "TORTA_DE_ABOBORA_ENCANTADA",
+    "displayName": "Torta de Abóbora Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 102400.0
+  },
+  "VARA_DE_BLAZE_ENCANTADA": {
+    "key": "VARA_DE_BLAZE_ENCANTADA",
+    "displayName": "Vara de Blaze Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 76800.0
+  },
+  "VIDRO_ENCANTADO": {
+    "key": "VIDRO_ENCANTADO",
+    "displayName": "Vidro Encantado",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 51200.0
+  }
+}
