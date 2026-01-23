@@ -1,0 +1,2276 @@
+{
+  "PUMPKIN": {
+    "key": "pumpkin",
+    "permissionKey": "abobora",
+    "name": "Abóbora",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "PUMPKIN",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [],
+      "2": [
+        "§7Receita: §aAbóbora Encantada"
+      ],
+      "3": [
+        "§7Receita: §fLivro de Cubismo IV"
+      ],
+      "4": [
+        "§7Receita: §aCapacete de Abóbora",
+        "§7Receita: §aPeitoral de Abóbora",
+        "§7Receita: §aCalças de Abóbora",
+        "§7Receita: §aBotas de Abóbora"
+      ],
+      "5": [
+        "§7Receita: §9Talismã do Camponês"
+      ],
+      "6": [
+        "§7Receita: §aCapacete Luminoso",
+        "§7Receita: §9Torta de Abóbora Encantada"
+      ],
+      "7": [
+        "§7Receita: §5Machado de Abóbora"
+      ],
+      "8": [],
+      "9": []
+    }
+  },
+  "POTATO_ITEM": {
+    "key": "potato",
+    "permissionKey": "batata",
+    "name": "Batata",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "POTATO_ITEM",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000,
+      125000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fPortal para Fazenda"
+      ],
+      "2": [
+        "§7Receita: §fTalismã do Antídoto"
+      ],
+      "3": [],
+      "4": [
+        "§7Receita: §aBatata Encantada"
+      ],
+      "5": [
+        "§7XP em Herbalismo:§b +1000"
+      ],
+      "6": [
+        "§7Receita: §aBatata Assada Encantada"
+      ],
+      "7": [
+        "§7Receita: §5Livro de Batata Quente"
+      ],
+      "8": [
+        "§7XP em Herbalismo:§b +10000"
+      ],
+      "9": []
+    }
+  },
+  "CACTUS": {
+    "key": "cactus",
+    "permissionKey": "cacto",
+    "name": "Cacto",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "CACTUS",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fCapacete de Cacto",
+        "§7Receita: §fPeitoral de Cacto",
+        "§7Receita: §fCalças de Cacto",
+        "§7Receita: §fBotas de Cacto"
+      ],
+      "2": [
+        "§7Receita: §aVerde do Cacto Encantado"
+      ],
+      "3": [
+        "§7Receita: §fLivro de Penetração I"
+      ],
+      "4": [
+        "§7Indisponível: §fIlha Deserta"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §9Cacto Encantado"
+      ],
+      "7": [
+        "§7Receita: §fLivro de Espinhos II"
+      ],
+      "8": [
+        "§7XP em Herbalismo:§b +5000"
+      ],
+      "9": []
+    }
+  },
+  "SUGAR_CANE": {
+    "key": "sugarcane",
+    "permissionKey": "canaacucar",
+    "name": "Cana de Açúcar",
+    "maxLevel": 11,
+    "skillType": "FARMING_SKILL",
+    "material": "SUGAR_CANE",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fTalismã da Velocidade"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Turbilhão II",
+        "§7XP em Herbalismo:§b +50"
+      ],
+      "3": [
+        "§7Receita: §aAçúcar Encantado"
+      ],
+      "4": [
+        "§7XP em Herbalismo:§b +150"
+      ],
+      "5": [
+        "§7Receita: §fLivro de Açúcarado III"
+      ],
+      "6": [
+        "§7Receita: §9Cana de Açúcar Encantada"
+      ],
+      "7": [
+        "§7XP em Herbalismo:§b +2000"
+      ],
+      "8": [
+        "§7Receita: §5Capacete do Corredor",
+        "§7Receita: §5Peitoral do Corredor",
+        "§7Receita: §5Calças do Corredor",
+        "§7Receita: §5Botas do Corredor"
+      ],
+      "9": [
+        "§7XP em Herbalismo:§b +15000"
+      ],
+      "10": [
+        "§7Receita: §6Capacete do Velocista",
+        "§7Receita: §6Peitoral do Velocista",
+        "§7Receita: §6Calças do Velocista",
+        "§7Receita: §6Botas do Velocista"
+      ],
+      "11": []
+    }
+  },
+  "RABBIT_RAW": {
+    "key": "rabbit",
+    "permissionKey": "carnecoelho",
+    "name": "Carne de Coelho",
+    "maxLevel": 8,
+    "skillType": "FARMING_SKILL",
+    "material": "RABBIT",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000,
+      125000
+    ],
+    "rewards": {
+      "1": [],
+      "2": [],
+      "3": [
+        "§7Receita: §aCarne de Coelho Crua Encantada"
+      ],
+      "4": [
+        "§7Receita: §fLivro de Sorte IV"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §9Carne de Coelho Assada Encantada"
+      ],
+      "7": [
+        "§7Receita: §9Talismã do Coelho"
+      ],
+      "8": [
+        "§7Receita: §5Livro de Coelho Assado"
+      ]
+    }
+  },
+  "CHICKEN_RAW": {
+    "key": "chicken",
+    "permissionKey": "frango",
+    "name": "Frango Cru",
+    "maxLevel": 5,
+    "skillType": "FARMING_SKILL",
+    "material": "RAW_CHICKEN",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fOvo Construtor"
+      ],
+      "2": [
+        "§7Receita: §fChapéu de Galinha"
+      ],
+      "3": [
+        "§7Receita: §aFrango Cru Encantado"
+      ],
+      "4": [
+        "§7Receita: §aPena Magnética"
+      ],
+      "5": [
+        "§7Receita: §9Ovo Encantado"
+      ]
+    }
+  },
+  "PORK": {
+    "key": "pork",
+    "permissionKey": "carneporco",
+    "name": "Carne de Porco",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "PORK",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      5000,
+      1000,
+      15000,
+      25000,
+      50000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7XP em Herbalismo:§b +10"
+      ],
+      "2": [],
+      "3": [
+        "§7Receita: §aCarne de Porco Crua Encantada"
+      ],
+      "4": [
+        "§7Receita: §fPorquinho"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §9Carne de Porco Assada Encantada"
+      ],
+      "7": [],
+      "8": [
+        "§7Receita: §6Espada do Pigman"
+      ],
+      "9": []
+    }
+  },
+  "CARROT_ITEM": {
+    "key": "carrot",
+    "permissionKey": "cenoura",
+    "name": "Cenoura",
+    "maxLevel": 8,
+    "skillType": "FARMING_SKILL",
+    "material": "CARROT_ITEM",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      25000,
+      50000,
+      75000,
+      100000,
+      125000
+    ],
+    "rewards": {
+      "1": [],
+      "2": [
+        "§7Receita: §fLivro de Replantar I"
+      ],
+      "3": [
+        "§7Receita: §aCenoura Encantada"
+      ],
+      "4": [],
+      "5": [
+        "§7Receita: §9Cenoura Dourada Encantada"
+      ],
+      "6": [],
+      "7": [
+        "§7Receita: §5Livro de Cenoura Assada"
+      ],
+      "8": []
+    }
+  },
+  "MUSHROOM_ITEM": {
+    "key": "mushroom",
+    "permissionKey": "cogumelos",
+    "name": "Cogumelos",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "RED_MUSHROOM",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      25000,
+      50000,
+      75000,
+      100000,
+      125000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fMicélio"
+      ],
+      "2": [],
+      "3": [
+        "§7Receita: §aSopa Mágica"
+      ],
+      "4": [
+        "§7Receita: §fBloco de Cogumelo Vermelho",
+        "§7Receita: §fBloco de Cogumelo Marrom"
+      ],
+      "5": [
+        "§7Receita: §fTalismã de Visão Noturna"
+      ],
+      "6": [
+        "§7Receita: §aCogumelo Vermelho Encantado",
+        "§7Receita: §aCogumelo Marrom Encantado"
+      ],
+      "7": [
+        "§7Receita: §9Calças de Cogumelo",
+        "§7Receita: §9Capacete de Cogumelo",
+        "§7Receita: §9Peitoral de Cogumelo",
+        "§7Receita: §9Botas de Cogumelo"
+      ],
+      "8": [
+        "§7Receita: §9Bloco de Cogumelo Vermelho Encantado",
+        "§7Receita: §9Bloco de Cogumelo Marrom Encantado"
+      ],
+      "9": []
+    }
+  },
+  "LEATHER": {
+    "key": "leather",
+    "permissionKey": "couro",
+    "name": "Couro",
+    "maxLevel": 10,
+    "skillType": "FARMING_SKILL",
+    "material": "LEATHER",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      5000,
+      10000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fChapéu de Vaca"
+      ],
+      "2": [
+        "§7Receita: §aMochila Pequena"
+      ],
+      "3": [
+        "§7Receita: §aCouro Encantado"
+      ],
+      "4": [
+        "§7Receita: §9Mochila Média"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §aSela"
+      ],
+      "7": [
+        "§7Receita: §5Mochila Grande"
+      ],
+      "8": [
+        "§7Receita: §5Mochila Gigante"
+      ],
+      "9": [],
+      "10": []
+    }
+  },
+  "NETHER_WART": {
+    "key": "netherwart",
+    "permissionKey": "fungonether",
+    "name": "Fungo do Nether",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "NETHER_STALK",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Armazenamento: §aBolsa de Poções Pequena"
+      ],
+      "2": [
+        "§7Receita: §fTalismã Amplificador de Poções I"
+      ],
+      "3": [
+        "§7Receita: §aFungo do Nether Encantado"
+      ],
+      "4": [
+        "§7Armazenamento: §aBolsa de Poções Média"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §aTalismã Amplificador de Poções II"
+      ],
+      "7": [
+        "§7Armazenamento: §aBolsa de Poções Grande"
+      ],
+      "8": [
+        "§7Receita: §9Talismã Amplificador de Poções III"
+      ],
+      "9": [
+        "§7Receita: §5Machado Fungoso"
+      ]
+    }
+  },
+  "MELON_BLOCK": {
+    "key": "melon",
+    "permissionKey": "melancia",
+    "name": "Melancia",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "MELON",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7XP em Herbalismo:§b +50"
+      ],
+      "2": [
+        "§7Receita: §fTalismã Encaroçado I"
+      ],
+      "3": [
+        "§7Receita: §aMelancia Encantada"
+      ],
+      "4": [
+        "§7Receita: §aTalismã Encaroçado II",
+        "§7Receita: §9Melancia Reluzente Encantada"
+      ],
+      "5": [
+        "§7Receita: §9Machado de Melancia",
+        "§7Receita: §9Bloco de Melancia Encantado"
+      ],
+      "6": [
+        "§7XP em Herbalismo:§b +5000"
+      ],
+      "7": [
+        "§7Receita: §5Talismã Encaroçado III"
+      ],
+      "8": [
+        "§7XP em Herbalismo:§b +25000"
+      ],
+      "9": []
+    }
+  },
+  "FEATHER": {
+    "key": "feather",
+    "permissionKey": "pena",
+    "name": "Pena",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "FEATHER",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fLivro de Peso Pena I"
+      ],
+      "2": [],
+      "3": [
+        "§7Receita: §fTalismã da Leveza I"
+      ],
+      "4": [
+        "§7Receita: §aPena Encantada"
+      ],
+      "5": [
+        "§7Receita: §fLivro de Pontaria IV"
+      ],
+      "6": [
+        "§7Receita: §aTalismã da Leveza II"
+      ],
+      "7": [
+        "§7Receita: §fLivro de Atirador II"
+      ],
+      "8": [
+        "§7Receita: §9Talismã da Leveza III"
+      ],
+      "9": []
+    }
+  },
+  "SEEDS": {
+    "key": "seeds",
+    "permissionKey": "semente",
+    "name": "Semente",
+    "maxLevel": 6,
+    "skillType": "FARMING_SKILL",
+    "material": "SEEDS",
+    "requirements": [
+      50,
+      100,
+      250,
+      1000,
+      2500,
+      3000,
+      5000,
+      7500,
+      10000,
+      15000,
+      25000,
+      50000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fArgíla"
+      ],
+      "2": [
+        "§7Trocas: §fGrama"
+      ],
+      "3": [],
+      "4": [
+        "§7Trocas: §fFardo de Feno",
+        "§7Trocas: §fArbusto Morto"
+      ],
+      "5": [
+        "§7Trocas: §fGrama Alta",
+        "§7Trocas: §fBalde de Água"
+      ],
+      "6": []
+    }
+  },
+  "COCOA_ITEM": {
+    "key": "cocoa",
+    "permissionKey": "sementecacau",
+    "name": "Semente de Cacau",
+    "maxLevel": 9,
+    "skillType": "FARMING_SKILL",
+    "material": "INK_SACK",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      5000,
+      25000,
+      50000,
+      75000,
+      100000,
+      125000
+    ],
+    "rewards": {
+      "1": [
+        "§7XP em Herbalismo:§b +150"
+      ],
+      "2": [
+        "§7Receita: §fPortal para Cânion"
+      ],
+      "3": [
+        "§7Receita: §aCacau Encantado"
+      ],
+      "4": [
+        "§7XP em Herbalismo:§b +1500"
+      ],
+      "5": [
+        "§7Receita: §9Biscoito Encantado"
+      ],
+      "6": [
+        "§7XP em Herbalismo:§b +5000"
+      ],
+      "7": [
+        "§7Receita: §5Capacete de Biscoito",
+        "§7Receita: §5Peitoral de Biscoito",
+        "§7Receita: §5Calças de Biscoito",
+        "§7Receita: §5Botas de Biscoito"
+      ],
+      "8": [
+        "§7XP em Herbalismo:§b +10000"
+      ],
+      "9": []
+    }
+  },
+  "WHEAT": {
+    "key": "wheat",
+    "permissionKey": "trigo",
+    "name": "Trigo",
+    "maxLevel": 7,
+    "skillType": "FARMING_SKILL",
+    "material": "WHEAT",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fLivro de Colheita I"
+      ],
+      "2": [
+        "§7Receita: §fCapacete da Fazenda",
+        "§7Receita: §fPeitoral da Fazenda",
+        "§7Receita: §fCalças da Fazenda",
+        "§7Receita: §fBotas da Fazenda"
+      ],
+      "3": [
+        "§7Receita: §fTalismã do Fazendeiro"
+      ],
+      "4": [
+        "§7Receita: §aTrigo Encantado",
+        "§7Receita: §aPão Encantado"
+      ],
+      "5": [
+        "§7Indisponível: §fiIlha de Trigo"
+      ],
+      "6": [
+        "§7Receita: §9Fardo de Feno Encantado"
+      ],
+      "7": []
+    }
+  },
+  "SLIME_BALL": {
+    "key": "slimeball",
+    "permissionKey": "slime",
+    "name": "Goma de Slime",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "SLIME_BALL",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fChapéu de Slime"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Repulsão I"
+      ],
+      "3": [
+        "§7Receita: §aGoma de Slime Encantada"
+      ],
+      "4": [
+        "§7Receita: §9Bloco de Slime Encantado"
+      ],
+      "5": [
+        "§7Indisponível: §9Lançador"
+      ],
+      "6": [],
+      "7": [],
+      "8": [
+        "§7XP em Combate:§b +5000"
+      ],
+      "9": []
+    }
+  },
+  "ROTTEN_FLESH": {
+    "key": "rotten",
+    "permissionKey": "carnepodre",
+    "name": "Carne Podre",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "ROTTEN_FLESH",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fPicareta do Zumbi"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Julgamento IV"
+      ],
+      "3": [
+        "§7Receita: §aCarne Podre Encantada"
+      ],
+      "4": [
+        "§7Receita: §fChapéu de Zumbi"
+      ],
+      "5": [
+        "§7Receita: §9Coração de Zumbi"
+      ],
+      "6": [
+        "§7Receita: §9Espada do Zumbi"
+      ],
+      "7": [
+        "§7Receita: §5Peitoral de Zumbi",
+        "§7Receita: §5Calças de Zumbi",
+        "§7Receita: §5Botas de Zumbi"
+      ],
+      "8": [],
+      "9": []
+    }
+  },
+  "MAGMA_CREAM": {
+    "key": "magmacream",
+    "permissionKey": "cremedemagma",
+    "name": "Creme de Magma",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "MAGMA_CREAM",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fChapéu de Cubo de Magma"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Proteção contra Fogo IV"
+      ],
+      "3": [],
+      "4": [
+        "§7Receita: §aCreme de Magma Encantado"
+      ],
+      "5": [
+        "§7Trocas: §fBalde de Lava"
+      ],
+      "6": [
+        "§7Receita: §aTalismã de Resistência à Lava"
+      ],
+      "7": [
+        "§7Receita: §5Peitoral de Magma",
+        "§7Receita: §5Botas de Magma",
+        "§7Receita: §5Calças de Magma",
+        "§7Receita: §5Capacete de Magma"
+      ],
+      "8": [
+        "§7Receita: §5Coração de Magma",
+        "§7Receita: §5Arco de Magma"
+      ],
+      "9": [
+        "§7Receita: §6Balde de Magma Encantado"
+      ]
+    }
+  },
+  "GHAST_TEAR": {
+    "key": "ghasttear",
+    "permissionKey": "lagrimaghast",
+    "name": "Lágrima de Ghast",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "GHAST_TEAR",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fChapéu de Ghast"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Sede de Sangue II"
+      ],
+      "3": [
+        "§7Receita: §aLágrima de Ghast Encantada"
+      ],
+      "4": [
+        "§7Receita: §fLivro de Matador de Gigantes IV"
+      ],
+      "5": [
+        "§7Receita: §aPresa de Prata"
+      ],
+      "6": [],
+      "7": [],
+      "8": [
+        "§7XP em Combate:§b +5000"
+      ],
+      "9": []
+    }
+  },
+  "STRING": {
+    "key": "string",
+    "permissionKey": "linha",
+    "name": "Linha",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "STRING",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fTeia"
+      ],
+      "2": [
+        "§7Armazenamento: §aBolsa de Flecha Pequenas"
+      ],
+      "3": [
+        "§7Receita: §aLinha Encantada"
+      ],
+      "4": [
+        "§7Receita: §fLivro de Toque Suave I"
+      ],
+      "5": [
+        "§7Receita: §fLivro de Aljava Infinita II"
+      ],
+      "6": [
+        "§7Receita: §aLança Teia",
+        "§7Armazenamento: §aBolsa de Flechas Média"
+      ],
+      "7": [
+        "§7Receita: §9Botas de Aranha"
+      ],
+      "8": [
+        "§7Armazenamento: §aBolsa de Flechas Grande"
+      ],
+      "9": []
+    }
+  },
+  "SPIDER_EYE": {
+    "key": "spider",
+    "permissionKey": "olhodearanha",
+    "name": "Olho de Aranha",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "SPIDER_EYE",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fEspada da Aranha"
+      ],
+      "2": [
+        "§7Receita: §fChapéu de Aranha"
+      ],
+      "3": [
+        "§7Receita: §aOlho de Aranha Encantado"
+      ],
+      "4": [
+        "§7Receita: §fLivro de Ruína de Artrópodes IV"
+      ],
+      "5": [
+        "§7Receita: §fLivro de Veneno IV"
+      ],
+      "6": [],
+      "7": [
+        "§7Receita: §9Olho de Aranha Fermentado Encantado"
+      ],
+      "8": [
+        "§7Receita: §5Espada Saltitante"
+      ],
+      "9": []
+    }
+  },
+  "BONE": {
+    "key": "bone",
+    "permissionKey": "osso",
+    "name": "Osso",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "BONE",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fFarinha de Osso Encantada"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Força IV"
+      ],
+      "3": [
+        "§7Receita: §fChapéu de Esqueleto"
+      ],
+      "4": [
+        "§7Receita: §aOsso Encantado"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §5Arco Furacão"
+      ],
+      "7": [
+        "§7Receita: §9Capacete de Esqueleto"
+      ],
+      "8": [
+        "§7Receita: §6Arco de Apollo"
+      ],
+      "9": []
+    }
+  },
+  "ENDER_PEARL": {
+    "key": "enderpearl",
+    "permissionKey": "peroladofim",
+    "name": "Pérola do Fim",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "ENDER_PEARL",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §aPérola do Fim Encantada"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Guerreiro do Fim IV"
+      ],
+      "3": [],
+      "4": [
+        "§7Receita: §9Arco do Enderman"
+      ],
+      "5": [
+        "§7Receita: §aBolsa de Ender Pequena"
+      ],
+      "6": [
+        "§7Receita: §aOlho do Fim Encantado"
+      ],
+      "7": [
+        "§7Receita: §9Bolsa de Ender Média"
+      ],
+      "8": [
+        "§7Receita: §9Aspecto do Fim",
+        "§7Trocas: §aTeletransportador"
+      ],
+      "9": [
+        "§7Receita: §5Bolsa de Ender Grande"
+      ]
+    }
+  },
+  "GUN_POWDER": {
+    "key": "gunpowder",
+    "permissionKey": "polvora",
+    "name": "Pólvora",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "SULPHUR",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fFogos de Artifício",
+        "§7Receita: §fChapéu de Creeper"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Proteção contra Explosões IV"
+      ],
+      "3": [
+        "§7Receita: §aPólvora Encantada"
+      ],
+      "4": [
+        "§7Receita: §fLivro de Sobrecarga IV"
+      ],
+      "5": [
+        "§7Receita: §9Fogos de Artifícios Encantado"
+      ],
+      "6": [],
+      "7": [
+        "§7Receita: §9Calças de Creeper"
+      ],
+      "8": [
+        "§7Receita: §5Arco Explosivo"
+      ],
+      "9": []
+    }
+  },
+  "BLAZE_ROD": {
+    "key": "blazerod",
+    "permissionKey": "varadeblaze",
+    "name": "Vara Incadescente",
+    "maxLevel": 9,
+    "skillType": "COMBAT_SKILL",
+    "material": "BLAZE_ROD",
+    "requirements": [
+      50,
+      100,
+      250,
+      500,
+      1500,
+      15000,
+      25000,
+      50000,
+      75000,
+      125000,
+      175000,
+      200000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fChapéu de Blaze",
+        "§7Receita: §fVara de Blaze"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Aspecto Flamejante I"
+      ],
+      "3": [
+        "§7Receita: §aPó de Blaze Encantado"
+      ],
+      "4": [
+        "§7Receita: §aTalismã de Resistência ao Fogo"
+      ],
+      "5": [
+        "§7Receita: §fLivro de Chama I"
+      ],
+      "6": [
+        "§7Receita: §aVara de Blaze Encantada"
+      ],
+      "7": [
+        "§7Receita: §5Capacete de Blaze",
+        "§7Receita: §5Calças de Blaze",
+        "§7Receita: §5Botas de Blaze",
+        "§7Receita: §5Peitoral de Blaze"
+      ],
+      "8": [],
+      "9": []
+    }
+  },
+  "COBBLESTONE": {
+    "key": "cobblestone",
+    "permissionKey": "pedregulho",
+    "name": "Pedregulho",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "COBBLESTONE",
+    "requirements": [
+      50,
+      500,
+      5000,
+      15000,
+      25000,
+      30000,
+      75000,
+      100000,
+      115000,
+      2500000,
+      3000000,
+      32500000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fPlataforma de Pedra"
+      ],
+      "2": [
+        "§7Receita: §fFornalha de Fundição"
+      ],
+      "3": [
+        "§7Receita: §aPedregulho Encantado"
+      ],
+      "4": [
+        "§7Receita: §aCompactador"
+      ],
+      "5": [
+        "§7Receita: §aTalismã Compactador Pessoal I"
+      ],
+      "6": [
+        "§7Receita: §aCapacete de Pedregulho",
+        "§7Receita: §aPeitoral de Pedregulho",
+        "§7Receita: §aCalças de Pedregulho",
+        "§7Receita: §aBotas de Pedregulho"
+      ],
+      "7": [
+        "§7Receita: §aTalismã da Pressa",
+        "§7Receita: §9Talismã Compactador Pessoal II"
+      ],
+      "8": [
+        "§7Receita: §9Super Compactador"
+      ],
+      "9": [
+        "§7Receita: §5Talismã Compactador Pessoal III"
+      ]
+    }
+  },
+  "COAL_ORE": {
+    "key": "coal",
+    "permissionKey": "carvao",
+    "name": "Carvão",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "COAL",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fLivro de Autoderretimento I"
+      ],
+      "2": [],
+      "3": [
+        "§7Receita: §aCarvão Encantado"
+      ],
+      "4": [
+        "§7Receita: §aCarvão Vegetal Encantado"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §9Bloco de Carvão Encantado"
+      ],
+      "7": [
+        "§7Receita: §5Balde de Lava Encantado"
+      ],
+      "8": [],
+      "9": []
+    }
+  },
+  "IRON_INGOT": {
+    "key": "ironingot",
+    "permissionKey": "ferro",
+    "name": "Ferro",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "IRON_INGOT",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [],
+      "2": [
+        "§7Receita: §fLivro de Proteção IV"
+      ],
+      "3": [
+        "§7Receita: §aBarra de Ferro Encantada"
+      ],
+      "4": [
+        "§7Receita: §aVendedor Automático"
+      ],
+      "5": [
+        "§7Receita: §aCapacete de Golem",
+        "§7Receita: §aPeitoral de Golem",
+        "§7Receita: §aCalças de Golem",
+        "§7Receita: §aBotas de Golem"
+      ],
+      "6": [
+        "§7Receita: §9Bloco de Ferro Encantado"
+      ],
+      "7": [
+        "§7Receita: §9Espada do Golem"
+      ],
+      "8": [
+        "§7Receita: §9Vendedor Automático Eficiente"
+      ],
+      "9": []
+    }
+  },
+  "GOLD_INGOT": {
+    "key": "goldingot",
+    "permissionKey": "ouro",
+    "name": "Ouro",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "GOLD_INGOT",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §aCutelo"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Pilhagem II"
+      ],
+      "3": [
+        "§7Receita: §aBarra de Ouro Encantada"
+      ],
+      "4": [],
+      "5": [
+        "§7Receita: §fLivro de Ganância II"
+      ],
+      "6": [
+        "§7Receita: §9Bloco de Ouro Encantado"
+      ],
+      "7": [
+        "§7Receita: §fLivro de Fortuna II"
+      ],
+      "8": [
+        "§7Receita: §fLivro de Garimpo I"
+      ],
+      "9": []
+    }
+  },
+  "DIAMOND": {
+    "key": "diamond",
+    "permissionKey": "diamante",
+    "name": "Diamante",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "DIAMOND",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fLivro de Execução IV"
+      ],
+      "2": [
+        "§7Receita: §fPortal para Mina"
+      ],
+      "3": [
+        "§7Receita: §aDiamante Encantado"
+      ],
+      "4": [
+        "§7Receita: §fLivro de Crítico IV"
+      ],
+      "5": [
+        "§7Indisponível: §aEspalhador de Diamantes"
+      ],
+      "6": [
+        "§7Receita: §9Capacete de Diamante Reforçado",
+        "§7Receita: §9Peitoral de Diamante Reforçado",
+        "§7Receita: §9Calças de Diamante Reforçado",
+        "§7Receita: §9Botas de Diamante Reforçado"
+      ],
+      "7": [
+        "§7Receita: §9Bloco de Diamante Encantado"
+      ],
+      "8": [
+        "§7Receita: §9Capacete da Perfeição",
+        "§7Receita: §9Peitoral da Perfeição",
+        "§7Receita: §9Calças da Perfeição",
+        "§7Receita: §9Botas da Perfeição"
+      ],
+      "9": [
+        "§7Receita: §5Aperfeiçoador"
+      ]
+    }
+  },
+  "LAPIS_LAZULI": {
+    "key": "lapislazuli",
+    "permissionKey": "lapis",
+    "name": "Lapis Lazuli",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "INK_SACK",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fFrasco de Experiência"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Esperteza II"
+      ],
+      "3": [
+        "§7Receita: §aLápis-Lazúli Encantado"
+      ],
+      "4": [
+        "§7Receita: §aFrasco de Experiência Grande"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §9Bloco de Lápis-Lazúli Encantado"
+      ],
+      "7": [
+        "§7Receita: §5Frasco de Experiência Gigante"
+      ],
+      "8": [
+        "§7Receita: §5Talismã da Experiência"
+      ],
+      "9": []
+    }
+  },
+  "EMERALD": {
+    "key": "emerald",
+    "permissionKey": "esmeralda",
+    "name": "Esmeralda",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "EMERALD",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fTalismã de Coins"
+      ],
+      "2": [
+        "§7Receita: §fTalismã Magnético"
+      ],
+      "3": [
+        "§7Receita: §aEsmeralda Encantada"
+      ],
+      "4": [],
+      "5": [
+        "§7Acesso ao Banco Remoto"
+      ],
+      "6": [
+        "§7Receita: §9Bloco de Esmeralda Encantado"
+      ],
+      "7": [
+        "§7Receita: §5Lâmina de Esmeralda"
+      ],
+      "8": [
+        "§7Receita: §aCapacete de Esmeralda",
+        "§7Receita: §aPeitoral de Esmeralda",
+        "§7Receita: §aCalças de Esmeralda",
+        "§7Receita: §aBotas de Esmeralda"
+      ],
+      "9": []
+    }
+  },
+  "REDSTONE": {
+    "key": "redstone",
+    "permissionKey": "redstone",
+    "name": "Redstone",
+    "maxLevel": 11,
+    "skillType": "MINING_SKILL",
+    "material": "REDSTONE",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Armazenamento: §aBolsa de Acessórios Pequena"
+      ],
+      "2": [
+        "§7Receita: §fLivro de Eficiência IV"
+      ],
+      "3": [
+        "§7Receita: §aRedstone Encantada"
+      ],
+      "4": [],
+      "5": [],
+      "6": [
+        "§7Armazenamento: §aBolsa de Acessórios Média"
+      ],
+      "7": [
+        "§7Receita: §9Bloco de Redstone Encantado"
+      ],
+      "8": [
+        "§7Armazenamento: §aBolsa de Acessórios Grande"
+      ],
+      "9": [
+        "§7Armazenamento: §aBolsa de Acessórios Gigante"
+      ],
+      "10": [
+        "§7Armazenamento: §aBolsa de Acessórios Gigantesca"
+      ],
+      "11": []
+    }
+  },
+  "OBSIDIAN": {
+    "key": "obsidian",
+    "permissionKey": "obsidian",
+    "name": "Obsidiana",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "OBSIDIAN",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fLivro de Limiar da Lâmina IV"
+      ],
+      "2": [
+        "§7Receita: §aTalismã da Gravidade"
+      ],
+      "3": [
+        "§7Receita: §aObsidiana Encantada"
+      ],
+      "4": [
+        "§7Armazenamento: §aBaú do Fim (Pág. 2)"
+      ],
+      "5": [],
+      "6": [],
+      "7": [
+        "§7Armazenamento: §aBaú do Fim (Pág. 3)"
+      ],
+      "8": [],
+      "9": []
+    }
+  },
+  "QUARTZ": {
+    "key": "quartz",
+    "permissionKey": "quartzo",
+    "name": "Quartzo",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "QUARTZ",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §aPainel da Noite"
+      ],
+      "2": [
+        "§7Receita: §aPainel do Dia"
+      ],
+      "3": [
+        "§7Receita: §aQuartzo Encantado",
+        "§7Receita: §aPainel do Alvorecer"
+      ],
+      "4": [
+        "§7Receita: §9Expansor de Minions"
+      ],
+      "5": [
+        "§7Receita: §9Bloco de Quartzo Encantado"
+      ],
+      "6": [
+        "§7Receita: §9Talismã da Noite"
+      ],
+      "7": [
+        "§7Receita: §9Talismã do Dia"
+      ],
+      "8": [],
+      "9": []
+    }
+  },
+  "GLOWSTONE": {
+    "key": "glowstone",
+    "permissionKey": "pedraluminosa",
+    "name": "Pedra Luminosa",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "GLOWSTONE_DUST",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fPortal para Nether"
+      ],
+      "2": [
+        "§7XP em Mineração: §b+75"
+      ],
+      "3": [
+        "§7Receita: §aPó de Pedra Luminosa Encantado"
+      ],
+      "4": [
+        "§7XP em Mineração: §b+750"
+      ],
+      "5": [
+        "§7Receita: §aPedra Luminosa Encantada"
+      ],
+      "6": [
+        "§7Receita: §9Lâmpada de Redstone Encantada"
+      ],
+      "7": [],
+      "8": [
+        "§7XP em Mineração: §b+15000"
+      ],
+      "9": []
+    }
+  },
+  "GRAVEL": {
+    "key": "gravel",
+    "permissionKey": "cascalho",
+    "name": "Cascalho",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "GRAVEL",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fPá de Pederneira"
+      ],
+      "2": [
+        "§7Receita: §fPortal para Covil das Aranhas"
+      ],
+      "3": [
+        "§7Receita: §fLivro de Afiação IV"
+      ],
+      "4": [
+        "§7Receita: §aPederneira Encantada"
+      ],
+      "5": [
+        "§7Receita: §fLivro de Primeiro Hit III"
+      ],
+      "6": [],
+      "7": [
+        "§7XP em Mineração: §b+2500"
+      ],
+      "8": [
+        "§7XP em Mineração: §b+5000"
+      ],
+      "9": []
+    }
+  },
+  "SAND": {
+    "key": "sand",
+    "permissionKey": "areia",
+    "name": "Areia",
+    "maxLevel": 7,
+    "skillType": "MINING_SKILL",
+    "material": "SAND",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fAreia Vermelha"
+      ],
+      "2": [
+        "§7Trocas: §fAreia das Almas"
+      ],
+      "3": [],
+      "4": [
+        "§7Receita: §aAreia Encantada"
+      ],
+      "5": [],
+      "6": [],
+      "7": [
+        "§7Receita: §9Vidro Encantado"
+      ]
+    }
+  },
+  "ICE": {
+    "key": "ice",
+    "permissionKey": "gelo",
+    "name": "Gelo",
+    "maxLevel": 7,
+    "skillType": "MINING_SKILL",
+    "material": "ICE",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Receita: §fLivro de Aspecto Congelante II"
+      ],
+      "2": [],
+      "3": [
+        "§7Receita: §fGelo Compacto"
+      ],
+      "4": [
+        "§7Receita: §aGelo Encantado"
+      ],
+      "5": [
+        "§7Receita: §fBalde de Água Infinito"
+      ],
+      "6": [],
+      "7": [
+        "§7Receita: §9Gelo Compacto Encantado"
+      ]
+    }
+  },
+  "NETHERRACK": {
+    "key": "netherrack",
+    "permissionKey": "netherrack",
+    "name": "Rocha do Nether",
+    "maxLevel": 8,
+    "skillType": "MINING_SKILL",
+    "material": "NETHERRACK",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Indisponível: §fIlha do Nether"
+      ],
+      "2": [
+        "§7Trocas: Tijolo do Nether"
+      ],
+      "3": [
+        "§7Receita: §aRocha do Nether Encantada"
+      ],
+      "4": [],
+      "5": [
+        "§7Receita: §9Rocha do Nether Compacta Encantada"
+      ],
+      "6": [],
+      "7": [],
+      "8": [
+        "§7Receita: §6Machado Vulcânico"
+      ]
+    }
+  },
+  "ENDER_STONE": {
+    "key": "endstone",
+    "permissionKey": "pedradofim",
+    "name": "Pedra do Fim",
+    "maxLevel": 9,
+    "skillType": "MINING_SKILL",
+    "material": "ENDER_STONE",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7XP em Mineração:§b +500"
+      ],
+      "2": [
+        "§7Receita: §fPortal para The End"
+      ],
+      "3": [
+        "§7Receita: §aPedra do Fim Encantada"
+      ],
+      "4": [
+        "§7XP em Mineração: §b+1500"
+      ],
+      "5": [],
+      "6": [
+        "§7Receita: §9Catalizador"
+      ],
+      "7": [
+        "§7Receita: §5Espada de Pedra do Fim"
+      ],
+      "8": [],
+      "9": []
+    }
+  },
+  "OAK_LOG": {
+    "key": "oak",
+    "permissionKey": "carvalho",
+    "name": "Madeira de Carvalho",
+    "maxLevel": 9,
+    "skillType": "FORAGING_SKILL",
+    "material": "LOG",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fFolhas de Carvalho"
+      ],
+      "2": [
+        "§7Receita: §fPeitoral de Carvalho",
+        "§7Receita: §fBotas de Carvalho",
+        "§7Receita: §fCalças de Carvalho",
+        "§7Receita: §fCapacete de Carvalho"
+      ],
+      "3": [
+        "§7Receita: §fLivro de Serragem I"
+      ],
+      "4": [
+        "§7Receita: §aMadeira de Carvalho Encantada"
+      ],
+      "5": [
+        "§7Receita: §aTalismã do Lenhador"
+      ],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": []
+    }
+  },
+  "SPRUCE_LOG": {
+    "key": "spruce",
+    "permissionKey": "pinheiro",
+    "name": "Madeira de Pinheiro",
+    "maxLevel": 9,
+    "skillType": "FORAGING_SKILL",
+    "material": "LOG",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fFolhas de Pinheiro"
+      ],
+      "2": [
+        "§7Receita: §fPortal para Taiga"
+      ],
+      "3": [
+        "§7Receita: §fLivro de Broto I"
+      ],
+      "4": [
+        "§7Receita: §aMadeira de Pinheiro Encantada"
+      ],
+      "5": [],
+      "6": [
+        "§7XP em Lenha:§b +1000"
+      ],
+      "7": [],
+      "8": [
+        "§7XP em Lenha:§b +5000"
+      ],
+      "9": []
+    }
+  },
+  "BIRCH_LOG": {
+    "key": "birch",
+    "permissionKey": "eucalipto",
+    "name": "Madeira de Eucalipto",
+    "maxLevel": 9,
+    "skillType": "FORAGING_SKILL",
+    "material": "LOG",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fFolhas de Eucalipto"
+      ],
+      "2": [
+        "§7Receita: §fPortal para Caminho dos Eucaliptos"
+      ],
+      "3": [],
+      "4": [],
+      "5": [
+        "§7XP em Lenha:§b +150"
+      ],
+      "6": [
+        "§7Receita: §aMadeira de Eucalipto Encantada"
+      ],
+      "7": [
+        "§7Indisponível: §9Cristal de Lenhador"
+      ],
+      "8": [
+        "§7Receita: §9Machado Feroz"
+      ],
+      "9": [
+        "§7XP em Lenha:§b +1000"
+      ]
+    }
+  },
+  "JUNGLE_LOG": {
+    "key": "jungle",
+    "permissionKey": "selva",
+    "name": "Madeira da Selva",
+    "maxLevel": 9,
+    "skillType": "FORAGING_SKILL",
+    "material": "LOG",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fFolhas da Selva"
+      ],
+      "2": [
+        "§7Receita: §fPortal para Selva"
+      ],
+      "3": [
+        "§7Trocas: §fVinhas"
+      ],
+      "4": [],
+      "5": [
+        "§7Receita: §aMadeira da Selva Encantada"
+      ],
+      "6": [
+        "§7Receita: §aMachado Selvagem"
+      ],
+      "7": [],
+      "8": [
+        "§7XP em Lenha:§b +5000"
+      ],
+      "9": []
+    }
+  },
+  "ACACIA_LOG": {
+    "key": "acacia",
+    "permissionKey": "acacia",
+    "name": "Madeira de Acácia",
+    "maxLevel": 9,
+    "skillType": "FORAGING_SKILL",
+    "material": "LOG_2",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fFolhas de Acácia"
+      ],
+      "2": [
+        "§7Receita: §fPortal para Savana"
+      ],
+      "3": [],
+      "4": [],
+      "5": [
+        "§7Receita: §aMadeira de Acácia Encantada"
+      ],
+      "6": [
+        "§7Receita: §aArco Selvagem"
+      ],
+      "7": [
+        "§7Receita: §fLivro de Entalhe I"
+      ],
+      "8": [
+        "§7XP em Lenha:§b +2500"
+      ],
+      "9": []
+    }
+  },
+  "DARK_OAK": {
+    "key": "darkoak",
+    "permissionKey": "escura",
+    "name": "Madeira de Carv. Escuro",
+    "maxLevel": 9,
+    "skillType": "FORAGING_SKILL",
+    "material": "LOG_2",
+    "requirements": [
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000,
+      15000,
+      25000,
+      50000,
+      75000,
+      100000
+    ],
+    "rewards": {
+      "1": [
+        "§7Trocas: §fFolhas de Carvalho Escuro"
+      ],
+      "2": [
+        "§7Receita: §fPortal para Floresta Escura"
+      ],
+      "3": [],
+      "4": [
+        "§7Receita: §aMadeira de Carvalho Escuro Encantada"
+      ],
+      "5": [
+        "§7Indisponível: §fIlha de Carvalho Escuro"
+      ],
+      "6": [
+        "§7Receita: §fLivro de Crescimento IV"
+      ],
+      "7": [
+        "§7Receita: §9Capacete de Crescimento",
+        "§7Receita: §9Peitoral de Crescimento",
+        "§7Receita: §9Calças de Crescimento",
+        "§7Receita: §9Botas de Crescimento"
+      ],
+      "8": [
+        "§7XP em Lenha:§b +5000"
+      ],
+      "9": []
+    }
+  }
+}

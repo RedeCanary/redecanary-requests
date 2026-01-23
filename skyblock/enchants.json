@@ -1,0 +1,3156 @@
+{
+  "CRITICAL": {
+    "id": 100,
+    "reference": "critical",
+    "name": "Crítico",
+    "maxLevel": 5,
+    "firstBonus": 10.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a+10.0% §f☠ Dano Crítico."
+        ],
+        "2": [
+          "§7Concede §a+20.0% §f☠ Dano Crítico."
+        ],
+        "3": [
+          "§7Concede §a+30.0% §f☠ Dano Crítico."
+        ],
+        "4": [
+          "§7Concede §a+40.0% §f☠ Dano Crítico."
+        ],
+        "5": [
+          "§7Concede §a+50.0% §f☠ Dano Crítico."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0,
+        "4": 40.0,
+        "5": 50.0
+      },
+      "sellPrices": {
+        "1": 1280.0,
+        "2": 2560.0,
+        "3": 3840.0,
+        "4": 5120.0,
+        "5": 6400.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "FIRST_STRIKE": {
+    "id": 101,
+    "reference": "first_strike",
+    "name": "Primeiro Hit",
+    "maxLevel": 4,
+    "firstBonus": 25.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Causa 25.0% mais dano em seu",
+          "§7primeiro hit."
+        ],
+        "2": [
+          "§7Causa 50.0% mais dano em seu",
+          "§7primeiro hit."
+        ],
+        "3": [
+          "§7Causa 75.0% mais dano em seu",
+          "§7primeiro hit."
+        ],
+        "4": [
+          "§7Causa 100.0% mais dano em seu",
+          "§7primeiro hit."
+        ]
+      },
+      "expCosts": {
+        "1": 20.0,
+        "2": 40.0,
+        "3": 60.0,
+        "4": 80.0
+      },
+      "sellPrices": {
+        "1": 320.0,
+        "2": 640.0,
+        "3": 960.0,
+        "4": 1280.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "ENDER_SLAYER": {
+    "id": 102,
+    "reference": "ender_slayer",
+    "name": "Guerreiro do Fim",
+    "maxLevel": 5,
+    "firstBonus": 12.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": false,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Causa 12.0% mais dano em Enderman e Dragões."
+        ],
+        "2": [
+          "§7Causa 24.0% mais dano em Enderman e Dragões."
+        ],
+        "3": [
+          "§7Causa 36.0% mais dano em Enderman e Dragões."
+        ],
+        "4": [
+          "§7Causa 48.0% mais dano em Enderman e Dragões."
+        ],
+        "5": [
+          "§7Causa 60.0% mais dano em Enderman e Dragões."
+        ]
+      },
+      "expCosts": {
+        "1": 20.0,
+        "2": 40.0,
+        "3": 60.0,
+        "4": 80.0,
+        "5": 100.0
+      },
+      "sellPrices": {
+        "1": 273.2,
+        "2": 546.4,
+        "3": 819.5999999999999,
+        "4": 1092.8,
+        "5": 1366.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "CUBISM": {
+    "id": 103,
+    "reference": "cubism",
+    "name": "Cubismo",
+    "maxLevel": 5,
+    "firstBonus": 10.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Causa §a10.0% §7mais dano em Cubos",
+          "§7de Magma, Slimes e Creepers."
+        ],
+        "2": [
+          "§7Causa §a20.0% §7mais dano em Cubos",
+          "§7de Magma, Slimes e Creepers."
+        ],
+        "3": [
+          "§7Causa §a30.0% §7mais dano em Cubos",
+          "§7de Magma, Slimes e Creepers."
+        ],
+        "4": [
+          "§7Causa §a40.0% §7mais dano em Cubos",
+          "§7de Magma, Slimes e Creepers."
+        ],
+        "5": [
+          "§7Causa §a50.0% §7mais dano em Cubos",
+          "§7de Magma, Slimes e Creepers."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0,
+        "4": 40.0,
+        "5": 50.0
+      },
+      "sellPrices": {
+        "1": 39.5,
+        "2": 79.0,
+        "3": 118.5,
+        "4": 158.0,
+        "5": 197.5
+      },
+      "targets": [
+        "SWORD",
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "SHARPNESS": {
+    "id": 104,
+    "reference": "sharpness",
+    "name": "Afiação",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta o dano causado em 5.0%."
+        ],
+        "2": [
+          "§7Aumenta o dano causado em 10.0%."
+        ],
+        "3": [
+          "§7Aumenta o dano causado em 15.0%."
+        ],
+        "4": [
+          "§7Aumenta o dano causado em 20.0%."
+        ],
+        "5": [
+          "§7Aumenta o dano causado em 25.0%."
+        ]
+      },
+      "expCosts": {
+        "1": 20.0,
+        "2": 40.0,
+        "3": 60.0,
+        "4": 80.0,
+        "5": 100.0
+      },
+      "sellPrices": {
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0,
+        "4": 40.0,
+        "5": 50.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "BANE_OF_ARTHROPODS": {
+    "id": 105,
+    "reference": "baneofarthropods",
+    "name": "Ruína de Artropódes",
+    "maxLevel": 5,
+    "firstBonus": 8.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Causa 8.0% mais dano em Aranhas,",
+          "§7Aranhas da Caverna e Traças."
+        ],
+        "2": [
+          "§7Causa 16.0% mais dano em Aranhas,",
+          "§7Aranhas da Caverna e Traças."
+        ],
+        "3": [
+          "§7Causa 24.0% mais dano em Aranhas,",
+          "§7Aranhas da Caverna e Traças."
+        ],
+        "4": [
+          "§7Causa 32.0% mais dano em Aranhas,",
+          "§7Aranhas da Caverna e Traças."
+        ],
+        "5": [
+          "§7Causa 40.0% mais dano em Aranhas,",
+          "§7Aranhas da Caverna e Traças."
+        ]
+      },
+      "expCosts": {
+        "1": 45.0,
+        "2": 90.0,
+        "3": 135.0,
+        "4": 180.0,
+        "5": 225.0
+      },
+      "sellPrices": {
+        "1": 12.75,
+        "2": 25.5,
+        "3": 38.25,
+        "4": 51.0,
+        "5": 63.75
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "SMITE": {
+    "id": 106,
+    "reference": "smite",
+    "name": "Julgamento",
+    "maxLevel": 5,
+    "firstBonus": 8.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Causa 8.0% mais dano em Zumbis,",
+          "§7Esqueletos, Porcos-Zumbi e Withers."
+        ],
+        "2": [
+          "§7Causa 16.0% mais dano em Zumbis,",
+          "§7Esqueletos, Porcos-Zumbi e Withers."
+        ],
+        "3": [
+          "§7Causa 24.0% mais dano em Zumbis,",
+          "§7Esqueletos, Porcos-Zumbi e Withers."
+        ],
+        "4": [
+          "§7Causa 32.0% mais dano em Zumbis,",
+          "§7Esqueletos, Porcos-Zumbi e Withers."
+        ],
+        "5": [
+          "§7Causa 40.0% mais dano em Zumbis,",
+          "§7Esqueletos, Porcos-Zumbi e Withers."
+        ]
+      },
+      "expCosts": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0,
+        "4": 100.0,
+        "5": 125.0
+      },
+      "sellPrices": {
+        "1": 44.0,
+        "2": 88.0,
+        "3": 132.0,
+        "4": 176.0,
+        "5": 220.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "GIANT_KILLER": {
+    "id": 107,
+    "reference": "giant_killer",
+    "name": "Matador de Gigantes",
+    "maxLevel": 5,
+    "firstBonus": 0.2,
+    "secondBonus": 5.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta o dano causado por você em 0,20%",
+          "§7para cada porcentagem de vida extra",
+          "§7que o monstro possui com relação à",
+          "§7você até 5,00%."
+        ],
+        "2": [
+          "§7Aumenta o dano causado por você em 0,40%",
+          "§7para cada porcentagem de vida extra",
+          "§7que o monstro possui com relação à",
+          "§7você até 10,00%."
+        ],
+        "3": [
+          "§7Aumenta o dano causado por você em 0,60%",
+          "§7para cada porcentagem de vida extra",
+          "§7que o monstro possui com relação à",
+          "§7você até 15,00%."
+        ],
+        "4": [
+          "§7Aumenta o dano causado por você em 0,80%",
+          "§7para cada porcentagem de vida extra",
+          "§7que o monstro possui com relação à",
+          "§7você até 20,00%."
+        ],
+        "5": [
+          "§7Aumenta o dano causado por você em 1,00%",
+          "§7para cada porcentagem de vida extra",
+          "§7que o monstro possui com relação à",
+          "§7você até 25,00%."
+        ]
+      },
+      "expCosts": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0,
+        "4": 100.0,
+        "5": 125.0
+      },
+      "sellPrices": {
+        "1": 64.0,
+        "2": 128.0,
+        "3": 192.0,
+        "4": 256.0,
+        "5": 320.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "OVERLOAD": {
+    "id": 108,
+    "reference": "overload",
+    "name": "Sobrecarga",
+    "maxLevel": 5,
+    "firstBonus": 10.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": false,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7A cada 3 hits você lança um raio no seu",
+          "§7oponente, causando 10.0% de sua força como",
+          "§7dano."
+        ],
+        "2": [
+          "§7A cada 3 hits você lança um raio no seu",
+          "§7oponente, causando 20.0% de sua força como",
+          "§7dano."
+        ],
+        "3": [
+          "§7A cada 3 hits você lança um raio no seu",
+          "§7oponente, causando 30.0% de sua força como",
+          "§7dano."
+        ],
+        "4": [
+          "§7A cada 3 hits você lança um raio no seu",
+          "§7oponente, causando 40.0% de sua força como",
+          "§7dano."
+        ],
+        "5": [
+          "§7A cada 3 hits você lança um raio no seu",
+          "§7oponente, causando 50.0% de sua força como",
+          "§7dano."
+        ]
+      },
+      "expCosts": {
+        "1": 45.0,
+        "2": 90.0,
+        "3": 135.0,
+        "4": 180.0,
+        "5": 225.0
+      },
+      "sellPrices": {
+        "1": 341.5,
+        "2": 683.0,
+        "3": 1024.5,
+        "4": 1366.0,
+        "5": 1707.5
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "AREA_DAMAGE": {
+    "id": 109,
+    "reference": "area_damage",
+    "name": "Dano em Área",
+    "maxLevel": 4,
+    "firstBonus": 3.0,
+    "secondBonus": 1.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Ao atacar um monstro, aplica 3.0% do dano",
+          "§7da sua arma aos monstros em um raio de 1.0",
+          "§7blocos."
+        ],
+        "2": [
+          "§7Ao atacar um monstro, aplica 6.0% do dano",
+          "§7da sua arma aos monstros em um raio de 2.0",
+          "§7blocos."
+        ],
+        "3": [
+          "§7Ao atacar um monstro, aplica 9.0% do dano",
+          "§7da sua arma aos monstros em um raio de 3.0",
+          "§7blocos."
+        ],
+        "4": [
+          "§7Ao atacar um monstro, aplica 12.0% do dano",
+          "§7da sua arma aos monstros em um raio de 4.0",
+          "§7blocos."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0,
+        "4": 40.0
+      },
+      "sellPrices": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0,
+        "4": 100.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "EXECUTE": {
+    "id": 110,
+    "reference": "execute",
+    "name": "Execução",
+    "maxLevel": 5,
+    "firstBonus": 0.2,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta em §a0,20% §7o dano causado em",
+          "§7seu inimigo para cada porcentagem",
+          "§7de vida que ele já tiver perdido."
+        ],
+        "2": [
+          "§7Aumenta em §a0,40% §7o dano causado em",
+          "§7seu inimigo para cada porcentagem",
+          "§7de vida que ele já tiver perdido."
+        ],
+        "3": [
+          "§7Aumenta em §a0,60% §7o dano causado em",
+          "§7seu inimigo para cada porcentagem",
+          "§7de vida que ele já tiver perdido."
+        ],
+        "4": [
+          "§7Aumenta em §a0,80% §7o dano causado em",
+          "§7seu inimigo para cada porcentagem",
+          "§7de vida que ele já tiver perdido."
+        ],
+        "5": [
+          "§7Aumenta em §a1,00% §7o dano causado em",
+          "§7seu inimigo para cada porcentagem",
+          "§7de vida que ele já tiver perdido."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0,
+        "4": 40.0,
+        "5": 50.0
+      },
+      "sellPrices": {
+        "1": 126.0,
+        "2": 252.0,
+        "3": 378.0,
+        "4": 504.0,
+        "5": 630.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "LOOT_BONUS_MOBS": {
+    "id": 111,
+    "reference": "loot_bonus_mobs",
+    "name": "Pilhagem",
+    "maxLevel": 3,
+    "firstBonus": 15.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta a chance dos monstros",
+          "§7droparem o dobro em §a15.0%§7."
+        ],
+        "2": [
+          "§7Aumenta a chance dos monstros",
+          "§7droparem o dobro em §a30.0%§7."
+        ],
+        "3": [
+          "§7Aumenta a chance dos monstros",
+          "§7droparem o dobro em §a45.0%§7."
+        ]
+      },
+      "expCosts": {
+        "1": 20.0,
+        "2": 40.0,
+        "3": 60.0
+      },
+      "sellPrices": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "GROWTH": {
+    "id": 112,
+    "reference": "growth",
+    "name": "Crescimento",
+    "maxLevel": 5,
+    "firstBonus": 15.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede mais 15.0 pontos de vida."
+        ],
+        "2": [
+          "§7Concede mais 30.0 pontos de vida."
+        ],
+        "3": [
+          "§7Concede mais 45.0 pontos de vida."
+        ],
+        "4": [
+          "§7Concede mais 60.0 pontos de vida."
+        ],
+        "5": [
+          "§7Concede mais 75.0 pontos de vida."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0,
+        "5": 75.0
+      },
+      "sellPrices": {
+        "1": 362.5,
+        "2": 725.0,
+        "3": 1087.5,
+        "4": 1450.0,
+        "5": 1812.5
+      },
+      "targets": [
+        "HAT",
+        "HELMET",
+        "CHESTPLATE",
+        "LEGGINGS",
+        "BOOTS"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "FLAME": {
+    "id": 113,
+    "reference": "flame",
+    "name": "Chama",
+    "maxLevel": 5,
+    "firstBonus": 3.0,
+    "secondBonus": 5.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Flechas incendeiam inimigos por 3.0 segundos",
+          "§7causando 5.0 de dano por segundo."
+        ],
+        "2": [
+          "§7Flechas incendeiam inimigos por 6.0 segundos",
+          "§7causando 10.0 de dano por segundo."
+        ],
+        "3": [
+          "§7Flechas incendeiam inimigos por 9.0 segundos",
+          "§7causando 15.0 de dano por segundo."
+        ],
+        "4": [
+          "§7Flechas incendeiam inimigos por 12.0 segundos",
+          "§7causando 20.0 de dano por segundo."
+        ],
+        "5": [
+          "§7Flechas incendeiam inimigos por 15.0 segundos",
+          "§7causando 25.0 de dano por segundo."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0,
+        "4": 40.0,
+        "5": 50.0
+      },
+      "sellPrices": {
+        "1": 504.0,
+        "2": 1008.0,
+        "3": 1512.0,
+        "4": 2016.0,
+        "5": 2520.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "THORNS": {
+    "id": 114,
+    "reference": "thorns",
+    "name": "Espinhos",
+    "maxLevel": 3,
+    "firstBonus": 3.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede 50% de chance de rebater 3.0%",
+          "§7do dano recebido."
+        ],
+        "2": [
+          "§7Concede 50% de chance de rebater 6.0%",
+          "§7do dano recebido."
+        ],
+        "3": [
+          "§7Concede 50% de chance de rebater 9.0%",
+          "§7do dano recebido."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0
+      },
+      "sellPrices": {
+        "1": 27.5,
+        "2": 55.0,
+        "3": 82.5
+      },
+      "targets": [
+        "HAT",
+        "HELMET",
+        "CHESTPLATE",
+        "LEGGINGS",
+        "BOOTS"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "VAMPIRISM": {
+    "id": 115,
+    "reference": "vampirism",
+    "name": "Vampirismo",
+    "maxLevel": 3,
+    "firstBonus": 1.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Regenera 1.0% §7de sua vida a",
+          "§7cada monstro abatido."
+        ],
+        "2": [
+          "§7Regenera 2.0% §7de sua vida a",
+          "§7cada monstro abatido."
+        ],
+        "3": [
+          "§7Regenera 3.0% §7de sua vida a",
+          "§7cada monstro abatido."
+        ]
+      },
+      "expCosts": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0
+      },
+      "sellPrices": {
+        "1": 26.5,
+        "2": 53.0,
+        "3": 79.5
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "LIFE_STEAL": {
+    "id": 116,
+    "reference": "life_steal",
+    "name": "Sede de Sangue",
+    "maxLevel": 5,
+    "firstBonus": 1.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Transforma 1.0% do dano causado",
+          "§7em monstros em vida."
+        ],
+        "2": [
+          "§7Transforma 2.0% do dano causado",
+          "§7em monstros em vida."
+        ],
+        "3": [
+          "§7Transforma 3.0% do dano causado",
+          "§7em monstros em vida."
+        ],
+        "4": [
+          "§7Transforma 4.0% do dano causado",
+          "§7em monstros em vida."
+        ],
+        "5": [
+          "§7Transforma 5.0% do dano causado",
+          "§7em monstros em vida."
+        ]
+      },
+      "expCosts": {
+        "1": 30.0,
+        "2": 60.0,
+        "3": 90.0,
+        "4": 120.0,
+        "5": 150.0
+      },
+      "sellPrices": {
+        "1": 2080.25,
+        "2": 4160.5,
+        "3": 6240.75,
+        "4": 8321.0,
+        "5": 10401.25
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "DRAGON_HUNTER": {
+    "id": 117,
+    "reference": "dragon_hunter",
+    "name": "Caçador de Dragões",
+    "maxLevel": 5,
+    "firstBonus": 16.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Causa 16.0% mais dano em Dragões."
+        ],
+        "2": [
+          "§7Causa 32.0% mais dano em Dragões."
+        ],
+        "3": [
+          "§7Causa 48.0% mais dano em Dragões."
+        ],
+        "4": [
+          "§7Causa 64.0% mais dano em Dragões."
+        ],
+        "5": [
+          "§7Causa 80.0% mais dano em Dragões."
+        ]
+      },
+      "expCosts": {
+        "1": 60.0,
+        "2": 120.0,
+        "3": 180.0,
+        "4": 240.0,
+        "5": 300.0
+      },
+      "sellPrices": {
+        "1": 250000.0,
+        "2": 500000.0,
+        "3": 750000.0,
+        "4": 1000000.0,
+        "5": 1250000.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "SNIPE": {
+    "id": 118,
+    "reference": "snipe",
+    "name": "Atirador",
+    "maxLevel": 5,
+    "firstBonus": 1.0,
+    "secondBonus": 5.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Flechas causam 1.0% §7mais dano a cada",
+          "§75.0 §7blocos percorridos."
+        ],
+        "2": [
+          "§7Flechas causam 2.0% §7mais dano a cada",
+          "§710.0 §7blocos percorridos."
+        ],
+        "3": [
+          "§7Flechas causam 3.0% §7mais dano a cada",
+          "§715.0 §7blocos percorridos."
+        ],
+        "4": [
+          "§7Flechas causam 4.0% §7mais dano a cada",
+          "§720.0 §7blocos percorridos."
+        ],
+        "5": [
+          "§7Flechas causam 5.0% §7mais dano a cada",
+          "§725.0 §7blocos percorridos."
+        ]
+      },
+      "expCosts": {
+        "1": 20.0,
+        "2": 40.0,
+        "3": 60.0,
+        "4": 80.0,
+        "5": 100.0
+      },
+      "sellPrices": {
+        "1": 31.0,
+        "2": 62.0,
+        "3": 93.0,
+        "4": 124.0,
+        "5": 155.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "POWER": {
+    "id": 119,
+    "reference": "power",
+    "name": "Força",
+    "maxLevel": 5,
+    "firstBonus": 10.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta o dano causado em 10.0%"
+        ],
+        "2": [
+          "§7Aumenta o dano causado em 20.0%"
+        ],
+        "3": [
+          "§7Aumenta o dano causado em 30.0%"
+        ],
+        "4": [
+          "§7Aumenta o dano causado em 40.0%"
+        ],
+        "5": [
+          "§7Aumenta o dano causado em 50.0%"
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0,
+        "5": 75.0
+      },
+      "sellPrices": {
+        "1": 37.5,
+        "2": 75.0,
+        "3": 112.5,
+        "4": 150.0,
+        "5": 187.5
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "IMPACT": {
+    "id": 120,
+    "reference": "impact",
+    "name": "Impacto",
+    "maxLevel": 3,
+    "firstBonus": 1.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta a repulsão de inimigos em 1.0",
+          "§7blocos."
+        ],
+        "2": [
+          "§7Aumenta a repulsão de inimigos em 2.0",
+          "§7blocos."
+        ],
+        "3": [
+          "§7Aumenta a repulsão de inimigos em 3.0",
+          "§7blocos."
+        ]
+      },
+      "expCosts": {
+        "1": 12.0,
+        "2": 24.0,
+        "3": 36.0
+      },
+      "sellPrices": {
+        "1": 7.0,
+        "2": 14.0,
+        "3": 21.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "TOURBILLON": {
+    "id": 121,
+    "reference": "tourbillon",
+    "name": "Turbilhão",
+    "maxLevel": 3,
+    "firstBonus": 3.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a+3.0% §f☠ Dano Crítico",
+          "§7a cada §a10 §f✦ Velocidade§7."
+        ],
+        "2": [
+          "§7Concede §a+6.0% §f☠ Dano Crítico",
+          "§7a cada §a10 §f✦ Velocidade§7."
+        ],
+        "3": [
+          "§7Concede §a+9.0% §f☠ Dano Crítico",
+          "§7a cada §a10 §f✦ Velocidade§7."
+        ]
+      },
+      "expCosts": {
+        "1": 30.0,
+        "2": 60.0,
+        "3": 90.0
+      },
+      "sellPrices": {
+        "1": 135.0,
+        "2": 270.0,
+        "3": 405.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "CANDY_RUSH": {
+    "id": 122,
+    "reference": "candy_rush",
+    "name": "Açúcarado",
+    "maxLevel": 4,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede mais 5.0 §f✦ Velocidade§7."
+        ],
+        "2": [
+          "§7Concede mais 10.0 §f✦ Velocidade§7."
+        ],
+        "3": [
+          "§7Concede mais 15.0 §f✦ Velocidade§7."
+        ],
+        "4": [
+          "§7Concede mais 20.0 §f✦ Velocidade§7."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0
+      },
+      "sellPrices": {
+        "1": 360.0,
+        "2": 720.0,
+        "3": 1080.0,
+        "4": 1440.0
+      },
+      "targets": [
+        "BOOTS"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "ICE_ASPECT": {
+    "id": 123,
+    "reference": "ice_aspect",
+    "name": "Aspecto Congelante",
+    "maxLevel": 3,
+    "firstBonus": 1.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": false,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Congela alguns monstros durante 1.0 segundos."
+        ],
+        "2": [
+          "§7Congela alguns monstros durante 2.0 segundos."
+        ],
+        "3": [
+          "§7Congela alguns monstros durante 3.0 segundos."
+        ]
+      },
+      "expCosts": {
+        "1": 20.0,
+        "2": 40.0,
+        "3": 60.0
+      },
+      "sellPrices": {
+        "1": 30.0,
+        "2": 60.0,
+        "3": 90.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "TELEKINESIS": {
+    "id": 124,
+    "reference": "telekinesis",
+    "name": "Magnetismo",
+    "maxLevel": 1,
+    "firstBonus": 0.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Minérios e drops de monstros vão",
+          "§7diretamente para seu inventário."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0
+      },
+      "sellPrices": {
+        "1": 20.0
+      },
+      "targets": [
+        "SWORD",
+        "BOW",
+        "HOE",
+        "SHEAR",
+        "AXE",
+        "SHOVEL",
+        "PICKAXE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "AIMING": {
+    "id": 125,
+    "reference": "aiming",
+    "name": "Pontaria",
+    "maxLevel": 4,
+    "firstBonus": 3.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Guia suas flechas aos mobs em um",
+          "§7raio de até 3.0 §7blocos"
+        ],
+        "2": [
+          "§7Guia suas flechas aos mobs em um",
+          "§7raio de até 6.0 §7blocos"
+        ],
+        "3": [
+          "§7Guia suas flechas aos mobs em um",
+          "§7raio de até 9.0 §7blocos"
+        ],
+        "4": [
+          "§7Guia suas flechas aos mobs em um",
+          "§7raio de até 12.0 §7blocos"
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0
+      },
+      "sellPrices": {
+        "1": 50.0,
+        "2": 100.0,
+        "3": 150.0,
+        "4": 200.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "SILK_TOUCH": {
+    "id": 126,
+    "reference": "silk_touch",
+    "name": "Toque Suave",
+    "maxLevel": 1,
+    "firstBonus": 0.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Blocos coletados serão dropados em sua",
+          "§7forma original."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0
+      },
+      "sellPrices": {
+        "1": 36.0
+      },
+      "targets": [
+        "AXE",
+        "SHOVEL",
+        "HOE",
+        "PICKAXE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "FIRE_ASPECT": {
+    "id": 127,
+    "reference": "fire_aspect",
+    "name": "Aspecto Flamejante",
+    "maxLevel": 5,
+    "firstBonus": 3.0,
+    "secondBonus": 5.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Deixa seus inimigos em chamas",
+          "§7por 3.0 segundos causando 5.0 dano",
+          "§7por segundo."
+        ],
+        "2": [
+          "§7Deixa seus inimigos em chamas",
+          "§7por 6.0 segundos causando 10.0 dano",
+          "§7por segundo."
+        ],
+        "3": [
+          "§7Deixa seus inimigos em chamas",
+          "§7por 9.0 segundos causando 15.0 dano",
+          "§7por segundo."
+        ],
+        "4": [
+          "§7Deixa seus inimigos em chamas",
+          "§7por 12.0 segundos causando 20.0 dano",
+          "§7por segundo."
+        ],
+        "5": [
+          "§7Deixa seus inimigos em chamas",
+          "§7por 15.0 segundos causando 25.0 dano",
+          "§7por segundo."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 51.0,
+        "2": 102.0,
+        "3": 153.0,
+        "4": 204.0,
+        "5": 255.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [
+        "POISON"
+      ],
+      "replaces": [
+        "POISON"
+      ]
+    }
+  },
+  "KNOCKBACK": {
+    "id": 128,
+    "reference": "knockback",
+    "name": "Repulsão",
+    "maxLevel": 2,
+    "firstBonus": 3.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta a repulsão causada pelo",
+          "§7hit em 3.0 blocos."
+        ],
+        "2": [
+          "§7Aumenta a repulsão causada pelo",
+          "§7hit em 6.0 blocos."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0
+      },
+      "sellPrices": {
+        "1": 44.0,
+        "2": 88.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "POISON": {
+    "id": 129,
+    "reference": "poison",
+    "name": "Veneno",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 1.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Reduz a velocidade do monstro",
+          "§7em 5.0 e causa 5.0 §7de dano por",
+          "§7segundo. Dura 1.0 segundos."
+        ],
+        "2": [
+          "§7Reduz a velocidade do monstro",
+          "§7em 10.0 e causa 10.0 §7de dano por",
+          "§7segundo. Dura 2.0 segundos."
+        ],
+        "3": [
+          "§7Reduz a velocidade do monstro",
+          "§7em 15.0 e causa 15.0 §7de dano por",
+          "§7segundo. Dura 3.0 segundos."
+        ],
+        "4": [
+          "§7Reduz a velocidade do monstro",
+          "§7em 20.0 e causa 20.0 §7de dano por",
+          "§7segundo. Dura 4.0 segundos."
+        ],
+        "5": [
+          "§7Reduz a velocidade do monstro",
+          "§7em 25.0 e causa 25.0 §7de dano por",
+          "§7segundo. Dura 5.0 segundos."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0,
+        "5": 75.0
+      },
+      "sellPrices": {
+        "1": 494.5,
+        "2": 989.0,
+        "3": 1483.5,
+        "4": 1978.0,
+        "5": 2472.5
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [
+        "FIRE_ASPECT"
+      ],
+      "replaces": [
+        "FIRE_ASPECT"
+      ]
+    }
+  },
+  "LUCK": {
+    "id": 130,
+    "reference": "luck",
+    "name": "Sorte",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 1.0,
+    "allowedInEnchantTable": false,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta em 5.0 §7a chance de um",
+          "§7monstro dropar sua armadura",
+          "§7ao morrer."
+        ],
+        "2": [
+          "§7Aumenta em 10.0 §7a chance de um",
+          "§7monstro dropar sua armadura",
+          "§7ao morrer."
+        ],
+        "3": [
+          "§7Aumenta em 15.0 §7a chance de um",
+          "§7monstro dropar sua armadura",
+          "§7ao morrer."
+        ],
+        "4": [
+          "§7Aumenta em 20.0 §7a chance de um",
+          "§7monstro dropar sua armadura",
+          "§7ao morrer."
+        ],
+        "5": [
+          "§7Aumenta em 25.0 §7a chance de um",
+          "§7monstro dropar sua armadura",
+          "§7ao morrer."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 12.0,
+        "2": 24.0,
+        "3": 36.0,
+        "4": 48.0,
+        "5": 60.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "GREED": {
+    "id": 131,
+    "reference": "greed",
+    "name": "Ganância",
+    "maxLevel": 3,
+    "firstBonus": 0.6,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": false,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Recebe §a+0.6 §7coins por nível",
+          "§7do monstro eliminado."
+        ],
+        "2": [
+          "§7Recebe §a+1.2 §7coins por nível",
+          "§7do monstro eliminado."
+        ],
+        "3": [
+          "§7Recebe §a+1.7999999999999998 §7coins por nível",
+          "§7do monstro eliminado."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0
+      },
+      "sellPrices": {
+        "1": 38.75,
+        "2": 77.5,
+        "3": 116.25
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "EXPLOSION_PROTECTION": {
+    "id": 132,
+    "reference": "explosion_protection",
+    "name": "Proteção contra Explosões",
+    "maxLevel": 4,
+    "firstBonus": 3.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede 3.0 defesa contra explosões."
+        ],
+        "2": [
+          "§7Concede 6.0 defesa contra explosões."
+        ],
+        "3": [
+          "§7Concede 9.0 defesa contra explosões."
+        ],
+        "4": [
+          "§7Concede 12.0 defesa contra explosões."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0
+      },
+      "sellPrices": {
+        "1": 28.0,
+        "2": 56.0,
+        "3": 84.0,
+        "4": 112.0
+      },
+      "targets": [
+        "HAT",
+        "HELMET",
+        "CHESTPLATE",
+        "LEGGINGS",
+        "BOOTS"
+      ],
+      "conflicts": [
+        "PROTECTION",
+        "PROJECTILE_PROTECTION",
+        "FIRE_PROTECTION"
+      ],
+      "replaces": [
+        "PROTECTION",
+        "PROJECTILE_PROTECTION",
+        "FIRE_PROTECTION"
+      ]
+    }
+  },
+  "FIRE_PROTECTION": {
+    "id": 133,
+    "reference": "fire_protection",
+    "name": "Proteção Contra Fogo",
+    "maxLevel": 4,
+    "firstBonus": 3.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede 3.0 defesa contra fogo e lava."
+        ],
+        "2": [
+          "§7Concede 6.0 defesa contra fogo e lava."
+        ],
+        "3": [
+          "§7Concede 9.0 defesa contra fogo e lava."
+        ],
+        "4": [
+          "§7Concede 12.0 defesa contra fogo e lava."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0
+      },
+      "sellPrices": {
+        "1": 16.0,
+        "2": 32.0,
+        "3": 48.0,
+        "4": 64.0
+      },
+      "targets": [
+        "HAT",
+        "HELMET",
+        "CHESTPLATE",
+        "LEGGINGS",
+        "BOOTS"
+      ],
+      "conflicts": [
+        "PROTECTION",
+        "PROJECTILE_PROTECTION",
+        "EXPLOSION_PROTECTION"
+      ],
+      "replaces": [
+        "PROTECTION",
+        "PROJECTILE_PROTECTION",
+        "EXPLOSION_PROTECTION"
+      ]
+    }
+  },
+  "PROJECTILE_PROTECTION": {
+    "id": 134,
+    "reference": "projectile_protection",
+    "name": "Proteção contra Projéteis",
+    "maxLevel": 4,
+    "firstBonus": 3.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede 3.0 defesa contra projéteis."
+        ],
+        "2": [
+          "§7Concede 6.0 defesa contra projéteis."
+        ],
+        "3": [
+          "§7Concede 9.0 defesa contra projéteis."
+        ],
+        "4": [
+          "§7Concede 12.0 defesa contra projéteis."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0
+      },
+      "sellPrices": {
+        "1": 13.5,
+        "2": 27.0,
+        "3": 40.5,
+        "4": 54.0
+      },
+      "targets": [
+        "HAT",
+        "HELMET",
+        "CHESTPLATE",
+        "LEGGINGS",
+        "BOOTS"
+      ],
+      "conflicts": [
+        "PROTECTION",
+        "FIRE_PROTECTION",
+        "EXPLOSION_PROTECTION"
+      ],
+      "replaces": [
+        "PROTECTION",
+        "FIRE_PROTECTION",
+        "EXPLOSION_PROTECTION"
+      ]
+    }
+  },
+  "PROTECTION": {
+    "id": 135,
+    "reference": "protection",
+    "name": "Proteção",
+    "maxLevel": 5,
+    "firstBonus": 3.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a+3.0 ⚜ Defesa§7."
+        ],
+        "2": [
+          "§7Concede §a+6.0 ⚜ Defesa§7."
+        ],
+        "3": [
+          "§7Concede §a+9.0 ⚜ Defesa§7."
+        ],
+        "4": [
+          "§7Concede §a+12.0 ⚜ Defesa§7."
+        ],
+        "5": [
+          "§7Concede §a+15.0 ⚜ Defesa§7."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0,
+        "5": 75.0
+      },
+      "sellPrices": {
+        "1": 14.0,
+        "2": 28.0,
+        "3": 42.0,
+        "4": 56.0,
+        "5": 70.0
+      },
+      "targets": [
+        "HAT",
+        "HELMET",
+        "CHESTPLATE",
+        "LEGGINGS",
+        "BOOTS"
+      ],
+      "conflicts": [
+        "EXPLOSION_PROTECTION",
+        "PROJECTILE_PROTECTION",
+        "FIRE_PROTECTION"
+      ],
+      "replaces": [
+        "EXPLOSION_PROTECTION",
+        "PROJECTILE_PROTECTION",
+        "FIRE_PROTECTION"
+      ]
+    }
+  },
+  "CATACLYSM": {
+    "id": 136,
+    "reference": "cataclysm",
+    "name": "Cataclisma",
+    "maxLevel": 3,
+    "firstBonus": 15.0,
+    "secondBonus": 2.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7A cada 5 flechas, uma tem §a15.0% chance de causar",
+          "§7o seu dano aumentado §a2.0 §7vezes."
+        ],
+        "2": [
+          "§7A cada 5 flechas, uma tem §a30.0% chance de causar",
+          "§7o seu dano aumentado §a4.0 §7vezes."
+        ],
+        "3": [
+          "§7A cada 5 flechas, uma tem §a45.0% chance de causar",
+          "§7o seu dano aumentado §a6.0 §7vezes."
+        ]
+      },
+      "expCosts": {
+        "1": 60.0,
+        "2": 120.0,
+        "3": 180.0
+      },
+      "sellPrices": {
+        "1": 80.0,
+        "2": 160.0,
+        "3": 240.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "FEATHER_FALLING": {
+    "id": 137,
+    "reference": "feather_falling",
+    "name": "Peso Pena",
+    "maxLevel": 4,
+    "firstBonus": 5.0,
+    "secondBonus": 1.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7§7Reduz o dano de queda em 5.0% e aumenta",
+          "§7a altura necessária para receber",
+          "§7dano em 1.0 blocos."
+        ],
+        "2": [
+          "§7§7Reduz o dano de queda em 10.0% e aumenta",
+          "§7a altura necessária para receber",
+          "§7dano em 2.0 blocos."
+        ],
+        "3": [
+          "§7§7Reduz o dano de queda em 15.0% e aumenta",
+          "§7a altura necessária para receber",
+          "§7dano em 3.0 blocos."
+        ],
+        "4": [
+          "§7§7Reduz o dano de queda em 20.0% e aumenta",
+          "§7a altura necessária para receber",
+          "§7dano em 4.0 blocos."
+        ]
+      },
+      "expCosts": {
+        "1": 20.0,
+        "2": 40.0,
+        "3": 60.0,
+        "4": 80.0
+      },
+      "sellPrices": {
+        "1": 72.0,
+        "2": 144.0,
+        "3": 216.0,
+        "4": 288.0
+      },
+      "targets": [
+        "BOOTS"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "AUTO_SMELT": {
+    "id": 138,
+    "reference": "auto_smelt",
+    "name": "Auto Derretimento",
+    "maxLevel": 1,
+    "firstBonus": 0.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Derrete automaticamente os",
+          "§7minérios quebrados por você."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0
+      },
+      "sellPrices": {
+        "1": 50.0
+      },
+      "targets": [
+        "PICKAXE"
+      ],
+      "conflicts": [
+        "SILK_TOUCH"
+      ],
+      "replaces": [
+        "SILK_TOUCH"
+      ]
+    }
+  },
+  "EXPERIENCE": {
+    "id": 139,
+    "reference": "experience",
+    "name": "Esperteza",
+    "maxLevel": 2,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta em §a5.0% §7a chance de",
+          "§7receber o dobro de experiência",
+          "§7de mobs e minérios."
+        ],
+        "2": [
+          "§7Aumenta em §a10.0% §7a chance de",
+          "§7receber o dobro de experiência",
+          "§7de mobs e minérios."
+        ]
+      },
+      "expCosts": {
+        "1": 10.0,
+        "2": 20.0
+      },
+      "sellPrices": {
+        "1": 10.0,
+        "2": 20.0
+      },
+      "targets": [
+        "PICKAXE",
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "LOOT_BONUS_BLOCKS": {
+    "id": 140,
+    "reference": "loot_bonus_blocks",
+    "name": "Fortuna",
+    "maxLevel": 3,
+    "firstBonus": 2.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a+2.0% §7drops extra",
+          "§7dos minérios."
+        ],
+        "2": [
+          "§7Concede §a+4.0% §7drops extra",
+          "§7dos minérios."
+        ],
+        "3": [
+          "§7Concede §a+6.0% §7drops extra",
+          "§7dos minérios."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0
+      },
+      "sellPrices": {
+        "1": 496.0,
+        "2": 992.0,
+        "3": 1488.0
+      },
+      "targets": [
+        "PICKAXE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "FARMING": {
+    "id": 141,
+    "reference": "farming",
+    "name": "Colheita",
+    "maxLevel": 5,
+    "firstBonus": 10.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a10.0 §6☘ Bônus de Colheita§7 que",
+          "§7aumenta os drops de hortaliças."
+        ],
+        "2": [
+          "§7Concede §a20.0 §6☘ Bônus de Colheita§7 que",
+          "§7aumenta os drops de hortaliças."
+        ],
+        "3": [
+          "§7Concede §a30.0 §6☘ Bônus de Colheita§7 que",
+          "§7aumenta os drops de hortaliças."
+        ],
+        "4": [
+          "§7Concede §a40.0 §6☘ Bônus de Colheita§7 que",
+          "§7aumenta os drops de hortaliças."
+        ],
+        "5": [
+          "§7Concede §a50.0 §6☘ Bônus de Colheita§7 que",
+          "§7aumenta os drops de hortaliças."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 13.5,
+        "2": 27.0,
+        "3": 40.5,
+        "4": 54.0,
+        "5": 67.5
+      },
+      "targets": [
+        "AXE",
+        "HOE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "PENETRATION": {
+    "id": 142,
+    "reference": "penetration",
+    "name": "Penetração",
+    "maxLevel": 1,
+    "firstBonus": 25.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Flechas atravessam inimigos causando",
+          "§725.0% §7do dano no segundo alvo."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0
+      },
+      "sellPrices": {
+        "1": 52.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "INFINITY": {
+    "id": 143,
+    "reference": "infinity",
+    "name": "Aljava Infinita",
+    "maxLevel": 3,
+    "firstBonus": 10.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Aumenta a chance de não gastar nenhuma",
+          "§7flecha em 10.0%."
+        ],
+        "2": [
+          "§7Aumenta a chance de não gastar nenhuma",
+          "§7flecha em 10.0%."
+        ],
+        "3": [
+          "§7Aumenta a chance de não gastar nenhuma",
+          "§7flecha em 10.0%."
+        ]
+      },
+      "expCosts": {
+        "1": 20.0,
+        "2": 40.0,
+        "3": 60.0
+      },
+      "sellPrices": {
+        "1": 840.0,
+        "2": 1680.0,
+        "3": 2520.0
+      },
+      "targets": [
+        "BOW"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "DEPTH_STRIDER": {
+    "id": 144,
+    "reference": "depth_strider",
+    "name": "Passos Profundos",
+    "maxLevel": 4,
+    "firstBonus": 35.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede mais 35.0 §f✦ Velocidade§7",
+          "§7enquanto estiver dentro d\u0027água."
+        ],
+        "2": [
+          "§7Concede mais 70.0 §f✦ Velocidade§7",
+          "§7enquanto estiver dentro d\u0027água."
+        ],
+        "3": [
+          "§7Concede mais 105.0 §f✦ Velocidade§7",
+          "§7enquanto estiver dentro d\u0027água."
+        ],
+        "4": [
+          "§7Concede mais 140.0 §f✦ Velocidade§7",
+          "§7enquanto estiver dentro d\u0027água."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0
+      },
+      "sellPrices": {
+        "1": 600.0,
+        "2": 1200.0,
+        "3": 1800.0,
+        "4": 2400.0
+      },
+      "targets": [
+        "BOOTS"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "LIMIAR_BLADE": {
+    "id": 145,
+    "reference": "limiar_blade",
+    "name": "Limiar da Lâmina",
+    "maxLevel": 5,
+    "firstBonus": 1.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Reduz §a1.0% §7da eficiência da armadura",
+          "§7do seu alvo §7a cada hit. Pode ser",
+          "§7somado até §a5x§7."
+        ],
+        "2": [
+          "§7Reduz §a2.0% §7da eficiência da armadura",
+          "§7do seu alvo §7a cada hit. Pode ser",
+          "§7somado até §a5x§7."
+        ],
+        "3": [
+          "§7Reduz §a3.0% §7da eficiência da armadura",
+          "§7do seu alvo §7a cada hit. Pode ser",
+          "§7somado até §a5x§7."
+        ],
+        "4": [
+          "§7Reduz §a4.0% §7da eficiência da armadura",
+          "§7do seu alvo §7a cada hit. Pode ser",
+          "§7somado até §a5x§7."
+        ],
+        "5": [
+          "§7Reduz §a5.0% §7da eficiência da armadura",
+          "§7do seu alvo §7a cada hit. Pode ser",
+          "§7somado até §a5x§7."
+        ]
+      },
+      "expCosts": {
+        "1": 45.0,
+        "2": 90.0,
+        "3": 135.0,
+        "4": 180.0,
+        "5": 225.0
+      },
+      "sellPrices": {
+        "1": 75.0,
+        "2": 150.0,
+        "3": 225.0,
+        "4": 300.0,
+        "5": 375.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "EFFICIENCY": {
+    "id": 146,
+    "reference": "efficiency",
+    "name": "Eficiência",
+    "maxLevel": 5,
+    "firstBonus": 4.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a+4.0% §6⸕ Pressa§7."
+        ],
+        "2": [
+          "§7Concede §a+8.0% §6⸕ Pressa§7."
+        ],
+        "3": [
+          "§7Concede §a+12.0% §6⸕ Pressa§7."
+        ],
+        "4": [
+          "§7Concede §a+16.0% §6⸕ Pressa§7."
+        ],
+        "5": [
+          "§7Concede §a+20.0% §6⸕ Pressa§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 40.0,
+        "2": 80.0,
+        "3": 120.0,
+        "4": 160.0,
+        "5": 200.0
+      },
+      "targets": [
+        "AXE",
+        "SHOVEL",
+        "PICKAXE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "HOT_STRIDER": {
+    "id": 147,
+    "reference": "hot_strider",
+    "name": "Passos Aquecidos",
+    "maxLevel": 4,
+    "firstBonus": 35.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede mais 35.0 §f✦ Velocidade§7",
+          "§7enquanto estiver dentro da lava."
+        ],
+        "2": [
+          "§7Concede mais 70.0 §f✦ Velocidade§7",
+          "§7enquanto estiver dentro da lava."
+        ],
+        "3": [
+          "§7Concede mais 105.0 §f✦ Velocidade§7",
+          "§7enquanto estiver dentro da lava."
+        ],
+        "4": [
+          "§7Concede mais 140.0 §f✦ Velocidade§7",
+          "§7enquanto estiver dentro da lava."
+        ]
+      },
+      "expCosts": {
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0
+      },
+      "sellPrices": {
+        "1": 600.0,
+        "2": 1200.0,
+        "3": 1800.0,
+        "4": 2400.0
+      },
+      "targets": [
+        "BOOTS"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "GOLD_DIGGING": {
+    "id": 148,
+    "reference": "gold_digging",
+    "name": "Garimpo",
+    "maxLevel": 4,
+    "firstBonus": 1.5,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a+1.5% §7chance de obter",
+          "§7minérios encantados."
+        ],
+        "2": [
+          "§7Concede §a+3.0% §7chance de obter",
+          "§7minérios encantados."
+        ],
+        "3": [
+          "§7Concede §a+4.5% §7chance de obter",
+          "§7minérios encantados."
+        ],
+        "4": [
+          "§7Concede §a+6.0% §7chance de obter",
+          "§7minérios encantados."
+        ]
+      },
+      "expCosts": {
+        "1": 30.0,
+        "2": 60.0,
+        "3": 90.0,
+        "4": 120.0
+      },
+      "sellPrices": {
+        "1": 2696.0,
+        "2": 5392.0,
+        "3": 8088.0,
+        "4": 10784.0
+      },
+      "targets": [
+        "PICKAXE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "REPLENISH": {
+    "id": 149,
+    "reference": "replenish",
+    "name": "Replantar",
+    "maxLevel": 1,
+    "firstBonus": 0.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Uma vez que coletar hortaliças e fungos do",
+          "§7nether será automaticamente replantado caso",
+          "§7haja materiais suficientes em seu inventário."
+        ]
+      },
+      "expCosts": {
+        "1": 45.0
+      },
+      "sellPrices": {
+        "1": 15.5
+      },
+      "targets": [
+        "AXE",
+        "HOE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "NOTCH": {
+    "id": 150,
+    "reference": "notch",
+    "name": "Entalhe",
+    "maxLevel": 4,
+    "firstBonus": 1.5,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a+1.5% §7chance de obter",
+          "§7madeiras encantadas."
+        ],
+        "2": [
+          "§7Concede §a+3.0% §7chance de obter",
+          "§7madeiras encantadas."
+        ],
+        "3": [
+          "§7Concede §a+4.5% §7chance de obter",
+          "§7madeiras encantadas."
+        ],
+        "4": [
+          "§7Concede §a+6.0% §7chance de obter",
+          "§7madeiras encantadas."
+        ]
+      },
+      "expCosts": {
+        "1": 30.0,
+        "2": 60.0,
+        "3": 90.0,
+        "4": 120.0
+      },
+      "sellPrices": {
+        "1": 1696.0,
+        "2": 3392.0,
+        "3": 5088.0,
+        "4": 6784.0
+      },
+      "targets": [
+        "AXE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "SAWDUST": {
+    "id": 151,
+    "reference": "sawdust",
+    "name": "Serragem",
+    "maxLevel": 3,
+    "firstBonus": 2.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a+2.0% §7drops extra",
+          "§7dos madeira."
+        ],
+        "2": [
+          "§7Concede §a+4.0% §7drops extra",
+          "§7dos madeira."
+        ],
+        "3": [
+          "§7Concede §a+6.0% §7drops extra",
+          "§7dos madeira."
+        ]
+      },
+      "expCosts": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0
+      },
+      "sellPrices": {
+        "1": 296.0,
+        "2": 592.0,
+        "3": 888.0
+      },
+      "targets": [
+        "AXE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "SPROUT": {
+    "id": 152,
+    "reference": "sprout",
+    "name": "Broto",
+    "maxLevel": 4,
+    "firstBonus": 2.5,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a2.5% §7chance de obter",
+          "§7mudas de árvores."
+        ],
+        "2": [
+          "§7Concede §a5.0% §7chance de obter",
+          "§7mudas de árvores."
+        ],
+        "3": [
+          "§7Concede §a7.5% §7chance de obter",
+          "§7mudas de árvores."
+        ],
+        "4": [
+          "§7Concede §a10.0% §7chance de obter",
+          "§7mudas de árvores."
+        ]
+      },
+      "expCosts": {
+        "1": 35.0,
+        "2": 70.0,
+        "3": 105.0,
+        "4": 140.0
+      },
+      "sellPrices": {
+        "1": 296.0,
+        "2": 592.0,
+        "3": 888.0,
+        "4": 1184.0
+      },
+      "targets": [
+        "AXE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "RAPTURE": {
+    "id": 153,
+    "reference": "rapture",
+    "name": "Arrebatamento",
+    "maxLevel": 5,
+    "firstBonus": 2.5,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Causa 2.5% mais dano a cada",
+          "§7jogador em um raio de §a5 §7blocos.",
+          "§7Máximo de 6 jogadores."
+        ],
+        "2": [
+          "§7Causa 5.0% mais dano a cada",
+          "§7jogador em um raio de §a5 §7blocos.",
+          "§7Máximo de 6 jogadores."
+        ],
+        "3": [
+          "§7Causa 7.5% mais dano a cada",
+          "§7jogador em um raio de §a5 §7blocos.",
+          "§7Máximo de 6 jogadores."
+        ],
+        "4": [
+          "§7Causa 10.0% mais dano a cada",
+          "§7jogador em um raio de §a5 §7blocos.",
+          "§7Máximo de 6 jogadores."
+        ],
+        "5": [
+          "§7Causa 12.5% mais dano a cada",
+          "§7jogador em um raio de §a5 §7blocos.",
+          "§7Máximo de 6 jogadores."
+        ]
+      },
+      "expCosts": {
+        "1": 40.0,
+        "2": 80.0,
+        "3": 120.0,
+        "4": 160.0,
+        "5": 200.0
+      },
+      "sellPrices": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0,
+        "4": 100.0,
+        "5": 125.0
+      },
+      "targets": [
+        "SWORD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "HYDROMEL": {
+    "id": 154,
+    "reference": "hydromel",
+    "name": "Hidromel",
+    "maxLevel": 5,
+    "firstBonus": 0.1,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a0,10% §7chance de",
+          "§7obter §ePólen §7de hortaliças",
+          "§7na ilha."
+        ],
+        "2": [
+          "§7Concede §a0,20% §7chance de",
+          "§7obter §ePólen §7de hortaliças",
+          "§7na ilha."
+        ],
+        "3": [
+          "§7Concede §a0,30% §7chance de",
+          "§7obter §ePólen §7de hortaliças",
+          "§7na ilha."
+        ],
+        "4": [
+          "§7Concede §a0,40% §7chance de",
+          "§7obter §ePólen §7de hortaliças",
+          "§7na ilha."
+        ],
+        "5": [
+          "§7Concede §a0,50% §7chance de",
+          "§7obter §ePólen §7de hortaliças",
+          "§7na ilha."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "HYPER_WHEAT": {
+    "id": 155,
+    "reference": "hyper_wheat",
+    "name": "Hiper Trigo",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Trigo§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Trigo§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Trigo§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Trigo§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Trigo§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_POTATO",
+        "HYPER_CACTUS",
+        "HYPER_MELON",
+        "HYPER_COCOA",
+        "HYPER_PUMPKIN",
+        "HYPER_SUGAR_CANE",
+        "HYPER_MUSHROOM",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_CARROT": {
+    "id": 156,
+    "reference": "hyper_carrot",
+    "name": "Hiper Cenoura",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Cenoura§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Cenoura§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Cenoura§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Cenoura§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Cenoura§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE"
+      ],
+      "conflicts": [
+        "HYPER_WHEAT",
+        "HYPER_POTATO",
+        "HYPER_CACTUS",
+        "HYPER_MELON",
+        "HYPER_COCOA",
+        "HYPER_PUMPKIN",
+        "HYPER_SUGAR_CANE",
+        "HYPER_MUSHROOM",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_POTATO": {
+    "id": 157,
+    "reference": "hyper_potato",
+    "name": "Hiper Batata",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Batata§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Batata§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Batata§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Batata§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Batata§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_WHEAT",
+        "HYPER_CACTUS",
+        "HYPER_MELON",
+        "HYPER_COCOA",
+        "HYPER_PUMPKIN",
+        "HYPER_SUGAR_CANE",
+        "HYPER_MUSHROOM",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_CACTUS": {
+    "id": 158,
+    "reference": "hyper_cactus",
+    "name": "Hiper Cacto",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Cacto§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Cacto§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Cacto§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Cacto§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Cacto§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE",
+        "AXE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_POTATO",
+        "HYPER_WHEAT",
+        "HYPER_MELON",
+        "HYPER_COCOA",
+        "HYPER_PUMPKIN",
+        "HYPER_SUGAR_CANE",
+        "HYPER_MUSHROOM",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_MELON": {
+    "id": 159,
+    "reference": "hyper_melon",
+    "name": "Hiper Melão",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Melancia§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Melancia§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Melancia§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Melancia§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Melancia§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE",
+        "AXE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_POTATO",
+        "HYPER_CACTUS",
+        "HYPER_WHEAT",
+        "HYPER_COCOA",
+        "HYPER_PUMPKIN",
+        "HYPER_SUGAR_CANE",
+        "HYPER_MUSHROOM",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_COCOA": {
+    "id": 160,
+    "reference": "hyper_cocoa",
+    "name": "Hiper Cacau",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Cacau§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Cacau§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Cacau§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Cacau§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Cacau§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE",
+        "AXE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_POTATO",
+        "HYPER_CACTUS",
+        "HYPER_MELON",
+        "HYPER_WHEAT",
+        "HYPER_PUMPKIN",
+        "HYPER_SUGAR_CANE",
+        "HYPER_MUSHROOM",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_PUMPKIN": {
+    "id": 161,
+    "reference": "hyper_pumpkin",
+    "name": "Hiper Abóbora",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Abóbora§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Abóbora§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Abóbora§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Abóbora§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Abóbora§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE",
+        "AXE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_POTATO",
+        "HYPER_CACTUS",
+        "HYPER_MELON",
+        "HYPER_COCOA",
+        "HYPER_WHEAT",
+        "HYPER_SUGAR_CANE",
+        "HYPER_MUSHROOM",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_SUGAR_CANE": {
+    "id": 162,
+    "reference": "hyper_sugarcane",
+    "name": "Hiper Cana",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Cana§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Cana§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Cana§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Cana§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Cana§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_POTATO",
+        "HYPER_CACTUS",
+        "HYPER_MELON",
+        "HYPER_COCOA",
+        "HYPER_PUMPKIN",
+        "HYPER_WHEAT",
+        "HYPER_MUSHROOM",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_MUSHROOM": {
+    "id": 163,
+    "reference": "hyper_mushroom",
+    "name": "Hiper Cogumelos",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Cogumelos§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Cogumelos§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Cogumelos§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Cogumelos§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Cogumelos§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE",
+        "AXE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_POTATO",
+        "HYPER_CACTUS",
+        "HYPER_MELON",
+        "HYPER_COCOA",
+        "HYPER_PUMPKIN",
+        "HYPER_SUGAR_CANE",
+        "HYPER_WHEAT",
+        "HYPER_NETHER_WART"
+      ],
+      "replaces": []
+    }
+  },
+  "HYPER_NETHER_WART": {
+    "id": 164,
+    "reference": "hyper_nether_wart",
+    "name": "Hiper Fungos",
+    "maxLevel": 5,
+    "firstBonus": 5.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a5.0 §6☘ Bônus de Fungos§7."
+        ],
+        "2": [
+          "§7Concede §a10.0 §6☘ Bônus de Fungos§7."
+        ],
+        "3": [
+          "§7Concede §a15.0 §6☘ Bônus de Fungos§7."
+        ],
+        "4": [
+          "§7Concede §a20.0 §6☘ Bônus de Fungos§7."
+        ],
+        "5": [
+          "§7Concede §a25.0 §6☘ Bônus de Fungos§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 15.5,
+        "2": 31.0,
+        "3": 46.5,
+        "4": 62.0,
+        "5": 77.5
+      },
+      "targets": [
+        "HOE"
+      ],
+      "conflicts": [
+        "HYPER_CARROT",
+        "HYPER_POTATO",
+        "HYPER_CACTUS",
+        "HYPER_MELON",
+        "HYPER_COCOA",
+        "HYPER_PUMPKIN",
+        "HYPER_SUGAR_CANE",
+        "HYPER_MUSHROOM",
+        "HYPER_WHEAT"
+      ],
+      "replaces": []
+    }
+  }
+}

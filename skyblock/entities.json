@@ -1,0 +1,1282 @@
+{
+  "BASE_ENDERMAN": {
+    "id": 18,
+    "name": "§fEnderman",
+    "type": "ENDERMAN",
+    "level": 41,
+    "attributes": {
+      "health": 100.0,
+      "damage": 20.0,
+      "speed": 0.0
+    },
+    "rewards": {
+      "exp": 2.5,
+      "combatExp": 20.0,
+      "reward": 15.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "BASE_BLAZE": {
+    "id": 26,
+    "name": "§fBlaze",
+    "type": "BLAZE",
+    "level": 1,
+    "attributes": {
+      "health": 100.0,
+      "damage": 55.0,
+      "speed": 1.0
+    },
+    "rewards": {
+      "exp": 6.0,
+      "combatExp": 10.0,
+      "reward": 10.0
+    },
+    "drops": []
+  },
+  "BASE_CAVE_SPIDER": {
+    "id": 26,
+    "name": "§fAranha das Cavernas",
+    "type": "CAVE_SPIDER",
+    "level": 1,
+    "attributes": {
+      "health": 10.0,
+      "damage": 0.0,
+      "speed": 0.7
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 2.5,
+      "reward": 5.0
+    },
+    "drops": []
+  },
+  "BASE_SPIDER": {
+    "id": 26,
+    "name": "§fAranha",
+    "type": "SPIDER",
+    "level": 1,
+    "attributes": {
+      "health": 10.0,
+      "damage": 0.0,
+      "speed": 0.5
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 15.5,
+      "reward": 5.0
+    },
+    "drops": []
+  },
+  "BASE_GHAST": {
+    "id": 21,
+    "name": "§fGhast",
+    "type": "GHAST",
+    "level": 1,
+    "attributes": {
+      "health": 100.0,
+      "damage": 75.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 50.0,
+      "combatExp": 50.0,
+      "reward": 45.0
+    },
+    "drops": []
+  },
+  "BASE_CHICKEN": {
+    "id": 21,
+    "name": "§fGalinha",
+    "type": "CHICKEN",
+    "level": 1,
+    "attributes": {
+      "health": 10.0,
+      "damage": 0.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 2.5,
+      "reward": 5.0
+    },
+    "drops": []
+  },
+  "BASE_SLIME": {
+    "id": 21,
+    "name": "§fSlime",
+    "type": "SLIME",
+    "level": 1,
+    "attributes": {
+      "health": 100.0,
+      "damage": 30.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 1.5,
+      "combatExp": 17.0,
+      "reward": 25.0
+    },
+    "drops": [],
+    "size": 3,
+    "canSplit": false
+  },
+  "BASE_MAGMA": {
+    "id": 21,
+    "name": "§fCubo de Magma",
+    "type": "MAGMA_CUBE",
+    "level": 1,
+    "attributes": {
+      "health": 100.0,
+      "damage": 30.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 1.5,
+      "combatExp": 25.0,
+      "reward": 35.0
+    },
+    "drops": [],
+    "size": 3,
+    "canSplit": false
+  },
+  "BASE_PIG": {
+    "id": 22,
+    "name": "§fPorco",
+    "type": "PIG",
+    "level": 1,
+    "attributes": {
+      "health": 10.0,
+      "damage": 0.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 2.5,
+      "reward": 5.0
+    },
+    "drops": []
+  },
+  "BASE_SHEEP": {
+    "id": 23,
+    "name": "§fOvelha",
+    "type": "SHEEP",
+    "level": 1,
+    "attributes": {
+      "health": 10.0,
+      "damage": 0.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 2.5,
+      "reward": 5.0
+    },
+    "drops": []
+  },
+  "BASE_COW": {
+    "id": 24,
+    "name": "§fVaca",
+    "type": "COW",
+    "level": 1,
+    "attributes": {
+      "health": 10.0,
+      "damage": 0.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 2.5,
+      "reward": 5.0
+    },
+    "drops": []
+  },
+  "BASE_ZOMBIE": {
+    "id": 25,
+    "name": "§fZumbi",
+    "type": "ZOMBIE",
+    "level": 1,
+    "attributes": {
+      "health": 10.0,
+      "damage": 10.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 7.5,
+      "reward": 5.0
+    },
+    "drops": []
+  },
+  "BASE_CREEPER": {
+    "id": 3,
+    "name": "§fCreeper",
+    "type": "CREEPER",
+    "level": 1,
+    "attributes": {
+      "health": 100.0,
+      "damage": 30.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 1.5,
+      "combatExp": 15.0,
+      "reward": 30.0
+    },
+    "drops": [],
+    "isCharged": false,
+    "isVisible": true
+  },
+  "BASE_RABBIT": {
+    "id": 26,
+    "name": "§fCoelho",
+    "type": "RABBIT",
+    "level": 1,
+    "attributes": {
+      "health": 10.0,
+      "damage": 0.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 2.5,
+      "reward": 5.0
+    },
+    "drops": []
+  },
+  "GRAVEYARD_ZOMBIE": {
+    "id": 27,
+    "name": "§cZumbi do Cemitério",
+    "type": "ZOMBIE",
+    "level": 1,
+    "attributes": {
+      "health": 100.0,
+      "damage": 40.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 10.5,
+      "reward": 5.0
+    },
+    "drops": [],
+    "isBaby": false,
+    "isVillager": false
+  },
+  "VILLAGE_ZOMBIE": {
+    "id": 28,
+    "name": "§cAldeão Zumbi",
+    "type": "ZOMBIE",
+    "level": 1,
+    "attributes": {
+      "health": 120.0,
+      "damage": 60.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 3.2,
+      "combatExp": 12.5,
+      "reward": 5.0
+    },
+    "drops": [],
+    "isBaby": false,
+    "isVillager": true,
+    "equipment": [
+      {
+        "type": 298,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 299,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 300,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 301,
+        "amount": 1,
+        "durability": 0
+      }
+    ]
+  },
+  "CHARGED_CREEPER": {
+    "id": 1,
+    "name": "§cCreeper Sobrecarregado",
+    "type": "CREEPER",
+    "level": 3,
+    "attributes": {
+      "health": 150.0,
+      "damage": 50.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 2.5,
+      "combatExp": 15.0,
+      "reward": 15.0
+    },
+    "drops": [],
+    "isCharged": true,
+    "isVisible": true
+  },
+  "NINJA_CREEPER": {
+    "id": 2,
+    "name": "§cCreeper Ninja",
+    "type": "CREEPER",
+    "level": 3,
+    "attributes": {
+      "health": 120.0,
+      "damage": 45.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 2.5,
+      "combatExp": 15.0,
+      "reward": 15.0
+    },
+    "drops": [],
+    "isCharged": false,
+    "isVisible": false
+  },
+  "SLIME": {
+    "id": 4,
+    "name": "§cSlime",
+    "type": "SLIME",
+    "level": 3,
+    "attributes": {
+      "health": 250.0,
+      "damage": 60.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 1.5,
+      "combatExp": 30.0,
+      "reward": 25.0
+    },
+    "drops": [],
+    "size": 2,
+    "canSplit": false
+  },
+  "DEATH_MINER": {
+    "id": 5,
+    "name": "§cMinerador Morto-Vivo",
+    "type": "ZOMBIE",
+    "level": 15,
+    "attributes": {
+      "health": 250.0,
+      "damage": 50.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 4.5,
+      "combatExp": 20.0,
+      "reward": 20.0
+    },
+    "drops": [],
+    "equipment": [
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "profile": {
+            "id": "8146cace-6919-4ae9-92c1-b1c56ea18b83",
+            "properties": {
+              "properties": {}
+            },
+            "legacy": false
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 311,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 312,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 313,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "hand": {
+      "type": 285,
+      "amount": 1,
+      "durability": 0
+    }
+  },
+  "END_SKELETON": {
+    "id": 6,
+    "name": "§cEsqueleto do Fim",
+    "type": "SKELETON",
+    "level": 20,
+    "attributes": {
+      "health": 300.0,
+      "damage": 75.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 6.5,
+      "combatExp": 25.0,
+      "reward": 35.0
+    },
+    "drops": [],
+    "isWither": false,
+    "arrowDamage": 75.0,
+    "equipment": [
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "profile": {
+            "id": "287490fc-768c-49a9-bd3e-205793a7571a",
+            "properties": {
+              "properties": {}
+            },
+            "legacy": false
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 311,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 312,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 313,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "hand": {
+      "type": 261,
+      "amount": 1,
+      "durability": 0
+    }
+  },
+  "END_ZOMBIE": {
+    "id": 7,
+    "name": "§cZombie do Fim",
+    "type": "ZOMBIE",
+    "level": 20,
+    "attributes": {
+      "health": 300.0,
+      "damage": 75.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 6.5,
+      "combatExp": 25.0,
+      "reward": 35.0
+    },
+    "drops": [],
+    "equipment": [
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "profile": {
+            "id": "d3490c5c-71ea-439a-95a1-524d828694e6",
+            "properties": {
+              "properties": {}
+            },
+            "legacy": false
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 311,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 312,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 313,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "hand": {
+      "type": 276,
+      "amount": 1,
+      "durability": 0
+    }
+  },
+  "PIGMAN": {
+    "id": 8,
+    "name": "§cHomem-Porco Zumbi",
+    "type": "PIG_ZOMBIE",
+    "level": 10,
+    "attributes": {
+      "health": 200.0,
+      "damage": 50.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 4.5,
+      "combatExp": 5.0,
+      "reward": 15.0
+    },
+    "drops": [],
+    "hand": {
+      "type": 283,
+      "amount": 1,
+      "durability": 0
+    }
+  },
+  "MINER_SKELETON": {
+    "id": 9,
+    "name": "§cEsqueleto Minerador",
+    "type": "SKELETON",
+    "level": 15,
+    "attributes": {
+      "health": 250.0,
+      "damage": 50.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 4.5,
+      "combatExp": 15.0,
+      "reward": 20.0
+    },
+    "drops": [],
+    "isWither": false,
+    "arrowDamage": 50.0,
+    "equipment": [
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "profile": {
+            "id": "9e9fe3f9-617e-4ccc-9b2e-df34fc29bdfa",
+            "properties": {
+              "properties": {}
+            },
+            "legacy": false
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 311,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 312,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 313,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "hand": {
+      "type": 261,
+      "amount": 1,
+      "durability": 0
+    }
+  },
+  "LAPIS_ZOMBIE": {
+    "id": 10,
+    "name": "§cZumbi de Lápis",
+    "type": "ZOMBIE",
+    "level": 7,
+    "attributes": {
+      "health": 200.0,
+      "damage": 6.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 3.5,
+      "combatExp": 15.0,
+      "reward": 35.0
+    },
+    "drops": [],
+    "equipment": [
+      {
+        "type": 169,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 299,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "color": {
+            "red": 0,
+            "green": 0,
+            "blue": -1
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 300,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "color": {
+            "red": 0,
+            "green": 0,
+            "blue": -1
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 301,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "color": {
+            "red": 0,
+            "green": 0,
+            "blue": -1
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      }
+    ]
+  },
+  "LAPIS_LASER": {
+    "id": 11,
+    "name": "§cOlho Laser",
+    "type": "GUARDIAN",
+    "level": 7,
+    "attributes": {
+      "health": 200.0,
+      "damage": 20.0,
+      "speed": 0.0
+    },
+    "rewards": {
+      "exp": 0.0,
+      "combatExp": 15.0,
+      "reward": 0.0
+    },
+    "drops": []
+  },
+  "SPIDER": {
+    "id": 12,
+    "name": "§cAranha",
+    "type": "SPIDER",
+    "level": 2,
+    "attributes": {
+      "health": 180.0,
+      "damage": 60.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 15.4,
+      "combatExp": 25.0,
+      "reward": 15.0
+    },
+    "drops": []
+  },
+  "CAVE_SPIDER": {
+    "id": 13,
+    "name": "§cAranha das Cavernas",
+    "type": "CAVE_SPIDER",
+    "level": 2,
+    "attributes": {
+      "health": 210.0,
+      "damage": 85.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 17.4,
+      "combatExp": 25.0,
+      "reward": 20.0
+    },
+    "drops": []
+  },
+  "JUMP_SPIDER": {
+    "id": 14,
+    "name": "§cAranha Saltitante",
+    "type": "SPIDER",
+    "level": 4,
+    "attributes": {
+      "health": 1200.0,
+      "damage": 90.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 18.6,
+      "combatExp": 25.0,
+      "reward": 15.0
+    },
+    "drops": []
+  },
+  "VORAZ_SPIDER": {
+    "id": 14,
+    "name": "§cAranha Voraz",
+    "type": "CAVE_SPIDER",
+    "level": 2,
+    "attributes": {
+      "health": 1000.0,
+      "damage": 70.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 17.4,
+      "combatExp": 25.0,
+      "reward": 25.0
+    },
+    "drops": []
+  },
+  "SILVERFISH": {
+    "id": 12,
+    "name": "§cTraça",
+    "type": "SILVERFISH",
+    "level": 2,
+    "attributes": {
+      "health": 50.0,
+      "damage": 40.0,
+      "speed": 0.1
+    },
+    "rewards": {
+      "exp": 6.4,
+      "combatExp": 25.0,
+      "reward": 13.0
+    },
+    "drops": []
+  },
+  "SKELETON": {
+    "id": 14,
+    "name": "§cEsqueleto",
+    "type": "SKELETON",
+    "level": 2,
+    "attributes": {
+      "health": 100.0,
+      "damage": 60.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 15.4,
+      "combatExp": 25.0,
+      "reward": 15.0
+    },
+    "drops": [],
+    "isWither": false,
+    "arrowDamage": 50.0,
+    "hand": {
+      "type": 261,
+      "amount": 1,
+      "durability": 0
+    }
+  },
+  "JOCKEY_SKELETON": {
+    "id": 14,
+    "name": "§cEsqueleto Jóquei",
+    "type": "SKELETON",
+    "level": 2,
+    "attributes": {
+      "health": 100.0,
+      "damage": 80.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 15.4,
+      "combatExp": 25.0,
+      "reward": 15.0
+    },
+    "drops": [],
+    "isWither": false,
+    "arrowDamage": 50.0,
+    "hand": {
+      "type": 261,
+      "amount": 1,
+      "durability": 0
+    }
+  },
+  "BLAZE": {
+    "id": 15,
+    "name": "§cBlaze",
+    "type": "BLAZE",
+    "level": 12,
+    "attributes": {
+      "health": 500.0,
+      "damage": 55.0,
+      "speed": 1.0
+    },
+    "rewards": {
+      "exp": 6.0,
+      "combatExp": 30.0,
+      "reward": 30.0
+    },
+    "drops": []
+  },
+  "GHAST": {
+    "id": 16,
+    "name": "§cGhast",
+    "type": "GHAST",
+    "level": 13,
+    "attributes": {
+      "health": 3050.0,
+      "damage": 100.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 50.0,
+      "combatExp": 100.0,
+      "reward": 45.0
+    },
+    "drops": []
+  },
+  "MAGMA_CUBE": {
+    "id": 17,
+    "name": "§cCubo de Magma",
+    "type": "MAGMA_CUBE",
+    "level": 12,
+    "attributes": {
+      "health": 250.0,
+      "damage": 60.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 1.5,
+      "combatExp": 30.0,
+      "reward": 35.0
+    },
+    "drops": [],
+    "size": 1,
+    "canSplit": false
+  },
+  "SKULL": {
+    "id": 18,
+    "name": "§cEsqueleto Wither",
+    "type": "SKELETON",
+    "level": 13,
+    "attributes": {
+      "health": 2400.0,
+      "damage": 180.0,
+      "speed": 0.3
+    },
+    "rewards": {
+      "exp": 50.0,
+      "combatExp": 30.0,
+      "reward": 45.0
+    },
+    "drops": [],
+    "isWither": true,
+    "arrowDamage": 50.0,
+    "hand": {
+      "type": 272,
+      "amount": 1,
+      "durability": 0
+    }
+  },
+  "MAGMA_BOSS": {
+    "id": 19,
+    "name": "§cMagma Boss",
+    "type": "MAGMA_CUBE",
+    "level": 100,
+    "attributes": {
+      "health": 2500000.0,
+      "damage": 120.0,
+      "speed": 0.0
+    },
+    "rewards": {
+      "exp": 125.0,
+      "combatExp": 1500.0,
+      "reward": 70000.0
+    },
+    "drops": [],
+    "size": 12,
+    "canSplit": false
+  },
+  "NETHER_CRYSTAL": {
+    "id": 36,
+    "name": "§cCristal do Nether",
+    "type": "ENDER_CRYSTAL",
+    "level": 100,
+    "attributes": {
+      "health": 50000.0,
+      "damage": 0.0,
+      "speed": 0.0
+    },
+    "rewards": {
+      "exp": 200.0,
+      "combatExp": 200.0,
+      "reward": 2500.0
+    },
+    "drops": []
+  },
+  "MUTANT": {
+    "id": 16,
+    "name": "§cMutante",
+    "type": "ENDERMAN",
+    "level": 55,
+    "attributes": {
+      "health": 15600.0,
+      "damage": 200.0,
+      "speed": 0.0
+    },
+    "rewards": {
+      "exp": 15.5,
+      "combatExp": 75.0,
+      "reward": 15000.0
+    },
+    "drops": [],
+    "canTeleport": false
+  },
+  "ENDERMAN": {
+    "id": 17,
+    "name": "§cEnderman",
+    "type": "ENDERMAN",
+    "level": 41,
+    "attributes": {
+      "health": 5400.0,
+      "damage": 180.0,
+      "speed": 0.0
+    },
+    "rewards": {
+      "exp": 2.5,
+      "combatExp": 25.0,
+      "reward": 50.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "ENDERMITE": {
+    "id": 18,
+    "name": "§cEndermite",
+    "type": "ENDERMITE",
+    "level": 15,
+    "attributes": {
+      "health": 250.0,
+      "damage": 0.0,
+      "speed": 0.0
+    },
+    "rewards": {
+      "exp": 1.5,
+      "combatExp": 15.0,
+      "reward": 15.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "OBSIDIAN_SKELETON": {
+    "id": 19,
+    "name": "§cEsqueleto Petrificado",
+    "type": "SKELETON",
+    "level": 55,
+    "attributes": {
+      "health": 12000.0,
+      "damage": 300.0,
+      "speed": 0.4
+    },
+    "rewards": {
+      "exp": 10.5,
+      "combatExp": 35.0,
+      "reward": 75.0
+    },
+    "drops": [],
+    "isWither": true,
+    "arrowDamage": 240.0,
+    "equipment": [
+      {
+        "type": 49,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 299,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "color": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      null,
+      null
+    ]
+  },
+  "OBSIDIAN_DEFENDER": {
+    "id": 20,
+    "name": "§cDefensor do Fim",
+    "type": "SKELETON",
+    "level": 55,
+    "attributes": {
+      "health": 11400.0,
+      "damage": 340.0,
+      "speed": 0.2
+    },
+    "rewards": {
+      "exp": 6.5,
+      "combatExp": 35.0,
+      "reward": 100.0
+    },
+    "drops": [],
+    "isWither": true,
+    "arrowDamage": 340.0,
+    "equipment": [
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "profile": {
+            "id": "e338bf6c-3529-4ed6-9c5f-211b6a12807a",
+            "properties": {
+              "properties": {}
+            },
+            "legacy": false
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 299,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "color": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 300,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "color": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      },
+      {
+        "type": 301,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "color": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+          },
+          "repairCost": 0,
+          "hideFlag": 0,
+          "unhandledTags": {}
+        }
+      }
+    ],
+    "hand": {
+      "type": 261,
+      "amount": 1,
+      "durability": 0,
+      "meta": {
+        "lore": [
+          "§f§lCOMUM"
+        ],
+        "repairCost": 0,
+        "hideFlag": 0,
+        "unhandledTags": {}
+      }
+    }
+  },
+  "OLD_DRAGON": {
+    "id": 29,
+    "name": "§cDragão Ancião",
+    "type": "ENDER_DRAGON",
+    "level": 100,
+    "attributes": {
+      "health": 8500000.0,
+      "damage": 550.0,
+      "speed": 1.2
+    },
+    "rewards": {
+      "exp": 200.5,
+      "combatExp": 75.0,
+      "reward": 150000.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "WISE_DRAGON": {
+    "id": 30,
+    "name": "§cDragão Sábio",
+    "type": "ENDER_DRAGON",
+    "level": 100,
+    "attributes": {
+      "health": 1.03E7,
+      "damage": 450.0,
+      "speed": 1.0
+    },
+    "rewards": {
+      "exp": 200.5,
+      "combatExp": 65.0,
+      "reward": 150000.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "PROTECTOR_DRAGON": {
+    "id": 31,
+    "name": "§cDragão Protetor",
+    "type": "ENDER_DRAGON",
+    "level": 100,
+    "attributes": {
+      "health": 1.03E7,
+      "damage": 300.0,
+      "speed": 0.5
+    },
+    "rewards": {
+      "exp": 200.5,
+      "combatExp": 100.0,
+      "reward": 150000.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "YOUNG_DRAGON": {
+    "id": 32,
+    "name": "§cDragão Jovem",
+    "type": "ENDER_DRAGON",
+    "level": 100,
+    "attributes": {
+      "health": 8750000.0,
+      "damage": 540.0,
+      "speed": 4.0
+    },
+    "rewards": {
+      "exp": 200.5,
+      "combatExp": 50.0,
+      "reward": 150000.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "UNSTABLE_DRAGON": {
+    "id": 33,
+    "name": "§cDragão Instável",
+    "type": "ENDER_DRAGON",
+    "level": 100,
+    "attributes": {
+      "health": 1.0E7,
+      "damage": 700.0,
+      "speed": 2.0
+    },
+    "rewards": {
+      "exp": 200.5,
+      "combatExp": 115.0,
+      "reward": 150000.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "STRONG_DRAGON": {
+    "id": 34,
+    "name": "§cDragão Forte",
+    "type": "ENDER_DRAGON",
+    "level": 100,
+    "attributes": {
+      "health": 1.05E7,
+      "damage": 1000.0,
+      "speed": 2.0
+    },
+    "rewards": {
+      "exp": 200.5,
+      "combatExp": 125.0,
+      "reward": 150000.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "SUPERIOR_DRAGON": {
+    "id": 35,
+    "name": "§cDragão Superior",
+    "type": "ENDER_DRAGON",
+    "level": 100,
+    "attributes": {
+      "health": 1.2E7,
+      "damage": 1000.0,
+      "speed": 2.0
+    },
+    "rewards": {
+      "exp": 200.5,
+      "combatExp": 150.0,
+      "reward": 150000.0
+    },
+    "drops": [],
+    "canTeleport": true
+  },
+  "ENDER_CRYSTAL": {
+    "id": 36,
+    "name": "§cCristal do Fim",
+    "type": "ENDER_CRYSTAL",
+    "level": 100,
+    "attributes": {
+      "health": 50000.0,
+      "damage": 0.0,
+      "speed": 0.0
+    },
+    "rewards": {
+      "exp": 200.0,
+      "combatExp": 200.0,
+      "reward": 2500.0
+    },
+    "drops": []
+  }
+}
