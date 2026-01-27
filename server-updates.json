@@ -18,6 +18,12 @@
                 "type": "NETHER_STAR",
                 "data": "07/02/26",
                 "description": "§7Esta é a terceira beta\n§7oficial do Sky Block.\n\n§eNesta beta quase todos\n§efizemos muitas correções!\n\n§eO destaque desta beta\n§eé a separação do Nether\n§eentre servidores."
+            },
+            "3": {
+                "name": "§aSky Block §e§lBETA 0.9.5",
+                "type": "NETHER_STAR",
+                "data": "27/01/26",
+                "description": "§7Esta é a última atualização beta\n§7que inicia a versão oficial do Sky Block.\n\n§eNesta atualização temos a tão esperada\n§eatualização de herbalismo!!\n\n§eO destaque desta beta\n§eé o Mini Jardim."
             }
         },
         "bedwars": {
