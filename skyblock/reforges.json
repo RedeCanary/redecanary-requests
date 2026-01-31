@@ -1,0 +1,5357 @@
+{
+  "SWORD_AFIADA": {
+    "COMMON": {
+      "name": "Afiada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Afiada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Afiada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Afiada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Afiada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Afiada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Afiada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    }
+  },
+  "SWORD_APIMENTADA": {
+    "COMMON": {
+      "name": "Apimentada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Apimentada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Apimentada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_DAMAGE": 18.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Apimentada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_DAMAGE": 32.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Apimentada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_DAMAGE": 50.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Apimentada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_DAMAGE": 65.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Apimentada",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "CRIT_DAMAGE": 32.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "SWORD_DEMONIACA": {
+    "COMMON": {
+      "name": "Demoníaca",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Demoníaca",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Demoníaca",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Demoníaca",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Demoníaca",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Demoníaca",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Demoníaca",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "SWORD_DIVINA": {
+    "COMMON": {
+      "name": "Divina",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Divina",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Divina",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Divina",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 6.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Divina",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 8.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Divina",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "CRIT_DAMAGE": 16.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 15.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Divina",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 6.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 7.0
+      }
+    }
+  },
+  "SWORD_EPICA": {
+    "COMMON": {
+      "name": "Épica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Épica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "RARE": {
+      "name": "Épica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "EPIC": {
+      "name": "Épica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Épica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 15.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Épica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 15.0,
+        "STRENGTH": 20.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Épica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    }
+  },
+  "SWORD_FERVOROSA": {
+    "COMMON": {
+      "name": "Fervorosa",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Fervorosa",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Fervorosa",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Fervorosa",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Fervorosa",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Fervorosa",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Fervorosa",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "SWORD_INTELIGENTE": {
+    "COMMON": {
+      "name": "Inteligente",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Inteligente",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0
+      }
+    },
+    "RARE": {
+      "name": "Inteligente",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 18.0
+      }
+    },
+    "EPIC": {
+      "name": "Inteligente",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 32.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Inteligente",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 50.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Inteligente",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {}
+    },
+    "SPECIAL": {
+      "name": "Inteligente",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "SWORD_LENDARIA": {
+    "COMMON": {
+      "name": "Lendária",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Lendária",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "RARE": {
+      "name": "Lendária",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 6.0
+      }
+    },
+    "EPIC": {
+      "name": "Lendária",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "CRIT_DAMAGE": 7.0,
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Lendária",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "CRIT_DAMAGE": 7.0,
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 15.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Lendária",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "CRIT_DAMAGE": 14.0,
+        "CRIT_CHANCE": 14.0,
+        "STRENGTH": 20.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Lendária",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "CRIT_DAMAGE": 7.0,
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 10.0
+      }
+    }
+  },
+  "SWORD_DRAGONADA": {
+    "COMMON": {
+      "name": "Dragonada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "SPEED": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 25.0,
+        "STRENGTH": 20.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Dragonada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "SPEED": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 45.0,
+        "STRENGTH": 25.0
+      }
+    },
+    "RARE": {
+      "name": "Dragonada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "SPEED": 10.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 50.0,
+        "STRENGTH": 35.0
+      }
+    },
+    "EPIC": {
+      "name": "Dragonada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 45.0,
+        "SPEED": 10.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 50.0,
+        "STRENGTH": 45.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Dragonada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 45.0,
+        "SPEED": 15.0,
+        "CRIT_DAMAGE": 15.0,
+        "CRIT_CHANCE": 60.0,
+        "STRENGTH": 50.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Dragonada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 50.0,
+        "SPEED": 15.0,
+        "CRIT_DAMAGE": 20.0,
+        "CRIT_CHANCE": 65.0,
+        "STRENGTH": 50.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Dragonada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 45.0,
+        "SPEED": 10.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 50.0,
+        "STRENGTH": 45.0
+      }
+    }
+  },
+  "SWORD_PROFUNDA": {
+    "COMMON": {
+      "name": "Profunda",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "COMMON",
+      "stats": {}
+    },
+    "UNCOMMON": {
+      "name": "Profunda",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "UNCOMMON",
+      "stats": {}
+    },
+    "RARE": {
+      "name": "Profunda",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 50.0,
+        "CRIT_DAMAGE": 10.0,
+        "STRENGTH": 20.0
+      }
+    },
+    "EPIC": {
+      "name": "Profunda",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 100.0,
+        "CRIT_DAMAGE": 20.0,
+        "STRENGTH": 30.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Profunda",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "LEGENDARY",
+      "stats": {}
+    },
+    "MYTHICAL": {
+      "name": "Profunda",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "MYTHICAL",
+      "stats": {}
+    },
+    "SPECIAL": {
+      "name": "Profunda",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 100.0,
+        "CRIT_DAMAGE": 20.0,
+        "STRENGTH": 30.0
+      }
+    }
+  },
+  "SWORD_EMBRASADA": {
+    "COMMON": {
+      "name": "Embrasada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 15.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Embrasada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 25.0
+      }
+    },
+    "RARE": {
+      "name": "Embrasada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "CRIT_DAMAGE": 15.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 25.0
+      }
+    },
+    "EPIC": {
+      "name": "Embrasada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "CRIT_DAMAGE": 15.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 25.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Embrasada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "CRIT_DAMAGE": 20.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 30.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Embrasada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "CRIT_DAMAGE": 25.0,
+        "CRIT_CHANCE": 15.0,
+        "STRENGTH": 30.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Embrasada",
+      "category": "SWORD",
+      "obtainable": false,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "CRIT_DAMAGE": 15.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 25.0
+      }
+    }
+  },
+  "SWORD_RICA": {
+    "COMMON": {
+      "name": "Rica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Rica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 7.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0
+      }
+    },
+    "RARE": {
+      "name": "Rica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0
+      }
+    },
+    "EPIC": {
+      "name": "Rica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Rica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Rica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "CRIT_DAMAGE": 15.0,
+        "CRIT_CHANCE": 15.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Rica",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0
+      }
+    }
+  },
+  "SWORD_SABIA": {
+    "COMMON": {
+      "name": "Sábia",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "BONUS_ATTACK_SPEED": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Sábia",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "BONUS_ATTACK_SPEED": 1.0
+      }
+    },
+    "RARE": {
+      "name": "Sábia",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "BONUS_ATTACK_SPEED": 1.0
+      }
+    },
+    "EPIC": {
+      "name": "Sábia",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 65.0,
+        "BONUS_ATTACK_SPEED": 2.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Sábia",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 100.0,
+        "BONUS_ATTACK_SPEED": 2.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Sábia",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 200.0,
+        "BONUS_ATTACK_SPEED": 5.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Sábia",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 65.0,
+        "BONUS_ATTACK_SPEED": 2.0
+      }
+    }
+  },
+  "SWORD_VIOLENTA": {
+    "COMMON": {
+      "name": "Violenta",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {}
+    },
+    "UNCOMMON": {
+      "name": "Violenta",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {}
+    },
+    "RARE": {
+      "name": "Violenta",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {}
+    },
+    "EPIC": {
+      "name": "Violenta",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {}
+    },
+    "LEGENDARY": {
+      "name": "Violenta",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {}
+    },
+    "MYTHICAL": {
+      "name": "Violenta",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {}
+    },
+    "SPECIAL": {
+      "name": "Violenta",
+      "category": "SWORD",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ACCESSORY_AGRADAVEL": {
+    "COMMON": {
+      "name": "Agradável",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Agradável",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "RARE": {
+      "name": "Agradável",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Agradável",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "DEFENSE": 3.0,
+        "SPEED": 1.0,
+        "CRIT_DAMAGE": 3.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Agradável",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "DEFENSE": 3.0,
+        "SPEED": 2.0,
+        "CRIT_DAMAGE": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Agradável",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 4.0,
+        "DEFENSE": 4.0,
+        "SPEED": 3.0,
+        "CRIT_DAMAGE": 4.0,
+        "MAX_HEALTH": 4.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Agradável",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "DEFENSE": 3.0,
+        "SPEED": 1.0,
+        "CRIT_DAMAGE": 3.0,
+        "MAX_HEALTH": 2.0
+      }
+    }
+  },
+  "ACCESSORY_BIZARRO": {
+    "COMMON": {
+      "name": "Bizarro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": -1.0,
+        "CRIT_CHANCE": -1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Bizarro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 6.0,
+        "CRIT_DAMAGE": -2.0,
+        "CRIT_CHANCE": -2.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "RARE": {
+      "name": "Bizarro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "CRIT_DAMAGE": -2.0,
+        "CRIT_CHANCE": -2.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "EPIC": {
+      "name": "Bizarro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "CRIT_DAMAGE": -3.0,
+        "CRIT_CHANCE": -3.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Bizarro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "CRIT_DAMAGE": -4.0,
+        "CRIT_CHANCE": -4.0,
+        "STRENGTH": 4.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Bizarro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "CRIT_DAMAGE": -4.0,
+        "CRIT_CHANCE": -4.0,
+        "STRENGTH": 4.0,
+        "MAX_HEALTH": 4.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Bizarro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "CRIT_DAMAGE": -3.0,
+        "CRIT_CHANCE": -3.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 1.0
+      }
+    }
+  },
+  "ACCESSORY_BONITO": {
+    "COMMON": {
+      "name": "Bonito",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Bonito",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "RARE": {
+      "name": "Bonito",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "EPIC": {
+      "name": "Bonito",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Bonito",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Bonito",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Bonito",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    }
+  },
+  "ACCESSORY_APRESSADO": {
+    "COMMON": {
+      "name": "Apressado",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "HASTE": 2.0,
+        "SPEED": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Apressado",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "HASTE": 3.0,
+        "SPEED": 1.0
+      }
+    },
+    "RARE": {
+      "name": "Apressado",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "HASTE": 3.0,
+        "SPEED": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Apressado",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "HASTE": 4.0,
+        "SPEED": 2.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Apressado",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "HASTE": 5.0,
+        "SPEED": 3.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Apressado",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "HASTE": 5.0,
+        "SPEED": 4.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Apressado",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "HASTE": 4.0,
+        "SPEED": 2.0
+      }
+    }
+  },
+  "ACCESSORY_BRILHANTE": {
+    "COMMON": {
+      "name": "Brilhante",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "SPEED": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Brilhante",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "SPEED": 1.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Brilhante",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "SPEED": 2.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "EPIC": {
+      "name": "Brilhante",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "SPEED": 2.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Brilhante",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "SPEED": 2.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Brilhante",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "SPEED": 3.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Brilhante",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "SPEED": 2.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    }
+  },
+  "ACCESSORY_ESTRANHO": {
+    "COMMON": {
+      "name": "Estranho",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": -5.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Estranho",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": -10.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "RARE": {
+      "name": "Estranho",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": -18.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Estranho",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": -32.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Estranho",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": -50.0,
+        "DEFENSE": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Estranho",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": -72.0,
+        "DEFENSE": 6.0,
+        "CRIT_DAMAGE": 6.0,
+        "CRIT_CHANCE": 6.0,
+        "STRENGTH": 6.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Estranho",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": -32.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "ACCESSORY_SARNENTO": {
+    "COMMON": {
+      "name": "Sarnento",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_DAMAGE": 3.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Sarnento",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_DAMAGE": 5.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Sarnento",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_DAMAGE": 8.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Sarnento",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_DAMAGE": 12.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Sarnento",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_DAMAGE": 12.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Sarnento",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_DAMAGE": 16.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Sarnento",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "CRIT_DAMAGE": 12.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "ACCESSORY_SIMPLES": {
+    "COMMON": {
+      "name": "Simples",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Simples",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 6.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Simples",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Simples",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Simples",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 2.0,
+        "MAX_HEALTH": 4.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Simples",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 3.0,
+        "MAX_HEALTH": 5.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Simples",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 3.0
+      }
+    }
+  },
+  "ACCESSORY_FLORAL": {
+    "COMMON": {
+      "name": "Floral",
+      "category": "ACCESSORY",
+      "obtainable": false,
+      "rarity": "COMMON",
+      "stats": {
+        "FARMING_FORTUNE": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Floral",
+      "category": "ACCESSORY",
+      "obtainable": false,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "FARMING_FORTUNE": 2.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "RARE": {
+      "name": "Floral",
+      "category": "ACCESSORY",
+      "obtainable": false,
+      "rarity": "RARE",
+      "stats": {
+        "FARMING_FORTUNE": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Floral",
+      "category": "ACCESSORY",
+      "obtainable": false,
+      "rarity": "EPIC",
+      "stats": {
+        "FARMING_FORTUNE": 3.0,
+        "MAX_HEALTH": 5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Floral",
+      "category": "ACCESSORY",
+      "obtainable": false,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "FARMING_FORTUNE": 5.0,
+        "MAX_HEALTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Floral",
+      "category": "ACCESSORY",
+      "obtainable": false,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "FARMING_FORTUNE": 10.0,
+        "MAX_HEALTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Floral",
+      "category": "ACCESSORY",
+      "obtainable": false,
+      "rarity": "SPECIAL",
+      "stats": {
+        "FARMING_FORTUNE": 3.0,
+        "MAX_HEALTH": 5.0
+      }
+    }
+  },
+  "ACCESSORY_SINISTRO": {
+    "COMMON": {
+      "name": "Sinistro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Sinistro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Sinistro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Sinistro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 4.0,
+        "DEFENSE": 4.0,
+        "CRIT_DAMAGE": 4.0,
+        "STRENGTH": 4.0,
+        "MAX_HEALTH": 4.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Sinistro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "DEFENSE": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "STRENGTH": 5.0,
+        "MAX_HEALTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Sinistro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 6.0,
+        "DEFENSE": 6.0,
+        "CRIT_DAMAGE": 6.0,
+        "STRENGTH": 6.0,
+        "MAX_HEALTH": 6.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Sinistro",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 4.0,
+        "DEFENSE": 4.0,
+        "CRIT_DAMAGE": 4.0,
+        "STRENGTH": 4.0,
+        "MAX_HEALTH": 4.0
+      }
+    }
+  },
+  "ACCESSORY_VIVIDO": {
+    "COMMON": {
+      "name": "Vivido",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Vivido",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Vivido",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": 1.0,
+        "SPEED": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Vivido",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": 2.0,
+        "SPEED": 1.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Vivido",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 2.0,
+        "SPEED": 1.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Vivido",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": 3.0,
+        "SPEED": 2.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Vivido",
+      "category": "ACCESSORY",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "DEFENSE": 2.0,
+        "SPEED": 1.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    }
+  },
+  "NECKLACE_ARCANO": {
+    "COMMON": {
+      "name": "Arcano",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "BONUS_ATTACK_SPEED": 1.0,
+        "MAGIC_DAMAGE": 1.0,
+        "SPEED": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Arcano",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "BONUS_ATTACK_SPEED": 2.0,
+        "MAGIC_DAMAGE": 2.0,
+        "SPEED": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Arcano",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "BONUS_ATTACK_SPEED": 3.0,
+        "MAGIC_DAMAGE": 3.0,
+        "SPEED": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Arcano",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "BONUS_ATTACK_SPEED": 5.0,
+        "MAGIC_DAMAGE": 5.0,
+        "SPEED": 5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Arcano",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "BONUS_ATTACK_SPEED": 10.0,
+        "MAGIC_DAMAGE": 10.0,
+        "SPEED": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Arcano",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "BONUS_ATTACK_SPEED": 12.0,
+        "MAGIC_DAMAGE": 12.0,
+        "SPEED": 12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Arcano",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "BONUS_ATTACK_SPEED": 5.0,
+        "MAGIC_DAMAGE": 5.0,
+        "SPEED": 5.0
+      }
+    }
+  },
+  "NECKLACE_CONDUTOR": {
+    "COMMON": {
+      "name": "Condutor",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "STRENGTH": -1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Condutor",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": -2.0
+      }
+    },
+    "RARE": {
+      "name": "Condutor",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": -3.0
+      }
+    },
+    "EPIC": {
+      "name": "Condutor",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": -5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Condutor",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": -10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Condutor",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": -12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Condutor",
+      "category": "NECKLACE",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": -5.0
+      }
+    }
+  },
+  "CLOAK_ARCANO": {
+    "COMMON": {
+      "name": "Arcano",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "BONUS_ATTACK_SPEED": 1.0,
+        "MAGIC_DAMAGE": 1.0,
+        "SPEED": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Arcano",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "BONUS_ATTACK_SPEED": 2.0,
+        "MAGIC_DAMAGE": 2.0,
+        "SPEED": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Arcano",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "BONUS_ATTACK_SPEED": 3.0,
+        "MAGIC_DAMAGE": 3.0,
+        "SPEED": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Arcano",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "BONUS_ATTACK_SPEED": 5.0,
+        "MAGIC_DAMAGE": 5.0,
+        "SPEED": 5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Arcano",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "BONUS_ATTACK_SPEED": 10.0,
+        "MAGIC_DAMAGE": 10.0,
+        "SPEED": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Arcano",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "BONUS_ATTACK_SPEED": 12.0,
+        "MAGIC_DAMAGE": 12.0,
+        "SPEED": 12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Arcano",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "BONUS_ATTACK_SPEED": 5.0,
+        "MAGIC_DAMAGE": 5.0,
+        "SPEED": 5.0
+      }
+    }
+  },
+  "CLOAK_CONDUTOR": {
+    "COMMON": {
+      "name": "Condutor",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "STRENGTH": -1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Condutor",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": -2.0
+      }
+    },
+    "RARE": {
+      "name": "Condutor",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": -3.0
+      }
+    },
+    "EPIC": {
+      "name": "Condutor",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": -5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Condutor",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": -10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Condutor",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": -12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Condutor",
+      "category": "CLOAK",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": -5.0
+      }
+    }
+  },
+  "BELT_ARCANO": {
+    "COMMON": {
+      "name": "Arcano",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "BONUS_ATTACK_SPEED": 1.0,
+        "MAGIC_DAMAGE": 1.0,
+        "SPEED": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Arcano",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "BONUS_ATTACK_SPEED": 2.0,
+        "MAGIC_DAMAGE": 2.0,
+        "SPEED": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Arcano",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "BONUS_ATTACK_SPEED": 3.0,
+        "MAGIC_DAMAGE": 3.0,
+        "SPEED": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Arcano",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "BONUS_ATTACK_SPEED": 5.0,
+        "MAGIC_DAMAGE": 5.0,
+        "SPEED": 5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Arcano",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "BONUS_ATTACK_SPEED": 10.0,
+        "MAGIC_DAMAGE": 10.0,
+        "SPEED": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Arcano",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "BONUS_ATTACK_SPEED": 12.0,
+        "MAGIC_DAMAGE": 12.0,
+        "SPEED": 12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Arcano",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "BONUS_ATTACK_SPEED": 5.0,
+        "MAGIC_DAMAGE": 5.0,
+        "SPEED": 5.0
+      }
+    }
+  },
+  "BELT_CONDUTOR": {
+    "COMMON": {
+      "name": "Condutor",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "STRENGTH": -1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Condutor",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": -2.0
+      }
+    },
+    "RARE": {
+      "name": "Condutor",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": -3.0
+      }
+    },
+    "EPIC": {
+      "name": "Condutor",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": -5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Condutor",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": -10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Condutor",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": -12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Condutor",
+      "category": "BELT",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": -5.0
+      }
+    }
+  },
+  "BRACELET_ARCANO": {
+    "COMMON": {
+      "name": "Arcano",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "BONUS_ATTACK_SPEED": 1.0,
+        "MAGIC_DAMAGE": 1.0,
+        "SPEED": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Arcano",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "BONUS_ATTACK_SPEED": 2.0,
+        "MAGIC_DAMAGE": 2.0,
+        "SPEED": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Arcano",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "BONUS_ATTACK_SPEED": 3.0,
+        "MAGIC_DAMAGE": 3.0,
+        "SPEED": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Arcano",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "BONUS_ATTACK_SPEED": 5.0,
+        "MAGIC_DAMAGE": 5.0,
+        "SPEED": 5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Arcano",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "BONUS_ATTACK_SPEED": 10.0,
+        "MAGIC_DAMAGE": 10.0,
+        "SPEED": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Arcano",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "BONUS_ATTACK_SPEED": 12.0,
+        "MAGIC_DAMAGE": 12.0,
+        "SPEED": 12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Arcano",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "BONUS_ATTACK_SPEED": 5.0,
+        "MAGIC_DAMAGE": 5.0,
+        "SPEED": 5.0
+      }
+    }
+  },
+  "BRACELET_CONDUTOR": {
+    "COMMON": {
+      "name": "Condutor",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "STRENGTH": -1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Condutor",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": -2.0
+      }
+    },
+    "RARE": {
+      "name": "Condutor",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": -3.0
+      }
+    },
+    "EPIC": {
+      "name": "Condutor",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": -5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Condutor",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": -10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Condutor",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": -12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Condutor",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": -5.0
+      }
+    }
+  },
+  "BRACELET_PRECISO": {
+    "COMMON": {
+      "name": "Preciso",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": -1.0,
+        "CRIT_CHANCE": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Preciso",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": -2.0,
+        "CRIT_CHANCE": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Preciso",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": -3.0,
+        "CRIT_CHANCE": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Preciso",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": -5.0,
+        "CRIT_CHANCE": 5.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Preciso",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": -10.0,
+        "CRIT_CHANCE": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Preciso",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": -12.0,
+        "CRIT_CHANCE": 12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Preciso",
+      "category": "BRACELET",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "DEFENSE": -5.0,
+        "CRIT_CHANCE": 5.0
+      }
+    }
+  },
+  "ARMOR_AFIADA": {
+    "COMMON": {
+      "name": "Afiada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Afiada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Afiada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Afiada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Afiada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Afiada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Afiada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_DEMONIACA": {
+    "COMMON": {
+      "name": "Demoníaca",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Demoníaca",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Demoníaca",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Demoníaca",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Demoníaca",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Demoníaca",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Demoníaca",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_DESAGRADAVEL": {
+    "COMMON": {
+      "name": "Desagradável",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Desagradável",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Desagradável",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Desagradável",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 6.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Desagradável",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 8.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Desagradável",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 16.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Desagradável",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_DIVINA": {
+    "COMMON": {
+      "name": "Divina",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Divina",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Divina",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Divina",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 6.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Divina",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 8.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Divina",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 8.0,
+        "CRIT_DAMAGE": 12.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 16.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Divina",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_FEROZ": {
+    "COMMON": {
+      "name": "Feroz",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Feroz",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Feroz",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Feroz",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Feroz",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Feroz",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": 4.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 6.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Feroz",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "ARMOR_FERVOROSA": {
+    "COMMON": {
+      "name": "Fervorosa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Fervorosa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Fervorosa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Fervorosa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Fervorosa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Fervorosa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Fervorosa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_FORTE": {
+    "COMMON": {
+      "name": "Forte",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Forte",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_CHANCE": 4.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "RARE": {
+      "name": "Forte",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_CHANCE": 4.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Forte",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Forte",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Forte",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_CHANCE": 18.0,
+        "STRENGTH": 18.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Forte",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_GENTIL": {
+    "COMMON": {
+      "name": "Gentil",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {}
+    },
+    "UNCOMMON": {
+      "name": "Gentil",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {}
+    },
+    "RARE": {
+      "name": "Gentil",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {}
+    },
+    "EPIC": {
+      "name": "Gentil",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {}
+    },
+    "LEGENDARY": {
+      "name": "Gentil",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {}
+    },
+    "MYTHICAL": {
+      "name": "Gentil",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {}
+    },
+    "SPECIAL": {
+      "name": "Gentil",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_INTELIGENTE": {
+    "COMMON": {
+      "name": "Inteligente",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "DEFENSE": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Inteligente",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 18.0,
+        "DEFENSE": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Inteligente",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 18.0,
+        "DEFENSE": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Inteligente",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 32.0,
+        "DEFENSE": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Inteligente",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 50.0,
+        "DEFENSE": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Inteligente",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 75.0,
+        "DEFENSE": 15.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Inteligente",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_COLOSSAL": {
+    "COMMON": {
+      "name": "Colossal",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": 10.0,
+        "MAX_HEALTH": 20.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Colossal",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 10.0,
+        "MAX_HEALTH": 30.0
+      }
+    },
+    "RARE": {
+      "name": "Colossal",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": 20.0,
+        "MAX_HEALTH": 40.0
+      }
+    },
+    "EPIC": {
+      "name": "Colossal",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": 30.0,
+        "MAX_HEALTH": 50.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Colossal",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 40.0,
+        "MAX_HEALTH": 60.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Colossal",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": 60.0,
+        "MAX_HEALTH": 80.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Colossal",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_LEVE": {
+    "COMMON": {
+      "name": "Leve",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": 1.0,
+        "SPEED": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Leve",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 2.0,
+        "SPEED": 3.0,
+        "CRIT_DAMAGE": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Leve",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": 2.0,
+        "SPEED": 3.0,
+        "CRIT_DAMAGE": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Leve",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": 3.0,
+        "SPEED": 5.0,
+        "CRIT_DAMAGE": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Leve",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 5.0,
+        "SPEED": 10.0,
+        "CRIT_DAMAGE": 5.0,
+        "MAX_HEALTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Leve",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": 9.0,
+        "SPEED": 15.0,
+        "CRIT_DAMAGE": 7.0,
+        "MAX_HEALTH": 7.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Leve",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_LIMPA": {
+    "COMMON": {
+      "name": "Limpa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": 1.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Limpa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 4.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "RARE": {
+      "name": "Limpa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": 4.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "EPIC": {
+      "name": "Limpa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": 7.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Limpa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 10.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Limpa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": 14.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 4.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Limpa",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_MITICA": {
+    "COMMON": {
+      "name": "Mítica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "DEFENSE": 1.0,
+        "SPEED": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Mítica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": 2.0,
+        "SPEED": 1.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Mítica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": 2.0,
+        "SPEED": 1.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Mítica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 18.0,
+        "DEFENSE": 3.0,
+        "SPEED": 1.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Mítica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "DEFENSE": 5.0,
+        "SPEED": 1.0,
+        "STRENGTH": 5.0,
+        "MAX_HEALTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Mítica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 30.0,
+        "DEFENSE": 10.0,
+        "SPEED": 2.0,
+        "STRENGTH": 10.0,
+        "MAX_HEALTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Mítica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_NOCIVA": {
+    "COMMON": {
+      "name": "Nociva",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Nociva",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Nociva",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Nociva",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Nociva",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Nociva",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_DAMAGE": 6.0,
+        "CRIT_CHANCE": 6.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Nociva",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_PESADA": {
+    "COMMON": {
+      "name": "Pesada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": 3.0,
+        "SPEED": -3.0,
+        "CRIT_DAMAGE": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Pesada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 6.0,
+        "SPEED": -6.0,
+        "CRIT_DAMAGE": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Pesada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": 10.0,
+        "SPEED": -10.0,
+        "CRIT_DAMAGE": 2.0,
+        "MAX_HEALTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Pesada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": 15.0,
+        "SPEED": -15.0,
+        "CRIT_DAMAGE": 3.0,
+        "MAX_HEALTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Pesada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 20.0,
+        "SPEED": -20.0,
+        "CRIT_DAMAGE": 5.0,
+        "MAX_HEALTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Pesada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": 30.0,
+        "SPEED": -30.0,
+        "CRIT_DAMAGE": 8.0,
+        "MAX_HEALTH": 25.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Pesada",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_PURA": {
+    "COMMON": {
+      "name": "Pura",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Pura",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Pura",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Pura",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Pura",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "DEFENSE": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 5.0,
+        "MAX_HEALTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Pura",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 9.0,
+        "DEFENSE": 9.0,
+        "CRIT_DAMAGE": 9.0,
+        "CRIT_CHANCE": 9.0,
+        "STRENGTH": 9.0,
+        "MAX_HEALTH": 9.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Pura",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_SABIA": {
+    "COMMON": {
+      "name": "Sábia",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Sábia",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Sábia",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 35.0,
+        "SPEED": 1.0,
+        "MAX_HEALTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Sábia",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 65.0,
+        "SPEED": 2.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Sábia",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 100.0,
+        "SPEED": 2.0,
+        "MAX_HEALTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Sábia",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 125.0,
+        "SPEED": 6.0,
+        "MAX_HEALTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Sábia",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_SUPERIOR": {
+    "COMMON": {
+      "name": "Superior",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Superior",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "RARE": {
+      "name": "Superior",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Superior",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Superior",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Superior",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 14.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Superior",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_TITANICA": {
+    "COMMON": {
+      "name": "Titânica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "DEFENSE": 3.0,
+        "MAX_HEALTH": 3.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Titânica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "DEFENSE": 6.0,
+        "MAX_HEALTH": 6.0
+      }
+    },
+    "RARE": {
+      "name": "Titânica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "DEFENSE": 10.0,
+        "MAX_HEALTH": 10.0
+      }
+    },
+    "EPIC": {
+      "name": "Titânica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "DEFENSE": 15.0,
+        "MAX_HEALTH": 15.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Titânica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 20.0,
+        "MAX_HEALTH": 20.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Titânica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "DEFENSE": 30.0,
+        "MAX_HEALTH": 30.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Titânica",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_VIOLENTA": {
+    "COMMON": {
+      "name": "Violenta",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "STRENGTH": 2.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Violenta",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "STRENGTH": 7.0
+      }
+    },
+    "RARE": {
+      "name": "Violenta",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "STRENGTH": 7.0
+      }
+    },
+    "EPIC": {
+      "name": "Violenta",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "STRENGTH": 10.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Violenta",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "STRENGTH": 15.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Violenta",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "STRENGTH": 35.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Violenta",
+      "category": "ARMOR",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "ARMOR_VITAMINADA": {
+    "COMMON": {
+      "name": "Vitaminada",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "FARMING_FORTUNE": 5.0,
+        "MAX_HEALTH": 10.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Vitaminada",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "FARMING_FORTUNE": 10.0,
+        "MAX_HEALTH": 20.0
+      }
+    },
+    "RARE": {
+      "name": "Vitaminada",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "SPEED": 5.0,
+        "FARMING_FORTUNE": 10.0,
+        "MAX_HEALTH": 20.0
+      }
+    },
+    "EPIC": {
+      "name": "Vitaminada",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "SPEED": 10.0,
+        "FARMING_FORTUNE": 15.0,
+        "MAX_HEALTH": 30.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Vitaminada",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 30.0,
+        "SPEED": 10.0,
+        "FARMING_FORTUNE": 15.0,
+        "MAX_HEALTH": 40.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Vitaminada",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 40.0,
+        "SPEED": 20.0,
+        "FARMING_FORTUNE": 25.0,
+        "MAX_HEALTH": 40.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Vitaminada",
+      "category": "ARMOR",
+      "obtainable": false,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "HOE_PODRE": {
+    "COMMON": {
+      "name": "Podre",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": -5.0,
+        "SPEED": -5.0,
+        "FARMING_FORTUNE": 10.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Podre",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": -10.0,
+        "SPEED": -10.0,
+        "FARMING_FORTUNE": 10.0
+      }
+    },
+    "RARE": {
+      "name": "Podre",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": -10.0,
+        "SPEED": -20.0,
+        "FARMING_FORTUNE": 20.0
+      }
+    },
+    "EPIC": {
+      "name": "Podre",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": -15.0,
+        "SPEED": -25.0,
+        "FARMING_FORTUNE": 25.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Podre",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": -20.0,
+        "SPEED": -30.0,
+        "FARMING_FORTUNE": 30.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Podre",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": -30.0,
+        "SPEED": -40.0,
+        "FARMING_FORTUNE": 50.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Podre",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": -15.0,
+        "SPEED": -25.0,
+        "FARMING_FORTUNE": 25.0
+      }
+    }
+  },
+  "HOE_EMBELEZADA": {
+    "COMMON": {
+      "name": "Embelezada",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "COMMON",
+      "stats": {
+        "FARMING_FORTUNE": 10.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Embelezada",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "FARMING_FORTUNE": 10.0
+      }
+    },
+    "RARE": {
+      "name": "Embelezada",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "SPEED": 5.0,
+        "FARMING_FORTUNE": 10.0
+      }
+    },
+    "EPIC": {
+      "name": "Embelezada",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 10.0,
+        "FARMING_FORTUNE": 10.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Embelezada",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "SPEED": 15.0,
+        "FARMING_FORTUNE": 15.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Embelezada",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 40.0,
+        "SPEED": 35.0,
+        "FARMING_FORTUNE": 45.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Embelezada",
+      "category": "HOE",
+      "obtainable": false,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 10.0,
+        "FARMING_FORTUNE": 10.0
+      }
+    }
+  },
+  "BOW_AFIADO": {
+    "COMMON": {
+      "name": "Afiada",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Afiada",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Afiada",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Afiada",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Afiada",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Afiada",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 9.0,
+        "STRENGTH": 9.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Afiada",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "BOW_APRESSADO": {
+    "COMMON": {
+      "name": "Apressado",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Apressado",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Apressado",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_CHANCE": 12.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Apressado",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_CHANCE": 18.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Apressado",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_CHANCE": 25.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Apressado",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_CHANCE": 30.0,
+        "STRENGTH": 15.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Apressado",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "CRIT_CHANCE": 18.0,
+        "STRENGTH": 7.0
+      }
+    }
+  },
+  "BOW_DEMONIACO": {
+    "COMMON": {
+      "name": "Demoníaca",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Demoníaca",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Demoníaca",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 10.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Demoníaca",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Demoníaca",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 20.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Demoníaca",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 25.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Demoníaca",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 15.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "BOW_DESAGRADAVEL": {
+    "COMMON": {
+      "name": "Desagradável",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Desagradável",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Desagradável",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 3.0
+      }
+    },
+    "EPIC": {
+      "name": "Desagradável",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 6.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Desagradável",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 8.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Desagradável",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 7.0,
+        "CRIT_DAMAGE": 7.0,
+        "CRIT_CHANCE": 18.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Desagradável",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 6.0
+      }
+    }
+  },
+  "BOW_DIVINO": {
+    "COMMON": {
+      "name": "Divina",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Divina",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Divina",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Divina",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 6.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Divina",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 8.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Divina",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 9.0,
+        "CRIT_DAMAGE": 12.0,
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 15.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Divina",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 6.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 7.0
+      }
+    }
+  },
+  "BOW_ELEGANTE": {
+    "COMMON": {
+      "name": "Elegante",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Elegante",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_DAMAGE": 4.0,
+        "CRIT_CHANCE": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Elegante",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_DAMAGE": 7.0,
+        "CRIT_CHANCE": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Elegante",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Elegante",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_DAMAGE": 15.0,
+        "CRIT_CHANCE": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Elegante",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_DAMAGE": 20.0,
+        "CRIT_CHANCE": 16.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Elegante",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 7.0
+      }
+    }
+  },
+  "BOW_ESTRANHO": {
+    "COMMON": {
+      "name": "Estranho",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": -5.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Estranho",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": -10.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Estranho",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": -18.0,
+        "CRIT_DAMAGE": 4.0,
+        "CRIT_CHANCE": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Estranho",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": -32.0,
+        "CRIT_DAMAGE": 7.0,
+        "CRIT_CHANCE": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Estranho",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": -50.0,
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Estranho",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": -100.0,
+        "CRIT_DAMAGE": 15.0,
+        "CRIT_CHANCE": 15.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Estranho",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": -32.0,
+        "CRIT_DAMAGE": 7.0,
+        "CRIT_CHANCE": 7.0
+      }
+    }
+  },
+  "BOW_FERVOROSO": {
+    "COMMON": {
+      "name": "Fervorosa",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Fervorosa",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Fervorosa",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "EPIC": {
+      "name": "Fervorosa",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Fervorosa",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 5.0,
+        "CRIT_CHANCE": 5.0,
+        "STRENGTH": 5.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Fervorosa",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 6.0,
+        "CRIT_DAMAGE": 6.0,
+        "CRIT_CHANCE": 6.0,
+        "STRENGTH": 6.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Fervorosa",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "STRENGTH": 3.0
+      }
+    }
+  },
+  "BOW_FORTE": {
+    "COMMON": {
+      "name": "Forte",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_CHANCE": 1.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Forte",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Forte",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_CHANCE": 4.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Forte",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Forte",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Forte",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_CHANCE": 15.0,
+        "STRENGTH": 15.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Forte",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 7.0
+      }
+    }
+  },
+  "BOW_GENTIL": {
+    "COMMON": {
+      "name": "Gentil",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {}
+    },
+    "UNCOMMON": {
+      "name": "Gentil",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {}
+    },
+    "RARE": {
+      "name": "Gentil",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {}
+    },
+    "EPIC": {
+      "name": "Gentil",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {}
+    },
+    "LEGENDARY": {
+      "name": "Gentil",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {}
+    },
+    "MYTHICAL": {
+      "name": "Gentil",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {}
+    },
+    "SPECIAL": {
+      "name": "Gentil",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {}
+    }
+  },
+  "BOW_IMPONENTE": {
+    "COMMON": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "STRENGTH": 3.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "STRENGTH": 7.0
+      }
+    },
+    "RARE": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "STRENGTH": 12.0
+      }
+    },
+    "EPIC": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "STRENGTH": 17.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "STRENGTH": 25.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "STRENGTH": 30.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "STRENGTH": 17.0
+      }
+    }
+  },
+  "BOW_IRREAL": {
+    "COMMON": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_DAMAGE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_DAMAGE": 4.0,
+        "CRIT_CHANCE": 4.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "RARE": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_DAMAGE": 7.0,
+        "CRIT_CHANCE": 7.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "EPIC": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_DAMAGE": 15.0,
+        "CRIT_CHANCE": 15.0,
+        "STRENGTH": 15.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_DAMAGE": 25.0,
+        "CRIT_CHANCE": 25.0,
+        "STRENGTH": 25.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Imponente",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "CRIT_DAMAGE": 10.0,
+        "CRIT_CHANCE": 10.0,
+        "STRENGTH": 10.0
+      }
+    }
+  },
+  "BOW_RAPIDO": {
+    "COMMON": {
+      "name": "Rápido",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "COMMON",
+      "stats": {
+        "CRIT_DAMAGE": 5.0,
+        "STRENGTH": 1.0
+      }
+    },
+    "UNCOMMON": {
+      "name": "Rápido",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "UNCOMMON",
+      "stats": {
+        "CRIT_DAMAGE": 10.0,
+        "STRENGTH": 2.0
+      }
+    },
+    "RARE": {
+      "name": "Rápido",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "RARE",
+      "stats": {
+        "CRIT_DAMAGE": 18.0,
+        "STRENGTH": 4.0
+      }
+    },
+    "EPIC": {
+      "name": "Rápido",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "EPIC",
+      "stats": {
+        "CRIT_DAMAGE": 32.0,
+        "STRENGTH": 7.0
+      }
+    },
+    "LEGENDARY": {
+      "name": "Rápido",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "LEGENDARY",
+      "stats": {
+        "CRIT_DAMAGE": 50.0,
+        "STRENGTH": 10.0
+      }
+    },
+    "MYTHICAL": {
+      "name": "Rápido",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "MYTHICAL",
+      "stats": {
+        "CRIT_DAMAGE": 75.0,
+        "STRENGTH": 12.0
+      }
+    },
+    "SPECIAL": {
+      "name": "Rápido",
+      "category": "BOW",
+      "obtainable": true,
+      "rarity": "SPECIAL",
+      "stats": {
+        "CRIT_DAMAGE": 32.0,
+        "STRENGTH": 7.0
+      }
+    }
+  }
+}

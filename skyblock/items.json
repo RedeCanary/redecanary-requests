@@ -54,8 +54,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 110,
-      "MAX_HEALTH": 70,
-      "SPEED": 20
+      "SPEED": 20,
+      "MAX_HEALTH": 70
     }
   },
   "PEITORAL_DRAGAO_JOVEM": {
@@ -69,8 +69,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 160,
-      "MAX_HEALTH": 120,
-      "SPEED": 20
+      "SPEED": 20,
+      "MAX_HEALTH": 120
     }
   },
   "CALCAS_DRAGAO_JOVEM": {
@@ -84,8 +84,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 140,
-      "MAX_HEALTH": 100,
-      "SPEED": 20
+      "SPEED": 20,
+      "MAX_HEALTH": 100
     }
   },
   "BOTAS_DRAGAO_JOVEM": {
@@ -99,8 +99,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 90,
-      "MAX_HEALTH": 60,
-      "SPEED": 20
+      "SPEED": 20,
+      "MAX_HEALTH": 60
     }
   },
   "CAPACETE_DRAGAO_ANCIAO": {
@@ -169,9 +169,9 @@
       "level": 15
     },
     "baseAttributes": {
+      "MAX_INTELLIGENCE": 75,
       "DEFENSE": 110,
-      "MAX_HEALTH": 70,
-      "MAX_INTELLIGENCE": 75
+      "MAX_HEALTH": 70
     }
   },
   "PEITORAL_DRAGAO_SABIO": {
@@ -184,9 +184,9 @@
       "level": 15
     },
     "baseAttributes": {
+      "MAX_INTELLIGENCE": 75,
       "DEFENSE": 160,
-      "MAX_HEALTH": 120,
-      "MAX_INTELLIGENCE": 75
+      "MAX_HEALTH": 120
     }
   },
   "CALCAS_DRAGAO_SABIO": {
@@ -199,9 +199,9 @@
       "level": 15
     },
     "baseAttributes": {
+      "MAX_INTELLIGENCE": 75,
       "DEFENSE": 120,
-      "MAX_HEALTH": 100,
-      "MAX_INTELLIGENCE": 75
+      "MAX_HEALTH": 100
     }
   },
   "BOTAS_DRAGAO_SABIO": {
@@ -214,9 +214,9 @@
       "level": 15
     },
     "baseAttributes": {
+      "MAX_INTELLIGENCE": 75,
       "DEFENSE": 90,
-      "MAX_HEALTH": 60,
-      "MAX_INTELLIGENCE": 75
+      "MAX_HEALTH": 60
     }
   },
   "CAPACETE_DRAGAO_INSTAVEL": {
@@ -230,9 +230,9 @@
     },
     "baseAttributes": {
       "DEFENSE": 110,
-      "MAX_HEALTH": 70,
+      "CRIT_DAMAGE": 15,
       "CRIT_CHANCE": 10,
-      "CRIT_DAMAGE": 15
+      "MAX_HEALTH": 70
     }
   },
   "PEITORAL_DRAGAO_INSTAVEL": {
@@ -242,9 +242,9 @@
     "category": "CHESTPLATE",
     "baseAttributes": {
       "DEFENSE": 160,
-      "MAX_HEALTH": 120,
+      "CRIT_DAMAGE": 15,
       "CRIT_CHANCE": 10,
-      "CRIT_DAMAGE": 15
+      "MAX_HEALTH": 120
     }
   },
   "CALCAS_DRAGAO_INSTAVEL": {
@@ -258,9 +258,9 @@
     },
     "baseAttributes": {
       "DEFENSE": 120,
-      "MAX_HEALTH": 100,
+      "CRIT_DAMAGE": 15,
       "CRIT_CHANCE": 10,
-      "CRIT_DAMAGE": 15
+      "MAX_HEALTH": 100
     }
   },
   "BOTAS_DRAGAO_INSTAVEL": {
@@ -274,9 +274,9 @@
     },
     "baseAttributes": {
       "DEFENSE": 90,
-      "MAX_HEALTH": 60,
+      "CRIT_DAMAGE": 15,
       "CRIT_CHANCE": 10,
-      "CRIT_DAMAGE": 15
+      "MAX_HEALTH": 60
     }
   },
   "CAPACETE_DRAGAO_FORTE": {
@@ -290,8 +290,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 110,
-      "MAX_HEALTH": 70,
-      "STRENGTH": 25
+      "STRENGTH": 25,
+      "MAX_HEALTH": 70
     }
   },
   "PEITORAL_DRAGAO_FORTE": {
@@ -305,8 +305,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 160,
-      "MAX_HEALTH": 120,
-      "STRENGTH": 25
+      "STRENGTH": 25,
+      "MAX_HEALTH": 120
     }
   },
   "CALCAS_DRAGAO_FORTE": {
@@ -320,8 +320,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 140,
-      "MAX_HEALTH": 100,
-      "STRENGTH": 25
+      "STRENGTH": 25,
+      "MAX_HEALTH": 100
     }
   },
   "BOTAS_DRAGAO_FORTE": {
@@ -335,8 +335,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 90,
-      "MAX_HEALTH": 60,
-      "STRENGTH": 25
+      "STRENGTH": 25,
+      "MAX_HEALTH": 60
     }
   },
   "CAPACETE_DRAGAO_PROTETOR": {
@@ -405,13 +405,13 @@
       "level": 20
     },
     "baseAttributes": {
-      "DEFENSE": 170,
-      "MAX_HEALTH": 130,
-      "CRIT_CHANCE": 2,
       "MAX_INTELLIGENCE": 25,
+      "DEFENSE": 170,
+      "SPEED": 3,
       "CRIT_DAMAGE": 8,
+      "CRIT_CHANCE": 2,
       "STRENGTH": 10,
-      "SPEED": 3
+      "MAX_HEALTH": 130
     }
   },
   "PEITORAL_DRAGAO_SUPERIOR": {
@@ -424,13 +424,13 @@
       "level": 20
     },
     "baseAttributes": {
-      "DEFENSE": 170,
-      "MAX_HEALTH": 130,
-      "CRIT_CHANCE": 2,
       "MAX_INTELLIGENCE": 25,
+      "DEFENSE": 170,
+      "SPEED": 3,
       "CRIT_DAMAGE": 8,
+      "CRIT_CHANCE": 2,
       "STRENGTH": 10,
-      "SPEED": 3
+      "MAX_HEALTH": 130
     }
   },
   "CALCAS_DRAGAO_SUPERIOR": {
@@ -443,13 +443,13 @@
       "level": 20
     },
     "baseAttributes": {
-      "DEFENSE": 170,
-      "MAX_HEALTH": 130,
-      "CRIT_CHANCE": 2,
       "MAX_INTELLIGENCE": 25,
+      "DEFENSE": 170,
+      "SPEED": 3,
       "CRIT_DAMAGE": 8,
+      "CRIT_CHANCE": 2,
       "STRENGTH": 10,
-      "SPEED": 3
+      "MAX_HEALTH": 130
     }
   },
   "BOTAS_DRAGAO_SUPERIOR": {
@@ -462,13 +462,13 @@
       "level": 20
     },
     "baseAttributes": {
-      "DEFENSE": 170,
-      "MAX_HEALTH": 130,
-      "CRIT_CHANCE": 2,
       "MAX_INTELLIGENCE": 25,
+      "DEFENSE": 170,
+      "SPEED": 3,
       "CRIT_DAMAGE": 8,
+      "CRIT_CHANCE": 2,
       "STRENGTH": 10,
-      "SPEED": 3
+      "MAX_HEALTH": 130
     }
   },
   "CAPACETE_DE_CRISTAL": {
@@ -481,8 +481,8 @@
       "level": 12
     },
     "baseAttributes": {
-      "DEFENSE": 20,
-      "MAX_INTELLIGENCE": 45
+      "MAX_INTELLIGENCE": 45,
+      "DEFENSE": 20
     }
   },
   "PEITORAL_DE_CRISTAL": {
@@ -499,8 +499,8 @@
       ""
     ],
     "baseAttributes": {
-      "DEFENSE": 40,
-      "MAX_INTELLIGENCE": 45
+      "MAX_INTELLIGENCE": 45,
+      "DEFENSE": 40
     }
   },
   "CALCAS_DE_CRISTAL": {
@@ -513,8 +513,8 @@
       "level": 12
     },
     "baseAttributes": {
-      "DEFENSE": 30,
-      "MAX_INTELLIGENCE": 45
+      "MAX_INTELLIGENCE": 45,
+      "DEFENSE": 30
     }
   },
   "BOTAS_DE_CRISTAL": {
@@ -527,8 +527,8 @@
       "level": 12
     },
     "baseAttributes": {
-      "DEFENSE": 10,
-      "MAX_INTELLIGENCE": 45
+      "MAX_INTELLIGENCE": 45,
+      "DEFENSE": 10
     }
   },
   "CAPACETE_DA_PERFEICAO_X": {
@@ -1139,8 +1139,8 @@
     "sellPrice": 40000.0,
     "baseAttributes": {
       "DEFENSE": 70,
-      "MAX_HEALTH": 50,
-      "SPEED": 5
+      "SPEED": 5,
+      "MAX_HEALTH": 50
     }
   },
   "PEITORAL_DO_GOLEM": {
@@ -1151,8 +1151,8 @@
     "sellPrice": 64400.0,
     "baseAttributes": {
       "DEFENSE": 90,
-      "MAX_HEALTH": 70,
-      "SPEED": 5
+      "SPEED": 5,
+      "MAX_HEALTH": 70
     }
   },
   "CALCAS_DO_GOLEM": {
@@ -1163,8 +1163,8 @@
     "sellPrice": 56000.0,
     "baseAttributes": {
       "DEFENSE": 80,
-      "MAX_HEALTH": 65,
-      "SPEED": 5
+      "SPEED": 5,
+      "MAX_HEALTH": 65
     }
   },
   "BOTAS_DO_GOLEM": {
@@ -1175,8 +1175,8 @@
     "sellPrice": 32000.0,
     "baseAttributes": {
       "DEFENSE": 50,
-      "MAX_HEALTH": 40,
-      "SPEED": 5
+      "SPEED": 5,
+      "MAX_HEALTH": 40
     }
   },
   "CAPACETE_DE_BRASA": {
@@ -1189,9 +1189,9 @@
       "level": 10
     },
     "baseAttributes": {
+      "MAX_INTELLIGENCE": 5,
       "DEFENSE": 35,
-      "MAX_HEALTH": 40,
-      "MAX_INTELLIGENCE": 5
+      "MAX_HEALTH": 40
     }
   },
   "PEITORAL_DE_BRASA": {
@@ -1208,9 +1208,9 @@
       ""
     ],
     "baseAttributes": {
+      "MAX_INTELLIGENCE": 5,
       "DEFENSE": 60,
-      "MAX_HEALTH": 65,
-      "MAX_INTELLIGENCE": 5
+      "MAX_HEALTH": 65
     }
   },
   "CALCAS_DE_BRASA": {
@@ -1223,9 +1223,9 @@
       "level": 10
     },
     "baseAttributes": {
+      "MAX_INTELLIGENCE": 5,
       "DEFENSE": 55,
-      "MAX_HEALTH": 60,
-      "MAX_INTELLIGENCE": 5
+      "MAX_HEALTH": 60
     }
   },
   "BOTAS_DE_BRASA": {
@@ -1238,9 +1238,9 @@
       "level": 10
     },
     "baseAttributes": {
+      "MAX_INTELLIGENCE": 5,
       "DEFENSE": 30,
-      "MAX_HEALTH": 35,
-      "MAX_INTELLIGENCE": 5
+      "MAX_HEALTH": 35
     }
   },
   "CAPACETE_DE_ABOBORA": {
@@ -1254,8 +1254,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 15,
       "DEFENSE": 20,
+      "FARMING_FORTUNE": 15,
       "MAX_HEALTH": 90
     }
   },
@@ -1270,8 +1270,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 15,
       "DEFENSE": 20,
+      "FARMING_FORTUNE": 15,
       "MAX_HEALTH": 110
     }
   },
@@ -1286,8 +1286,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 15,
       "DEFENSE": 20,
+      "FARMING_FORTUNE": 15,
       "MAX_HEALTH": 120
     }
   },
@@ -1302,8 +1302,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 15,
       "DEFENSE": 20,
+      "FARMING_FORTUNE": 15,
       "MAX_HEALTH": 90
     }
   },
@@ -1317,8 +1317,8 @@
       "level": 15
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 25,
       "DEFENSE": 30,
+      "FARMING_FORTUNE": 25,
       "MAX_HEALTH": 120
     }
   },
@@ -1332,8 +1332,8 @@
       "level": 15
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 25,
       "DEFENSE": 30,
+      "FARMING_FORTUNE": 25,
       "MAX_HEALTH": 145
     }
   },
@@ -1347,8 +1347,8 @@
       "level": 15
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 25,
       "DEFENSE": 30,
+      "FARMING_FORTUNE": 25,
       "MAX_HEALTH": 145
     }
   },
@@ -1362,8 +1362,8 @@
       "level": 15
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 25,
       "DEFENSE": 8,
+      "FARMING_FORTUNE": 25,
       "MAX_HEALTH": 120
     }
   },
@@ -1377,8 +1377,9 @@
       "level": 20
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 40,
       "DEFENSE": 40,
+      "SPEED": 10,
+      "FARMING_FORTUNE": 40,
       "MAX_HEALTH": 145
     }
   },
@@ -1392,8 +1393,9 @@
       "level": 20
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 40,
       "DEFENSE": 40,
+      "SPEED": 10,
+      "FARMING_FORTUNE": 40,
       "MAX_HEALTH": 175
     }
   },
@@ -1407,8 +1409,9 @@
       "level": 20
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 40,
       "DEFENSE": 40,
+      "SPEED": 10,
+      "FARMING_FORTUNE": 40,
       "MAX_HEALTH": 175
     }
   },
@@ -1422,8 +1425,9 @@
       "level": 20
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 40,
       "DEFENSE": 40,
+      "SPEED": 10,
+      "FARMING_FORTUNE": 40,
       "MAX_HEALTH": 145
     }
   },
@@ -1437,8 +1441,9 @@
       "level": 25
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 40,
       "DEFENSE": 40,
+      "SPEED": 15,
+      "FARMING_FORTUNE": 40,
       "MAX_HEALTH": 145
     }
   },
@@ -1452,8 +1457,9 @@
       "level": 25
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 40,
       "DEFENSE": 40,
+      "SPEED": 15,
+      "FARMING_FORTUNE": 40,
       "MAX_HEALTH": 175
     }
   },
@@ -1467,8 +1473,9 @@
       "level": 25
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 40,
       "DEFENSE": 40,
+      "SPEED": 15,
+      "FARMING_FORTUNE": 40,
       "MAX_HEALTH": 175
     }
   },
@@ -1482,8 +1489,9 @@
       "level": 25
     },
     "baseAttributes": {
-      "FARMING_FORTUNE": 40,
       "DEFENSE": 40,
+      "SPEED": 15,
+      "FARMING_FORTUNE": 40,
       "MAX_HEALTH": 145
     }
   },
@@ -1498,8 +1506,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "DEFENSE": 50,
-      "HASTE": 30
+      "HASTE": 30,
+      "DEFENSE": 50
     }
   },
   "PEITORAL_DE_ESMERALDA": {
@@ -1513,8 +1521,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "DEFENSE": 100,
-      "HASTE": 30
+      "HASTE": 30,
+      "DEFENSE": 100
     }
   },
   "CALCAS_DE_ESMERALDA": {
@@ -1528,8 +1536,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "DEFENSE": 75,
-      "HASTE": 30
+      "HASTE": 30,
+      "DEFENSE": 75
     }
   },
   "BOTAS_DE_ESMERALDA": {
@@ -1543,8 +1551,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "DEFENSE": 45,
-      "HASTE": 30
+      "HASTE": 30,
+      "DEFENSE": 45
     }
   },
   "CAPACETE_DE_BLAZE": {
@@ -1559,8 +1567,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 80,
-      "STRENGTH": 10,
-      "SPEED": 2
+      "SPEED": 2,
+      "STRENGTH": 10
     }
   },
   "PEITORAL_DE_BLAZE": {
@@ -1575,8 +1583,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 150,
-      "STRENGTH": 10,
-      "SPEED": 2
+      "SPEED": 2,
+      "STRENGTH": 10
     }
   },
   "CALCAS_DE_BLAZE": {
@@ -1591,8 +1599,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 110,
-      "STRENGTH": 10,
-      "SPEED": 2
+      "SPEED": 2,
+      "STRENGTH": 10
     }
   },
   "BOTAS_DE_BLAZE": {
@@ -1607,8 +1615,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 70,
-      "STRENGTH": 10,
-      "SPEED": 2
+      "SPEED": 2,
+      "STRENGTH": 10
     }
   },
   "CAPACETE_DE_LAPIS": {
@@ -1687,8 +1695,8 @@
       ""
     ],
     "baseAttributes": {
-      "DEFENSE": 5,
-      "HASTE": 10
+      "HASTE": 10,
+      "DEFENSE": 5
     }
   },
   "PEITORAL_DO_MINERADOR": {
@@ -1703,8 +1711,8 @@
       ""
     ],
     "baseAttributes": {
-      "DEFENSE": 5,
-      "HASTE": 10
+      "HASTE": 10,
+      "DEFENSE": 5
     }
   },
   "CALCAS_DO_MINERADOR": {
@@ -1719,8 +1727,8 @@
       ""
     ],
     "baseAttributes": {
-      "DEFENSE": 5,
-      "HASTE": 10
+      "HASTE": 10,
+      "DEFENSE": 5
     }
   },
   "BOTAS_DO_MINERADOR": {
@@ -1735,8 +1743,8 @@
       ""
     ],
     "baseAttributes": {
-      "DEFENSE": 5,
-      "HASTE": 10
+      "HASTE": 10,
+      "DEFENSE": 5
     }
   },
   "CAPACETE_DE_DIAMANTE_REFORCADO": {
@@ -1790,8 +1798,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "DEFENSE": 70,
-      "SPEED": 15
+      "SPEED": 15,
+      "DEFENSE": 70
     }
   },
   "PEITORAL_DO_CORREDOR": {
@@ -1805,8 +1813,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "DEFENSE": 120,
-      "SPEED": 15
+      "SPEED": 15,
+      "DEFENSE": 120
     }
   },
   "CALCAS_DO_CORREDOR": {
@@ -1820,8 +1828,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "DEFENSE": 95,
-      "SPEED": 15
+      "SPEED": 15,
+      "DEFENSE": 95
     }
   },
   "BOTAS_DO_CORREDOR": {
@@ -1835,8 +1843,8 @@
       "level": 10
     },
     "baseAttributes": {
-      "DEFENSE": 65,
-      "SPEED": 15
+      "SPEED": 15,
+      "DEFENSE": 65
     }
   },
   "CAPACETE_DE_MAGMA": {
@@ -1936,8 +1944,8 @@
     "category": "HELMET",
     "sellPrice": 400.0,
     "baseAttributes": {
-      "DEFENSE": 15,
-      "HASTE": 5
+      "HASTE": 5,
+      "DEFENSE": 15
     }
   },
   "PEITORAL_DE_PEDREGULHO": {
@@ -1947,8 +1955,8 @@
     "category": "CHESTPLATE",
     "sellPrice": 660.0,
     "baseAttributes": {
-      "DEFENSE": 40,
-      "HASTE": 5
+      "HASTE": 5,
+      "DEFENSE": 40
     }
   },
   "CALCAS_DE_PEDREGULHO": {
@@ -1958,8 +1966,8 @@
     "category": "LEGGINGS",
     "sellPrice": 560.0,
     "baseAttributes": {
-      "DEFENSE": 30,
-      "HASTE": 5
+      "HASTE": 5,
+      "DEFENSE": 30
     }
   },
   "BOTAS_DE_PEDREGULHO": {
@@ -1969,8 +1977,8 @@
     "category": "BOOTS",
     "sellPrice": 320.0,
     "baseAttributes": {
-      "DEFENSE": 5,
-      "HASTE": 5
+      "HASTE": 5,
+      "DEFENSE": 5
     }
   },
   "CAPACETE_DE_CACTO": {
@@ -2329,8 +2337,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 55,
-      "MAX_HEALTH": 40,
-      "SPEED": 5
+      "SPEED": 5,
+      "MAX_HEALTH": 40
     }
   },
   "PEITORAL_DE_BISCOITO": {
@@ -2351,8 +2359,8 @@
     ],
     "baseAttributes": {
       "DEFENSE": 65,
-      "MAX_HEALTH": 50,
-      "SPEED": 5
+      "SPEED": 5,
+      "MAX_HEALTH": 50
     }
   },
   "CALCAS_DE_BISCOITO": {
@@ -2367,8 +2375,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 60,
-      "MAX_HEALTH": 45,
-      "SPEED": 5
+      "SPEED": 5,
+      "MAX_HEALTH": 45
     }
   },
   "BOTAS_DE_BISCOITO": {
@@ -2383,8 +2391,8 @@
     },
     "baseAttributes": {
       "DEFENSE": 50,
-      "MAX_HEALTH": 35,
-      "SPEED": 5
+      "SPEED": 5,
+      "MAX_HEALTH": 35
     }
   },
   "CAPACETE_DO_TROVAO": {
@@ -2398,9 +2406,9 @@
       "level": 20
     },
     "baseAttributes": {
-      "DEFENSE": 90,
       "BONUS_ATTACK_SPEED": 15,
-      "SPEED": 40
+      "SPEED": 40,
+      "DEFENSE": 90
     }
   },
   "PEITORAL_DO_TROVAO": {
@@ -2414,9 +2422,9 @@
       "level": 20
     },
     "baseAttributes": {
-      "DEFENSE": 140,
       "BONUS_ATTACK_SPEED": 15,
-      "SPEED": 40
+      "SPEED": 40,
+      "DEFENSE": 140
     }
   },
   "CALCAS_DO_TROVAO": {
@@ -2430,9 +2438,9 @@
       "level": 20
     },
     "baseAttributes": {
-      "DEFENSE": 115,
       "BONUS_ATTACK_SPEED": 15,
-      "SPEED": 40
+      "SPEED": 40,
+      "DEFENSE": 115
     }
   },
   "BOTAS_DO_TROVAO": {
@@ -2446,9 +2454,9 @@
       "level": 20
     },
     "baseAttributes": {
-      "DEFENSE": 85,
       "BONUS_ATTACK_SPEED": 15,
-      "SPEED": 40
+      "SPEED": 40,
+      "DEFENSE": 85
     }
   },
   "CAPACETE_DE_TUBERCULO": {
@@ -2518,10 +2526,10 @@
     },
     "baseAttributes": {
       "DEFENSE": 110,
-      "MAX_HEALTH": 70,
-      "FISHING_FORTUNE": 10,
       "CRIT_DAMAGE": 10,
-      "FISHING_SPEED": 15
+      "FISHING_SPEED": 15,
+      "FISHING_FORTUNE": 10,
+      "MAX_HEALTH": 70
     }
   },
   "PEITORAL_DE_TUBARAO": {
@@ -2535,10 +2543,10 @@
     },
     "baseAttributes": {
       "DEFENSE": 160,
-      "MAX_HEALTH": 120,
-      "FISHING_FORTUNE": 10,
       "CRIT_DAMAGE": 10,
-      "FISHING_SPEED": 15
+      "FISHING_SPEED": 15,
+      "FISHING_FORTUNE": 10,
+      "MAX_HEALTH": 120
     }
   },
   "CALCAS_DE_TUBARAO": {
@@ -2552,10 +2560,10 @@
     },
     "baseAttributes": {
       "DEFENSE": 120,
-      "MAX_HEALTH": 100,
-      "FISHING_FORTUNE": 10,
       "CRIT_DAMAGE": 10,
-      "FISHING_SPEED": 15
+      "FISHING_SPEED": 15,
+      "FISHING_FORTUNE": 10,
+      "MAX_HEALTH": 100
     }
   },
   "BOTAS_DE_TUBARAO": {
@@ -2569,10 +2577,10 @@
     },
     "baseAttributes": {
       "DEFENSE": 90,
-      "MAX_HEALTH": 60,
-      "FISHING_FORTUNE": 10,
       "CRIT_DAMAGE": 10,
-      "FISHING_SPEED": 15
+      "FISHING_SPEED": 15,
+      "FISHING_FORTUNE": 10,
+      "MAX_HEALTH": 60
     }
   },
   "PEITORAL_DE_ZUMBI": {
@@ -2684,12 +2692,12 @@
     "category": "HAT",
     "sellPrice": 48.0,
     "baseAttributes": {
-      "DEFENSE": 5,
-      "MAX_HEALTH": 5,
-      "CRIT_CHANCE": 5,
       "MAX_INTELLIGENCE": 5,
+      "DEFENSE": 5,
       "CRIT_DAMAGE": 5,
-      "STRENGTH": 5
+      "CRIT_CHANCE": 5,
+      "STRENGTH": 5,
+      "MAX_HEALTH": 5
     }
   },
   "CHAPEU_DE_CUBO_DE_MAGMA": {
@@ -2785,6 +2793,12 @@
     "rarity": "UNCOMMON",
     "category": "OTHER"
   },
+  "DISCO_DND": {
+    "key": "DISCO_DND",
+    "displayName": "Disco DND",
+    "rarity": "RARE",
+    "category": "OTHER"
+  },
   "SKIN_PARA_MASCOTE": {
     "key": "SKIN_PARA_MASCOTE",
     "displayName": "Skin para Mascote |",
@@ -2811,6 +2825,12 @@
       "§7ao trocar de ilha.",
       ""
     ]
+  },
+  "POLEN": {
+    "key": "POLEN",
+    "displayName": "Pólen",
+    "rarity": "UNCOMMON",
+    "category": "OTHER"
   },
   "TELEPAD": {
     "key": "TELEPAD",
@@ -3061,6 +3081,22 @@
     "description": [
       "§7Dá imunidade a dano",
       "§7causados por efeito de §8Decomposição§7.",
+      ""
+    ]
+  },
+  "TALISMA_DO_ULTIMO_SUSPIRO": {
+    "key": "TALISMA_DO_ULTIMO_SUSPIRO",
+    "displayName": "Talismã do Último Suspiro",
+    "rarity": "EPIC",
+    "category": "ACCESSORY",
+    "sellPrice": 230000.0,
+    "description": [
+      "§7Quando sua vida estiver abaixo",
+      "§7de §a25% §7você irá obter §a+30 §f✦ Velocidade",
+      "§7e §a5% §7de roubo de vida ao atacar monstros",
+      "§7durante §a10 §7segundos.",
+      "",
+      "§fIntervalo: §a2m",
       ""
     ]
   },
@@ -3467,7 +3503,6 @@
     "displayName": "Colar do Lorde do Nether",
     "rarity": "EPIC",
     "category": "NECKLACE",
-    "sellPrice": 35000.0,
     "description": [
       "§7Monstros de nível XX ou inferior",
       "§7deixam de ser provocados por você.",
@@ -3482,12 +3517,68 @@
       "STRENGTH": 10
     }
   },
+  "COLAR_DA_ABUNDANCIA": {
+    "key": "COLAR_DA_ABUNDANCIA",
+    "displayName": "Colar da Abundância",
+    "rarity": "RARE",
+    "category": "NECKLACE",
+    "sellPrice": 35000.0,
+    "description": [
+      "§7Concede §a+40 §6☘Bônus de Cenoura§7.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 10
+    }
+  },
+  "COLAR_DE_GIRASSOL": {
+    "key": "COLAR_DE_GIRASSOL",
+    "displayName": "Colar de Girassol",
+    "rarity": "EPIC",
+    "category": "NECKLACE",
+    "description": [
+      "§7Concede §a+20 §6☘Bônus de Trigo§7,",
+      "§6☘Bônus de Batata §7e §6☘Bônus de Cenoura§7.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 15
+    }
+  },
+  "COLAR_DE_BOLOR": {
+    "key": "COLAR_DE_BOLOR",
+    "displayName": "Colar de Bolor",
+    "rarity": "RARE",
+    "category": "NECKLACE",
+    "sellPrice": 800.0,
+    "description": [
+      "§7Concede §a+40 §6☘Bônus de Fungos§7.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 10
+    }
+  },
+  "COLAR_FUNGICO": {
+    "key": "COLAR_FUNGICO",
+    "displayName": "Colar Fúngico",
+    "rarity": "EPIC",
+    "category": "NECKLACE",
+    "sellPrice": 800.0,
+    "description": [
+      "§7Concede §a+30 §6☘Bônus de Cogumelos",
+      "§7e §6☘Bônus de Fungos§7.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 20
+    }
+  },
   "MANTO_DO_LORDE_DO_NETHER": {
     "key": "MANTO_DO_LORDE_DO_NETHER",
     "displayName": "Manto do Lorde do Nether",
     "rarity": "EPIC",
     "category": "CLOAK",
-    "sellPrice": 35000.0,
     "description": [
       "§7Garante 50% de redução contra",
       "§7repulsão de monstros.",
@@ -3502,12 +3593,89 @@
       "STRENGTH": 10
     }
   },
+  "MANTO_DE_TUBERCULO": {
+    "key": "MANTO_DE_TUBERCULO",
+    "displayName": "Manto de Tubérculo",
+    "rarity": "UNCOMMON",
+    "category": "CLOAK",
+    "sellPrice": 1440.0,
+    "description": [
+      "§7Impede a quebra de plantações",
+      "§7que ainda não amadureceram.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 5
+    }
+  },
+  "MANTO_DE_BOLOR": {
+    "key": "MANTO_DE_BOLOR",
+    "displayName": "Manto de Bolor",
+    "rarity": "RARE",
+    "category": "CLOAK",
+    "sellPrice": 800.0,
+    "description": [
+      "§7Concede §a+5 §6☘Bônus de Fungos",
+      "§7a cada coleta, podendo atingir",
+      "§7até §e10 §7de bônus. Caso você",
+      "§7pare de coletar, o bônus será",
+      "§7perdido.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 10
+    }
+  },
+  "MANTO_FUNGICO": {
+    "key": "MANTO_FUNGICO",
+    "displayName": "Manto Fúngico",
+    "rarity": "EPIC",
+    "category": "CLOAK",
+    "sellPrice": 800.0,
+    "description": [
+      "§7Aumenta em §a50% §7a duração de",
+      "§7qualquer poção consumida.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 20
+    }
+  },
+  "CINTO_DE_BOLOR": {
+    "key": "CINTO_DE_BOLOR",
+    "displayName": "Cinto de Bolor",
+    "rarity": "RARE",
+    "category": "BELT",
+    "sellPrice": 800.0,
+    "description": [
+      "§7Concede §a+20% §7de §6coins",
+      "§7no Mini Jardim ao completar tarefas.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 10
+    }
+  },
+  "CINTO_FUNGICO": {
+    "key": "CINTO_FUNGICO",
+    "displayName": "Cinto Fúngico",
+    "rarity": "EPIC",
+    "category": "BELT",
+    "sellPrice": 800.0,
+    "description": [
+      "§7Concede §a+60% §7de §6coins",
+      "§7no Mini Jardim ao completar tarefas.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 20
+    }
+  },
   "CINTURAO_DO_LORDE_DO_NETHER": {
     "key": "CINTURAO_DO_LORDE_DO_NETHER",
     "displayName": "Cinturão do Lorde do Nether",
     "rarity": "EPIC",
     "category": "BELT",
-    "sellPrice": 35000.0,
     "description": [
       "§7Concede imunidade a danos",
       "§7causados por §cFogo§7.",
@@ -3522,12 +3690,42 @@
       "STRENGTH": 10
     }
   },
+  "BRACELETE_DE_BOLOR": {
+    "key": "BRACELETE_DE_BOLOR",
+    "displayName": "Bracelete de Bolor",
+    "rarity": "RARE",
+    "category": "BRACELET",
+    "sellPrice": 800.0,
+    "description": [
+      "§7Concede §a+20% §7de §ePólen",
+      "§7no Mini Jardim ao completar tarefas.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 10
+    }
+  },
+  "BRACELETE_FUNGICO": {
+    "key": "BRACELETE_FUNGICO",
+    "displayName": "Bracelete Fúngico",
+    "rarity": "EPIC",
+    "category": "BRACELET",
+    "sellPrice": 800.0,
+    "description": [
+      "§7Concede §a+60% §7de §ePólen",
+      "§7e §6XP §7no Mini Jardim ao",
+      "§7completar tarefas.",
+      ""
+    ],
+    "baseAttributes": {
+      "FARMING_FORTUNE": 20
+    }
+  },
   "BRACELETE_DO_LORDE_DO_NETHER": {
     "key": "BRACELETE_DO_LORDE_DO_NETHER",
     "displayName": "Bracelete do Lorde do Nether",
     "rarity": "EPIC",
     "category": "BRACELET",
-    "sellPrice": 35000.0,
     "description": [
       "§7Concede 5% de chance a cada hit",
       "§7de obter §a+150 §c⚔ Força §7durante",
@@ -3567,6 +3765,22 @@
       "§7Este item vai transformar em blocos",
       "§7os materiais produzidos pelo",
       "§7minion automaticamente.",
+      ""
+    ]
+  },
+  "POLINIZADOR": {
+    "key": "POLINIZADOR",
+    "displayName": "Polinizador",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "description": [
+      "§7Este item permite que a cada",
+      "§71.000 recursos gerados por minions",
+      "§7de herbalismo sejam convertidos em",
+      "§7pólen.",
+      "",
+      "§cRequer que o minion sempre tenha",
+      "§cespaço para poder ser coletado!",
       ""
     ]
   },
@@ -3640,6 +3854,12 @@
     "key": "ILHA_CASARAO",
     "displayName": "Ilha Casarão",
     "rarity": "SPECIAL",
+    "category": "OTHER"
+  },
+  "ILHA_DE_TRIGO": {
+    "key": "ILHA_DE_TRIGO",
+    "displayName": "Ilha de Trigo",
+    "rarity": "COMMON",
     "category": "OTHER"
   },
   "ILHA_ENCANTADA": {
@@ -4138,6 +4358,19 @@
       ""
     ]
   },
+  "LIVRO_FRUTIFERO": {
+    "key": "LIVRO_FRUTIFERO",
+    "displayName": "Livro Frutífero",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "sellPrice": 9600.0,
+    "description": [
+      "§7Aplique em enxadas para aumentar",
+      "§7o §6☘Bônus de Colheita §7destes itens",
+      "§7de forma permanente.",
+      ""
+    ]
+  },
   "LIVRO_DE_COELHO_ASSADO": {
     "key": "LIVRO_DE_COELHO_ASSADO",
     "displayName": "Livro de Coelho Assado",
@@ -4187,6 +4420,79 @@
       "§9Aprofundamento do Fim",
       "§7Aumenta o raio de teletransporte",
       "§7em até §a4 §7blocos.",
+      ""
+    ]
+  },
+  "BUQUE_DE_FLORES": {
+    "key": "BUQUE_DE_FLORES",
+    "displayName": "Buquê de Flores",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "description": [
+      "§7Aplique este modificador usando",
+      "§7uma bigorna junto com seu item.",
+      "§7Este modificador pode ser aplicado",
+      "§7em talismãs.",
+      "",
+      "§9Floral §7(§6LENDáRIA§7):",
+      "§7Vida: §a+10",
+      "§7Bônus de Colheita: §a+5",
+      ""
+    ]
+  },
+  "CEREBRO_APODRECIDO": {
+    "key": "CEREBRO_APODRECIDO",
+    "displayName": "Cérebro Apodrecido",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "sellPrice": 335360.0,
+    "description": [
+      "§7Aplique este modificador usando",
+      "§7uma bigorna junto com seu item.",
+      "§7Este modificador pode ser aplicado",
+      "§7em enxadas.",
+      "",
+      "§9Podre §7(§6LENDáRIA§7):",
+      "§7Inteligência: §a-20",
+      "§7Velocidade: §a-30",
+      "§7Bônus de Colheita: §a+30",
+      ""
+    ]
+  },
+  "CRISTAL_ILUMINADO": {
+    "key": "CRISTAL_ILUMINADO",
+    "displayName": "Cristal Iluminado",
+    "rarity": "EPIC",
+    "category": "MODIFIER",
+    "description": [
+      "§7Aplique este modificador usando",
+      "§7uma bigorna junto com seu item.",
+      "§7Este modificador pode ser aplicado",
+      "§7em enxadas.",
+      "",
+      "§9Embelezada §7(§6LENDáRIA§7):",
+      "§7Inteligência: §a+20",
+      "§7Velocidade: §a+15",
+      "§7Bônus de Colheita: §a+15",
+      ""
+    ]
+  },
+  "SALADA_DE_FRUTAS": {
+    "key": "SALADA_DE_FRUTAS",
+    "displayName": "Salada de Frutas",
+    "rarity": "RARE",
+    "category": "MODIFIER",
+    "description": [
+      "§7Aplique este modificador usando",
+      "§7uma bigorna junto com seu item.",
+      "§7Este modificador pode ser aplicado",
+      "§7em armaduras.",
+      "",
+      "§9Vitaminada §7(§6LENDáRIA§7):",
+      "§7Vida: §a+40",
+      "§7Velocidade: §a+10",
+      "§7Inteligência: §a+30",
+      "§7Bônus de Colheita: §a+15",
       ""
     ]
   },
@@ -4327,27 +4633,27 @@
     "rarity": "EPIC",
     "category": "OTHER"
   },
-  "RAIZ": {
-    "key": "RAIZ",
-    "displayName": "Raiz",
-    "rarity": "LEGENDARY",
-    "category": "OTHER"
-  },
   "RAIZ_LUMINESCENTE": {
     "key": "RAIZ_LUMINESCENTE",
     "displayName": "Raiz Luminescente",
     "rarity": "LEGENDARY",
     "category": "OTHER"
   },
-  "ADULBO": {
-    "key": "ADULBO",
-    "displayName": "Adulbo",
+  "RAIZ": {
+    "key": "RAIZ",
+    "displayName": "Raiz",
+    "rarity": "LEGENDARY",
+    "category": "OTHER"
+  },
+  "ADUBO_COMPRIMIDO": {
+    "key": "ADUBO_COMPRIMIDO",
+    "displayName": "Adubo Comprimido",
     "rarity": "EPIC",
     "category": "OTHER"
   },
-  "ADULBO_COMPRIMIDO": {
-    "key": "ADULBO_COMPRIMIDO",
-    "displayName": "Adulbo Comprimido",
+  "ADUBO": {
+    "key": "ADUBO",
+    "displayName": "Adubo",
     "rarity": "EPIC",
     "category": "OTHER"
   },
@@ -4392,8 +4698,8 @@
     "category": "BOOTS",
     "sellPrice": 61880.0,
     "baseAttributes": {
-      "DEFENSE": 45,
       "MAX_INTELLIGENCE": 50,
+      "DEFENSE": 45,
       "SPEED": 6
     }
   },
@@ -4548,19 +4854,19 @@
     "category": "SWORD",
     "sellPrice": 576000.0,
     "baseAttributes": {
-      "DAMAGE": 150,
       "HASTE": 60,
+      "DAMAGE": 150,
       "STRENGTH": 100
     }
   },
   "CAJADO_DA_VIDA": {
     "key": "CAJADO_DA_VIDA",
-    "displayName": "Cajado de Cura",
+    "displayName": "Espada do Zombie",
     "rarity": "EPIC",
     "category": "SWORD",
     "baseAttributes": {
-      "DAMAGE": 100,
       "MAX_INTELLIGENCE": 20,
+      "DAMAGE": 100,
       "STRENGTH": 75
     }
   },
@@ -4599,9 +4905,9 @@
     "rarity": "SPECIAL",
     "category": "SWORD",
     "baseAttributes": {
-      "DAMAGE": 125,
       "MAX_INTELLIGENCE": -40,
       "MAGIC_DAMAGE": 50,
+      "DAMAGE": 125,
       "STRENGTH": 70
     }
   },
@@ -4651,10 +4957,10 @@
     "rarity": "LEGENDARY",
     "category": "SWORD",
     "baseAttributes": {
-      "DAMAGE": 245,
-      "CRIT_CHANCE": 1,
       "MAX_INTELLIGENCE": 50,
+      "DAMAGE": 245,
       "CRIT_DAMAGE": 50,
+      "CRIT_CHANCE": 1,
       "STRENGTH": 125
     }
   },
@@ -4665,8 +4971,8 @@
     "category": "SWORD",
     "sellPrice": 20480.0,
     "baseAttributes": {
-      "DAMAGE": 160,
-      "MAX_INTELLIGENCE": 250
+      "MAX_INTELLIGENCE": 250,
+      "DAMAGE": 160
     }
   },
   "GRAVETO_DO_DESENVOLVEDOR": {
@@ -4687,14 +4993,25 @@
       "STRENGTH": 100
     }
   },
+  "LOMBO_DE_CORDEIRO": {
+    "key": "LOMBO_DE_CORDEIRO",
+    "displayName": "Lombo de Cordeiro",
+    "rarity": "EPIC",
+    "category": "SWORD",
+    "sellPrice": 20.0,
+    "baseAttributes": {
+      "DAMAGE": 140,
+      "STRENGTH": 80
+    }
+  },
   "VARA_DE_BRASA": {
     "key": "VARA_DE_BRASA",
     "displayName": "Vara de Brasa",
     "rarity": "EPIC",
     "category": "SWORD",
     "baseAttributes": {
-      "DAMAGE": 80,
       "MAX_INTELLIGENCE": 50,
+      "DAMAGE": 80,
       "STRENGTH": 35
     }
   },
@@ -4706,8 +5023,8 @@
     "sellPrice": 3075000.0,
     "baseAttributes": {
       "DAMAGE": 200,
-      "CRIT_CHANCE": 5,
       "CRIT_DAMAGE": 20,
+      "CRIT_CHANCE": 5,
       "STRENGTH": 100
     }
   },
@@ -4754,8 +5071,8 @@
     "rarity": "COMMON",
     "category": "PICKAXE",
     "baseAttributes": {
-      "DAMAGE": 5,
-      "HASTE": 2
+      "HASTE": 2,
+      "DAMAGE": 5
     }
   },
   "PICARETA_DE_PEDRA": {
@@ -4764,8 +5081,8 @@
     "rarity": "COMMON",
     "category": "PICKAXE",
     "baseAttributes": {
-      "DAMAGE": 7,
-      "HASTE": 3
+      "HASTE": 3,
+      "DAMAGE": 7
     }
   },
   "PICARETA_DE_FERRO": {
@@ -4774,8 +5091,8 @@
     "rarity": "COMMON",
     "category": "PICKAXE",
     "baseAttributes": {
-      "DAMAGE": 10,
-      "HASTE": 4
+      "HASTE": 4,
+      "DAMAGE": 10
     }
   },
   "PICARETA_DE_OURO": {
@@ -4784,8 +5101,8 @@
     "rarity": "COMMON",
     "category": "PICKAXE",
     "baseAttributes": {
-      "DAMAGE": 10,
-      "HASTE": 5
+      "HASTE": 5,
+      "DAMAGE": 10
     }
   },
   "PICARETA_DE_DIAMANTE": {
@@ -4794,8 +5111,8 @@
     "rarity": "COMMON",
     "category": "PICKAXE",
     "baseAttributes": {
-      "DAMAGE": 15,
-      "HASTE": 6
+      "HASTE": 6,
+      "DAMAGE": 15
     }
   },
   "PICARETA_PROMISSORA": {
@@ -4932,10 +5249,10 @@
     "displayName": "Machado de Abóbora",
     "rarity": "EPIC",
     "category": "AXE",
-    "sellPrice": 480.0,
+    "sellPrice": 512000.0,
     "baseAttributes": {
-      "FARMING_FORTUNE": 30,
-      "DAMAGE": 50
+      "DAMAGE": 50,
+      "FARMING_FORTUNE": 30
     }
   },
   "MACHADO_DE_MELANCIA": {
@@ -4943,10 +5260,10 @@
     "displayName": "Machado de Melancia",
     "rarity": "RARE",
     "category": "AXE",
-    "sellPrice": 280.0,
+    "sellPrice": 4000.0,
     "baseAttributes": {
-      "FARMING_FORTUNE": 20,
-      "DAMAGE": 50
+      "DAMAGE": 50,
+      "FARMING_FORTUNE": 20
     }
   },
   "MACHADO_DE_FUNGOSO": {
@@ -4954,10 +5271,10 @@
     "displayName": "Machado Fúngico",
     "rarity": "EPIC",
     "category": "AXE",
-    "sellPrice": 480.0,
+    "sellPrice": 230000.0,
     "baseAttributes": {
-      "FARMING_FORTUNE": 45,
-      "DAMAGE": 50
+      "DAMAGE": 50,
+      "FARMING_FORTUNE": 45
     }
   },
   "MACHADO_ABSOLUTO": {
@@ -4965,10 +5282,10 @@
     "displayName": "Machado Absoluto",
     "rarity": "LEGENDARY",
     "category": "AXE",
-    "sellPrice": 480.0,
+    "sellPrice": 600000.0,
     "baseAttributes": {
-      "FARMING_FORTUNE": 50,
-      "DAMAGE": 50
+      "DAMAGE": 50,
+      "FARMING_FORTUNE": 50
     }
   },
   "MACHADO_DO_POMAR": {
@@ -5085,7 +5402,8 @@
     "category": "HOE",
     "sellPrice": 15.0,
     "baseAttributes": {
-      "DAMAGE": 25
+      "DAMAGE": 25,
+      "FARMING_FORTUNE": 5
     }
   },
   "ENXADA_DE_MADEIRA": {
@@ -5133,6 +5451,50 @@
       "DAMAGE": 12
     }
   },
+  "ENXADA_ENFERRUJADA": {
+    "key": "ENXADA_ENFERRUJADA",
+    "displayName": "Enxada Enferrujada",
+    "rarity": "COMMON",
+    "category": "HOE",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 25,
+      "FARMING_FORTUNE": 10
+    }
+  },
+  "ENXADA_DEVASTADORA": {
+    "key": "ENXADA_DEVASTADORA",
+    "displayName": "Enxada Devastadora",
+    "rarity": "EPIC",
+    "category": "HOE",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 45,
+      "FARMING_FORTUNE": 30
+    }
+  },
+  "ENXADA_DE_COGUMELO": {
+    "key": "ENXADA_DE_COGUMELO",
+    "displayName": "Enxada de Cogumelo",
+    "rarity": "EPIC",
+    "category": "HOE",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 45,
+      "FARMING_FORTUNE": 30
+    }
+  },
+  "ENXADA_SOLAR": {
+    "key": "ENXADA_SOLAR",
+    "displayName": "Enxada Solar",
+    "rarity": "LEGENDARY",
+    "category": "HOE",
+    "sellPrice": 15.0,
+    "baseAttributes": {
+      "DAMAGE": 65,
+      "FARMING_FORTUNE": 50
+    }
+  },
   "PRESENTE": {
     "key": "PRESENTE",
     "displayName": "Presente de Aniversário",
@@ -5146,6 +5508,13 @@
       "§eClique direito para abrir!",
       ""
     ]
+  },
+  "TORTA_DE_ABOBORA_ENCANTADA": {
+    "key": "TORTA_DE_ABOBORA_ENCANTADA",
+    "displayName": "Torta de Abóbora Encantada",
+    "rarity": "RARE",
+    "category": "OTHER",
+    "sellPrice": 102400.0
   },
   "ABOBORA_ENCANTADA": {
     "key": "ABOBORA_ENCANTADA",
@@ -5719,13 +6088,6 @@
     "rarity": "UNCOMMON",
     "category": "OTHER",
     "sellPrice": 160.0
-  },
-  "TORTA_DE_ABOBORA_ENCANTADA": {
-    "key": "TORTA_DE_ABOBORA_ENCANTADA",
-    "displayName": "Torta de Abóbora Encantada",
-    "rarity": "RARE",
-    "category": "OTHER",
-    "sellPrice": 102400.0
   },
   "VARA_DE_BLAZE_ENCANTADA": {
     "key": "VARA_DE_BLAZE_ENCANTADA",

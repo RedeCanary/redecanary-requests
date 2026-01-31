@@ -11,40 +11,40 @@
     "attributes": {
       "COMMON": {
         "baseAttributes": {
-          "MAX_HEALTH": 2.0,
-          "SPEED": 0.0
+          "SPEED": 0.0,
+          "MAX_HEALTH": 2.0
         },
         "levelableAttributes": {
-          "MAX_HEALTH": 0.2,
-          "SPEED": 0.1
+          "SPEED": 0.1,
+          "MAX_HEALTH": 0.2
         }
       },
       "UNCOMMON": {
         "baseAttributes": {
-          "MAX_HEALTH": 2.0,
-          "SPEED": 0.0
+          "SPEED": 0.0,
+          "MAX_HEALTH": 2.0
         },
         "levelableAttributes": {
-          "MAX_HEALTH": 0.3,
-          "SPEED": 0.2
+          "SPEED": 0.2,
+          "MAX_HEALTH": 0.3
         }
       },
       "RARE": {
         "baseAttributes": {
-          "MAX_HEALTH": 2.0,
-          "SPEED": 0.0
+          "SPEED": 0.0,
+          "MAX_HEALTH": 2.0
         },
         "levelableAttributes": {
-          "MAX_HEALTH": 0.45,
-          "SPEED": 0.1
+          "SPEED": 0.1,
+          "MAX_HEALTH": 0.45
         }
       }
     },
     "levelableEntities": {},
     "levelableBlocks": {
       "PUMPKIN": 2.5,
-      "CARROT": 2.0,
       "POTATO": 2.0,
+      "CARROT": 2.0,
       "CROPS": 2.0,
       "MELON_BLOCK": 2.5
     }
@@ -63,66 +63,66 @@
       "COMMON": {
         "baseAttributes": {
           "BONUS_ATTACK_SPEED": 1.0,
-          "MAX_HEALTH": 1.0,
           "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 1.0,
           "SPEED": 0.0
         },
         "levelableAttributes": {
-          "MAX_HEALTH": 0.15,
-          "CRIT_CHANCE": 0.01,
           "BONUS_ATTACK_SPEED": 0.01,
-          "SPEED": 0.005
+          "SPEED": 0.005,
+          "CRIT_CHANCE": 0.01,
+          "MAX_HEALTH": 0.15
         }
       },
       "UNCOMMON": {
         "baseAttributes": {
           "BONUS_ATTACK_SPEED": 1.0,
-          "MAX_HEALTH": 1.0,
           "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 1.0,
           "SPEED": 0.0
         },
         "levelableAttributes": {
-          "MAX_HEALTH": 0.35,
-          "CRIT_CHANCE": 0.2,
           "BONUS_ATTACK_SPEED": 0.02,
-          "SPEED": 0.01
+          "SPEED": 0.01,
+          "CRIT_CHANCE": 0.2,
+          "MAX_HEALTH": 0.35
         }
       },
       "RARE": {
         "baseAttributes": {
           "BONUS_ATTACK_SPEED": 1.0,
-          "MAX_HEALTH": 1.0,
           "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 1.0,
           "SPEED": 0.0
         },
         "levelableAttributes": {
-          "MAX_HEALTH": 0.45,
-          "CRIT_CHANCE": 0.25,
           "BONUS_ATTACK_SPEED": 0.05,
-          "SPEED": 0.05
+          "SPEED": 0.05,
+          "CRIT_CHANCE": 0.25,
+          "MAX_HEALTH": 0.45
         }
       },
       "EPIC": {
         "baseAttributes": {
           "BONUS_ATTACK_SPEED": 1.0,
-          "MAX_HEALTH": 1.0,
           "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 1.0,
           "SPEED": 0.0
         },
         "levelableAttributes": {
-          "MAX_HEALTH": 0.65,
-          "CRIT_CHANCE": 0.35,
           "BONUS_ATTACK_SPEED": 0.15,
-          "SPEED": 0.16
+          "SPEED": 0.16,
+          "CRIT_CHANCE": 0.35,
+          "MAX_HEALTH": 0.65
         }
       }
     },
     "levelableEntities": {},
     "levelableBlocks": {
-      "SUGAR_CANE": 2.0,
       "CARROT": 4.0,
+      "CROPS": 1.0,
       "POTATO": 1.0,
-      "CROPS": 1.0
+      "SUGAR_CANE": 2.0
     }
   },
   "OLD_DRAGON": {
@@ -136,50 +136,50 @@
     "attributes": {
       "EPIC": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 1.0,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 0.4,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 0.4,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 1.0,
           "STRENGTH": 0.2
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 1.2,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 0.6,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 0.6,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 1.2,
           "STRENGTH": 0.2
         }
       }
     },
     "levelableEntities": {
-      "OBSIDIAN_DEFENDER": 4.5,
-      "END_SKELETON": 4.5,
-      "ENDERMITE": 2.0,
-      "ENDERMAN": 4.0,
       "BASE_ENDERMAN": 0.5,
-      "MUTANT": 15.0
+      "OBSIDIAN_DEFENDER": 4.5,
+      "ENDERMAN": 4.0,
+      "ENDERMITE": 2.0,
+      "MUTANT": 15.0,
+      "END_SKELETON": 4.5
     },
     "levelableBlocks": {}
   },
@@ -194,50 +194,50 @@
     "attributes": {
       "EPIC": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.5,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 0.4,
           "MAX_INTELLIGENCE": 0.6,
+          "DEFENSE": 0.4,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.5,
           "STRENGTH": 0.2
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.6,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 0.6,
           "MAX_INTELLIGENCE": 1.2,
+          "DEFENSE": 0.6,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.6,
           "STRENGTH": 0.2
         }
       }
     },
     "levelableEntities": {
-      "OBSIDIAN_DEFENDER": 4.5,
-      "END_SKELETON": 4.5,
-      "ENDERMITE": 2.0,
-      "ENDERMAN": 4.0,
       "BASE_ENDERMAN": 0.5,
-      "MUTANT": 15.0
+      "OBSIDIAN_DEFENDER": 4.5,
+      "ENDERMAN": 4.0,
+      "ENDERMITE": 2.0,
+      "MUTANT": 15.0,
+      "END_SKELETON": 4.5
     },
     "levelableBlocks": {}
   },
@@ -252,50 +252,50 @@
     "attributes": {
       "EPIC": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.5,
-          "CRIT_CHANCE": 0.25,
-          "DEFENSE": 0.4,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 0.4,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.25,
+          "MAX_HEALTH": 0.5,
           "STRENGTH": 0.6
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.6,
-          "CRIT_CHANCE": 0.45,
-          "DEFENSE": 0.6,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 0.6,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.45,
+          "MAX_HEALTH": 0.6,
           "STRENGTH": 0.85
         }
       }
     },
     "levelableEntities": {
-      "OBSIDIAN_DEFENDER": 4.5,
-      "END_SKELETON": 4.5,
-      "ENDERMITE": 2.0,
-      "ENDERMAN": 4.0,
       "BASE_ENDERMAN": 0.5,
-      "MUTANT": 15.0
+      "OBSIDIAN_DEFENDER": 4.5,
+      "ENDERMAN": 4.0,
+      "ENDERMITE": 2.0,
+      "MUTANT": 15.0,
+      "END_SKELETON": 4.5
     },
     "levelableBlocks": {}
   },
@@ -310,50 +310,50 @@
     "attributes": {
       "EPIC": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.2,
-          "MAX_HEALTH": 0.7,
-          "CRIT_CHANCE": 0.2,
-          "DEFENSE": 0.5,
           "MAX_INTELLIGENCE": 0.3,
+          "DEFENSE": 0.5,
           "SPEED": 0.1,
+          "CRIT_DAMAGE": 0.2,
+          "CRIT_CHANCE": 0.2,
+          "MAX_HEALTH": 0.7,
           "STRENGTH": 0.7
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.3,
-          "MAX_HEALTH": 0.8,
-          "CRIT_CHANCE": 0.3,
-          "DEFENSE": 0.7,
           "MAX_INTELLIGENCE": 0.4,
+          "DEFENSE": 0.7,
           "SPEED": 0.2,
+          "CRIT_DAMAGE": 0.3,
+          "CRIT_CHANCE": 0.3,
+          "MAX_HEALTH": 0.8,
           "STRENGTH": 0.8
         }
       }
     },
     "levelableEntities": {
-      "OBSIDIAN_DEFENDER": 4.5,
-      "END_SKELETON": 4.5,
-      "ENDERMITE": 2.0,
-      "ENDERMAN": 4.0,
       "BASE_ENDERMAN": 0.5,
-      "MUTANT": 15.0
+      "OBSIDIAN_DEFENDER": 4.5,
+      "ENDERMAN": 4.0,
+      "ENDERMITE": 2.0,
+      "MUTANT": 15.0,
+      "END_SKELETON": 4.5
     },
     "levelableBlocks": {}
   },
@@ -368,50 +368,50 @@
     "attributes": {
       "EPIC": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.4,
-          "MAX_HEALTH": 0.5,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 0.4,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 0.4,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.4,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.5,
           "STRENGTH": 0.2
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.6,
-          "MAX_HEALTH": 0.6,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 0.6,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 0.6,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.6,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.6,
           "STRENGTH": 0.2
         }
       }
     },
     "levelableEntities": {
-      "OBSIDIAN_DEFENDER": 4.5,
-      "END_SKELETON": 4.5,
-      "ENDERMITE": 2.0,
-      "ENDERMAN": 4.0,
       "BASE_ENDERMAN": 0.5,
-      "MUTANT": 15.0
+      "OBSIDIAN_DEFENDER": 4.5,
+      "ENDERMAN": 4.0,
+      "ENDERMITE": 2.0,
+      "MUTANT": 15.0,
+      "END_SKELETON": 4.5
     },
     "levelableBlocks": {}
   },
@@ -426,50 +426,50 @@
     "attributes": {
       "EPIC": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.5,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 0.4,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 0.4,
           "SPEED": 0.2,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.5,
           "STRENGTH": 0.2
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.6,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 0.6,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 0.6,
           "SPEED": 0.4,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.6,
           "STRENGTH": 0.2
         }
       }
     },
     "levelableEntities": {
-      "OBSIDIAN_DEFENDER": 4.5,
-      "END_SKELETON": 4.5,
-      "ENDERMITE": 2.0,
-      "ENDERMAN": 4.0,
       "BASE_ENDERMAN": 0.5,
-      "MUTANT": 15.0
+      "OBSIDIAN_DEFENDER": 4.5,
+      "ENDERMAN": 4.0,
+      "ENDERMITE": 2.0,
+      "MUTANT": 15.0,
+      "END_SKELETON": 4.5
     },
     "levelableBlocks": {}
   },
@@ -484,50 +484,50 @@
     "attributes": {
       "EPIC": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.5,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 1.0,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 1.0,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.5,
           "STRENGTH": 0.2
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 0.0,
-          "MAX_HEALTH": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "DEFENSE": 0.0,
           "MAX_INTELLIGENCE": 0.0,
-          "SPEED": 0.0
+          "DEFENSE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0,
+          "CRIT_CHANCE": 0.0,
+          "MAX_HEALTH": 0.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.6,
-          "CRIT_CHANCE": 0.15,
-          "DEFENSE": 1.2,
           "MAX_INTELLIGENCE": 0.2,
+          "DEFENSE": 1.2,
           "SPEED": 0.05,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.6,
           "STRENGTH": 0.2
         }
       }
     },
     "levelableEntities": {
-      "OBSIDIAN_DEFENDER": 4.5,
-      "END_SKELETON": 4.5,
-      "ENDERMITE": 2.0,
-      "ENDERMAN": 4.0,
       "BASE_ENDERMAN": 0.5,
-      "MUTANT": 15.0
+      "OBSIDIAN_DEFENDER": 4.5,
+      "ENDERMAN": 4.0,
+      "ENDERMITE": 2.0,
+      "MUTANT": 15.0,
+      "END_SKELETON": 4.5
     },
     "levelableBlocks": {}
   },
@@ -544,75 +544,75 @@
     "attributes": {
       "RARE": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 1.0,
-          "MAX_HEALTH": 1.0,
-          "CRIT_CHANCE": 1.0,
           "DEFENSE": 1.0,
-          "SPEED": 1.0
+          "SPEED": 1.0,
+          "CRIT_DAMAGE": 1.0,
+          "CRIT_CHANCE": 1.0,
+          "MAX_HEALTH": 1.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.15,
-          "MAX_HEALTH": 0.95,
-          "CRIT_CHANCE": 0.5,
           "DEFENSE": 0.35,
-          "SPEED": 0.3
+          "SPEED": 0.3,
+          "CRIT_DAMAGE": 0.15,
+          "CRIT_CHANCE": 0.5,
+          "MAX_HEALTH": 0.95
         }
       },
       "EPIC": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 1.0,
-          "MAX_HEALTH": 1.0,
-          "CRIT_CHANCE": 1.0,
           "DEFENSE": 1.0,
-          "SPEED": 1.0
+          "SPEED": 1.0,
+          "CRIT_DAMAGE": 1.0,
+          "CRIT_CHANCE": 1.0,
+          "MAX_HEALTH": 1.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.2,
-          "MAX_HEALTH": 0.105,
-          "CRIT_CHANCE": 0.1,
           "DEFENSE": 0.5,
-          "SPEED": 0.45
+          "SPEED": 0.45,
+          "CRIT_DAMAGE": 0.2,
+          "CRIT_CHANCE": 0.1,
+          "MAX_HEALTH": 0.105
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 1.0,
-          "MAX_HEALTH": 1.0,
-          "CRIT_CHANCE": 1.0,
           "DEFENSE": 1.0,
-          "SPEED": 1.0
+          "SPEED": 1.0,
+          "CRIT_DAMAGE": 1.0,
+          "CRIT_CHANCE": 1.0,
+          "MAX_HEALTH": 1.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.2,
-          "MAX_HEALTH": 1.15,
-          "CRIT_CHANCE": 0.15,
           "DEFENSE": 0.55,
-          "SPEED": 0.5
+          "SPEED": 0.5,
+          "CRIT_DAMAGE": 0.2,
+          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 1.15
         }
       },
       "MYTHICAL": {
         "baseAttributes": {
-          "CRIT_DAMAGE": 1.0,
-          "MAX_HEALTH": 1.0,
-          "CRIT_CHANCE": 1.0,
           "DEFENSE": 1.0,
-          "SPEED": 1.0
+          "SPEED": 1.0,
+          "CRIT_DAMAGE": 1.0,
+          "CRIT_CHANCE": 1.0,
+          "MAX_HEALTH": 1.0
         },
         "levelableAttributes": {
-          "CRIT_DAMAGE": 0.3,
-          "MAX_HEALTH": 1.12,
-          "CRIT_CHANCE": 0.25,
           "DEFENSE": 0.65,
-          "SPEED": 0.5
+          "SPEED": 0.5,
+          "CRIT_DAMAGE": 0.3,
+          "CRIT_CHANCE": 0.25,
+          "MAX_HEALTH": 1.12
         }
       }
     },
     "levelableEntities": {
-      "BASE_COW": 2.5,
       "BASE_PIG": 3.0,
-      "BASE_RABBIT": 5.0,
-      "BASE_ZOMBIE": 4.5,
       "BASE_CHICKEN": 2.0,
+      "BASE_COW": 2.5,
+      "BASE_ZOMBIE": 4.5,
+      "BASE_RABBIT": 5.0,
       "BASE_SHEEP": 2.0
     },
     "levelableBlocks": {}

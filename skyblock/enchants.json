@@ -2526,33 +2526,33 @@
     "reference": "hydromel",
     "name": "Hidromel",
     "maxLevel": 5,
-    "firstBonus": 0.1,
+    "firstBonus": 0.5,
     "secondBonus": 0.0,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7Concede §a0,10% §7chance de",
+          "§7Concede §a0,50% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ],
         "2": [
-          "§7Concede §a0,20% §7chance de",
+          "§7Concede §a1,00% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ],
         "3": [
-          "§7Concede §a0,30% §7chance de",
+          "§7Concede §a1,50% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ],
         "4": [
-          "§7Concede §a0,40% §7chance de",
+          "§7Concede §a2,00% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ],
         "5": [
-          "§7Concede §a0,50% §7chance de",
+          "§7Concede §a2,50% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ]
@@ -2572,7 +2572,8 @@
         "5": 77.5
       },
       "targets": [
-        "HOE"
+        "HOE",
+        "AXE"
       ],
       "conflicts": [],
       "replaces": []

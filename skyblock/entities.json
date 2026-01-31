@@ -384,7 +384,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "8146cace-6919-4ae9-92c1-b1c56ea18b83",
+            "id": "8f3fbabd-9615-48c5-978e-deae4594b03c",
             "properties": {
               "properties": {}
             },
@@ -442,7 +442,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "287490fc-768c-49a9-bd3e-205793a7571a",
+            "id": "ecd0924b-3e77-4a9b-8f8d-eda8b110c785",
             "properties": {
               "properties": {}
             },
@@ -498,7 +498,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "d3490c5c-71ea-439a-95a1-524d828694e6",
+            "id": "ac4b3c79-e63f-450b-a274-7841dfe21e89",
             "properties": {
               "properties": {}
             },
@@ -578,7 +578,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "9e9fe3f9-617e-4ccc-9b2e-df34fc29bdfa",
+            "id": "b93b2717-d874-4bb3-9c7a-33b308b37d76",
             "properties": {
               "properties": {}
             },
@@ -880,7 +880,7 @@
       "reward": 35.0
     },
     "drops": [],
-    "size": 1,
+    "size": 2,
     "canSplit": false
   },
   "SKULL": {
@@ -1065,7 +1065,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "e338bf6c-3529-4ed6-9c5f-211b6a12807a",
+            "id": "38b58617-30e4-4621-8991-4eae1bddc0d4",
             "properties": {
               "properties": {}
             },

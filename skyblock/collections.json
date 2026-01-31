@@ -81,6 +81,7 @@
         "§7Receita: §aBatata Encantada"
       ],
       "5": [
+        "§7Receita: §aManto de Tubérculo",
         "§7XP em Herbalismo:§b +1000"
       ],
       "6": [
@@ -362,6 +363,7 @@
       ],
       "4": [],
       "5": [
+        "§7Receita: §9Colar da Abundância",
         "§7Receita: §9Cenoura Dourada Encantada"
       ],
       "6": [],
@@ -421,7 +423,13 @@
         "§7Receita: §9Bloco de Cogumelo Vermelho Encantado",
         "§7Receita: §9Bloco de Cogumelo Marrom Encantado"
       ],
-      "9": []
+      "9": [
+        "§7Receita: §5Enxada de Cogumelo",
+        "§7Receita: §5Colar Fúngico",
+        "§7Receita: §5Manto Fúngico",
+        "§7Receita: §5Cinto Fúngico",
+        "§7Receita: §5Bracelete Fúngico"
+      ]
     }
   },
   "LEATHER": {
@@ -514,10 +522,14 @@
         "§7Armazenamento: §aBolsa de Poções Grande"
       ],
       "8": [
-        "§7Receita: §9Talismã Amplificador de Poções III"
+        "§7Receita: §9Talismã Amplificador de Poções III",
+        "§7Receita: §9Colar de Bolor",
+        "§7Receita: §9Manto de Bolor",
+        "§7Receita: §9Cinto de Bolor",
+        "§7Receita: §9Bracelete de Bolor"
       ],
       "9": [
-        "§7Receita: §5Machado Fungoso"
+        "§7Receita: §5Machado Fúngico"
       ]
     }
   },
@@ -567,6 +579,7 @@
         "§7Receita: §5Talismã Encaroçado III"
       ],
       "8": [
+        "§7Receita: §5Livro Frutífero",
         "§7XP em Herbalismo:§b +25000"
       ],
       "9": []
@@ -715,7 +728,7 @@
     "key": "wheat",
     "permissionKey": "trigo",
     "name": "Trigo",
-    "maxLevel": 7,
+    "maxLevel": 9,
     "skillType": "FARMING_SKILL",
     "material": "WHEAT",
     "requirements": [
@@ -750,12 +763,16 @@
         "§7Receita: §aPão Encantado"
       ],
       "5": [
-        "§7Indisponível: §fiIlha de Trigo"
+        "§7Indisponível: §fIlha de Trigo"
       ],
       "6": [
         "§7Receita: §9Fardo de Feno Encantado"
       ],
-      "7": []
+      "7": [],
+      "8": [
+        "§7Receita: §5Enxada Devastadora"
+      ],
+      "9": []
     }
   },
   "SLIME_BALL": {
@@ -848,7 +865,9 @@
         "§7Receita: §5Calças de Zumbi",
         "§7Receita: §5Botas de Zumbi"
       ],
-      "8": [],
+      "8": [
+        "§7Receita: §5Cérebro Apodrecido"
+      ],
       "9": []
     }
   },
