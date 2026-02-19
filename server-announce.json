@@ -4,7 +4,13 @@
       "0": "§eCompre §aVIP§7/§6Cubos §eem redecanary.minecart.com.br!",
       "1": "§eNos fins de semana as habilidades tem §d§lXP EM DOBRO§e!",
       "2": "§eVocê está jogando §6§lSKY BLOCK §ena redecanary.fun!",
-      "3": "§eCupom §fSBV1 §e(50% Off) em compras na loja!"
+      "3": "§eCupom §fQUENTINHO §e(50% Off) em compras na loja!"
     }
+  },
+  "globalMessages": {
+    "0": "§eCompre §fplanos mensais §epara\n§eapoiar o nosso servidor.\n\n§f/loja §epara mais informações!",
+    "1": "§eEncontrou um §fbug §eno servidor?\n§ereporte em nosso Discord.\n\n§f/discord §epara mais informações!",
+    "2": "§eTem §fsugestões §fpara §eno servidor?\n§eenvie em nosso Discord.\n\n§f/discord §epara mais informações!",
+    "3": "§eQuer fazer compras em nosso servidor?\n§eUtilize o cupom: §fQUENTINHO §e(50% OFF)\n\n§f/loja §epara mais informações!"
   }
 }
