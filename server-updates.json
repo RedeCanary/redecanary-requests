@@ -30,6 +30,12 @@
                 "type": "EMERALD",
                 "data": "07/02/26",
                 "description": "§7Esta atualização do §bSky Block §7representa\n§7a versão oficial e estável do servidor.\n\n§fTendo como destaque:\n§a+ §fEstabilidade\n§a+ §fPerformance\n§a+ §fSistema de Co-Op\n§c- §fBugs ativos"
+            },
+            "5": {
+                "name": "§aSky Block §b1.2.5",
+                "type": "BONE",
+                "data": "05/03/26",
+                "description": "§7Nesta atualização do §bSky Block §7nós\n§7trazemos uma gama de conteúdos essenciais.\n\n§fTendo como destaque:\n§a+ §fPerfis Múltiplos\n§a+ §fCristais de Plantação\n§a+ §fMascotes"
             }
         },
         "bedwars": {
