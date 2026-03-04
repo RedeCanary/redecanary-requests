@@ -1,3 +1,5 @@
 {
-  "discord_url": "https://discord.gg/RZEcuWDHxm"
+  "discord": {
+    "discord_url": "https://discord.gg/RZEcuWDHxm"
+  }
 }
