@@ -1,57 +1,149 @@
 {
-  "CHICK": {
-    "name": "Pintinho",
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVkYzhjNDkxZjE3ZTgyZTNlZTA3NWYwOWZiZGVhOTdlZGY2ZDNlN2RiMWU0YmI4YjIwMDFhODBkNzlhNWIxZiJ9fX0\u003d",
+  "ABELHA": {
+    "name": "Abelha",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk2NzMzNTc1NSwKICAicHJvZmlsZUlkIiA6ICI4Y2UzMDAxMDIzZDY0Nzk0YWM2ODIyNzE4M2FjNzYzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb25pY1R1bmRlcjciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODg0M2VlMGU0OTVlNTZiNDVlNjc2Mjg5MjEwMDIzYTJjYjMzZjc4YmExZDFmMzJiZjdkNWNlODM1MWY4ODIxZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
     "skill": "FARMING_SKILL",
     "rarities": [
       "COMMON",
       "UNCOMMON",
-      "RARE"
+      "RARE",
+      "EPIC",
+      "LEGENDARY"
     ],
     "attributes": {
       "COMMON": {
         "baseAttributes": {
-          "SPEED": 0.0,
-          "MAX_HEALTH": 2.0
+          "STRENGTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
         },
         "levelableAttributes": {
-          "SPEED": 0.1,
-          "MAX_HEALTH": 0.2
+          "STRENGTH": 0.05,
+          "FARMING_FORTUNE": 0.05,
+          "SPEED": 0.05
         }
       },
       "UNCOMMON": {
         "baseAttributes": {
-          "SPEED": 0.0,
-          "MAX_HEALTH": 2.0
+          "STRENGTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
         },
         "levelableAttributes": {
-          "SPEED": 0.2,
-          "MAX_HEALTH": 0.3
+          "STRENGTH": 0.1,
+          "FARMING_FORTUNE": 0.05,
+          "SPEED": 0.1
         }
       },
       "RARE": {
         "baseAttributes": {
-          "SPEED": 0.0,
-          "MAX_HEALTH": 2.0
+          "STRENGTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
         },
         "levelableAttributes": {
-          "SPEED": 0.1,
-          "MAX_HEALTH": 0.45
+          "STRENGTH": 0.15,
+          "FARMING_FORTUNE": 0.2,
+          "SPEED": 0.15
+        }
+      },
+      "EPIC": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
+          "STRENGTH": 0.2,
+          "FARMING_FORTUNE": 0.25,
+          "SPEED": 0.2
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
+          "STRENGTH": 0.25,
+          "FARMING_FORTUNE": 0.3,
+          "SPEED": 0.2
         }
       }
     },
     "levelableEntities": {},
     "levelableBlocks": {
+      "POTATO": 1.5,
+      "SUGAR_CANE": 2.0,
+      "CARROT": 1.0,
       "PUMPKIN": 2.5,
-      "POTATO": 2.0,
-      "CARROT": 2.0,
-      "CROPS": 2.0,
-      "MELON_BLOCK": 2.5
+      "CROPS": 0.5,
+      "MELON_BLOCK": 2.5,
+      "CACTUS": 2.5
     }
   },
-  "RABBIT": {
+  "ELEFANTE": {
+    "name": "Elefante",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjJiMmJmMDdlMGUzNTE1MDcxMTVhZmZiNDJlYjJiNmQzNDIwMmMzYTQ2MWNkOWU5NzgyYWY5M2UxNzVkZGRhNSJ9fX0\u003d",
+    "skill": "FARMING_SKILL",
+    "rarities": [
+      "RARE",
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "attributes": {
+      "RARE": {
+        "baseAttributes": {
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "MAX_INTELLIGENCE": 0.0
+        },
+        "levelableAttributes": {
+          "MAX_HEALTH": 0.5,
+          "FARMING_FORTUNE": 0.15,
+          "MAX_INTELLIGENCE": 0.3
+        }
+      },
+      "EPIC": {
+        "baseAttributes": {
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "MAX_INTELLIGENCE": 0.0
+        },
+        "levelableAttributes": {
+          "MAX_HEALTH": 0.6,
+          "FARMING_FORTUNE": 0.2,
+          "MAX_INTELLIGENCE": 0.3
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "MAX_INTELLIGENCE": 0.0
+        },
+        "levelableAttributes": {
+          "MAX_HEALTH": 0.8,
+          "FARMING_FORTUNE": 0.4,
+          "MAX_INTELLIGENCE": 0.3
+        }
+      }
+    },
+    "levelableEntities": {},
+    "levelableBlocks": {
+      "POTATO": 1.5,
+      "SUGAR_CANE": 2.5,
+      "CARROT": 1.5,
+      "PUMPKIN": 3.5,
+      "CROPS": 1.0,
+      "MELON_BLOCK": 3.5,
+      "CACTUS": 3.0
+    }
+  },
+  "COELHO": {
     "name": "Coelho",
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2QxMTY5YjI2OTRhNmFiYTgyNjM2MDk5MjM2NWJjZGE1YTEwYzg5YTNhYTJiNDhjNDM4NTMxZGQ4Njg1YzNhNyJ9fX0\u003d",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjQ5MzQ0OTE3NiwKICAicHJvZmlsZUlkIiA6ICJhZTQyMTU2N2QzODg0YWUxOTJhNmNiNTY4ZmZkNGZhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aW1vdGh5ZGVvZG9yYW50IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmNTA4OGMwMzVkM2I4NWE3MTY3MGM0MTNhMDJmYTlkM2Y3ZDRlMTZjYzlhNzgwZDIxNTk1MmVmMGUwMDYzZWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
     "skill": "FARMING_SKILL",
     "rarities": [
       "COMMON",
@@ -62,73 +154,114 @@
     "attributes": {
       "COMMON": {
         "baseAttributes": {
-          "BONUS_ATTACK_SPEED": 1.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 1.0,
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
           "SPEED": 0.0
         },
         "levelableAttributes": {
-          "BONUS_ATTACK_SPEED": 0.01,
-          "SPEED": 0.005,
-          "CRIT_CHANCE": 0.01,
-          "MAX_HEALTH": 0.15
+          "MAX_HEALTH": 0.1,
+          "FARMING_FORTUNE": 0.1,
+          "SPEED": 0.05
         }
       },
       "UNCOMMON": {
         "baseAttributes": {
-          "BONUS_ATTACK_SPEED": 1.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 1.0,
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
           "SPEED": 0.0
         },
         "levelableAttributes": {
-          "BONUS_ATTACK_SPEED": 0.02,
-          "SPEED": 0.01,
-          "CRIT_CHANCE": 0.2,
-          "MAX_HEALTH": 0.35
+          "MAX_HEALTH": 0.15,
+          "FARMING_FORTUNE": 0.2,
+          "SPEED": 0.1
         }
       },
       "RARE": {
         "baseAttributes": {
-          "BONUS_ATTACK_SPEED": 1.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 1.0,
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
           "SPEED": 0.0
         },
         "levelableAttributes": {
-          "BONUS_ATTACK_SPEED": 0.05,
-          "SPEED": 0.05,
-          "CRIT_CHANCE": 0.25,
-          "MAX_HEALTH": 0.45
+          "MAX_HEALTH": 0.25,
+          "FARMING_FORTUNE": 0.25,
+          "SPEED": 0.2
         }
       },
       "EPIC": {
         "baseAttributes": {
-          "BONUS_ATTACK_SPEED": 1.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 1.0,
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
           "SPEED": 0.0
         },
         "levelableAttributes": {
-          "BONUS_ATTACK_SPEED": 0.15,
-          "SPEED": 0.16,
-          "CRIT_CHANCE": 0.35,
-          "MAX_HEALTH": 0.65
+          "MAX_HEALTH": 0.3,
+          "FARMING_FORTUNE": 0.3,
+          "SPEED": 0.3
         }
       }
     },
     "levelableEntities": {},
     "levelableBlocks": {
-      "CARROT": 4.0,
-      "CROPS": 1.0,
-      "POTATO": 1.0,
-      "SUGAR_CANE": 2.0
+      "POTATO": 1.5,
+      "SUGAR_CANE": 1.0,
+      "CARROT": 1.0,
+      "CROPS": 2.5
     }
   },
-  "OLD_DRAGON": {
-    "name": "Dragão Ancião",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDUzNjgxOTg3MCwKICAicHJvZmlsZUlkIiA6ICI1MzE4YWJhNDJiMTk0ODNiODFiMWY2N2Y1ODVjNDdkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJocHllZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMWQ2YjYyZmJkZThlYzgwNWJkZWZkYWY2ZjMzYTZjYjk3MTg5MDJhNjIxMDYxOTM2YTgzMWY0YjE5YzNlMjUyIgogICAgfQogIH0KfQ\u003d\u003d",
-    "skill": "COMBAT_SKILL",
+  "PINTINHO": {
+    "name": "Pintinho",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MTAzODMwODY2MCwKICAicHJvZmlsZUlkIiA6ICI5NjFlZjYzYTE0ZDQ0ZjdhODM1ZGFiMTRlMmFmNmUwOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1UGlwZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hODE4NTUzMGMxM2U3ZGIzMmNhMTI4NDI5YjA4OTU3ZDc0ZjMzMDMzYjNkYTVlNGI0ZGRhZjQ2NmUyOTVmMTJiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+    "skill": "FARMING_SKILL",
+    "rarities": [
+      "COMMON",
+      "UNCOMMON",
+      "RARE"
+    ],
+    "attributes": {
+      "COMMON": {
+        "baseAttributes": {
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
+          "FARMING_FORTUNE": 0.05,
+          "SPEED": 0.05
+        }
+      },
+      "UNCOMMON": {
+        "baseAttributes": {
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
+          "FARMING_FORTUNE": 0.1,
+          "SPEED": 0.1
+        }
+      },
+      "RARE": {
+        "baseAttributes": {
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
+          "FARMING_FORTUNE": 0.15,
+          "SPEED": 0.2
+        }
+      }
+    },
+    "levelableEntities": {},
+    "levelableBlocks": {
+      "POTATO": 1.5,
+      "SUGAR_CANE": 1.0,
+      "CARROT": 1.0,
+      "CROPS": 2.5
+    }
+  },
+  "VACA_DOURADA": {
+    "name": "Vaca Dourada",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjQ5MjQwODcyMiwKICAicHJvZmlsZUlkIiA6ICJmZDFhYjdjNTYwMTM0YzQ1YTA2YWZjZWY1OGViZDVkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbGF1MTA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlmZmY2OTc2OWU2MTliMmY3MGU0MWE4ZjZlZWI5ZWRhNjg1ZGRiMWY5N2U0M2U4ODUxNTVhYWQwMjcwODFiYTciCiAgICB9CiAgfQp9",
+    "skill": "FARMING_SKILL",
     "rarities": [
       "EPIC",
       "LEGENDARY"
@@ -136,485 +269,652 @@
     "attributes": {
       "EPIC": {
         "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
         },
         "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 0.4,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.15,
+          "MAX_HEALTH": 0.85,
+          "FARMING_FORTUNE": 0.55,
+          "SPEED": 0.1
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
           "MAX_HEALTH": 1.0,
-          "STRENGTH": 0.2
-        }
-      },
-      "LEGENDARY": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 0.6,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 1.2,
-          "STRENGTH": 0.2
+          "FARMING_FORTUNE": 0.65,
+          "SPEED": 0.2
         }
       }
     },
-    "levelableEntities": {
-      "BASE_ENDERMAN": 0.5,
-      "OBSIDIAN_DEFENDER": 4.5,
-      "ENDERMAN": 4.0,
-      "ENDERMITE": 2.0,
-      "MUTANT": 15.0,
-      "END_SKELETON": 4.5
-    },
-    "levelableBlocks": {}
+    "levelableEntities": {},
+    "levelableBlocks": {
+      "POTATO": 1.5,
+      "SUGAR_CANE": 2.0,
+      "CARROT": 1.0,
+      "PUMPKIN": 2.5,
+      "CROPS": 0.5,
+      "MELON_BLOCK": 2.5,
+      "CACTUS": 2.5
+    }
   },
-  "WISE_DRAGON": {
-    "name": "Dragão Sábio",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDUzNzM2MDMyNSwKICAicHJvZmlsZUlkIiA6ICI1ZTEwYjc5MTY2ZTA0MTNkYjI2MThkMzE3MTc2M2Y4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPTUZfQmxvY2tCdXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAxNjUxNTBjMDNhMjk5MjdiNDRmM2EzOWEzYTUzYjMzODg1Y2ZhMjE5ZTc0M2I1ZjgzY2FkMzNjZDE3OGQ1YSIKICAgIH0KICB9Cn0\u003d",
-    "skill": "COMBAT_SKILL",
-    "rarities": [
-      "EPIC",
-      "LEGENDARY"
-    ],
-    "attributes": {
-      "EPIC": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.6,
-          "DEFENSE": 0.4,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 0.5,
-          "STRENGTH": 0.2
-        }
-      },
-      "LEGENDARY": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 1.2,
-          "DEFENSE": 0.6,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 0.6,
-          "STRENGTH": 0.2
-        }
-      }
-    },
-    "levelableEntities": {
-      "BASE_ENDERMAN": 0.5,
-      "OBSIDIAN_DEFENDER": 4.5,
-      "ENDERMAN": 4.0,
-      "ENDERMITE": 2.0,
-      "MUTANT": 15.0,
-      "END_SKELETON": 4.5
-    },
-    "levelableBlocks": {}
-  },
-  "STRONG_DRAGON": {
-    "name": "Dragão Forte",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDU1OTAwODA2OSwKICAicHJvZmlsZUlkIiA6ICIxMjE4YWNiNDJiYzA0MzY4YjIxOTU4ZTZiYWU2NDMyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYXRhdGplTUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI3YTFlNjUxNjY1YTI3YzA3ZWI1ZDQ3NjIzZGI3MTU5OTUxYTJkZTEyYWM2Zjg2NjI5Y2YzODlhNTgyMDZhYSIKICAgIH0KICB9Cn0\u003d",
-    "skill": "COMBAT_SKILL",
-    "rarities": [
-      "EPIC",
-      "LEGENDARY"
-    ],
-    "attributes": {
-      "EPIC": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 0.4,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.25,
-          "MAX_HEALTH": 0.5,
-          "STRENGTH": 0.6
-        }
-      },
-      "LEGENDARY": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 0.6,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.45,
-          "MAX_HEALTH": 0.6,
-          "STRENGTH": 0.85
-        }
-      }
-    },
-    "levelableEntities": {
-      "BASE_ENDERMAN": 0.5,
-      "OBSIDIAN_DEFENDER": 4.5,
-      "ENDERMAN": 4.0,
-      "ENDERMITE": 2.0,
-      "MUTANT": 15.0,
-      "END_SKELETON": 4.5
-    },
-    "levelableBlocks": {}
-  },
-  "SUPERIOR_DRAGON": {
-    "name": "Dragão Superior",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDU1OTc2NTE3NCwKICAicHJvZmlsZUlkIiA6ICJmODY0ZjY3ZGJlN2Y0OTBlYTZlODQzMjg2M2NkZWMxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3lmcmllbmQ1MDY1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YwZmU2YzUyMGJlZjZhNzkxMzA5MTI0MTNhZTIxYjk1YWJlMTdkMGFlZmQ1N2ZmYWZlOTE4ZWQwYTk2MjdjMWYiCiAgICB9CiAgfQp9",
-    "skill": "COMBAT_SKILL",
-    "rarities": [
-      "EPIC",
-      "LEGENDARY"
-    ],
-    "attributes": {
-      "EPIC": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.3,
-          "DEFENSE": 0.5,
-          "SPEED": 0.1,
-          "CRIT_DAMAGE": 0.2,
-          "CRIT_CHANCE": 0.2,
-          "MAX_HEALTH": 0.7,
-          "STRENGTH": 0.7
-        }
-      },
-      "LEGENDARY": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.4,
-          "DEFENSE": 0.7,
-          "SPEED": 0.2,
-          "CRIT_DAMAGE": 0.3,
-          "CRIT_CHANCE": 0.3,
-          "MAX_HEALTH": 0.8,
-          "STRENGTH": 0.8
-        }
-      }
-    },
-    "levelableEntities": {
-      "BASE_ENDERMAN": 0.5,
-      "OBSIDIAN_DEFENDER": 4.5,
-      "ENDERMAN": 4.0,
-      "ENDERMITE": 2.0,
-      "MUTANT": 15.0,
-      "END_SKELETON": 4.5
-    },
-    "levelableBlocks": {}
-  },
-  "UNSTABLE_DRAGON": {
-    "name": "Dragão Instável",
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGY4MWM5ZDQyNjgwYWQ3YmM2ODZhMTI4MTA3M2ZiYmUyZmQ4MTYxOTEzZTVhM2JkOTk2OTNkMmM0MDRkODgyOCJ9fX0\u003d",
-    "skill": "COMBAT_SKILL",
-    "rarities": [
-      "EPIC",
-      "LEGENDARY"
-    ],
-    "attributes": {
-      "EPIC": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 0.4,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.4,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 0.5,
-          "STRENGTH": 0.2
-        }
-      },
-      "LEGENDARY": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 0.6,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.6,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 0.6,
-          "STRENGTH": 0.2
-        }
-      }
-    },
-    "levelableEntities": {
-      "BASE_ENDERMAN": 0.5,
-      "OBSIDIAN_DEFENDER": 4.5,
-      "ENDERMAN": 4.0,
-      "ENDERMITE": 2.0,
-      "MUTANT": 15.0,
-      "END_SKELETON": 4.5
-    },
-    "levelableBlocks": {}
-  },
-  "YOUNG_DRAGON": {
-    "name": "Dragão Jovem",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDU1ODgyNzg2NywKICAicHJvZmlsZUlkIiA6ICI1ZTEwYjc5MTY2ZTA0MTNkYjI2MThkMzE3MTc2M2Y4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPTUZfQmxvY2tCdXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VlNjNmYmYyMzdjYmI1MDM5MGE1OWUwZWIzY2ExNTQzZGExMzJlZjYwYjQ0YzU2MWRiZDM4NDAyMGU3MGYxMyIKICAgIH0KICB9Cn0\u003d",
-    "skill": "COMBAT_SKILL",
-    "rarities": [
-      "EPIC",
-      "LEGENDARY"
-    ],
-    "attributes": {
-      "EPIC": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 0.4,
-          "SPEED": 0.2,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 0.5,
-          "STRENGTH": 0.2
-        }
-      },
-      "LEGENDARY": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 0.6,
-          "SPEED": 0.4,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 0.6,
-          "STRENGTH": 0.2
-        }
-      }
-    },
-    "levelableEntities": {
-      "BASE_ENDERMAN": 0.5,
-      "OBSIDIAN_DEFENDER": 4.5,
-      "ENDERMAN": 4.0,
-      "ENDERMITE": 2.0,
-      "MUTANT": 15.0,
-      "END_SKELETON": 4.5
-    },
-    "levelableBlocks": {}
-  },
-  "PROTECTOR_DRAGON": {
-    "name": "Dragão Protetor",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDU1ODQwNzA2MiwKICAicHJvZmlsZUlkIiA6ICIyY2QyMTQwMGZmZDE0MDU3OWJiN2FlODEzNzUyMjBmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVoYUJydWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjdhNDFhZjRhNzAwM2M1OTJjZDBhNGI4NDZhZjQwZTRjZGY4NmZlNTA4MmRlZTViMGQ1ZjZkYzMwMThjNjJlMCIKICAgIH0KICB9Cn0\u003d",
-    "skill": "COMBAT_SKILL",
-    "rarities": [
-      "EPIC",
-      "LEGENDARY"
-    ],
-    "attributes": {
-      "EPIC": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 1.0,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 0.5,
-          "STRENGTH": 0.2
-        }
-      },
-      "LEGENDARY": {
-        "baseAttributes": {
-          "MAX_INTELLIGENCE": 0.0,
-          "DEFENSE": 0.0,
-          "SPEED": 0.0,
-          "CRIT_DAMAGE": 0.0,
-          "CRIT_CHANCE": 0.0,
-          "MAX_HEALTH": 0.0
-        },
-        "levelableAttributes": {
-          "MAX_INTELLIGENCE": 0.2,
-          "DEFENSE": 1.2,
-          "SPEED": 0.05,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 0.6,
-          "STRENGTH": 0.2
-        }
-      }
-    },
-    "levelableEntities": {
-      "BASE_ENDERMAN": 0.5,
-      "OBSIDIAN_DEFENDER": 4.5,
-      "ENDERMAN": 4.0,
-      "ENDERMITE": 2.0,
-      "MUTANT": 15.0,
-      "END_SKELETON": 4.5
-    },
-    "levelableBlocks": {}
-  },
-  "CANARY": {
-    "name": "Canário",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NjAwMjAwNjkyMywKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaTAxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzk2MDNkOTJjMjIxOWJiNmE5YjZiNjc4MjA1ZWFlMjk4MGE0NDM0NGY1MzE2N2VmZjc4OWJkNzJiZWVjOWVlIgogICAgfQogIH0KfQ\u003d\u003d",
-    "skill": "COMBAT_SKILL",
+  "VACA_DE_COGUMELO": {
+    "name": "Vaca de Cogumelo",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MTEyMzA0NTc1NCwKICAicHJvZmlsZUlkIiA6ICJjOWM5YzkwOWIxNTI0ZDgzODY5NzU2OTE0M2JmNTY4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6dWtlbWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYxZDVlNjQ4NDZkODhjYjViYjM1YWY1NGUxNmEwMzgzZGY5NTJjOTFlZTJhY2M5M2NkMmU0NDVlNzY0MjAwYjMiCiAgICB9CiAgfQp9",
+    "skill": "FARMING_SKILL",
     "rarities": [
       "RARE",
       "EPIC",
-      "LEGENDARY",
-      "MYTHICAL"
+      "LEGENDARY"
     ],
     "attributes": {
       "RARE": {
         "baseAttributes": {
-          "DEFENSE": 1.0,
-          "SPEED": 1.0,
-          "CRIT_DAMAGE": 1.0,
-          "CRIT_CHANCE": 1.0,
-          "MAX_HEALTH": 1.0
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0
         },
         "levelableAttributes": {
-          "DEFENSE": 0.35,
-          "SPEED": 0.3,
-          "CRIT_DAMAGE": 0.15,
-          "CRIT_CHANCE": 0.5,
-          "MAX_HEALTH": 0.95
+          "MAX_HEALTH": 0.65,
+          "FARMING_FORTUNE": 0.45
         }
       },
       "EPIC": {
         "baseAttributes": {
-          "DEFENSE": 1.0,
-          "SPEED": 1.0,
-          "CRIT_DAMAGE": 1.0,
-          "CRIT_CHANCE": 1.0,
-          "MAX_HEALTH": 1.0
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0
         },
         "levelableAttributes": {
-          "DEFENSE": 0.5,
-          "SPEED": 0.45,
-          "CRIT_DAMAGE": 0.2,
-          "CRIT_CHANCE": 0.1,
-          "MAX_HEALTH": 0.105
+          "MAX_HEALTH": 0.85,
+          "FARMING_FORTUNE": 0.55
         }
       },
       "LEGENDARY": {
         "baseAttributes": {
-          "DEFENSE": 1.0,
-          "SPEED": 1.0,
-          "CRIT_DAMAGE": 1.0,
-          "CRIT_CHANCE": 1.0,
-          "MAX_HEALTH": 1.0
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0
         },
         "levelableAttributes": {
-          "DEFENSE": 0.55,
-          "SPEED": 0.5,
-          "CRIT_DAMAGE": 0.2,
-          "CRIT_CHANCE": 0.15,
-          "MAX_HEALTH": 1.15
+          "MAX_HEALTH": 1.0,
+          "FARMING_FORTUNE": 0.65
+        }
+      }
+    },
+    "levelableEntities": {},
+    "levelableBlocks": {
+      "POTATO": 1.5,
+      "SUGAR_CANE": 2.0,
+      "CARROT": 1.0,
+      "PUMPKIN": 2.5,
+      "CROPS": 0.5,
+      "MELON_BLOCK": 2.5,
+      "CACTUS": 2.5
+    }
+  },
+  "VACA": {
+    "name": "Vaca",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjMxOTY3NjUwNywKICAicHJvZmlsZUlkIiA6ICJlZmI1ZWQ2YjVjOTU0ODBlYWFmMjAyZDIxOWVmNjBjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWtlSHdhazAwMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmYyZjAxZTA4MjY3ODdjNDlhYTM5MjNiOTMzNGQ5OWY5MjMyM2ViYjEzNjlhN2I0NDg1MGVhZjNjOWJlNmEzIgogICAgfQogIH0KfQ\u003d\u003d",
+    "skill": "FARMING_SKILL",
+    "rarities": [
+      "COMMON",
+      "UNCOMMON",
+      "RARE",
+      "EPIC"
+    ],
+    "attributes": {
+      "COMMON": {
+        "baseAttributes": {
+          "HEALTH_REGEN": 0.0,
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0
+        },
+        "levelableAttributes": {
+          "HEALTH_REGEN": 0.01,
+          "MAX_HEALTH": 0.2,
+          "FARMING_FORTUNE": 0.05
         }
       },
-      "MYTHICAL": {
+      "UNCOMMON": {
         "baseAttributes": {
-          "DEFENSE": 1.0,
-          "SPEED": 1.0,
-          "CRIT_DAMAGE": 1.0,
-          "CRIT_CHANCE": 1.0,
-          "MAX_HEALTH": 1.0
+          "HEALTH_REGEN": 0.0,
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0
         },
         "levelableAttributes": {
-          "DEFENSE": 0.65,
-          "SPEED": 0.5,
-          "CRIT_DAMAGE": 0.3,
-          "CRIT_CHANCE": 0.25,
-          "MAX_HEALTH": 1.12
+          "HEALTH_REGEN": 0.02,
+          "MAX_HEALTH": 0.3,
+          "FARMING_FORTUNE": 0.1
+        }
+      },
+      "RARE": {
+        "baseAttributes": {
+          "HEALTH_REGEN": 0.0,
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0
+        },
+        "levelableAttributes": {
+          "HEALTH_REGEN": 0.03,
+          "MAX_HEALTH": 0.35,
+          "FARMING_FORTUNE": 0.15
+        }
+      },
+      "EPIC": {
+        "baseAttributes": {
+          "HEALTH_REGEN": 0.0,
+          "MAX_HEALTH": 0.0,
+          "FARMING_FORTUNE": 0.0
+        },
+        "levelableAttributes": {
+          "HEALTH_REGEN": 0.05,
+          "MAX_HEALTH": 0.4,
+          "FARMING_FORTUNE": 0.2
+        }
+      }
+    },
+    "levelableEntities": {},
+    "levelableBlocks": {
+      "POTATO": 1.5,
+      "SUGAR_CANE": 2.0,
+      "CARROT": 1.0,
+      "PUMPKIN": 2.5,
+      "CROPS": 0.5,
+      "MELON_BLOCK": 2.5,
+      "CACTUS": 2.5
+    }
+  },
+  "CUBO_DE_MAGMA": {
+    "name": "Cubo de Magma",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFjOTdhMDZlZmRlMDRkMDAyODdiZjIwNDE2NDA0YWIyMTAzZTEwZjA4NjIzMDg3ZTFiMGMxMjY0YTFjMGYwYyJ9fX0\u003d",
+    "skill": "COMBAT_SKILL",
+    "rarities": [
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "attributes": {
+      "EPIC": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0,
+          "MAX_HEALTH": 0.0
+        },
+        "levelableAttributes": {
+          "STRENGTH": 0.1,
+          "DEFENSE": 0.33,
+          "MAX_HEALTH": 0.5
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0,
+          "MAX_HEALTH": 0.0
+        },
+        "levelableAttributes": {
+          "STRENGTH": 0.2,
+          "DEFENSE": 0.5,
+          "MAX_HEALTH": 0.6
         }
       }
     },
     "levelableEntities": {
-      "BASE_PIG": 3.0,
-      "BASE_CHICKEN": 2.0,
-      "BASE_COW": 2.5,
-      "BASE_ZOMBIE": 4.5,
-      "BASE_RABBIT": 5.0,
-      "BASE_SHEEP": 2.0
+      "MAGMA_CUBE": 5.0,
+      "BASE_BLAZE": 2.0,
+      "BASE_MAGMA": 2.0,
+      "BLAZE": 2.0,
+      "MAGMA_BOSS": 100.0
     },
     "levelableBlocks": {}
+  },
+  "ESQUELETO_WITHER": {
+    "name": "Esqueleto Wither",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjEzMjQ0NDEzNSwKICAicHJvZmlsZUlkIiA6ICIxNDJmZDZkYjRiZjc0ZTZmOWNmOTU2OTdmZTljMTdlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJlTkJyaWdodG9uTUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTZiNDAyYTgzOTVkY2Q0NjY1OWNjM2U4NThmZWNlNmM3ODdkZmQ4ZmViMDViZmIxMzZlY2RjNGY3MDc2NzI1NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "skill": "COMBAT_SKILL",
+    "rarities": [
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "attributes": {
+      "EPIC": {
+        "baseAttributes": {
+          "CRIT_CHANCE": 0.0,
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "CRIT_CHANCE": 0.15,
+          "STRENGTH": 0.35,
+          "DEFENSE": 0.25,
+          "CRIT_DAMAGE": 0.1
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "CRIT_CHANCE": 0.0,
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "CRIT_CHANCE": 0.25,
+          "STRENGTH": 0.5,
+          "DEFENSE": 0.3,
+          "CRIT_DAMAGE": 0.15
+        }
+      }
+    },
+    "levelableEntities": {
+      "SKELETON": 2.0,
+      "MAGMA_CUBE": 5.0,
+      "BASE_BLAZE": 2.0,
+      "OBSIDIAN_DEFENDER": 2.0,
+      "OBSIDIAN_SKELETON": 2.0,
+      "BASE_MAGMA": 2.0,
+      "MINER_SKELETON": 2.0,
+      "JOCKEY_SKELETON": 2.0,
+      "SKULL": 3.5,
+      "BLAZE": 2.0,
+      "MAGMA_BOSS": 100.0
+    },
+    "levelableBlocks": {}
+  },
+  "ESQUELETO": {
+    "name": "Esqueleto",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4NjEyNTY1OCwKICAicHJvZmlsZUlkIiA6ICI3ZjU3MzM2M2M1YTM0N2JiOGQwYzJjNDYyOTVmN2JlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb25leWVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyN2ZkMDkzZmIwMjNmNzMwZGEzOWVlNjNjMGJhYTAwZDc2OGNmMzRkNGU1MWIyOWU5OWZmNWM1YjIwYmM1YjQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+    "skill": "COMBAT_SKILL",
+    "rarities": [
+      "RARE",
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "attributes": {
+      "RARE": {
+        "baseAttributes": {
+          "CRIT_CHANCE": 0.0,
+          "HEALTH_REGEN": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "CRIT_CHANCE": 0.05,
+          "HEALTH_REGEN": 0.01,
+          "CRIT_DAMAGE": 0.1
+        }
+      },
+      "EPIC": {
+        "baseAttributes": {
+          "CRIT_CHANCE": 0.0,
+          "HEALTH_REGEN": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "CRIT_CHANCE": 0.1,
+          "HEALTH_REGEN": 0.03,
+          "CRIT_DAMAGE": 0.2
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "CRIT_CHANCE": 0.0,
+          "HEALTH_REGEN": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "CRIT_CHANCE": 0.15,
+          "HEALTH_REGEN": 0.05,
+          "CRIT_DAMAGE": 0.3
+        }
+      }
+    },
+    "levelableEntities": {
+      "SKELETON": 1.0,
+      "OBSIDIAN_DEFENDER": 2.0,
+      "OBSIDIAN_SKELETON": 2.0,
+      "MINER_SKELETON": 1.5,
+      "JOCKEY_SKELETON": 1.5,
+      "SKULL": 1.5
+    },
+    "levelableBlocks": {}
+  },
+  "ENDERMAN": {
+    "name": "Enderman",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjQzNzk0MTIzNywKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MWVkNmIwYmQyZDkzNzAyODBlYWU2MTE0ODE5MGU2NDllOWUwYzAyOTdjZjZkYTI2ZGEyYjU2Mzk2ZWE0ZWE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+    "skill": "COMBAT_SKILL",
+    "rarities": [
+      "COMMON",
+      "UNCOMMON",
+      "RARE",
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "attributes": {
+      "COMMON": {
+        "baseAttributes": {
+          "MAX_INTELLIGENCE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "MAX_INTELLIGENCE": 0.05,
+          "CRIT_DAMAGE": 0.1
+        }
+      },
+      "UNCOMMON": {
+        "baseAttributes": {
+          "MAX_INTELLIGENCE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "MAX_INTELLIGENCE": 0.15,
+          "CRIT_DAMAGE": 0.35
+        }
+      },
+      "RARE": {
+        "baseAttributes": {
+          "MAX_INTELLIGENCE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "MAX_INTELLIGENCE": 0.2,
+          "CRIT_DAMAGE": 0.45
+        }
+      },
+      "EPIC": {
+        "baseAttributes": {
+          "MAX_INTELLIGENCE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "MAX_INTELLIGENCE": 0.3,
+          "CRIT_DAMAGE": 0.6
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "MAX_INTELLIGENCE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "MAX_INTELLIGENCE": 0.4,
+          "CRIT_DAMAGE": 0.75
+        }
+      }
+    },
+    "levelableEntities": {
+      "BASE_ENDERMAN": 1.0,
+      "ENDERMAN": 1.0,
+      "OBSIDIAN_DEFENDER": 2.0,
+      "OBSIDIAN_SKELETON": 2.0
+    },
+    "levelableBlocks": {
+      "ENDER_STONE": 0.5,
+      "OBSIDIAN": 2.5
+    }
+  },
+  "DRAGAO_DO_FIM": {
+    "name": "Dragão do Fim",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjQ1ODY4MjA0MSwKICAicHJvZmlsZUlkIiA6ICJlY2ExZDJjMWU4ODg0ZjA3OGQxZTBlZGU2ODE4MGRhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MDRDb3NtaWNhbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NWE3MGRhNDc4MmQ4ZGFlYzM5ZTJjNjdjOGNhZTRjYjlkOWI5MmNkZjFhYmFiNzM0NDNmMDRlNDY1MGMwNmI4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+    "skill": "COMBAT_SKILL",
+    "rarities": [
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "attributes": {
+      "EPIC": {
+        "baseAttributes": {
+          "CRIT_CHANCE": 0.0,
+          "STRENGTH": 0.0,
+          "MAX_INTELLIGENCE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "CRIT_CHANCE": 0.1,
+          "STRENGTH": 0.3,
+          "MAX_INTELLIGENCE": 0.2,
+          "CRIT_DAMAGE": 0.3
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "CRIT_CHANCE": 0.0,
+          "STRENGTH": 0.0,
+          "MAX_INTELLIGENCE": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "CRIT_CHANCE": 0.15,
+          "STRENGTH": 0.5,
+          "MAX_INTELLIGENCE": 0.4,
+          "CRIT_DAMAGE": 0.5
+        }
+      }
+    },
+    "levelableEntities": {
+      "BASE_ENDERMAN": 1.0,
+      "ENDERMAN": 1.0,
+      "OBSIDIAN_DEFENDER": 2.0,
+      "OBSIDIAN_SKELETON": 2.0
+    },
+    "levelableBlocks": {}
+  },
+  "CRYON": {
+    "name": "Cryon",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIxNzIxODU0OSwKICAicHJvZmlsZUlkIiA6ICIwNWU0OTczZTk5ZDk0NGY2YjczNjY3ZTEzMzdiY2IzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lX1NraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNThmMDZkZWQ4YjNjM2I3NjBhZTA1ZjEwOGIxMWRjMGYyNjNmOTk0NWY4NmZiZjQwNmUzNDRkYTgxYWFhYjFmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+    "skill": "MINING_SKILL",
+    "rarities": [
+      "RARE",
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "attributes": {
+      "RARE": {
+        "baseAttributes": {
+          "HASTE": 0.0,
+          "MAX_HEALTH": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
+          "HASTE": 0.2,
+          "MAX_HEALTH": 0.1,
+          "SPEED": 0.05
+        }
+      },
+      "EPIC": {
+        "baseAttributes": {
+          "HASTE": 0.0,
+          "MAX_HEALTH": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
+          "HASTE": 0.3,
+          "MAX_HEALTH": 0.2,
+          "SPEED": 0.1
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "HASTE": 0.0,
+          "MAX_HEALTH": 0.0,
+          "SPEED": 0.0
+        },
+        "levelableAttributes": {
+          "HASTE": 0.4,
+          "MAX_HEALTH": 0.45,
+          "SPEED": 0.2
+        }
+      }
+    },
+    "levelableEntities": {},
+    "levelableBlocks": {
+      "SNOW_BLOCK": 1.0,
+      "ICE": 1.5,
+      "PACKED_ICE": 2.5
+    }
+  },
+  "SHIP": {
+    "name": "Ship",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjEyMjU2Njk5NywKICAicHJvZmlsZUlkIiA6ICIxMGUzZmY0NDQ4NDA0MjM4OWY3ZmNjZGY5MzYwYzA0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBSV9BZ2VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NTI4M2NhY2UyZDFmODJkZDhiZDgzMGE0MzI0ODdkNTIyOTUyZjM1NWE4ZmRkNzg3YzcyMzY0MjczZDgzOWE0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+    "skill": "COMBAT_SKILL",
+    "rarities": [
+      "UNCOMMON"
+    ],
+    "attributes": {
+      "UNCOMMON": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0,
+          "MAX_HEALTH": 0.0,
+          "MAX_INTELLIGENCE": 0.0,
+          "SPEED": 0.0,
+          "CRIT_DAMAGE": 0.0
+        },
+        "levelableAttributes": {
+          "STRENGTH": 1.5,
+          "DEFENSE": 2.0,
+          "MAX_HEALTH": 1.75,
+          "MAX_INTELLIGENCE": 1.5,
+          "SPEED": 0.5,
+          "CRIT_DAMAGE": 1.25
+        }
+      }
+    },
+    "levelableEntities": {
+      "SPIDER": 100.0,
+      "BASE_CAVE_SPIDER": 100.0,
+      "BASE_ZOMBIE": 100.0,
+      "ENDER_CRYSTAL": 100.0,
+      "BASE_BLAZE": 100.0,
+      "MINER_SKELETON": 100.0,
+      "ENDERMITE": 100.0,
+      "GRAVEYARD_ZOMBIE": 100.0,
+      "PROTECTOR_DRAGON": 100.0,
+      "BASE_SHEEP": 100.0,
+      "BASE_MAGMA": 100.0,
+      "OLD_DRAGON": 100.0,
+      "WISE_DRAGON": 100.0,
+      "OBSIDIAN_SKELETON": 100.0,
+      "BASE_CHICKEN": 100.0,
+      "SKULL": 100.0,
+      "SKELETON": 100.0,
+      "VILLAGE_ZOMBIE": 100.0,
+      "SILVERFISH": 100.0,
+      "LAPIS_LASER": 100.0,
+      "MUTANT": 100.0,
+      "END_ZOMBIE": 100.0,
+      "LAPIS_ZOMBIE": 100.0,
+      "NINJA_CREEPER": 100.0,
+      "PIGMAN": 100.0,
+      "BASE_ENDERMAN": 100.0,
+      "ENDERMAN": 100.0,
+      "BASE_PIG": 100.0,
+      "BASE_SPIDER": 100.0,
+      "BLAZE": 100.0,
+      "TOXIC_COW": 100.0,
+      "MAGMA_CUBE": 100.0,
+      "YOUNG_DRAGON": 100.0,
+      "UNSTABLE_DRAGON": 100.0,
+      "DEATH_MINER": 100.0,
+      "BASE_SLIME": 100.0,
+      "BASE_CREEPER": 100.0,
+      "END_SKELETON": 100.0,
+      "BASE_RABBIT": 100.0,
+      "NETHER_CRYSTAL": 100.0,
+      "BASE_COW": 100.0,
+      "OBSIDIAN_DEFENDER": 100.0,
+      "CAVE_SPIDER": 100.0,
+      "GHAST": 100.0,
+      "BASE_GHAST": 100.0,
+      "MAGMA_BOSS": 100.0,
+      "SUPERIOR_DRAGON": 100.0,
+      "VORAZ_SPIDER": 100.0,
+      "JUMP_SPIDER": 100.0,
+      "CHARGED_CREEPER": 100.0,
+      "JOCKEY_SKELETON": 100.0,
+      "STRONG_DRAGON": 100.0,
+      "SLIME": 100.0
+    },
+    "levelableBlocks": {}
+  },
+  "PORCO_ZUMBI": {
+    "name": "Porco-Zumbi",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjA3ODU5OTM1NSwKICAicHJvZmlsZUlkIiA6ICJkMTNmODljZmRiMmY0OTUxOWE4YjgxMTUzN2FmZWU2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2ZXhsZWhhaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzE2ZGZlMjllOGQ1ODQ5NDYzYzIxMjM4ZWVkZGNiODcxNmZhYWRjNWIzNjdmZmVjZTExMmU1M2VlM2RjODUwYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "skill": "COMBAT_SKILL",
+    "rarities": [
+      "COMMON",
+      "UNCOMMON",
+      "RARE",
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "attributes": {
+      "COMMON": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0
+        },
+        "levelableAttributes": {
+          "BONUS_ATTACK_SPEED": 0.01,
+          "STRENGTH": 0.1,
+          "DEFENSE": 0.1
+        }
+      },
+      "UNCOMMON": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0
+        },
+        "levelableAttributes": {
+          "BONUS_ATTACK_SPEED": 0.02,
+          "STRENGTH": 0.15,
+          "DEFENSE": 0.15
+        }
+      },
+      "RARE": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0
+        },
+        "levelableAttributes": {
+          "BONUS_ATTACK_SPEED": 0.03,
+          "STRENGTH": 0.25,
+          "DEFENSE": 0.25
+        }
+      },
+      "EPIC": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0
+        },
+        "levelableAttributes": {
+          "BONUS_ATTACK_SPEED": 0.04,
+          "STRENGTH": 0.35,
+          "DEFENSE": 0.35
+        }
+      },
+      "LEGENDARY": {
+        "baseAttributes": {
+          "STRENGTH": 0.0,
+          "DEFENSE": 0.0
+        },
+        "levelableAttributes": {
+          "BONUS_ATTACK_SPEED": 0.05,
+          "STRENGTH": 0.5,
+          "DEFENSE": 0.5
+        }
+      }
+    },
+    "levelableEntities": {
+      "PIGMAN": 3.0,
+      "MAGMA_CUBE": 5.0,
+      "BASE_BLAZE": 2.0,
+      "BASE_MAGMA": 2.0,
+      "BLAZE": 2.0,
+      "MAGMA_BOSS": 100.0
+    },
+    "levelableBlocks": {
+      "GOLD_ORE": 3.5
+    }
   }
 }

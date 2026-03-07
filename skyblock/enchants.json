@@ -354,34 +354,34 @@
     "extra": {
       "descriptions": {
         "1": [
-          "§7Aumenta o dano causado por você em 0,20%",
+          "§7Aumenta o dano causado por você em 0,2%",
           "§7para cada porcentagem de vida extra",
           "§7que o monstro possui com relação à",
-          "§7você até 5,00%."
+          "§7você até 5%."
         ],
         "2": [
-          "§7Aumenta o dano causado por você em 0,40%",
+          "§7Aumenta o dano causado por você em 0,4%",
           "§7para cada porcentagem de vida extra",
           "§7que o monstro possui com relação à",
-          "§7você até 10,00%."
+          "§7você até 10%."
         ],
         "3": [
-          "§7Aumenta o dano causado por você em 0,60%",
+          "§7Aumenta o dano causado por você em 0,6%",
           "§7para cada porcentagem de vida extra",
           "§7que o monstro possui com relação à",
-          "§7você até 15,00%."
+          "§7você até 15%."
         ],
         "4": [
-          "§7Aumenta o dano causado por você em 0,80%",
+          "§7Aumenta o dano causado por você em 0,8%",
           "§7para cada porcentagem de vida extra",
           "§7que o monstro possui com relação à",
-          "§7você até 20,00%."
+          "§7você até 20%."
         ],
         "5": [
-          "§7Aumenta o dano causado por você em 1,00%",
+          "§7Aumenta o dano causado por você em 1%",
           "§7para cada porcentagem de vida extra",
           "§7que o monstro possui com relação à",
-          "§7você até 25,00%."
+          "§7você até 25%."
         ]
       },
       "expCosts": {
@@ -523,27 +523,27 @@
     "extra": {
       "descriptions": {
         "1": [
-          "§7Aumenta em §a0,20% §7o dano causado em",
+          "§7Aumenta em §a0,2% §7o dano causado em",
           "§7seu inimigo para cada porcentagem",
           "§7de vida que ele já tiver perdido."
         ],
         "2": [
-          "§7Aumenta em §a0,40% §7o dano causado em",
+          "§7Aumenta em §a0,4% §7o dano causado em",
           "§7seu inimigo para cada porcentagem",
           "§7de vida que ele já tiver perdido."
         ],
         "3": [
-          "§7Aumenta em §a0,60% §7o dano causado em",
+          "§7Aumenta em §a0,6% §7o dano causado em",
           "§7seu inimigo para cada porcentagem",
           "§7de vida que ele já tiver perdido."
         ],
         "4": [
-          "§7Aumenta em §a0,80% §7o dano causado em",
+          "§7Aumenta em §a0,8% §7o dano causado em",
           "§7seu inimigo para cada porcentagem",
           "§7de vida que ele já tiver perdido."
         ],
         "5": [
-          "§7Aumenta em §a1,00% §7o dano causado em",
+          "§7Aumenta em §a1% §7o dano causado em",
           "§7seu inimigo para cada porcentagem",
           "§7de vida que ele já tiver perdido."
         ]
@@ -1257,11 +1257,14 @@
       "targets": [
         "AXE",
         "SHOVEL",
-        "HOE",
         "PICKAXE"
       ],
-      "conflicts": [],
-      "replaces": []
+      "conflicts": [
+        "AUTO_SMELT"
+      ],
+      "replaces": [
+        "AUTO_SMELT"
+      ]
     }
   },
   "FIRE_ASPECT": {
@@ -1749,16 +1752,19 @@
     "extra": {
       "descriptions": {
         "1": [
-          "§7A cada 5 flechas, uma tem §a15.0% chance de causar",
-          "§7o seu dano aumentado §a2.0 §7vezes."
+          "§7A cada §a5 §7flechas, uma tem §a15%",
+          "§7 §7chance de causar o seu dano",
+          "aumentado em §c2.0x§7."
         ],
         "2": [
-          "§7A cada 5 flechas, uma tem §a30.0% chance de causar",
-          "§7o seu dano aumentado §a4.0 §7vezes."
+          "§7A cada §a5 §7flechas, uma tem §a30%",
+          "§7 §7chance de causar o seu dano",
+          "aumentado em §c4.0x§7."
         ],
         "3": [
-          "§7A cada 5 flechas, uma tem §a45.0% chance de causar",
-          "§7o seu dano aumentado §a6.0 §7vezes."
+          "§7A cada §a5 §7flechas, uma tem §a45%",
+          "§7 §7chance de causar o seu dano",
+          "aumentado em §c6.0x§7."
         ]
       },
       "expCosts": {
@@ -2532,27 +2538,27 @@
     "extra": {
       "descriptions": {
         "1": [
-          "§7Concede §a0,50% §7chance de",
+          "§7Concede §a0,5% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ],
         "2": [
-          "§7Concede §a1,00% §7chance de",
+          "§7Concede §a1% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ],
         "3": [
-          "§7Concede §a1,50% §7chance de",
+          "§7Concede §a1,5% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ],
         "4": [
-          "§7Concede §a2,00% §7chance de",
+          "§7Concede §a2% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ],
         "5": [
-          "§7Concede §a2,50% §7chance de",
+          "§7Concede §a2,5% §7chance de",
           "§7obter §ePólen §7de hortaliças",
           "§7na ilha."
         ]
