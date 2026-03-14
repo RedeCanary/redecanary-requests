@@ -1,0 +1,24 @@
+{
+  "chat_translations": {
+    "0": {
+      "original": "Aguarde %s para usar o Menu do Sky Block novamente!",
+      "translation": "Wait %s seconds before using the SkyBlock Menu again!"
+    },
+    "1": {
+      "original": "Ops, você está indo rápido demais!",
+      "translation": "Slow down! You're going too fast!"
+    },
+    "2": {
+      "original": "Item adicionado ao compactador pessoal!",
+      "translation": "Item added to the personal compact!"
+    },
+    "3": {
+      "original": "Todos os itens do compactador foram removidos!",
+      "translation": "Every item from the personal compact has been removed!"
+    },
+    "4": {
+      "original": "Item removido do compactador pessoal!",
+      "translation": "Item removed from the personal compact!"
+    }
+  }
+}
