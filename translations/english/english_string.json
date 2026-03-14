@@ -1,0 +1,116 @@
+{
+  "string_translations": {
+    "0": {
+      "line": "Força",
+      "replace": "Strength"
+    },
+    "1": {
+      "line": "Dano",
+      "replace": "Damage"
+    },
+    "2": {
+      "line": "Dano Mágico",
+      "replace": "Magic Damage"
+    },
+    "3": {
+      "line": "Dano Crítico",
+      "replace": "Critical Damage"
+    },
+    "4": {
+      "line": "Chance de Crítico",
+      "replace": "Critical Chance"
+    },
+    "5": {
+      "line": "Vida",
+      "replace": "Health"
+    },
+    "6": {
+      "line": "Defesa:",
+      "replace": "Defense"
+    },
+    "7": {
+      "line": "Velocidade de Regeneração da Mana",
+      "replace": "Mana Regen Speed"
+    },
+    "8": {
+      "line": "Regeneração da Mana",
+      "replace": "Mana Regen"
+    },
+    "9": {
+      "line": "Velocidade de Regeneração",
+      "replace": "Health Regen Speed"
+    },
+    "10": {
+      "line": "Regeneração",
+      "replace": "Health Regen"
+    },
+    "11": {
+      "line": "Velocidade",
+      "replace": "Speed"
+    },
+    "12": {
+      "line": "Inteligência",
+      "replace": "Intelligence"
+    },
+    "13": {
+      "line": "Pressa",
+      "replace": "Mining Speed"
+    },
+    "14": {
+      "line": "Velocidade de Ataque",
+      "replace": "Attack Speed"
+    },
+    "15": {
+      "line": "Bônus de Colheita",
+      "replace": "Farming Fortune"
+    },
+    "16": {
+      "line": "Bônus de Trigo",
+      "replace": "Wheat Fortune"
+    },
+    "17": {
+      "line": "Bônus de Batata",
+      "replace": "Potato Fortune"
+    },
+    "18": {
+      "line": "Bônus de Cenoura",
+      "replace": "Carrot Fortune"
+    },
+    "19": {
+      "line": "Bônus de Cacto",
+      "replace": "Cactus Fortune"
+    },
+    "20": {
+      "line": "Bônus de Melancia",
+      "replace": "Melon Fortune"
+    },
+    "21": {
+      "line": "Bônus de Cacau",
+      "replace": "Cocoa Fortune"
+    },
+    "22": {
+      "line": "Bônus de Abóbora",
+      "replace": "Pumpkin Fortune"
+    },
+    "23": {
+      "line": "Bônus de Cana",
+      "replace": "Sugar Cane Fortune"
+    },
+    "24": {
+      "line": "Bônus de Cogumelos",
+      "replace": "Mushroom Fortune"
+    },
+    "25": {
+      "line": "Bônus de Fungos",
+      "replace": "Nether Wart Fortune"
+    },
+    "26": {
+      "line": "Bônua de Pesca",
+      "replace": "Fishing Fortune"
+    },
+    "27": {
+      "line": "Velocidade de Pesca",
+      "replace": "Fishing Speed"
+    }
+  }
+}
