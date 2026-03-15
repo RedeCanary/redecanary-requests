@@ -30,19 +30,19 @@
     },
     "7": {
       "line": "Velocidade de Regeneração da Mana",
-      "replace": "Mana Regen Speed"
+      "replace": "Mana Regen"
     },
     "8": {
       "line": "Regeneração da Mana",
-      "replace": "Mana Regen"
+      "replace": "Mana Regen Percent"
     },
     "9": {
       "line": "Velocidade de Regeneração",
-      "replace": "Health Regen Speed"
+      "replace": "Health Regen"
     },
     "10": {
       "line": "Regeneração",
-      "replace": "Health Regen"
+      "replace": "Health Regen Percent"
     },
     "11": {
       "line": "Velocidade",
