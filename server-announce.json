@@ -8,27 +8,32 @@
     },
     "globalMessages": [
       [
-        "§eApoie nosso servidor comprando §fplanos mensais!",
+        "§eEstá gostando de jogar na RedeCanary?",
+        "§eQue tal nos apoiar obtendo §fplanos mensais§e?",
         "",
-        "§f/loja §epara conferir todas as opções e benefícios!"
+        "§eConfira em nosso website:",
+        "§fhttps://redecanary.net"
       ],
       [
-        "§eEncontrou um §fbug §eno servidor?",
-        "§eNos ajude a melhorar reportando no Discord!",
+        "§eEncontrou um problema técnico na RedeCanary?",
+        "§eVocê pode reportar o problema e obter recompensas!",
         "",
-        "§f/discord §epara enviar seu relatório."
+        "§eEntre em contato com nosso suporte em:",
+        "§fhttps://redecanary.net"
       ],
       [
-        "§eTem §fsugestões §epara o servidor?",
-        "§eCompartilhe suas ideias conosco no Discord!",
+        "§eGostaria de ter suas ideias na RedeCanary?",
+        "§eVocê pode sugestionar e obter recompensas!",
         "",
-        "§f/discord §epara enviar sua sugestão."
+        "§eCrie uma postagem no fórum acessando:",
+        "§fhttps://redecanary.net/forum.php"
       ],
       [
-        "§eUse a §6textura oficial §edo servidor!",
-        "§eEla melhora menus, itens e a experiência.",
+        "§eQue tal elevar sua experiência de jogo?",
+        "§eUtilize a nossa textura oficial!",
         "",
-        "§f/textura §epara baixar agora."
+        "§eConfira acessando o comando:",
+        "§f/textura"
       ],
       [
         "§eQuer ofertas especiais no servidor?",
