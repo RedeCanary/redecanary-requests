@@ -13,7 +13,7 @@
         "§7Está curtindo jogar na §bRedeCanary§7?",
         "§7Apoie o servidor e desbloqueie vantagens!",
         "",
-        "§aAcesse nossa loja",
+        "§eAcesse nossa loja",
         "§fredecanary.net"
       ],
       [
@@ -22,7 +22,7 @@
         "§7Encontrou algum §cproblema§7?",
         "§7Reporte e ganhe §arecompensas§7!",
         "",
-        "§aFale com nosso suporte",
+        "§eFale com nosso suporte",
         "§fredecanary.net/forum.php"
       ],
       [
@@ -31,7 +31,7 @@
         "§7Viu algo §csuspeito§7 ou irregular?",
         "§7Sua denúncia ajuda toda a comunidade!",
         "",
-        "§aFale com o suporte",
+        "§eFale com nosso suporte",
         "§fredecanary.net/forum.php"
       ],
       [
@@ -40,7 +40,7 @@
         "§7Tem alguma ideia para o servidor?",
         "§7Sua sugestão pode ser adicionada!",
         "",
-        "§aEnvie no fórum",
+        "§eEnvie no fórum",
         "§fredecanary.net/forum.php"
       ],
       [
@@ -49,7 +49,7 @@
         "§7Melhore sua experiência no jogo!",
         "§7Use nossa §btextura oficial§7.",
         "",
-        "§aDigite",
+        "§eDigite o comando",
         "§f/textura"
       ],
       [
