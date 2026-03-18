@@ -6,13 +6,46 @@
       "2": "§eVocê está jogando §6§lSKY BLOCK §ena redecanary.fun!",
       "3": "§eCupom §fPLING §e(50% Off) em compras na loja!"
     },
-    "globalMessages": {
-      "0": "§eApoie nosso servidor comprando §fplanos mensais!\n\n§f/loja §epara conferir todas as opções e benefícios!",
-      "1": "§eEncontrou um §fbug §eno servidor?\n§eNos ajude a melhorar reportando no Discord!\n\n§f/discord §epara enviar seu relatório.",
-      "2": "§eTem §fsugestões §epara o servidor?\n§eCompartilhe suas ideias conosco no Discord!\n\n§f/discord §epara enviar sua sugestão.",
-      "3": "§eUse a §6textura oficial §edo servidor!\n§eEla melhora menus, itens e a experiência.\n\n§f/textura §epara baixar agora.",
-      "4": "§eQuer ofertas especiais no servidor?\n§eUse o cupom: §fPLING §epara ganhar 50% OFF!\n\n§f/loja §epara aproveitar agora!",
-      "5": "§e§lAPROVEITE AGORA O CUPOM §f§lPLING\n§7Garanta §a§l50% OFF §7em nossa loja!\n\n§a§l[VIP] §f» §e3,75\n§6§l[MVP] §f» §e6,25\n§b§l[MVP§e+§b] §f» §e9,38\n\n§f/loja §7para garantir seu plano agora!"
+    "globalMessages": [
+      [
+        "§eApoie nosso servidor comprando §fplanos mensais!",
+        "",
+        "§f/loja §epara conferir todas as opções e benefícios!"
+      ],
+      [
+        "§eEncontrou um §fbug §eno servidor?",
+        "§eNos ajude a melhorar reportando no Discord!",
+        "",
+        "§f/discord §epara enviar seu relatório."
+      ],
+      [
+        "§eTem §fsugestões §epara o servidor?",
+        "§eCompartilhe suas ideias conosco no Discord!",
+        "",
+        "§f/discord §epara enviar sua sugestão."
+      ],
+      [
+        "§eUse a §6textura oficial §edo servidor!",
+        "§eEla melhora menus, itens e a experiência.",
+        "",
+        "§f/textura §epara baixar agora."
+      ],
+      [
+        "§eQuer ofertas especiais no servidor?",
+        "§eUse o cupom: §fPLING §epara ganhar 50% OFF!",
+        "",
+        "§f/loja §epara aproveitar agora!"
+      ],
+      [
+        "§e§lAPROVEITE AGORA O CUPOM §f§lPLING",
+        "§7Garanta §a§l50% OFF §7em nossa loja!",
+        "",
+        "§a§l[VIP] §f» §e3,75",
+        "§6§l[MVP] §f» §e6,25",
+        "§b§l[MVP§e+§b] §f» §e9,38",
+        "",
+        "§f/loja §7para garantir seu plano agora!"
+      ]
     }
   }
 }
