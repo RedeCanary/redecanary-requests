@@ -8,8 +8,6 @@
     },
     "globalMessages": [
       [
-        "§6§lANÚNCIO",
-        "",
         "§7Está curtindo jogar na §bRedeCanary§7?",
         "§7Apoie o servidor e desbloqueie vantagens!",
         "",
@@ -17,8 +15,6 @@
         "§fredecanary.net"
       ],
       [
-        "§6§lANÚNCIO",
-        "",
         "§7Encontrou algum §cproblema§7?",
         "§7Reporte e ganhe §arecompensas§7!",
         "",
@@ -26,8 +22,6 @@
         "§fredecanary.net/forum.php"
       ],
       [
-        "§6§lANÚNCIO",
-        "",
         "§7Viu algo §csuspeito§7 ou irregular?",
         "§7Sua denúncia ajuda toda a comunidade!",
         "",
@@ -35,8 +29,6 @@
         "§fredecanary.net/forum.php"
       ],
       [
-        "§6§lANÚNCIO",
-        "",
         "§7Tem alguma ideia para o servidor?",
         "§7Sua sugestão pode ser adicionada!",
         "",
@@ -44,8 +36,6 @@
         "§fredecanary.net/forum.php"
       ],
       [
-        "§6§lANÚNCIO",
-        "",
         "§7Melhore sua experiência no jogo!",
         "§7Use nossa §btextura oficial§7.",
         "",
@@ -53,8 +43,6 @@
         "§f/textura"
       ],
       [
-        "§6§lOFERTA",
-        "",
         "§7Ganhe §c50% OFF§7 em toda a loja!",
         "§7Use o cupom:",
         "",
@@ -64,8 +52,6 @@
         "§fredecanary.net"
       ],
       [
-        "§6§lOFERTA ESPECIAL",
-        "",
         "§7Use o cupom §6PLING§7 e ganhe:",
         "§c§l50% DE DESCONTO",
         "",
