@@ -1,56 +1,73 @@
 {
   "announces": {
     "skyblock": {
-      "0": "§eCompre §aVIP§7/§6Cubos §eem redecanary.minecart.com.br!",
-      "1": "§eNos fins de semana as habilidades tem §d§lXP EM DOBRO§e!",
-      "2": "§eVocê está jogando §6§lSKY BLOCK §ena redecanary.fun!",
-      "3": "§eCupom §fPLING §e(50% Off) em compras na loja!"
+      "0": "§6§lANÚNCIO §8• §eVantagens exclusivas disponíveis §8• §eAcesse §fredecanary.net",
+      "1": "§6§lEVENTO §8• §d§lXP EM DOBRO §enas habilidades §8• §eAproveite agora",
+      "2": "§6§lSKYBLOCK §8• §eJogue na §fRedeCanary §8• §eEvolua sua ilha",
+      "3": "§6§lOFERTA §8• §eCupom §6PLING §8• §c§l50% OFF §8• §eAcesse §fredecanary.net"
     },
     "globalMessages": [
       [
-        "§eEstá gostando de jogar na RedeCanary?",
-        "§eQue tal nos apoiar obtendo §fplanos mensais§e?",
+        "§6§lANÚNCIO",
         "",
-        "§eConfira em nosso website:",
-        "§fhttps://redecanary.net"
+        "§7Está curtindo jogar na §bRedeCanary§7?",
+        "§7Apoie o servidor e desbloqueie vantagens!",
+        "",
+        "§aAcesse nossa loja",
+        "§fredecanary.net"
       ],
       [
-        "§eEncontrou um problema técnico na RedeCanary?",
-        "§eVocê pode reportar o problema e obter recompensas!",
+        "§6§lANÚNCIO",
         "",
-        "§eEntre em contato com nosso suporte em:",
-        "§fhttps://redecanary.net"
+        "§7Encontrou algum §cproblema§7?",
+        "§7Reporte e ganhe §arecompensas§7!",
+        "",
+        "§aFale com o suporte",
+        "§fredecanary.net/forum.php"
       ],
       [
-        "§eGostaria de ter suas ideias na RedeCanary?",
-        "§eVocê pode sugestionar e obter recompensas!",
+        "§6§lANÚNCIO",
         "",
-        "§eCrie uma postagem no fórum acessando:",
-        "§fhttps://redecanary.net/forum.php"
+        "§7Tem alguma ideia para o servidor?",
+        "§7Sua sugestão pode ser adicionada!",
+        "",
+        "§aEnvie no fórum",
+        "§fredecanary.net/forum.php"
       ],
       [
-        "§eQue tal elevar sua experiência de jogo?",
-        "§eUtilize a nossa textura oficial!",
+        "§6§lANÚNCIO",
         "",
-        "§eConfira acessando o comando:",
+        "§7Melhore sua experiência no jogo!",
+        "§7Use nossa §btextura oficial§7.",
+        "",
+        "§aDigite",
         "§f/textura"
       ],
       [
-        "§eQuer ofertas especiais no servidor?",
-        "§eUse o cupom: §fPLING §epara ganhar 50% OFF!",
+        "§6§lOFERTA",
         "",
-        "§f/loja §epara aproveitar agora!"
+        "§7Ganhe §c50% OFF§7 em toda a loja!",
+        "§7Use o cupom:",
+        "",
+        "§6§lPLING",
+        "",
+        "§aAcesse nossa loja",
+        "§fredecanary.net"
       ],
       [
-        "§e§lAPROVEITE AGORA O CUPOM §f§lPLING",
-        "§7Garanta §a§l50% OFF §7em nossa loja!",
+        "§6§lOFERTA ESPECIAL",
         "",
-        "§a§l[VIP] §f» §e3,75",
-        "§6§l[MVP] §f» §e6,25",
-        "§b§l[MVP§e+§b] §f» §e9,38",
+        "§7Use o cupom §6PLING§7 e ganhe:",
+        "§c§l50% DE DESCONTO",
         "",
-        "§f/loja §7para garantir seu plano agora!"
+        "§aPlanos disponíveis:",
+        "§aVIP §7» §f3,75",
+        "§6MVP §7» §f6,25",
+        "§bMVP+ §7» §f9,38",
+        "",
+        "§aAdquira seu plano",
+        "§fredecanary.net"
       ]
-    }
+    ]
   }
 }
