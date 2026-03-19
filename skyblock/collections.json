@@ -1430,7 +1430,8 @@
         "§7Receita: §fLivro de Ganância II"
       ],
       "6": [
-        "§7Receita: §9Bloco de Ouro Encantado"
+        "§7Receita: §9Bloco de Ouro Encantado",
+        "§7Armazenamento: §6Cofre"
       ],
       "7": [
         "§7Receita: §fLivro de Fortuna II"
@@ -1576,7 +1577,7 @@
       ],
       "4": [],
       "5": [
-        "§7Acesso ao Banco Remoto"
+        "§7Acesso ao §aBanco Remoto"
       ],
       "6": [
         "§7Receita: §9Bloco de Esmeralda Encantado"
@@ -1674,12 +1675,12 @@
         "§7Receita: §aObsidiana Encantada"
       ],
       "4": [
-        "§7Armazenamento: §aBaú do Fim (Pág. 2)"
+        "§7Acesso ao 2º slot do §aBaú do Fim"
       ],
       "5": [],
       "6": [],
       "7": [
-        "§7Armazenamento: §aBaú do Fim (Pág. 3)"
+        "§7Acesso ao 3º slot do §aBaú do Fim"
       ]
     }
   },
@@ -1897,7 +1898,7 @@
       ],
       "6": [],
       "7": [
-        "§7Receita: §9Gelo Compacto Encantado"
+        "§7Receita: §9Gelo Compactado Encantado"
       ],
       "8": [],
       "9": []
@@ -2181,7 +2182,7 @@
     "key": "acacia",
     "permissionKey": "acacia",
     "name": "Madeira de Acácia",
-    "maxLevel": 8,
+    "maxLevel": 10,
     "skillType": "FORAGING_SKILL",
     "material": "LOG_2",
     "requirements": [
@@ -2208,6 +2209,7 @@
       "3": [],
       "4": [],
       "5": [
+        "§7Acesso ao §aVestiário",
         "§7Receita: §aMadeira de Acácia Encantada"
       ],
       "6": [
@@ -2217,7 +2219,13 @@
         "§7Receita: §fLivro de Entalhe I"
       ],
       "8": [
-        "§7XP em Lenha:§b +2500"
+        "§7XP em Lenha:§b +7500"
+      ],
+      "9": [
+        "§7Acesso ao 2º slot do §aVestiário"
+      ],
+      "10": [
+        "§7Acesso ao 3º slot do §aVestiário"
       ]
     }
   },

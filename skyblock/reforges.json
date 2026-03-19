@@ -78,8 +78,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -89,8 +89,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 2.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -100,8 +100,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 2.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 18.0
       }
     },
@@ -111,8 +111,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 3.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 32.0
       }
     },
@@ -122,8 +122,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 5.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 50.0
       }
     },
@@ -133,8 +133,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 10.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 65.0
       }
     },
@@ -144,8 +144,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 3.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 32.0
       }
     }
@@ -229,9 +229,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -241,9 +241,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -253,9 +253,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 4.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -265,9 +265,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 7.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 6.0
       }
     },
@@ -277,9 +277,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 10.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 8.0
       }
     },
@@ -289,9 +289,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 15.0,
         "MAX_INTELLIGENCE": 10.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 16.0
       }
     },
@@ -301,9 +301,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 7.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 6.0
       }
     }
@@ -315,8 +315,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_CHANCE": 1.0
       }
     },
     "UNCOMMON": {
@@ -325,8 +325,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 3.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -336,8 +336,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 5.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -347,8 +347,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 10.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -358,8 +358,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 15.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -369,8 +369,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 15.0,
         "STRENGTH": 20.0,
+        "CRIT_CHANCE": 15.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -380,8 +380,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 10.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 5.0
       }
     }
@@ -393,9 +393,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -405,9 +405,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -417,9 +417,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -429,9 +429,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -441,9 +441,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 5.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -453,9 +453,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 10.0,
         "MAX_INTELLIGENCE": 10.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -465,9 +465,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -540,9 +540,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -552,9 +552,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 4.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -564,9 +564,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 6.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -576,9 +576,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 7.0,
         "STRENGTH": 10.0,
         "MAX_INTELLIGENCE": 15.0,
+        "CRIT_CHANCE": 7.0,
         "CRIT_DAMAGE": 7.0
       }
     },
@@ -588,9 +588,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 7.0,
         "STRENGTH": 15.0,
         "MAX_INTELLIGENCE": 25.0,
+        "CRIT_CHANCE": 7.0,
         "CRIT_DAMAGE": 7.0
       }
     },
@@ -600,9 +600,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 14.0,
         "STRENGTH": 20.0,
         "MAX_INTELLIGENCE": 35.0,
+        "CRIT_CHANCE": 14.0,
         "CRIT_DAMAGE": 14.0
       }
     },
@@ -612,9 +612,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 7.0,
         "STRENGTH": 10.0,
         "MAX_INTELLIGENCE": 15.0,
+        "CRIT_CHANCE": 7.0,
         "CRIT_DAMAGE": 7.0
       }
     }
@@ -626,10 +626,10 @@
       "obtainable": false,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 25.0,
+        "SPEED": 5.0,
         "STRENGTH": 20.0,
         "MAX_INTELLIGENCE": 10.0,
-        "SPEED": 5.0,
+        "CRIT_CHANCE": 25.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -639,10 +639,10 @@
       "obtainable": false,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 45.0,
+        "SPEED": 5.0,
         "STRENGTH": 25.0,
         "MAX_INTELLIGENCE": 25.0,
-        "SPEED": 5.0,
+        "CRIT_CHANCE": 45.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -652,10 +652,10 @@
       "obtainable": false,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 50.0,
+        "SPEED": 10.0,
         "STRENGTH": 35.0,
         "MAX_INTELLIGENCE": 35.0,
-        "SPEED": 10.0,
+        "CRIT_CHANCE": 50.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -665,10 +665,10 @@
       "obtainable": false,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 50.0,
-        "STRENGTH": 45.0,
-        "MAX_INTELLIGENCE": 45.0,
         "SPEED": 10.0,
+        "STRENGTH": 35.0,
+        "MAX_INTELLIGENCE": 45.0,
+        "CRIT_CHANCE": 50.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -678,10 +678,10 @@
       "obtainable": false,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 60.0,
-        "STRENGTH": 50.0,
-        "MAX_INTELLIGENCE": 45.0,
         "SPEED": 15.0,
+        "STRENGTH": 40.0,
+        "MAX_INTELLIGENCE": 45.0,
+        "CRIT_CHANCE": 60.0,
         "CRIT_DAMAGE": 15.0
       }
     },
@@ -691,10 +691,10 @@
       "obtainable": false,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 65.0,
-        "STRENGTH": 50.0,
-        "MAX_INTELLIGENCE": 50.0,
         "SPEED": 15.0,
+        "STRENGTH": 40.0,
+        "MAX_INTELLIGENCE": 50.0,
+        "CRIT_CHANCE": 65.0,
         "CRIT_DAMAGE": 20.0
       }
     },
@@ -704,10 +704,10 @@
       "obtainable": false,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 50.0,
-        "STRENGTH": 45.0,
-        "MAX_INTELLIGENCE": 45.0,
         "SPEED": 10.0,
+        "STRENGTH": 35.0,
+        "MAX_INTELLIGENCE": 45.0,
+        "CRIT_CHANCE": 50.0,
         "CRIT_DAMAGE": 10.0
       }
     }
@@ -861,8 +861,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -872,8 +872,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "MAX_INTELLIGENCE": 7.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -883,8 +883,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "MAX_INTELLIGENCE": 10.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -894,8 +894,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "MAX_INTELLIGENCE": 15.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -905,8 +905,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "MAX_INTELLIGENCE": 20.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -916,8 +916,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 15.0,
         "MAX_INTELLIGENCE": 25.0,
+        "CRIT_CHANCE": 15.0,
         "CRIT_DAMAGE": 15.0
       }
     },
@@ -927,8 +927,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "MAX_INTELLIGENCE": 15.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     }
@@ -940,8 +940,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "BONUS_ATTACK_SPEED": 1.0,
-        "MAX_INTELLIGENCE": 10.0
+        "MAX_INTELLIGENCE": 10.0,
+        "BONUS_ATTACK_SPEED": 1.0
       }
     },
     "UNCOMMON": {
@@ -950,8 +950,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "BONUS_ATTACK_SPEED": 1.0,
-        "MAX_INTELLIGENCE": 20.0
+        "MAX_INTELLIGENCE": 20.0,
+        "BONUS_ATTACK_SPEED": 1.0
       }
     },
     "RARE": {
@@ -960,8 +960,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "BONUS_ATTACK_SPEED": 1.0,
-        "MAX_INTELLIGENCE": 35.0
+        "MAX_INTELLIGENCE": 35.0,
+        "BONUS_ATTACK_SPEED": 1.0
       }
     },
     "EPIC": {
@@ -970,8 +970,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "BONUS_ATTACK_SPEED": 2.0,
-        "MAX_INTELLIGENCE": 65.0
+        "MAX_INTELLIGENCE": 65.0,
+        "BONUS_ATTACK_SPEED": 2.0
       }
     },
     "LEGENDARY": {
@@ -980,8 +980,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "BONUS_ATTACK_SPEED": 2.0,
-        "MAX_INTELLIGENCE": 100.0
+        "MAX_INTELLIGENCE": 100.0,
+        "BONUS_ATTACK_SPEED": 2.0
       }
     },
     "MYTHICAL": {
@@ -990,8 +990,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "BONUS_ATTACK_SPEED": 5.0,
-        "MAX_INTELLIGENCE": 200.0
+        "MAX_INTELLIGENCE": 200.0,
+        "BONUS_ATTACK_SPEED": 5.0
       }
     },
     "SPECIAL": {
@@ -1000,8 +1000,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "BONUS_ATTACK_SPEED": 2.0,
-        "MAX_INTELLIGENCE": 65.0
+        "MAX_INTELLIGENCE": 65.0,
+        "BONUS_ATTACK_SPEED": 2.0
       }
     }
   },
@@ -1063,9 +1063,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -1075,9 +1075,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 2.0,
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -1087,9 +1087,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -1099,10 +1099,10 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 3.0,
         "SPEED": 1.0,
+        "MAX_INTELLIGENCE": 3.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -1112,10 +1112,10 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0,
-        "MAX_INTELLIGENCE": 3.0,
         "SPEED": 2.0,
+        "MAX_INTELLIGENCE": 3.0,
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -1125,10 +1125,10 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "DEFENSE": 4.0,
-        "MAX_HEALTH": 4.0,
-        "MAX_INTELLIGENCE": 4.0,
         "SPEED": 3.0,
+        "MAX_INTELLIGENCE": 4.0,
+        "MAX_HEALTH": 4.0,
+        "DEFENSE": 4.0,
         "CRIT_DAMAGE": 4.0
       }
     },
@@ -1138,10 +1138,10 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 3.0,
         "SPEED": 1.0,
+        "MAX_INTELLIGENCE": 3.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -1153,10 +1153,10 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": -1.0,
         "STRENGTH": 1.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": -1.0,
+        "MAX_HEALTH": 1.0,
         "CRIT_DAMAGE": -1.0
       }
     },
@@ -1166,10 +1166,10 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": -2.0,
         "STRENGTH": 2.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 6.0,
+        "CRIT_CHANCE": -2.0,
+        "MAX_HEALTH": 1.0,
         "CRIT_DAMAGE": -2.0
       }
     },
@@ -1179,10 +1179,10 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": -2.0,
         "STRENGTH": 2.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 10.0,
+        "CRIT_CHANCE": -2.0,
+        "MAX_HEALTH": 1.0,
         "CRIT_DAMAGE": -2.0
       }
     },
@@ -1192,10 +1192,10 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": -3.0,
         "STRENGTH": 3.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 15.0,
+        "CRIT_CHANCE": -3.0,
+        "MAX_HEALTH": 1.0,
         "CRIT_DAMAGE": -3.0
       }
     },
@@ -1205,10 +1205,10 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": -4.0,
         "STRENGTH": 4.0,
-        "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 20.0,
+        "CRIT_CHANCE": -4.0,
+        "MAX_HEALTH": 3.0,
         "CRIT_DAMAGE": -4.0
       }
     },
@@ -1218,10 +1218,10 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": -4.0,
         "STRENGTH": 4.0,
-        "MAX_HEALTH": 4.0,
         "MAX_INTELLIGENCE": 25.0,
+        "CRIT_CHANCE": -4.0,
+        "MAX_HEALTH": 4.0,
         "CRIT_DAMAGE": -4.0
       }
     },
@@ -1231,10 +1231,10 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": -3.0,
         "STRENGTH": 3.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 15.0,
+        "CRIT_CHANCE": -3.0,
+        "MAX_HEALTH": 1.0,
         "CRIT_DAMAGE": -3.0
       }
     }
@@ -1247,8 +1247,8 @@
       "rarity": "COMMON",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     },
     "UNCOMMON": {
@@ -1258,8 +1258,8 @@
       "rarity": "UNCOMMON",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     },
     "RARE": {
@@ -1269,8 +1269,8 @@
       "rarity": "RARE",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     },
     "EPIC": {
@@ -1280,8 +1280,8 @@
       "rarity": "EPIC",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     },
     "LEGENDARY": {
@@ -1291,8 +1291,8 @@
       "rarity": "LEGENDARY",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     },
     "MYTHICAL": {
@@ -1302,8 +1302,8 @@
       "rarity": "MYTHICAL",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     },
     "SPECIAL": {
@@ -1313,8 +1313,8 @@
       "rarity": "SPECIAL",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     }
   },
@@ -1325,8 +1325,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "HASTE": 2.0,
-        "SPEED": 1.0
+        "SPEED": 1.0,
+        "HASTE": 2.0
       }
     },
     "UNCOMMON": {
@@ -1335,8 +1335,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "HASTE": 3.0,
-        "SPEED": 1.0
+        "SPEED": 1.0,
+        "HASTE": 3.0
       }
     },
     "RARE": {
@@ -1345,8 +1345,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "HASTE": 3.0,
-        "SPEED": 2.0
+        "SPEED": 2.0,
+        "HASTE": 3.0
       }
     },
     "EPIC": {
@@ -1355,8 +1355,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "HASTE": 4.0,
-        "SPEED": 2.0
+        "SPEED": 2.0,
+        "HASTE": 4.0
       }
     },
     "LEGENDARY": {
@@ -1365,8 +1365,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "HASTE": 5.0,
-        "SPEED": 3.0
+        "SPEED": 3.0,
+        "HASTE": 5.0
       }
     },
     "MYTHICAL": {
@@ -1375,8 +1375,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "HASTE": 5.0,
-        "SPEED": 4.0
+        "SPEED": 4.0,
+        "HASTE": 5.0
       }
     },
     "SPECIAL": {
@@ -1385,8 +1385,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "HASTE": 4.0,
-        "SPEED": 2.0
+        "SPEED": 2.0,
+        "HASTE": 4.0
       }
     }
   },
@@ -1397,9 +1397,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 1.0,
-        "MAX_HEALTH": 1.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 1.0
       }
     },
     "UNCOMMON": {
@@ -1408,9 +1408,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 2.0,
-        "MAX_HEALTH": 2.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 2.0
       }
     },
     "RARE": {
@@ -1419,9 +1419,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
+        "SPEED": 2.0,
         "STRENGTH": 1.0,
-        "MAX_HEALTH": 1.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 1.0
       }
     },
     "EPIC": {
@@ -1430,9 +1430,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": 2.0,
         "STRENGTH": 2.0,
-        "MAX_HEALTH": 2.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 2.0
       }
     },
     "LEGENDARY": {
@@ -1441,9 +1441,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": 2.0,
         "STRENGTH": 3.0,
-        "MAX_HEALTH": 3.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 3.0
       }
     },
     "MYTHICAL": {
@@ -1452,9 +1452,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": 3.0,
         "STRENGTH": 3.0,
-        "MAX_HEALTH": 3.0,
-        "SPEED": 3.0
+        "MAX_HEALTH": 3.0
       }
     },
     "SPECIAL": {
@@ -1463,9 +1463,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": 2.0,
         "STRENGTH": 2.0,
-        "MAX_HEALTH": 2.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 2.0
       }
     }
   },
@@ -1476,10 +1476,10 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
         "MAX_INTELLIGENCE": -5.0,
+        "CRIT_CHANCE": 1.0,
+        "DEFENSE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -1489,10 +1489,10 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
         "MAX_INTELLIGENCE": -10.0,
+        "CRIT_CHANCE": 1.0,
+        "DEFENSE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -1502,10 +1502,10 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
-        "DEFENSE": 2.0,
         "MAX_INTELLIGENCE": -18.0,
+        "CRIT_CHANCE": 2.0,
+        "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -1515,10 +1515,10 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
-        "DEFENSE": 3.0,
         "MAX_INTELLIGENCE": -32.0,
+        "CRIT_CHANCE": 3.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -1528,10 +1528,10 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 5.0,
-        "DEFENSE": 5.0,
         "MAX_INTELLIGENCE": -50.0,
+        "CRIT_CHANCE": 5.0,
+        "DEFENSE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -1541,10 +1541,10 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 6.0,
         "STRENGTH": 6.0,
-        "DEFENSE": 6.0,
         "MAX_INTELLIGENCE": -72.0,
+        "CRIT_CHANCE": 6.0,
+        "DEFENSE": 6.0,
         "CRIT_DAMAGE": 6.0
       }
     },
@@ -1554,10 +1554,10 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
-        "DEFENSE": 3.0,
         "MAX_INTELLIGENCE": -32.0,
+        "CRIT_CHANCE": 3.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -1641,8 +1641,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "MAX_HEALTH": 1.0,
-        "MAX_INTELLIGENCE": 3.0
+        "MAX_INTELLIGENCE": 3.0,
+        "MAX_HEALTH": 1.0
       }
     },
     "UNCOMMON": {
@@ -1651,8 +1651,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 6.0
+        "MAX_INTELLIGENCE": 6.0,
+        "MAX_HEALTH": 2.0
       }
     },
     "RARE": {
@@ -1661,8 +1661,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 10.0
+        "MAX_INTELLIGENCE": 10.0,
+        "MAX_HEALTH": 2.0
       }
     },
     "EPIC": {
@@ -1671,9 +1671,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "MAX_HEALTH": 3.0,
+        "SPEED": 1.0,
         "MAX_INTELLIGENCE": 15.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 3.0
       }
     },
     "LEGENDARY": {
@@ -1682,9 +1682,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "MAX_HEALTH": 4.0,
+        "SPEED": 2.0,
         "MAX_INTELLIGENCE": 15.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 4.0
       }
     },
     "MYTHICAL": {
@@ -1693,9 +1693,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "MAX_HEALTH": 5.0,
+        "SPEED": 3.0,
         "MAX_INTELLIGENCE": 15.0,
-        "SPEED": 3.0
+        "MAX_HEALTH": 5.0
       }
     },
     "SPECIAL": {
@@ -1704,9 +1704,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "MAX_HEALTH": 3.0,
+        "SPEED": 1.0,
         "MAX_INTELLIGENCE": 15.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 3.0
       }
     }
   },
@@ -1717,8 +1717,8 @@
       "obtainable": false,
       "rarity": "COMMON",
       "stats": {
-        "MAX_HEALTH": 1.0,
-        "FARMING_FORTUNE": 1.0
+        "FARMING_FORTUNE": 1.0,
+        "MAX_HEALTH": 1.0
       }
     },
     "UNCOMMON": {
@@ -1727,8 +1727,8 @@
       "obtainable": false,
       "rarity": "UNCOMMON",
       "stats": {
-        "MAX_HEALTH": 3.0,
-        "FARMING_FORTUNE": 2.0
+        "FARMING_FORTUNE": 2.0,
+        "MAX_HEALTH": 3.0
       }
     },
     "RARE": {
@@ -1737,8 +1737,8 @@
       "obtainable": false,
       "rarity": "RARE",
       "stats": {
-        "MAX_HEALTH": 3.0,
-        "FARMING_FORTUNE": 3.0
+        "FARMING_FORTUNE": 3.0,
+        "MAX_HEALTH": 3.0
       }
     },
     "EPIC": {
@@ -1747,8 +1747,8 @@
       "obtainable": false,
       "rarity": "EPIC",
       "stats": {
-        "MAX_HEALTH": 5.0,
-        "FARMING_FORTUNE": 3.0
+        "FARMING_FORTUNE": 3.0,
+        "MAX_HEALTH": 5.0
       }
     },
     "LEGENDARY": {
@@ -1757,8 +1757,8 @@
       "obtainable": false,
       "rarity": "LEGENDARY",
       "stats": {
-        "MAX_HEALTH": 10.0,
-        "FARMING_FORTUNE": 5.0
+        "FARMING_FORTUNE": 5.0,
+        "MAX_HEALTH": 10.0
       }
     },
     "MYTHICAL": {
@@ -1767,8 +1767,8 @@
       "obtainable": false,
       "rarity": "MYTHICAL",
       "stats": {
-        "MAX_HEALTH": 10.0,
-        "FARMING_FORTUNE": 10.0
+        "FARMING_FORTUNE": 10.0,
+        "MAX_HEALTH": 10.0
       }
     },
     "SPECIAL": {
@@ -1777,8 +1777,8 @@
       "obtainable": false,
       "rarity": "SPECIAL",
       "stats": {
-        "MAX_HEALTH": 5.0,
-        "FARMING_FORTUNE": 3.0
+        "FARMING_FORTUNE": 3.0,
+        "MAX_HEALTH": 5.0
       }
     }
   },
@@ -1790,9 +1790,9 @@
       "rarity": "COMMON",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -1803,9 +1803,9 @@
       "rarity": "UNCOMMON",
       "stats": {
         "STRENGTH": 2.0,
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -1816,9 +1816,9 @@
       "rarity": "RARE",
       "stats": {
         "STRENGTH": 3.0,
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -1829,9 +1829,9 @@
       "rarity": "EPIC",
       "stats": {
         "STRENGTH": 4.0,
-        "DEFENSE": 4.0,
-        "MAX_HEALTH": 4.0,
         "MAX_INTELLIGENCE": 4.0,
+        "MAX_HEALTH": 4.0,
+        "DEFENSE": 4.0,
         "CRIT_DAMAGE": 4.0
       }
     },
@@ -1842,9 +1842,9 @@
       "rarity": "LEGENDARY",
       "stats": {
         "STRENGTH": 5.0,
-        "DEFENSE": 5.0,
-        "MAX_HEALTH": 5.0,
         "MAX_INTELLIGENCE": 5.0,
+        "MAX_HEALTH": 5.0,
+        "DEFENSE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -1855,9 +1855,9 @@
       "rarity": "MYTHICAL",
       "stats": {
         "STRENGTH": 6.0,
-        "DEFENSE": 6.0,
-        "MAX_HEALTH": 6.0,
         "MAX_INTELLIGENCE": 6.0,
+        "MAX_HEALTH": 6.0,
+        "DEFENSE": 6.0,
         "CRIT_DAMAGE": 6.0
       }
     },
@@ -1868,9 +1868,9 @@
       "rarity": "SPECIAL",
       "stats": {
         "STRENGTH": 4.0,
-        "DEFENSE": 4.0,
-        "MAX_HEALTH": 4.0,
         "MAX_INTELLIGENCE": 4.0,
+        "MAX_HEALTH": 4.0,
+        "DEFENSE": 4.0,
         "CRIT_DAMAGE": 4.0
       }
     }
@@ -1883,8 +1883,8 @@
       "rarity": "COMMON",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     },
     "UNCOMMON": {
@@ -1894,8 +1894,8 @@
       "rarity": "UNCOMMON",
       "stats": {
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 2.0
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 1.0
       }
     },
     "RARE": {
@@ -1904,10 +1904,10 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 2.0,
-        "SPEED": 1.0
+        "DEFENSE": 1.0
       }
     },
     "EPIC": {
@@ -1916,10 +1916,10 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 2.0,
-        "DEFENSE": 2.0,
         "MAX_HEALTH": 2.0,
-        "SPEED": 1.0
+        "DEFENSE": 2.0
       }
     },
     "LEGENDARY": {
@@ -1928,10 +1928,10 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 3.0,
-        "DEFENSE": 2.0,
         "MAX_HEALTH": 3.0,
-        "SPEED": 1.0
+        "DEFENSE": 2.0
       }
     },
     "MYTHICAL": {
@@ -1940,10 +1940,10 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": 2.0,
         "STRENGTH": 3.0,
-        "DEFENSE": 3.0,
         "MAX_HEALTH": 3.0,
-        "SPEED": 2.0
+        "DEFENSE": 3.0
       }
     },
     "SPECIAL": {
@@ -1952,10 +1952,10 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 2.0,
-        "DEFENSE": 2.0,
         "MAX_HEALTH": 2.0,
-        "SPEED": 1.0
+        "DEFENSE": 2.0
       }
     }
   },
@@ -1966,10 +1966,10 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
+        "SPEED": 1.0,
         "MAGIC_DAMAGE": 1.0,
-        "BONUS_ATTACK_SPEED": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "SPEED": 1.0
+        "BONUS_ATTACK_SPEED": 1.0
       }
     },
     "UNCOMMON": {
@@ -1978,10 +1978,10 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
+        "SPEED": 2.0,
         "MAGIC_DAMAGE": 2.0,
-        "BONUS_ATTACK_SPEED": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "SPEED": 2.0
+        "BONUS_ATTACK_SPEED": 2.0
       }
     },
     "RARE": {
@@ -1990,10 +1990,10 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
+        "SPEED": 3.0,
         "MAGIC_DAMAGE": 3.0,
-        "BONUS_ATTACK_SPEED": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "SPEED": 3.0
+        "BONUS_ATTACK_SPEED": 3.0
       }
     },
     "EPIC": {
@@ -2002,10 +2002,10 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": 5.0,
         "MAGIC_DAMAGE": 5.0,
-        "BONUS_ATTACK_SPEED": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "SPEED": 5.0
+        "BONUS_ATTACK_SPEED": 5.0
       }
     },
     "LEGENDARY": {
@@ -2014,10 +2014,10 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": 10.0,
         "MAGIC_DAMAGE": 10.0,
-        "BONUS_ATTACK_SPEED": 10.0,
         "MAX_INTELLIGENCE": 10.0,
-        "SPEED": 10.0
+        "BONUS_ATTACK_SPEED": 10.0
       }
     },
     "MYTHICAL": {
@@ -2026,10 +2026,10 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": 12.0,
         "MAGIC_DAMAGE": 12.0,
-        "BONUS_ATTACK_SPEED": 12.0,
         "MAX_INTELLIGENCE": 12.0,
-        "SPEED": 12.0
+        "BONUS_ATTACK_SPEED": 12.0
       }
     },
     "SPECIAL": {
@@ -2038,10 +2038,10 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": 5.0,
         "MAGIC_DAMAGE": 5.0,
-        "BONUS_ATTACK_SPEED": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "SPEED": 5.0
+        "BONUS_ATTACK_SPEED": 5.0
       }
     }
   },
@@ -2092,8 +2092,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": -10.0,
-        "MAX_INTELLIGENCE": 12.0
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": -10.0
       }
     },
     "MYTHICAL": {
@@ -2124,10 +2124,10 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
+        "SPEED": 1.0,
         "MAGIC_DAMAGE": 1.0,
-        "BONUS_ATTACK_SPEED": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "SPEED": 1.0
+        "BONUS_ATTACK_SPEED": 1.0
       }
     },
     "UNCOMMON": {
@@ -2136,10 +2136,10 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
+        "SPEED": 2.0,
         "MAGIC_DAMAGE": 2.0,
-        "BONUS_ATTACK_SPEED": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "SPEED": 2.0
+        "BONUS_ATTACK_SPEED": 2.0
       }
     },
     "RARE": {
@@ -2148,10 +2148,10 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
+        "SPEED": 3.0,
         "MAGIC_DAMAGE": 3.0,
-        "BONUS_ATTACK_SPEED": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "SPEED": 3.0
+        "BONUS_ATTACK_SPEED": 3.0
       }
     },
     "EPIC": {
@@ -2160,10 +2160,10 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": 5.0,
         "MAGIC_DAMAGE": 5.0,
-        "BONUS_ATTACK_SPEED": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "SPEED": 5.0
+        "BONUS_ATTACK_SPEED": 5.0
       }
     },
     "LEGENDARY": {
@@ -2172,10 +2172,10 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": 10.0,
         "MAGIC_DAMAGE": 10.0,
-        "BONUS_ATTACK_SPEED": 10.0,
         "MAX_INTELLIGENCE": 10.0,
-        "SPEED": 10.0
+        "BONUS_ATTACK_SPEED": 10.0
       }
     },
     "MYTHICAL": {
@@ -2184,10 +2184,10 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": 12.0,
         "MAGIC_DAMAGE": 12.0,
-        "BONUS_ATTACK_SPEED": 12.0,
         "MAX_INTELLIGENCE": 12.0,
-        "SPEED": 12.0
+        "BONUS_ATTACK_SPEED": 12.0
       }
     },
     "SPECIAL": {
@@ -2196,10 +2196,10 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": 5.0,
         "MAGIC_DAMAGE": 5.0,
-        "BONUS_ATTACK_SPEED": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "SPEED": 5.0
+        "BONUS_ATTACK_SPEED": 5.0
       }
     }
   },
@@ -2250,8 +2250,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": -10.0,
-        "MAX_INTELLIGENCE": 12.0
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": -10.0
       }
     },
     "MYTHICAL": {
@@ -2282,10 +2282,10 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
+        "SPEED": 1.0,
         "MAGIC_DAMAGE": 1.0,
-        "BONUS_ATTACK_SPEED": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "SPEED": 1.0
+        "BONUS_ATTACK_SPEED": 1.0
       }
     },
     "UNCOMMON": {
@@ -2294,10 +2294,10 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
+        "SPEED": 2.0,
         "MAGIC_DAMAGE": 2.0,
-        "BONUS_ATTACK_SPEED": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "SPEED": 2.0
+        "BONUS_ATTACK_SPEED": 2.0
       }
     },
     "RARE": {
@@ -2306,10 +2306,10 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
+        "SPEED": 3.0,
         "MAGIC_DAMAGE": 3.0,
-        "BONUS_ATTACK_SPEED": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "SPEED": 3.0
+        "BONUS_ATTACK_SPEED": 3.0
       }
     },
     "EPIC": {
@@ -2318,10 +2318,10 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": 5.0,
         "MAGIC_DAMAGE": 5.0,
-        "BONUS_ATTACK_SPEED": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "SPEED": 5.0
+        "BONUS_ATTACK_SPEED": 5.0
       }
     },
     "LEGENDARY": {
@@ -2330,10 +2330,10 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": 10.0,
         "MAGIC_DAMAGE": 10.0,
-        "BONUS_ATTACK_SPEED": 10.0,
         "MAX_INTELLIGENCE": 10.0,
-        "SPEED": 10.0
+        "BONUS_ATTACK_SPEED": 10.0
       }
     },
     "MYTHICAL": {
@@ -2342,10 +2342,10 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": 12.0,
         "MAGIC_DAMAGE": 12.0,
-        "BONUS_ATTACK_SPEED": 12.0,
         "MAX_INTELLIGENCE": 12.0,
-        "SPEED": 12.0
+        "BONUS_ATTACK_SPEED": 12.0
       }
     },
     "SPECIAL": {
@@ -2354,10 +2354,10 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": 5.0,
         "MAGIC_DAMAGE": 5.0,
-        "BONUS_ATTACK_SPEED": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "SPEED": 5.0
+        "BONUS_ATTACK_SPEED": 5.0
       }
     }
   },
@@ -2408,8 +2408,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": -10.0,
-        "MAX_INTELLIGENCE": 12.0
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": -10.0
       }
     },
     "MYTHICAL": {
@@ -2440,10 +2440,10 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
+        "SPEED": 1.0,
         "MAGIC_DAMAGE": 1.0,
-        "BONUS_ATTACK_SPEED": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "SPEED": 1.0
+        "BONUS_ATTACK_SPEED": 1.0
       }
     },
     "UNCOMMON": {
@@ -2452,10 +2452,10 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
+        "SPEED": 2.0,
         "MAGIC_DAMAGE": 2.0,
-        "BONUS_ATTACK_SPEED": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "SPEED": 2.0
+        "BONUS_ATTACK_SPEED": 2.0
       }
     },
     "RARE": {
@@ -2464,10 +2464,10 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
+        "SPEED": 3.0,
         "MAGIC_DAMAGE": 3.0,
-        "BONUS_ATTACK_SPEED": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "SPEED": 3.0
+        "BONUS_ATTACK_SPEED": 3.0
       }
     },
     "EPIC": {
@@ -2476,10 +2476,10 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": 5.0,
         "MAGIC_DAMAGE": 5.0,
-        "BONUS_ATTACK_SPEED": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "SPEED": 5.0
+        "BONUS_ATTACK_SPEED": 5.0
       }
     },
     "LEGENDARY": {
@@ -2488,10 +2488,10 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": 10.0,
         "MAGIC_DAMAGE": 10.0,
-        "BONUS_ATTACK_SPEED": 10.0,
         "MAX_INTELLIGENCE": 10.0,
-        "SPEED": 10.0
+        "BONUS_ATTACK_SPEED": 10.0
       }
     },
     "MYTHICAL": {
@@ -2500,10 +2500,10 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": 12.0,
         "MAGIC_DAMAGE": 12.0,
-        "BONUS_ATTACK_SPEED": 12.0,
         "MAX_INTELLIGENCE": 12.0,
-        "SPEED": 12.0
+        "BONUS_ATTACK_SPEED": 12.0
       }
     },
     "SPECIAL": {
@@ -2512,10 +2512,10 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": 5.0,
         "MAGIC_DAMAGE": 5.0,
-        "BONUS_ATTACK_SPEED": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "SPEED": 5.0
+        "BONUS_ATTACK_SPEED": 5.0
       }
     }
   },
@@ -2566,8 +2566,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": -10.0,
-        "MAX_INTELLIGENCE": 12.0
+        "MAX_INTELLIGENCE": 12.0,
+        "DEFENSE": -10.0
       }
     },
     "MYTHICAL": {
@@ -2814,8 +2814,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -2825,8 +2825,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -2836,8 +2836,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -2847,8 +2847,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 6.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -2858,8 +2858,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 8.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 8.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -2869,8 +2869,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 16.0,
         "MAX_INTELLIGENCE": 12.0,
+        "CRIT_CHANCE": 16.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -2880,8 +2880,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 6.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -2893,9 +2893,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -2905,9 +2905,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -2917,9 +2917,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 4.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -2929,9 +2929,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 7.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 6.0
       }
     },
@@ -2941,9 +2941,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 10.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 8.0
       }
     },
@@ -2953,9 +2953,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 16.0,
         "MAX_INTELLIGENCE": 8.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 12.0
       }
     },
@@ -2965,9 +2965,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 7.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 6.0
       }
     }
@@ -2979,8 +2979,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
+        "CRIT_CHANCE": 1.0,
         "DEFENSE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
@@ -2991,8 +2991,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 2.0,
+        "CRIT_CHANCE": 1.0,
         "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
@@ -3003,8 +3003,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 2.0,
+        "CRIT_CHANCE": 1.0,
         "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
@@ -3015,8 +3015,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 3.0,
+        "CRIT_CHANCE": 1.0,
         "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
@@ -3027,8 +3027,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 5.0,
+        "CRIT_CHANCE": 2.0,
         "DEFENSE": 1.0,
         "CRIT_DAMAGE": 5.0
       }
@@ -3039,8 +3039,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 6.0,
         "STRENGTH": 10.0,
+        "CRIT_CHANCE": 6.0,
         "DEFENSE": 4.0,
         "CRIT_DAMAGE": 10.0
       }
@@ -3051,8 +3051,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 3.0,
+        "CRIT_CHANCE": 1.0,
         "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
@@ -3065,9 +3065,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -3077,9 +3077,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3089,9 +3089,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3101,9 +3101,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -3113,9 +3113,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 5.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -3125,9 +3125,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 10.0,
         "MAX_INTELLIGENCE": 10.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -3137,9 +3137,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -3151,8 +3151,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_CHANCE": 1.0
       }
     },
     "UNCOMMON": {
@@ -3161,8 +3161,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 4.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_CHANCE": 4.0
       }
     },
     "RARE": {
@@ -3171,8 +3171,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 4.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_CHANCE": 4.0
       }
     },
     "EPIC": {
@@ -3181,8 +3181,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 7.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_CHANCE": 7.0
       }
     },
     "LEGENDARY": {
@@ -3191,8 +3191,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 10.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_CHANCE": 10.0
       }
     },
     "MYTHICAL": {
@@ -3201,8 +3201,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 18.0,
-        "STRENGTH": 18.0
+        "STRENGTH": 18.0,
+        "CRIT_CHANCE": 18.0
       }
     },
     "SPECIAL": {
@@ -3211,8 +3211,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 7.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_CHANCE": 7.0
       }
     }
   },
@@ -3274,8 +3274,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "DEFENSE": 1.0,
-        "MAX_INTELLIGENCE": 5.0
+        "MAX_INTELLIGENCE": 5.0,
+        "DEFENSE": 1.0
       }
     },
     "UNCOMMON": {
@@ -3284,8 +3284,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "DEFENSE": 2.0,
-        "MAX_INTELLIGENCE": 18.0
+        "MAX_INTELLIGENCE": 18.0,
+        "DEFENSE": 2.0
       }
     },
     "RARE": {
@@ -3294,8 +3294,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "DEFENSE": 2.0,
-        "MAX_INTELLIGENCE": 18.0
+        "MAX_INTELLIGENCE": 18.0,
+        "DEFENSE": 2.0
       }
     },
     "EPIC": {
@@ -3304,8 +3304,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_INTELLIGENCE": 32.0
+        "MAX_INTELLIGENCE": 32.0,
+        "DEFENSE": 3.0
       }
     },
     "LEGENDARY": {
@@ -3314,8 +3314,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": 5.0,
-        "MAX_INTELLIGENCE": 50.0
+        "MAX_INTELLIGENCE": 50.0,
+        "DEFENSE": 5.0
       }
     },
     "MYTHICAL": {
@@ -3324,8 +3324,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "DEFENSE": 15.0,
-        "MAX_INTELLIGENCE": 75.0
+        "MAX_INTELLIGENCE": 75.0,
+        "DEFENSE": 15.0
       }
     },
     "SPECIAL": {
@@ -3334,8 +3334,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_INTELLIGENCE": 32.0
+        "MAX_INTELLIGENCE": 32.0,
+        "DEFENSE": 3.0
       }
     }
   },
@@ -3346,8 +3346,8 @@
       "obtainable": false,
       "rarity": "COMMON",
       "stats": {
-        "DEFENSE": 10.0,
-        "MAX_HEALTH": 20.0
+        "MAX_HEALTH": 20.0,
+        "DEFENSE": 10.0
       }
     },
     "UNCOMMON": {
@@ -3356,8 +3356,8 @@
       "obtainable": false,
       "rarity": "UNCOMMON",
       "stats": {
-        "DEFENSE": 10.0,
-        "MAX_HEALTH": 30.0
+        "MAX_HEALTH": 30.0,
+        "DEFENSE": 10.0
       }
     },
     "RARE": {
@@ -3366,8 +3366,8 @@
       "obtainable": false,
       "rarity": "RARE",
       "stats": {
-        "DEFENSE": 20.0,
-        "MAX_HEALTH": 40.0
+        "MAX_HEALTH": 40.0,
+        "DEFENSE": 20.0
       }
     },
     "EPIC": {
@@ -3376,8 +3376,8 @@
       "obtainable": false,
       "rarity": "EPIC",
       "stats": {
-        "DEFENSE": 30.0,
-        "MAX_HEALTH": 50.0
+        "MAX_HEALTH": 50.0,
+        "DEFENSE": 30.0
       }
     },
     "LEGENDARY": {
@@ -3386,8 +3386,8 @@
       "obtainable": false,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": 40.0,
-        "MAX_HEALTH": 60.0
+        "MAX_HEALTH": 60.0,
+        "DEFENSE": 40.0
       }
     },
     "MYTHICAL": {
@@ -3396,8 +3396,8 @@
       "obtainable": false,
       "rarity": "MYTHICAL",
       "stats": {
-        "DEFENSE": 60.0,
-        "MAX_HEALTH": 80.0
+        "MAX_HEALTH": 80.0,
+        "DEFENSE": 60.0
       }
     },
     "SPECIAL": {
@@ -3406,8 +3406,8 @@
       "obtainable": false,
       "rarity": "SPECIAL",
       "stats": {
-        "DEFENSE": 30.0,
-        "MAX_HEALTH": 50.0
+        "MAX_HEALTH": 50.0,
+        "DEFENSE": 30.0
       }
     }
   },
@@ -3418,9 +3418,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0,
         "SPEED": 1.0,
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -3430,9 +3430,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0,
         "SPEED": 3.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3442,9 +3442,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0,
         "SPEED": 3.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3454,9 +3454,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0,
         "SPEED": 5.0,
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -3466,9 +3466,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": 5.0,
-        "MAX_HEALTH": 5.0,
         "SPEED": 10.0,
+        "MAX_HEALTH": 5.0,
+        "DEFENSE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -3478,9 +3478,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "DEFENSE": 9.0,
-        "MAX_HEALTH": 7.0,
         "SPEED": 15.0,
+        "MAX_HEALTH": 7.0,
+        "DEFENSE": 9.0,
         "CRIT_DAMAGE": 7.0
       }
     },
@@ -3490,9 +3490,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0,
         "SPEED": 5.0,
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -3504,9 +3504,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "DEFENSE": 1.0,
+        "SPEED": 1.0,
         "MAX_HEALTH": 1.0,
-        "SPEED": 1.0
+        "DEFENSE": 1.0
       }
     },
     "UNCOMMON": {
@@ -3515,9 +3515,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "DEFENSE": 4.0,
+        "SPEED": 1.0,
         "MAX_HEALTH": 1.0,
-        "SPEED": 1.0
+        "DEFENSE": 4.0
       }
     },
     "RARE": {
@@ -3526,9 +3526,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "DEFENSE": 4.0,
+        "SPEED": 1.0,
         "MAX_HEALTH": 1.0,
-        "SPEED": 1.0
+        "DEFENSE": 4.0
       }
     },
     "EPIC": {
@@ -3537,9 +3537,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "DEFENSE": 7.0,
+        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "SPEED": 1.0
+        "DEFENSE": 7.0
       }
     },
     "LEGENDARY": {
@@ -3548,9 +3548,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": 10.0,
+        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "SPEED": 1.0
+        "DEFENSE": 10.0
       }
     },
     "MYTHICAL": {
@@ -3559,9 +3559,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "DEFENSE": 14.0,
+        "SPEED": 1.0,
         "MAX_HEALTH": 4.0,
-        "SPEED": 1.0
+        "DEFENSE": 14.0
       }
     },
     "SPECIAL": {
@@ -3570,9 +3570,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "DEFENSE": 7.0,
+        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "SPEED": 1.0
+        "DEFENSE": 7.0
       }
     }
   },
@@ -3583,11 +3583,11 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 3.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0
       }
     },
     "UNCOMMON": {
@@ -3596,11 +3596,11 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 2.0,
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 12.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0
       }
     },
     "RARE": {
@@ -3609,11 +3609,11 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 2.0,
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 12.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0
       }
     },
     "EPIC": {
@@ -3622,11 +3622,11 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 3.0,
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 18.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0
       }
     },
     "LEGENDARY": {
@@ -3635,11 +3635,11 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 5.0,
-        "DEFENSE": 5.0,
-        "MAX_HEALTH": 5.0,
         "MAX_INTELLIGENCE": 25.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 5.0,
+        "DEFENSE": 5.0
       }
     },
     "MYTHICAL": {
@@ -3648,11 +3648,11 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": 2.0,
         "STRENGTH": 10.0,
-        "DEFENSE": 10.0,
-        "MAX_HEALTH": 10.0,
         "MAX_INTELLIGENCE": 30.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 10.0,
+        "DEFENSE": 10.0
       }
     },
     "SPECIAL": {
@@ -3661,11 +3661,11 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": 1.0,
         "STRENGTH": 3.0,
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 18.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0
       }
     }
   },
@@ -3676,8 +3676,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -3687,8 +3687,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3698,8 +3698,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3709,8 +3709,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 3.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3720,8 +3720,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 5.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -3731,8 +3731,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 6.0,
         "STRENGTH": 10.0,
+        "CRIT_CHANCE": 6.0,
         "CRIT_DAMAGE": 6.0
       }
     },
@@ -3742,8 +3742,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 3.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     }
@@ -3755,9 +3755,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 1.0,
         "SPEED": -3.0,
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -3767,9 +3767,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "DEFENSE": 6.0,
-        "MAX_HEALTH": 2.0,
         "SPEED": -6.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 6.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3779,9 +3779,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "DEFENSE": 10.0,
-        "MAX_HEALTH": 4.0,
         "SPEED": -10.0,
+        "MAX_HEALTH": 4.0,
+        "DEFENSE": 10.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3791,9 +3791,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "DEFENSE": 15.0,
-        "MAX_HEALTH": 7.0,
         "SPEED": -15.0,
+        "MAX_HEALTH": 7.0,
+        "DEFENSE": 15.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -3803,9 +3803,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": 20.0,
-        "MAX_HEALTH": 10.0,
         "SPEED": -20.0,
+        "MAX_HEALTH": 10.0,
+        "DEFENSE": 20.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -3815,9 +3815,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "DEFENSE": 30.0,
-        "MAX_HEALTH": 25.0,
         "SPEED": -30.0,
+        "MAX_HEALTH": 25.0,
+        "DEFENSE": 30.0,
         "CRIT_DAMAGE": 8.0
       }
     },
@@ -3827,9 +3827,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "DEFENSE": 15.0,
-        "MAX_HEALTH": 7.0,
         "SPEED": -15.0,
+        "MAX_HEALTH": 7.0,
+        "DEFENSE": 15.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -3841,11 +3841,11 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
-        "DEFENSE": 1.0,
-        "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
+        "MAX_HEALTH": 1.0,
+        "DEFENSE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -3855,11 +3855,11 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3869,11 +3869,11 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -3883,11 +3883,11 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -3897,11 +3897,11 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 5.0,
-        "DEFENSE": 5.0,
-        "MAX_HEALTH": 5.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 5.0,
+        "MAX_HEALTH": 5.0,
+        "DEFENSE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -3911,11 +3911,11 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 9.0,
         "STRENGTH": 9.0,
-        "DEFENSE": 9.0,
-        "MAX_HEALTH": 9.0,
         "MAX_INTELLIGENCE": 9.0,
+        "CRIT_CHANCE": 9.0,
+        "MAX_HEALTH": 9.0,
+        "DEFENSE": 9.0,
         "CRIT_DAMAGE": 9.0
       }
     },
@@ -3925,11 +3925,11 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -3941,9 +3941,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "MAX_HEALTH": 1.0,
+        "SPEED": 1.0,
         "MAX_INTELLIGENCE": 10.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 1.0
       }
     },
     "UNCOMMON": {
@@ -3952,9 +3952,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "MAX_HEALTH": 2.0,
+        "SPEED": 1.0,
         "MAX_INTELLIGENCE": 35.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 2.0
       }
     },
     "RARE": {
@@ -3963,9 +3963,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "MAX_HEALTH": 2.0,
+        "SPEED": 1.0,
         "MAX_INTELLIGENCE": 35.0,
-        "SPEED": 1.0
+        "MAX_HEALTH": 2.0
       }
     },
     "EPIC": {
@@ -3974,9 +3974,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "MAX_HEALTH": 3.0,
+        "SPEED": 2.0,
         "MAX_INTELLIGENCE": 65.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 3.0
       }
     },
     "LEGENDARY": {
@@ -3985,9 +3985,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "MAX_HEALTH": 5.0,
+        "SPEED": 2.0,
         "MAX_INTELLIGENCE": 100.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 5.0
       }
     },
     "MYTHICAL": {
@@ -3996,9 +3996,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "MAX_HEALTH": 10.0,
+        "SPEED": 6.0,
         "MAX_INTELLIGENCE": 125.0,
-        "SPEED": 6.0
+        "MAX_HEALTH": 10.0
       }
     },
     "SPECIAL": {
@@ -4007,9 +4007,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "MAX_HEALTH": 3.0,
+        "SPEED": 2.0,
         "MAX_INTELLIGENCE": 65.0,
-        "SPEED": 2.0
+        "MAX_HEALTH": 3.0
       }
     }
   },
@@ -4020,8 +4020,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -4031,8 +4031,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 4.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -4042,8 +4042,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 4.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -4053,8 +4053,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 7.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -4064,8 +4064,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 10.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -4075,8 +4075,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 14.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -4086,8 +4086,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 7.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     }
@@ -4099,8 +4099,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0
       }
     },
     "UNCOMMON": {
@@ -4109,8 +4109,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "DEFENSE": 6.0,
-        "MAX_HEALTH": 6.0
+        "MAX_HEALTH": 6.0,
+        "DEFENSE": 6.0
       }
     },
     "RARE": {
@@ -4119,8 +4119,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "DEFENSE": 10.0,
-        "MAX_HEALTH": 10.0
+        "MAX_HEALTH": 10.0,
+        "DEFENSE": 10.0
       }
     },
     "EPIC": {
@@ -4129,8 +4129,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "DEFENSE": 15.0,
-        "MAX_HEALTH": 15.0
+        "MAX_HEALTH": 15.0,
+        "DEFENSE": 15.0
       }
     },
     "LEGENDARY": {
@@ -4139,8 +4139,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "DEFENSE": 20.0,
-        "MAX_HEALTH": 20.0
+        "MAX_HEALTH": 20.0,
+        "DEFENSE": 20.0
       }
     },
     "MYTHICAL": {
@@ -4149,8 +4149,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "DEFENSE": 30.0,
-        "MAX_HEALTH": 30.0
+        "MAX_HEALTH": 30.0,
+        "DEFENSE": 30.0
       }
     },
     "SPECIAL": {
@@ -4231,9 +4231,9 @@
       "obtainable": false,
       "rarity": "COMMON",
       "stats": {
-        "MAX_HEALTH": 10.0,
         "FARMING_FORTUNE": 5.0,
-        "MAX_INTELLIGENCE": 10.0
+        "MAX_INTELLIGENCE": 10.0,
+        "MAX_HEALTH": 10.0
       }
     },
     "UNCOMMON": {
@@ -4242,9 +4242,9 @@
       "obtainable": false,
       "rarity": "UNCOMMON",
       "stats": {
-        "MAX_HEALTH": 20.0,
         "FARMING_FORTUNE": 10.0,
-        "MAX_INTELLIGENCE": 10.0
+        "MAX_INTELLIGENCE": 10.0,
+        "MAX_HEALTH": 20.0
       }
     },
     "RARE": {
@@ -4253,10 +4253,10 @@
       "obtainable": false,
       "rarity": "RARE",
       "stats": {
-        "MAX_HEALTH": 20.0,
-        "FARMING_FORTUNE": 10.0,
         "SPEED": 5.0,
-        "MAX_INTELLIGENCE": 20.0
+        "FARMING_FORTUNE": 10.0,
+        "MAX_INTELLIGENCE": 20.0,
+        "MAX_HEALTH": 20.0
       }
     },
     "EPIC": {
@@ -4265,10 +4265,10 @@
       "obtainable": false,
       "rarity": "EPIC",
       "stats": {
-        "MAX_HEALTH": 30.0,
-        "FARMING_FORTUNE": 15.0,
         "SPEED": 10.0,
-        "MAX_INTELLIGENCE": 20.0
+        "FARMING_FORTUNE": 15.0,
+        "MAX_INTELLIGENCE": 20.0,
+        "MAX_HEALTH": 30.0
       }
     },
     "LEGENDARY": {
@@ -4277,10 +4277,10 @@
       "obtainable": false,
       "rarity": "LEGENDARY",
       "stats": {
-        "MAX_HEALTH": 40.0,
-        "FARMING_FORTUNE": 15.0,
         "SPEED": 10.0,
-        "MAX_INTELLIGENCE": 30.0
+        "FARMING_FORTUNE": 15.0,
+        "MAX_INTELLIGENCE": 30.0,
+        "MAX_HEALTH": 40.0
       }
     },
     "MYTHICAL": {
@@ -4289,10 +4289,10 @@
       "obtainable": false,
       "rarity": "MYTHICAL",
       "stats": {
-        "MAX_HEALTH": 40.0,
-        "FARMING_FORTUNE": 25.0,
         "SPEED": 20.0,
-        "MAX_INTELLIGENCE": 40.0
+        "FARMING_FORTUNE": 25.0,
+        "MAX_INTELLIGENCE": 40.0,
+        "MAX_HEALTH": 40.0
       }
     },
     "SPECIAL": {
@@ -4310,9 +4310,9 @@
       "obtainable": false,
       "rarity": "COMMON",
       "stats": {
+        "SPEED": -5.0,
         "FARMING_FORTUNE": 10.0,
-        "MAX_INTELLIGENCE": -5.0,
-        "SPEED": -5.0
+        "MAX_INTELLIGENCE": -5.0
       }
     },
     "UNCOMMON": {
@@ -4321,9 +4321,9 @@
       "obtainable": false,
       "rarity": "UNCOMMON",
       "stats": {
+        "SPEED": -10.0,
         "FARMING_FORTUNE": 10.0,
-        "MAX_INTELLIGENCE": -10.0,
-        "SPEED": -10.0
+        "MAX_INTELLIGENCE": -10.0
       }
     },
     "RARE": {
@@ -4332,9 +4332,9 @@
       "obtainable": false,
       "rarity": "RARE",
       "stats": {
+        "SPEED": -20.0,
         "FARMING_FORTUNE": 20.0,
-        "MAX_INTELLIGENCE": -10.0,
-        "SPEED": -20.0
+        "MAX_INTELLIGENCE": -10.0
       }
     },
     "EPIC": {
@@ -4343,9 +4343,9 @@
       "obtainable": false,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": -25.0,
         "FARMING_FORTUNE": 25.0,
-        "MAX_INTELLIGENCE": -15.0,
-        "SPEED": -25.0
+        "MAX_INTELLIGENCE": -15.0
       }
     },
     "LEGENDARY": {
@@ -4354,9 +4354,9 @@
       "obtainable": false,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": -30.0,
         "FARMING_FORTUNE": 30.0,
-        "MAX_INTELLIGENCE": -20.0,
-        "SPEED": -30.0
+        "MAX_INTELLIGENCE": -20.0
       }
     },
     "MYTHICAL": {
@@ -4365,9 +4365,9 @@
       "obtainable": false,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": -40.0,
         "FARMING_FORTUNE": 50.0,
-        "MAX_INTELLIGENCE": -30.0,
-        "SPEED": -40.0
+        "MAX_INTELLIGENCE": -30.0
       }
     },
     "SPECIAL": {
@@ -4376,9 +4376,9 @@
       "obtainable": false,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": -25.0,
         "FARMING_FORTUNE": 25.0,
-        "MAX_INTELLIGENCE": -15.0,
-        "SPEED": -25.0
+        "MAX_INTELLIGENCE": -15.0
       }
     }
   },
@@ -4408,9 +4408,9 @@
       "obtainable": false,
       "rarity": "RARE",
       "stats": {
+        "SPEED": 5.0,
         "FARMING_FORTUNE": 10.0,
-        "MAX_INTELLIGENCE": 10.0,
-        "SPEED": 5.0
+        "MAX_INTELLIGENCE": 10.0
       }
     },
     "EPIC": {
@@ -4419,9 +4419,9 @@
       "obtainable": false,
       "rarity": "EPIC",
       "stats": {
+        "SPEED": 10.0,
         "FARMING_FORTUNE": 10.0,
-        "MAX_INTELLIGENCE": 15.0,
-        "SPEED": 10.0
+        "MAX_INTELLIGENCE": 15.0
       }
     },
     "LEGENDARY": {
@@ -4430,9 +4430,9 @@
       "obtainable": false,
       "rarity": "LEGENDARY",
       "stats": {
+        "SPEED": 15.0,
         "FARMING_FORTUNE": 15.0,
-        "MAX_INTELLIGENCE": 20.0,
-        "SPEED": 15.0
+        "MAX_INTELLIGENCE": 20.0
       }
     },
     "MYTHICAL": {
@@ -4441,9 +4441,9 @@
       "obtainable": false,
       "rarity": "MYTHICAL",
       "stats": {
+        "SPEED": 35.0,
         "FARMING_FORTUNE": 45.0,
-        "MAX_INTELLIGENCE": 40.0,
-        "SPEED": 35.0
+        "MAX_INTELLIGENCE": 40.0
       }
     },
     "SPECIAL": {
@@ -4452,9 +4452,9 @@
       "obtainable": false,
       "rarity": "SPECIAL",
       "stats": {
+        "SPEED": 10.0,
         "FARMING_FORTUNE": 10.0,
-        "MAX_INTELLIGENCE": 15.0,
-        "SPEED": 10.0
+        "MAX_INTELLIGENCE": 15.0
       }
     }
   },
@@ -4537,8 +4537,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 3.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_CHANCE": 3.0
       }
     },
     "UNCOMMON": {
@@ -4547,8 +4547,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 7.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_CHANCE": 7.0
       }
     },
     "RARE": {
@@ -4557,8 +4557,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 12.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_CHANCE": 12.0
       }
     },
     "EPIC": {
@@ -4567,8 +4567,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 18.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_CHANCE": 18.0
       }
     },
     "LEGENDARY": {
@@ -4577,8 +4577,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 25.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_CHANCE": 25.0
       }
     },
     "MYTHICAL": {
@@ -4587,8 +4587,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 30.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_CHANCE": 30.0
       }
     },
     "SPECIAL": {
@@ -4597,8 +4597,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 18.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_CHANCE": 18.0
       }
     }
   },
@@ -4681,8 +4681,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -4692,8 +4692,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -4703,8 +4703,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -4714,8 +4714,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 6.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -4725,8 +4725,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 8.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 8.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -4736,8 +4736,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 18.0,
         "MAX_INTELLIGENCE": 7.0,
+        "CRIT_CHANCE": 18.0,
         "CRIT_DAMAGE": 7.0
       }
     },
@@ -4747,8 +4747,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 6.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -4760,9 +4760,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -4772,9 +4772,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -4784,9 +4784,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 4.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -4796,9 +4796,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 7.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 6.0
       }
     },
@@ -4808,9 +4808,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 10.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 8.0
       }
     },
@@ -4820,9 +4820,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 7.0,
         "STRENGTH": 15.0,
         "MAX_INTELLIGENCE": 9.0,
+        "CRIT_CHANCE": 7.0,
         "CRIT_DAMAGE": 12.0
       }
     },
@@ -4832,9 +4832,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 7.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 6.0
       }
     }
@@ -4918,8 +4918,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "MAX_INTELLIGENCE": -5.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -4929,8 +4929,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "MAX_INTELLIGENCE": -10.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -4940,8 +4940,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 4.0,
         "MAX_INTELLIGENCE": -18.0,
+        "CRIT_CHANCE": 4.0,
         "CRIT_DAMAGE": 4.0
       }
     },
@@ -4951,8 +4951,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 7.0,
         "MAX_INTELLIGENCE": -32.0,
+        "CRIT_CHANCE": 7.0,
         "CRIT_DAMAGE": 7.0
       }
     },
@@ -4962,8 +4962,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "MAX_INTELLIGENCE": -50.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -4973,8 +4973,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 15.0,
         "MAX_INTELLIGENCE": -100.0,
+        "CRIT_CHANCE": 15.0,
         "CRIT_DAMAGE": 15.0
       }
     },
@@ -4984,8 +4984,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 7.0,
         "MAX_INTELLIGENCE": -32.0,
+        "CRIT_CHANCE": 7.0,
         "CRIT_DAMAGE": 7.0
       }
     }
@@ -4997,9 +4997,9 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
         "STRENGTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
+        "CRIT_CHANCE": 1.0,
         "CRIT_DAMAGE": 1.0
       }
     },
@@ -5009,9 +5009,9 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -5021,9 +5021,9 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -5033,9 +5033,9 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     },
@@ -5045,9 +5045,9 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 5.0,
         "STRENGTH": 5.0,
         "MAX_INTELLIGENCE": 5.0,
+        "CRIT_CHANCE": 5.0,
         "CRIT_DAMAGE": 5.0
       }
     },
@@ -5057,9 +5057,9 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 6.0,
         "STRENGTH": 6.0,
         "MAX_INTELLIGENCE": 6.0,
+        "CRIT_CHANCE": 6.0,
         "CRIT_DAMAGE": 6.0
       }
     },
@@ -5069,9 +5069,9 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 3.0,
         "STRENGTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
+        "CRIT_CHANCE": 3.0,
         "CRIT_DAMAGE": 3.0
       }
     }
@@ -5083,8 +5083,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_CHANCE": 1.0
       }
     },
     "UNCOMMON": {
@@ -5093,8 +5093,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_CHANCE": 2.0
       }
     },
     "RARE": {
@@ -5103,8 +5103,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 4.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_CHANCE": 4.0
       }
     },
     "EPIC": {
@@ -5113,8 +5113,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 7.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_CHANCE": 7.0
       }
     },
     "LEGENDARY": {
@@ -5123,8 +5123,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 10.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_CHANCE": 10.0
       }
     },
     "MYTHICAL": {
@@ -5133,8 +5133,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 15.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_CHANCE": 15.0
       }
     },
     "SPECIAL": {
@@ -5143,8 +5143,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 7.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_CHANCE": 7.0
       }
     }
   },
@@ -5271,8 +5271,8 @@
       "obtainable": true,
       "rarity": "COMMON",
       "stats": {
-        "CRIT_CHANCE": 2.0,
         "STRENGTH": 2.0,
+        "CRIT_CHANCE": 2.0,
         "CRIT_DAMAGE": 2.0
       }
     },
@@ -5282,8 +5282,8 @@
       "obtainable": true,
       "rarity": "UNCOMMON",
       "stats": {
-        "CRIT_CHANCE": 4.0,
         "STRENGTH": 4.0,
+        "CRIT_CHANCE": 4.0,
         "CRIT_DAMAGE": 4.0
       }
     },
@@ -5293,8 +5293,8 @@
       "obtainable": true,
       "rarity": "RARE",
       "stats": {
-        "CRIT_CHANCE": 7.0,
         "STRENGTH": 7.0,
+        "CRIT_CHANCE": 7.0,
         "CRIT_DAMAGE": 7.0
       }
     },
@@ -5304,8 +5304,8 @@
       "obtainable": true,
       "rarity": "EPIC",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 10.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 10.0
       }
     },
@@ -5315,8 +5315,8 @@
       "obtainable": true,
       "rarity": "LEGENDARY",
       "stats": {
-        "CRIT_CHANCE": 15.0,
         "STRENGTH": 15.0,
+        "CRIT_CHANCE": 15.0,
         "CRIT_DAMAGE": 15.0
       }
     },
@@ -5326,8 +5326,8 @@
       "obtainable": true,
       "rarity": "MYTHICAL",
       "stats": {
-        "CRIT_CHANCE": 25.0,
         "STRENGTH": 25.0,
+        "CRIT_CHANCE": 25.0,
         "CRIT_DAMAGE": 25.0
       }
     },
@@ -5337,8 +5337,8 @@
       "obtainable": true,
       "rarity": "SPECIAL",
       "stats": {
-        "CRIT_CHANCE": 10.0,
         "STRENGTH": 10.0,
+        "CRIT_CHANCE": 10.0,
         "CRIT_DAMAGE": 10.0
       }
     }

@@ -853,25 +853,25 @@
     "reference": "dragon_hunter",
     "name": "Caçador de Dragões",
     "maxLevel": 5,
-    "firstBonus": 16.0,
+    "firstBonus": 10.0,
     "secondBonus": 0.0,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7Causa 16.0% mais dano em Dragões."
+          "§7Causa 10.0% mais dano em Dragões."
         ],
         "2": [
-          "§7Causa 32.0% mais dano em Dragões."
+          "§7Causa 20.0% mais dano em Dragões."
         ],
         "3": [
-          "§7Causa 48.0% mais dano em Dragões."
+          "§7Causa 30.0% mais dano em Dragões."
         ],
         "4": [
-          "§7Causa 64.0% mais dano em Dragões."
+          "§7Causa 40.0% mais dano em Dragões."
         ],
         "5": [
-          "§7Causa 80.0% mais dano em Dragões."
+          "§7Causa 50.0% mais dano em Dragões."
         ]
       },
       "expCosts": {
@@ -1039,21 +1039,21 @@
     "reference": "tourbillon",
     "name": "Turbilhão",
     "maxLevel": 3,
-    "firstBonus": 3.0,
+    "firstBonus": 1.5,
     "secondBonus": 0.0,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7Concede §a+3.0% §f☠ Dano Crítico",
+          "§7Concede §a+1.5% §f☠ Dano Crítico",
           "§7a cada §a10 §f✦ Velocidade§7."
         ],
         "2": [
-          "§7Concede §a+6.0% §f☠ Dano Crítico",
+          "§7Concede §a+3.0% §f☠ Dano Crítico",
           "§7a cada §a10 §f✦ Velocidade§7."
         ],
         "3": [
-          "§7Concede §a+9.0% §f☠ Dano Crítico",
+          "§7Concede §a+4.5% §f☠ Dano Crítico",
           "§7a cada §a10 §f✦ Velocidade§7."
         ]
       },
@@ -1746,25 +1746,25 @@
     "reference": "cataclysm",
     "name": "Cataclisma",
     "maxLevel": 3,
-    "firstBonus": 15.0,
-    "secondBonus": 2.0,
+    "firstBonus": 5.0,
+    "secondBonus": 0.25,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7A cada §a5 §7flechas, uma tem §a15%",
-          "§7 §7chance de causar o seu dano",
-          "aumentado em §c2.0x§7."
+          "§7A cada §a5 §7flechas, uma tem §a5%",
+          "§7chance de causar o seu dano",
+          "§7aumentado em §c0.25x§7."
         ],
         "2": [
-          "§7A cada §a5 §7flechas, uma tem §a30%",
-          "§7 §7chance de causar o seu dano",
-          "aumentado em §c4.0x§7."
+          "§7A cada §a5 §7flechas, uma tem §a10%",
+          "§7chance de causar o seu dano",
+          "§7aumentado em §c0.5x§7."
         ],
         "3": [
-          "§7A cada §a5 §7flechas, uma tem §a45%",
-          "§7 §7chance de causar o seu dano",
-          "aumentado em §c6.0x§7."
+          "§7A cada §a5 §7flechas, uma tem §a15%",
+          "§7chance de causar o seu dano",
+          "§7aumentado em §c0.75x§7."
         ]
       },
       "expCosts": {
