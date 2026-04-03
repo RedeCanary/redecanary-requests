@@ -1,7 +1,26 @@
-{
-   "0":{
-      "name":"Bloco de Grama",
-      "texture":"",
-      "cubos":5
-   }
-}
+[
+  {
+    "name": "Aquário",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdiN2Q3ODUxNDQyODdkMDVmMWFmZDZhNjE2ZWU1NWI1MmJlMWY0NDdjZWI1NjkwZmJhOWU0MjU3OGI0MzRlMiJ9fX0=",
+    "cubos": 5,
+    "categoria": "FISHING"
+  },
+  {
+    "name": "Casco de Tartaruga",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQxYmQwNmE2NzM4ZDBkYTUwNTNlYWU0OWExMzYyYjg5NDg5ZDFhYzAwNGMyMjI1MDQ1MzZmN2JjZDA3Njc5ZCJ9fX0=",
+    "cubos": 5,
+    "categoria": "FISHING"
+  },
+  {
+    "name": "Bola de Praia",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODkzNmJjNzIxNDNlNjcyOTAxZjY5ZTJhNmI1ZWMzOTMyOGU1MWYxMGIzY2MyNTJjMTJmM2Y4ZjUzZTQ3NmZhYiJ9fX0=",
+    "cubos": 5,
+    "categoria": "FISHING"
+  },
+  {
+    "name": "Castelo de Areia",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVlZGVlYzM4YWFlZTMxYWIwODI3YmZmNTM4MWVkYjM2YWIxNDk4ZTQ5NTRkM2ZmMTZjYjVhOTgwYTI0MGVmIn19fQ==",
+    "cubos": 5,
+    "categoria": "FISHING"
+  }
+]
