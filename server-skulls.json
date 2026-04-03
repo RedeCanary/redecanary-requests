@@ -1,7 +1,7 @@
 {
-  "0": {
-    "name": "Bloco de Grama",
-    "texture": "",
-    "cubos": 5,
-  },
+   "0":{
+      "name":"Bloco de Grama",
+      "texture":"",
+      "cubos":5
+   }
 }
