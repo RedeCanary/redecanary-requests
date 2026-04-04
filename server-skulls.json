@@ -264,32 +264,74 @@
     "categoria": "GENERAL"
   },
   {
-    "name": "",
-    "texture": "",
+    "name": "Refrigerante de Cereja",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM4NmI5YjJkYjAzNjQ1ZDUzNmVkNDU4ZmQ4OTFjMTRlZjdjZTJjZjIxNTBmZWY0OGQ3NzYxMDE0MTU5M2M5MiJ9fX0=",
     "cubos": 12,
     "categoria": "GENERAL"
   },
   {
-    "name": "",
-    "texture": "",
+    "name": "Refrigerante Rosa",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTU2OGIzOWFiMmIzN2NiM2U3ZDBkMjE4NjZmZWI3OTNmODM1NTczMThmMGQ5Y2YwNzVlNTFmMGU0YjRkMTBlNiJ9fX0=",
     "cubos": 12,
     "categoria": "GENERAL"
   },
   {
-    "name": "",
-    "texture": "",
+    "name": "Chá Mate",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTRiOWRlZWJkZTM5ZDVhMTUyN2U1NjNkZmFiNzllMDM2MWU5YjJjOGRkNjIyOTZiYTJjNjMwNDAxMmNkOWViNCJ9fX0=",
     "cubos": 12,
     "categoria": "GENERAL"
   },
   {
-    "name": "",
-    "texture": "",
+    "name": "Bolo",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ0NjVhOGE1NmUzYjkyYmVjMDY4YWE3ZjcwNTAwODM3ZTM4ZTIwMzM1YTlhY2M5Y2ZiMmRmNWY5MDBmNGVkNiJ9fX0=",
     "cubos": 12,
     "categoria": "GENERAL"
   },
   {
-    "name": "",
-    "texture": "",
+    "name": "Cupcake",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjMzMjg0ODhmN2I2Y2VkMTI5NmFkMTcwZjY5NDU2OTgxM2RlZTA1MjdjN2YwNDQxMGI5MzQ4ZjBjMDBkZDg0YSJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Panquecas de Chocolate",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzQ5YzdjYTBmNDI1ODYxMjYyYmMxNjcwM2M3Njc2Y2NhNWJhNmI3Y2FjMGJjZGYwODY4NmNjOWE3ZWJiOTk0YSJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Hambúrguer",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUxMzdmYzBjZDUxMjAyNjcyMzgyYmZhZTAxZmViM2UxZTJiNzMxMDdlOThkMmM2YzhmNzE5ZjFkYTUzMGU2OCJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Sanduíche",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA3NTBhOGI5ZDYzMmU5MjhlYTNmODFlZmM4N2QzYmY5M2YzMmNiNzE1NjdmMjgwNTE3NGUwMGI5ZjUzODExOCJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Batata Frita",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM5YmJjZWIxOWE2YTJkZmExNTNmNjVmYjIyMTA3OTkyNWUzYmVjZWUxYTRhMWVkYzQyNWZhMDJkODQ3MTBkNyJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Hot Dog",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY2ZmJmY2NiYWVlZjgxZTY4NWU5NDEwNTBlYThmYmQyMzQxMWMzOGNlMDFkZjJkYWVlYzk0ZDQ1MjFlNzczZCJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Balde de Nuggets",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODZjMzFmZDU3Zjk5ZWUzMmJjOWRiZGZkY2UwMTE0YWQxOTczZjQ0ZmJmZThmNWQxOTRhZDc1YTM2ODY3YWM5MiJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Taco Mexicano",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGYyODVhNGRkM2Q2YTRkOGE1NzMxNjU4NjhjMzFmOWI0YzYzZjk5M2Y1NzlkYzFmYzg2ODg0ZjY5NGM2OGIxIn19fQ==",
     "cubos": 12,
     "categoria": "GENERAL"
   }
