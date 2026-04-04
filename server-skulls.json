@@ -2,103 +2,103 @@
   {
     "name": "Zumbi",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "COMBAT"
   },
   {
     "name": "Esqueleto",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAxMjY4ZTljNDkyZGExZjBkODgyNzFjYjQ5MmE0YjMwMjM5NWY1MTVhN2JiZjc3ZjRhMjBiOTVmYzAyZWIyIn19fQ==",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "COMBAT"
   },
   {
     "name": "Esqueleto Wither",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc0MzEyM2ExOWU4MDkzYjQ2NWI4NDgzOGUyOGY3ZDY0YWYwNzljNThiN2NmM2RhYzA3YzhjNTkyYTY0ZmMzMiJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "COMBAT"
   },
   {
     "name": "Enderman",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzM5YzI3ODRkMTRjMDZmODRjZTQxYzU4ODNhYmE5MzI4MjQzNDBiMmU3ZTY3M2Q3YmY4M2E1MjFkZTcxMTM1In19fQ==",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "COMBAT"
   },
   {
     "name": "Blaze",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjIwNjU3ZTI0YjU2ZTFiMmY4ZmMyMTlkYTFkZTc4OGMwYzI0ZjM2Mzg4YjFhNDA5ZDBjZDJkOGRiYTQ0YWEzYiJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "COMBAT"
   },
   {
     "name": "Aquário",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdiN2Q3ODUxNDQyODdkMDVmMWFmZDZhNjE2ZWU1NWI1MmJlMWY0NDdjZWI1NjkwZmJhOWU0MjU3OGI0MzRlMiJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Casco de Tartaruga",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQxYmQwNmE2NzM4ZDBkYTUwNTNlYWU0OWExMzYyYjg5NDg5ZDFhYzAwNGMyMjI1MDQ1MzZmN2JjZDA3Njc5ZCJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Bola de Praia",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODkzNmJjNzIxNDNlNjcyOTAxZjY5ZTJhNmI1ZWMzOTMyOGU1MWYxMGIzY2MyNTJjMTJmM2Y4ZjUzZTQ3NmZhYiJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Castelo de Areia",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVlZGVlYzM4YWFlZTMxYWIwODI3YmZmNTM4MWVkYjM2YWIxNDk4ZTQ5NTRkM2ZmMTZjYjVhOTgwYTI0MGVmIn19fQ==",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Concha",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODEyNmNhYzE2ZmQ4ZTQ3NTE2ZTg0NTIwY2QzOTgxYzQ1ZDcwOGY1NWQzNDU4NDk0ZDhmMDgxYzUwNWQ2ZDMwNCJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Estrela do Mar",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzYzNmZmYzZjMzRlOWEzNWVkNzU5N2Q1Y2E0ODRlMDUwOWI0ODVmYmI1ZDE5MDk4MDczM2I4OTk2ZGJlODMyMyJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Coco",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNThkMGY3MDgxMDBkNTNhZjgxMjZlZmQyZTcwY2QwYjlhNDk2OGFmZjQ5YjRkZmNiYjY5YmJhYjU0YzZlYmMwMCJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Coral Laranja",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODQ4YzIzNGY3YjIyY2E0YWNmZjMyZTYzMDY3Y2I5OTRhN2ZhMDdmZjlmZGNhZjM4Njk1NjYyYjEyNjU1OTIifX19",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Coral Amarelo",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkzYzM1MTJmYzU4ODVmY2NiYjI1ZDJkYWY3ZmRjZmFlODI2NDFlZDdlNWUzNTk3Y2RkZjczZTQxMTU5ZjI0In19fQ==",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Coral Roxo",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGY5YmJkMzM3ZDExMjA2ODU4ZDg4ZWU0MTFkMzRjMjZjYTI0NjllZjE3YWJhZGY0ZTA3NDRiMmU4MDFmOCJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Coral Azul",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVjOWI3MjA3OWYyZDU4OGIxYmQ2YzU4NmJiYWRmZmJmZGIzNmE3MTIxODE1NDk4YjZmOTI5MjlmYWUzN2NkIn19fQ==",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   },
   {
     "name": "Tubarão",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWJmNzE3MWU2NzM4ZDAxNmZlMjkzYzIzZmVmODAyMGZiZTM5NmZiM2YyNDFmMjQwYTVjMzIxOTE5Y2U2Mjg2MSJ9fX0=",
-    "cubos": 5,
+    "cubos": 12,
     "categoria": "FISHING"
   }
 ]
