@@ -167,4 +167,130 @@
     "cubos": 12,
     "categoria": "GENERAL"
   }
+  {
+    "name": "TV de Tubo",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI5Mzg3ZWY1MDc3NDI2M2NmMjFlNjBjYTcxZmZmMmE0ODQ1NWM4MjFhODE2YzlkYzNiMjBkNmMyYjBjZDEwMCJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "TV Lofi",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTE0OWY5Nzg4ZWM2MDc2OGZmMTNmZTk1YzhhMThjYjExN2VkNDIzNDBkYjY5ZTA4NTYxNDY5ZjhhOWFlNmQ1YyJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "TV Kawaii",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTlmNWU1NzRlM2IzMDY5MjE2ZDFmMzRjYzYwY2I4NzMzNzY2N2FmZDRhZGEwNDk3YTdiN2FiZWEyMTFlYzAxNSJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "TV Retrô",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZkN2U3ZTAxYTY2NGI0N2IzMTg2MDMyYzY5YjAyMTcwMWY4ZmRmOGMyYjg2ZmQ3NTJjNjkzMGMyMzg5YmUzNiJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Computador Antigo",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDYxZmI5ZjUzNjliYjdjNjRmMWFmYzRjYTQ0MTkwNWM1NzUzYTAzOWUxZGUzZGRlNGM5NTFhNjlkNTRmNjhmMiJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Computador Moderno",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI4YzYzMjA4ZTdkOWNiOTkwNDkyMDUxNmE4MWRmNmUzNWZmYTIyNjljZTAxYzYyNWQxMWE5YTM4MWVkOTNhIn19fQ==",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Torre de Computador RGB",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVjMDM1OGZiNjRlYWFjNmRiNjlhODU3Zjg5ODdiNTE5N2ZjZWE3MjYwOWMwNjBhODYyOGRhOTIyNjZmZDU5MiJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Relógio de Parede",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzYxNWI3NzViMjExZTViMTRjOWY0N2NmZGI0ZTY0Y2QzOGIyZTRjODc1NTY5ZjBkMWJjMzQ2OGU3YTIzM2YyMyJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Relógio de Estante",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTk3ZTRlNzMwNTdmMWEwMjQyMjhkN2YyYjVmMDQyZjhjNmE0ZDY2YjMxMDFjMmNiNzZjNDY5MDY2YWU2NzMzNSJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Relógio Moderno",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWNiZjMwMjlkYWVkNDExYmYyYjAwMzI5MDc4MGVlOGEwYmNmNTllZjZkM2EyZTM4YWMzMjMwNmFhNWI0M2M1YyJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Tronco de Madeira de Carvalho",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI3ODU5YjdjZWEzODgzNjJjMTkyOThiZjIyMWFlZDAzOWVlNzQ5MDMzNWIyYTJlMmJhNmJlOGQxM2M0NTNhNyJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Tronco de Madeira de Carvalho Escuro",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM2ZGZiNGM4ZDY5NzFkZDk2ZjVhMWZlNGI0NzIwYTM5NTE2MTcwMmQ2YzI5YWI4NzE0MjJlNjYwNjNkYmIwYSJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Tronco de Madeira de Pinheiro",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFjYzU4ODhmMDc2MDQyY2QyMDM0MmM4MzVmOWQ2Y2I4YjgzN2UzNTAyYjRiZWUzYzhkMDI2MDQ4OTFjNzE1NSJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Tronco de Madeira de Selva",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTljNmM0MmU2OTFhZWIwNzhiMGQ4NDg5NGIxMGI2NDNiYTM2YThiY2I4YjZiZWQ5MTE5YWUyYmRmYTg3YTlhNiJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Tronco de Madeira de Eucalipto",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY5ZGI4ZDY3NTE2NjA2ZmNiM2I2NGYzODlhZGY2MTYxM2FhZDY5Yzk1MThhNmNlMjc3ZjlmYTZmYmJlZWU3MyJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "Tronco de Madeira de Acácia",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmY4MDJhMjc4NGYxOWQ5MTFjMzczZDM3Y2Q5ZWYzOTlkYzIyM2UxNmQxODg2NGE2YTdiZmUwNzZhY2YwM2NjYiJ9fX0=",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "",
+    "texture": "",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "",
+    "texture": "",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "",
+    "texture": "",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "",
+    "texture": "",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  },
+  {
+    "name": "",
+    "texture": "",
+    "cubos": 12,
+    "categoria": "GENERAL"
+  }
 ]
