@@ -74,10 +74,10 @@
         ]
       },
       "expCosts": {
-        "1": 20.0,
-        "2": 40.0,
-        "3": 60.0,
-        "4": 80.0
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0,
+        "4": 100.0
       },
       "sellPrices": {
         "1": 320.0,
@@ -119,11 +119,11 @@
         ]
       },
       "expCosts": {
-        "1": 20.0,
-        "2": 40.0,
-        "3": 60.0,
-        "4": 80.0,
-        "5": 100.0
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
       },
       "sellPrices": {
         "1": 273.2,
@@ -219,11 +219,11 @@
         ]
       },
       "expCosts": {
-        "1": 20.0,
-        "2": 40.0,
-        "3": 60.0,
-        "4": 80.0,
-        "5": 100.0
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
       },
       "sellPrices": {
         "1": 10.0,
@@ -271,11 +271,11 @@
         ]
       },
       "expCosts": {
-        "1": 45.0,
-        "2": 90.0,
-        "3": 135.0,
-        "4": 180.0,
-        "5": 225.0
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
       },
       "sellPrices": {
         "1": 12.75,
@@ -323,11 +323,11 @@
         ]
       },
       "expCosts": {
-        "1": 25.0,
-        "2": 50.0,
-        "3": 75.0,
-        "4": 100.0,
-        "5": 125.0
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
       },
       "sellPrices": {
         "1": 44.0,
@@ -385,11 +385,11 @@
         ]
       },
       "expCosts": {
-        "1": 25.0,
-        "2": 50.0,
-        "3": 75.0,
-        "4": 100.0,
-        "5": 125.0
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0,
+        "4": 60.0,
+        "5": 75.0
       },
       "sellPrices": {
         "1": 64.0,
@@ -442,11 +442,11 @@
         ]
       },
       "expCosts": {
-        "1": 45.0,
-        "2": 90.0,
-        "3": 135.0,
-        "4": 180.0,
-        "5": 225.0
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
       },
       "sellPrices": {
         "1": 341.5,
@@ -549,11 +549,11 @@
         ]
       },
       "expCosts": {
-        "1": 10.0,
-        "2": 20.0,
-        "3": 30.0,
-        "4": 40.0,
-        "5": 50.0
+        "1": 2.0,
+        "2": 4.0,
+        "3": 6.0,
+        "4": 8.0,
+        "5": 10.0
       },
       "sellPrices": {
         "1": 126.0,
@@ -593,9 +593,9 @@
         ]
       },
       "expCosts": {
-        "1": 20.0,
-        "2": 40.0,
-        "3": 60.0
+        "1": 15.0,
+        "2": 30.0,
+        "3": 45.0
       },
       "sellPrices": {
         "1": 25.0,
@@ -636,11 +636,11 @@
         ]
       },
       "expCosts": {
-        "1": 15.0,
-        "2": 30.0,
-        "3": 45.0,
-        "4": 60.0,
-        "5": 75.0
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0,
+        "4": 40.0,
+        "5": 50.0
       },
       "sellPrices": {
         "1": 362.5,
@@ -767,22 +767,22 @@
     "extra": {
       "descriptions": {
         "1": [
-          "§7Regenera 1.0% §7de sua vida a",
-          "§7cada monstro abatido."
+          "§7Regenera §a1% §7da sua quantidade de ",
+          "§7vida perdida a cada monstro abatido."
         ],
         "2": [
-          "§7Regenera 2.0% §7de sua vida a",
-          "§7cada monstro abatido."
+          "§7Regenera §a2% §7da sua quantidade de ",
+          "§7vida perdida a cada monstro abatido."
         ],
         "3": [
-          "§7Regenera 3.0% §7de sua vida a",
-          "§7cada monstro abatido."
+          "§7Regenera §a3% §7da sua quantidade de ",
+          "§7vida perdida a cada monstro abatido."
         ]
       },
       "expCosts": {
-        "1": 25.0,
-        "2": 50.0,
-        "3": 75.0
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0
       },
       "sellPrices": {
         "1": 26.5,
@@ -807,32 +807,32 @@
     "extra": {
       "descriptions": {
         "1": [
-          "§7Transforma 1.0% do dano causado",
-          "§7em monstros em vida."
+          "§7Transforma §a1.0% §7da sua vida máxima",
+          "§7em vida a cada hit dado em monstros."
         ],
         "2": [
-          "§7Transforma 2.0% do dano causado",
-          "§7em monstros em vida."
+          "§7Transforma §a2.0% §7da sua vida máxima",
+          "§7em vida a cada hit dado em monstros."
         ],
         "3": [
-          "§7Transforma 3.0% do dano causado",
-          "§7em monstros em vida."
+          "§7Transforma §a3.0% §7da sua vida máxima",
+          "§7em vida a cada hit dado em monstros."
         ],
         "4": [
-          "§7Transforma 4.0% do dano causado",
-          "§7em monstros em vida."
+          "§7Transforma §a4.0% §7da sua vida máxima",
+          "§7em vida a cada hit dado em monstros."
         ],
         "5": [
-          "§7Transforma 5.0% do dano causado",
-          "§7em monstros em vida."
+          "§7Transforma §a5.0% §7da sua vida máxima",
+          "§7em vida a cada hit dado em monstros."
         ]
       },
       "expCosts": {
-        "1": 30.0,
-        "2": 60.0,
-        "3": 90.0,
-        "4": 120.0,
-        "5": 150.0
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
       },
       "sellPrices": {
         "1": 2080.25,
@@ -1046,15 +1046,15 @@
       "descriptions": {
         "1": [
           "§7Concede §a+1.5% §f☠ Dano Crítico",
-          "§7a cada §a10 §f✦ Velocidade§7."
+          "§7a cada §a15 §f✦ Velocidade§7."
         ],
         "2": [
           "§7Concede §a+3.0% §f☠ Dano Crítico",
-          "§7a cada §a10 §f✦ Velocidade§7."
+          "§7a cada §a15 §f✦ Velocidade§7."
         ],
         "3": [
           "§7Concede §a+4.5% §f☠ Dano Crítico",
-          "§7a cada §a10 §f✦ Velocidade§7."
+          "§7a cada §a15 §f✦ Velocidade§7."
         ]
       },
       "expCosts": {
@@ -1137,9 +1137,9 @@
         ]
       },
       "expCosts": {
-        "1": 20.0,
-        "2": 40.0,
-        "3": 60.0
+        "1": 3.0,
+        "2": 6.0,
+        "3": 9.0
       },
       "sellPrices": {
         "1": 30.0,
@@ -1199,19 +1199,23 @@
       "descriptions": {
         "1": [
           "§7Guia suas flechas aos mobs em um",
-          "§7raio de até 3.0 §7blocos"
+          "§7raio de até 3.0 §7blocos",
+          "§7Não funciona com arcos curtos."
         ],
         "2": [
           "§7Guia suas flechas aos mobs em um",
-          "§7raio de até 6.0 §7blocos"
+          "§7raio de até 6.0 §7blocos",
+          "§7Não funciona com arcos curtos."
         ],
         "3": [
           "§7Guia suas flechas aos mobs em um",
-          "§7raio de até 9.0 §7blocos"
+          "§7raio de até 9.0 §7blocos",
+          "§7Não funciona com arcos curtos."
         ],
         "4": [
           "§7Guia suas flechas aos mobs em um",
-          "§7raio de até 12.0 §7blocos"
+          "§7raio de até 12.0 §7blocos",
+          "§7Não funciona com arcos curtos."
         ]
       },
       "expCosts": {
@@ -1259,11 +1263,10 @@
         "SHOVEL",
         "PICKAXE"
       ],
-      "conflicts": [
-        "AUTO_SMELT"
-      ],
+      "conflicts": [],
       "replaces": [
-        "AUTO_SMELT"
+        "AUTO_SMELT",
+        "LOOT_BONUS_BLOCKS"
       ]
     }
   },
@@ -1304,11 +1307,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 3.0,
+        "2": 6.0,
+        "3": 9.0,
+        "4": 12.0,
+        "5": 15.0
       },
       "sellPrices": {
         "1": 51.0,
@@ -1320,9 +1323,7 @@
       "targets": [
         "SWORD"
       ],
-      "conflicts": [
-        "POISON"
-      ],
+      "conflicts": [],
       "replaces": [
         "POISON"
       ]
@@ -1348,8 +1349,8 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0
+        "1": 3.0,
+        "2": 6.0
       },
       "sellPrices": {
         "1": 44.0,
@@ -1415,9 +1416,7 @@
       "targets": [
         "SWORD"
       ],
-      "conflicts": [
-        "FIRE_ASPECT"
-      ],
+      "conflicts": [],
       "replaces": [
         "FIRE_ASPECT"
       ]
@@ -1504,9 +1503,9 @@
         ]
       },
       "expCosts": {
-        "1": 10.0,
-        "2": 20.0,
-        "3": 30.0
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0
       },
       "sellPrices": {
         "1": 38.75,
@@ -1752,19 +1751,16 @@
     "extra": {
       "descriptions": {
         "1": [
-          "§7A cada §a5 §7flechas, uma tem §a5%",
-          "§7chance de causar o seu dano",
-          "§7aumentado em §c0.25x§7."
+          "§7A cada 5 flechas, uma tem §a5% §7de chance para",
+          "§7causar o seu dano aumentado em §c0,25x§7."
         ],
         "2": [
-          "§7A cada §a5 §7flechas, uma tem §a10%",
-          "§7chance de causar o seu dano",
-          "§7aumentado em §c0.5x§7."
+          "§7A cada 5 flechas, uma tem §a10% §7de chance para",
+          "§7causar o seu dano aumentado em §c0,5x§7."
         ],
         "3": [
-          "§7A cada §a5 §7flechas, uma tem §a15%",
-          "§7chance de causar o seu dano",
-          "§7aumentado em §c0.75x§7."
+          "§7A cada 5 flechas, uma tem §a15% §7de chance para",
+          "§7causar o seu dano aumentado em §c0,75x§7."
         ]
       },
       "expCosts": {
@@ -1858,9 +1854,7 @@
       "targets": [
         "PICKAXE"
       ],
-      "conflicts": [
-        "SILK_TOUCH"
-      ],
+      "conflicts": [],
       "replaces": [
         "SILK_TOUCH"
       ]
@@ -1888,8 +1882,8 @@
         ]
       },
       "expCosts": {
-        "1": 10.0,
-        "2": 20.0
+        "1": 12.0,
+        "2": 24.0
       },
       "sellPrices": {
         "1": 10.0,
@@ -1908,22 +1902,22 @@
     "reference": "loot_bonus_blocks",
     "name": "Fortuna",
     "maxLevel": 3,
-    "firstBonus": 2.0,
+    "firstBonus": 10.0,
     "secondBonus": 0.0,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7Concede §a+2.0% §7drops extra",
-          "§7dos minérios."
+          "§7Concede §a10.0 §6☘ Bônus de Mineração§7 que",
+          "§7aumenta os drops de minérios."
         ],
         "2": [
-          "§7Concede §a+4.0% §7drops extra",
-          "§7dos minérios."
+          "§7Concede §a20.0 §6☘ Bônus de Mineração§7 que",
+          "§7aumenta os drops de minérios."
         ],
         "3": [
-          "§7Concede §a+6.0% §7drops extra",
-          "§7dos minérios."
+          "§7Concede §a30.0 §6☘ Bônus de Mineração§7 que",
+          "§7aumenta os drops de minérios."
         ]
       },
       "expCosts": {
@@ -1948,29 +1942,29 @@
     "reference": "farming",
     "name": "Colheita",
     "maxLevel": 5,
-    "firstBonus": 10.0,
+    "firstBonus": 5.0,
     "secondBonus": 0.0,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7Concede §a10.0 §6☘ Bônus de Colheita§7 que",
+          "§7Concede §a5.0 §6☘ Bônus de Colheita§7 que",
           "§7aumenta os drops de hortaliças."
         ],
         "2": [
-          "§7Concede §a20.0 §6☘ Bônus de Colheita§7 que",
+          "§7Concede §a10.0 §6☘ Bônus de Colheita§7 que",
           "§7aumenta os drops de hortaliças."
         ],
         "3": [
-          "§7Concede §a30.0 §6☘ Bônus de Colheita§7 que",
+          "§7Concede §a15.0 §6☘ Bônus de Colheita§7 que",
           "§7aumenta os drops de hortaliças."
         ],
         "4": [
-          "§7Concede §a40.0 §6☘ Bônus de Colheita§7 que",
+          "§7Concede §a20.0 §6☘ Bônus de Colheita§7 que",
           "§7aumenta os drops de hortaliças."
         ],
         "5": [
-          "§7Concede §a50.0 §6☘ Bônus de Colheita§7 que",
+          "§7Concede §a25.0 §6☘ Bônus de Colheita§7 que",
           "§7aumenta os drops de hortaliças."
         ]
       },
@@ -2147,11 +2141,11 @@
         ]
       },
       "expCosts": {
-        "1": 45.0,
-        "2": 90.0,
-        "3": 135.0,
-        "4": 180.0,
-        "5": 225.0
+        "1": 10.0,
+        "2": 20.0,
+        "3": 30.0,
+        "4": 40.0,
+        "5": 50.0
       },
       "sellPrices": {
         "1": 75.0,
@@ -2172,25 +2166,25 @@
     "reference": "efficiency",
     "name": "Eficiência",
     "maxLevel": 5,
-    "firstBonus": 4.0,
+    "firstBonus": 15.0,
     "secondBonus": 0.0,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7Concede §a+4.0% §6⸕ Pressa§7."
+          "§7Concede §a+15.0% §6⸕ Pressa§7."
         ],
         "2": [
-          "§7Concede §a+8.0% §6⸕ Pressa§7."
+          "§7Concede §a+30.0% §6⸕ Pressa§7."
         ],
         "3": [
-          "§7Concede §a+12.0% §6⸕ Pressa§7."
+          "§7Concede §a+45.0% §6⸕ Pressa§7."
         ],
         "4": [
-          "§7Concede §a+16.0% §6⸕ Pressa§7."
+          "§7Concede §a+60.0% §6⸕ Pressa§7."
         ],
         "5": [
-          "§7Concede §a+20.0% §6⸕ Pressa§7."
+          "§7Concede §a+75.0% §6⸕ Pressa§7."
         ]
       },
       "expCosts": {
@@ -2389,21 +2383,21 @@
     "reference": "sawdust",
     "name": "Serragem",
     "maxLevel": 3,
-    "firstBonus": 2.0,
+    "firstBonus": 1.0,
     "secondBonus": 0.0,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7Concede §a+2.0% §7drops extra",
+          "§7Concede §a+1.0% §7drops extra",
           "§7dos madeira."
         ],
         "2": [
-          "§7Concede §a+4.0% §7drops extra",
+          "§7Concede §a+2.0% §7drops extra",
           "§7dos madeira."
         ],
         "3": [
-          "§7Concede §a+6.0% §7drops extra",
+          "§7Concede §a+3.0% §7drops extra",
           "§7dos madeira."
         ]
       },
@@ -2475,43 +2469,43 @@
     "reference": "rapture",
     "name": "Arrebatamento",
     "maxLevel": 5,
-    "firstBonus": 2.5,
+    "firstBonus": 0.25,
     "secondBonus": 0.0,
     "allowedInEnchantTable": true,
     "extra": {
       "descriptions": {
         "1": [
-          "§7Causa 2.5% mais dano a cada",
+          "§7Causa 0.25% mais dano a cada",
           "§7jogador em um raio de §a5 §7blocos.",
           "§7Máximo de 6 jogadores."
         ],
         "2": [
-          "§7Causa 5.0% mais dano a cada",
+          "§7Causa 0.5% mais dano a cada",
           "§7jogador em um raio de §a5 §7blocos.",
           "§7Máximo de 6 jogadores."
         ],
         "3": [
-          "§7Causa 7.5% mais dano a cada",
+          "§7Causa 0.75% mais dano a cada",
           "§7jogador em um raio de §a5 §7blocos.",
           "§7Máximo de 6 jogadores."
         ],
         "4": [
-          "§7Causa 10.0% mais dano a cada",
+          "§7Causa 1.0% mais dano a cada",
           "§7jogador em um raio de §a5 §7blocos.",
           "§7Máximo de 6 jogadores."
         ],
         "5": [
-          "§7Causa 12.5% mais dano a cada",
+          "§7Causa 1.25% mais dano a cada",
           "§7jogador em um raio de §a5 §7blocos.",
           "§7Máximo de 6 jogadores."
         ]
       },
       "expCosts": {
-        "1": 40.0,
-        "2": 80.0,
-        "3": 120.0,
-        "4": 160.0,
-        "5": 200.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 25.0,
@@ -2612,11 +2606,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -2628,18 +2622,18 @@
       "targets": [
         "HOE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
         "HYPER_POTATO",
         "HYPER_CACTUS",
         "HYPER_MELON",
         "HYPER_COCOA",
         "HYPER_PUMPKIN",
-        "HYPER_SUGAR_CANE",
         "HYPER_MUSHROOM",
-        "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+        "HYPER_NETHER_WART",
+        "HYPER_SUGAR_CANE"
+      ]
     }
   },
   "HYPER_CARROT": {
@@ -2669,11 +2663,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -2685,18 +2679,18 @@
       "targets": [
         "HOE"
       ],
-      "conflicts": [
-        "HYPER_WHEAT",
+      "conflicts": [],
+      "replaces": [
         "HYPER_POTATO",
         "HYPER_CACTUS",
         "HYPER_MELON",
         "HYPER_COCOA",
         "HYPER_PUMPKIN",
-        "HYPER_SUGAR_CANE",
+        "HYPER_WHEAT",
         "HYPER_MUSHROOM",
-        "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+        "HYPER_NETHER_WART",
+        "HYPER_SUGAR_CANE"
+      ]
     }
   },
   "HYPER_POTATO": {
@@ -2726,11 +2720,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -2742,18 +2736,18 @@
       "targets": [
         "HOE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
-        "HYPER_WHEAT",
         "HYPER_CACTUS",
         "HYPER_MELON",
         "HYPER_COCOA",
         "HYPER_PUMPKIN",
-        "HYPER_SUGAR_CANE",
+        "HYPER_WHEAT",
         "HYPER_MUSHROOM",
-        "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+        "HYPER_NETHER_WART",
+        "HYPER_SUGAR_CANE"
+      ]
     }
   },
   "HYPER_CACTUS": {
@@ -2783,11 +2777,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -2800,18 +2794,18 @@
         "HOE",
         "AXE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
         "HYPER_POTATO",
-        "HYPER_WHEAT",
         "HYPER_MELON",
         "HYPER_COCOA",
         "HYPER_PUMPKIN",
-        "HYPER_SUGAR_CANE",
+        "HYPER_WHEAT",
         "HYPER_MUSHROOM",
-        "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+        "HYPER_NETHER_WART",
+        "HYPER_SUGAR_CANE"
+      ]
     }
   },
   "HYPER_MELON": {
@@ -2841,11 +2835,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -2858,18 +2852,18 @@
         "HOE",
         "AXE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
         "HYPER_POTATO",
         "HYPER_CACTUS",
-        "HYPER_WHEAT",
         "HYPER_COCOA",
         "HYPER_PUMPKIN",
-        "HYPER_SUGAR_CANE",
+        "HYPER_WHEAT",
         "HYPER_MUSHROOM",
-        "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+        "HYPER_NETHER_WART",
+        "HYPER_SUGAR_CANE"
+      ]
     }
   },
   "HYPER_COCOA": {
@@ -2899,11 +2893,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -2916,18 +2910,18 @@
         "HOE",
         "AXE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
         "HYPER_POTATO",
         "HYPER_CACTUS",
         "HYPER_MELON",
-        "HYPER_WHEAT",
         "HYPER_PUMPKIN",
-        "HYPER_SUGAR_CANE",
+        "HYPER_WHEAT",
         "HYPER_MUSHROOM",
-        "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+        "HYPER_NETHER_WART",
+        "HYPER_SUGAR_CANE"
+      ]
     }
   },
   "HYPER_PUMPKIN": {
@@ -2957,11 +2951,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -2974,18 +2968,18 @@
         "HOE",
         "AXE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
         "HYPER_POTATO",
         "HYPER_CACTUS",
         "HYPER_MELON",
         "HYPER_COCOA",
         "HYPER_WHEAT",
-        "HYPER_SUGAR_CANE",
         "HYPER_MUSHROOM",
-        "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+        "HYPER_NETHER_WART",
+        "HYPER_SUGAR_CANE"
+      ]
     }
   },
   "HYPER_SUGAR_CANE": {
@@ -3015,11 +3009,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -3031,7 +3025,8 @@
       "targets": [
         "HOE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
         "HYPER_POTATO",
         "HYPER_CACTUS",
@@ -3041,8 +3036,7 @@
         "HYPER_WHEAT",
         "HYPER_MUSHROOM",
         "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+      ]
     }
   },
   "HYPER_MUSHROOM": {
@@ -3072,11 +3066,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -3089,18 +3083,18 @@
         "HOE",
         "AXE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
         "HYPER_POTATO",
         "HYPER_CACTUS",
         "HYPER_MELON",
         "HYPER_COCOA",
         "HYPER_PUMPKIN",
-        "HYPER_SUGAR_CANE",
         "HYPER_WHEAT",
-        "HYPER_NETHER_WART"
-      ],
-      "replaces": []
+        "HYPER_NETHER_WART",
+        "HYPER_SUGAR_CANE"
+      ]
     }
   },
   "HYPER_NETHER_WART": {
@@ -3130,11 +3124,11 @@
         ]
       },
       "expCosts": {
-        "1": 5.0,
-        "2": 10.0,
-        "3": 15.0,
-        "4": 20.0,
-        "5": 25.0
+        "1": 100.0,
+        "2": 200.0,
+        "3": 300.0,
+        "4": 400.0,
+        "5": 500.0
       },
       "sellPrices": {
         "1": 15.5,
@@ -3146,17 +3140,304 @@
       "targets": [
         "HOE"
       ],
-      "conflicts": [
+      "conflicts": [],
+      "replaces": [
         "HYPER_CARROT",
         "HYPER_POTATO",
         "HYPER_CACTUS",
         "HYPER_MELON",
         "HYPER_COCOA",
         "HYPER_PUMPKIN",
-        "HYPER_SUGAR_CANE",
+        "HYPER_WHEAT",
         "HYPER_MUSHROOM",
-        "HYPER_WHEAT"
+        "HYPER_SUGAR_CANE"
+      ]
+    }
+  },
+  "WATER_MINING": {
+    "id": 165,
+    "reference": "water_mining",
+    "name": "Mineração Aquática",
+    "maxLevel": 5,
+    "firstBonus": 1.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Diminui a lentidão enquanto",
+          "§7minera embaixo d\u0027água em §a1.0%§7."
+        ],
+        "2": [
+          "§7Diminui a lentidão enquanto",
+          "§7minera embaixo d\u0027água em §a2.0%§7."
+        ],
+        "3": [
+          "§7Diminui a lentidão enquanto",
+          "§7minera embaixo d\u0027água em §a3.0%§7."
+        ],
+        "4": [
+          "§7Diminui a lentidão enquanto",
+          "§7minera embaixo d\u0027água em §a4.0%§7."
+        ],
+        "5": [
+          "§7Diminui a lentidão enquanto",
+          "§7minera embaixo d\u0027água em §a5.0%§7."
+        ]
+      },
+      "expCosts": {
+        "1": 5.0,
+        "2": 10.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 25.0
+      },
+      "sellPrices": {
+        "1": 50.0,
+        "2": 100.0,
+        "3": 150.0,
+        "4": 200.0,
+        "5": 250.0
+      },
+      "targets": [
+        "PICKAXE"
       ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "BAITED": {
+    "id": 166,
+    "reference": "baited",
+    "name": "Iscada",
+    "maxLevel": 4,
+    "firstBonus": 3.5,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a3.5 §3✧ Velocidade de Pesca§7 que",
+          "§7diminui o tempo que leva para fisgar algo."
+        ],
+        "2": [
+          "§7Concede §a7.0 §3✧ Velocidade de Pesca§7 que",
+          "§7diminui o tempo que leva para fisgar algo."
+        ],
+        "3": [
+          "§7Concede §a10.5 §3✧ Velocidade de Pesca§7 que",
+          "§7diminui o tempo que leva para fisgar algo."
+        ],
+        "4": [
+          "§7Concede §a14.0 §3✧ Velocidade de Pesca§7 que",
+          "§7diminui o tempo que leva para fisgar algo."
+        ]
+      },
+      "expCosts": {
+        "1": 3.5,
+        "2": 7.0,
+        "3": 10.5,
+        "4": 14.0
+      },
+      "sellPrices": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0,
+        "4": 100.0
+      },
+      "targets": [
+        "FISHING_ROD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "DECOY": {
+    "id": 167,
+    "reference": "decoy",
+    "name": "Chamariz",
+    "maxLevel": 5,
+    "firstBonus": 2.5,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a2.5 §3α Chance de Criaturas",
+          "§3Marinhas §7que aumenta suas chances de",
+          "§7fisgar criaturas marinhas"
+        ],
+        "2": [
+          "§7Concede §a5.0 §3α Chance de Criaturas",
+          "§3Marinhas §7que aumenta suas chances de",
+          "§7fisgar criaturas marinhas"
+        ],
+        "3": [
+          "§7Concede §a7.5 §3α Chance de Criaturas",
+          "§3Marinhas §7que aumenta suas chances de",
+          "§7fisgar criaturas marinhas"
+        ],
+        "4": [
+          "§7Concede §a10.0 §3α Chance de Criaturas",
+          "§3Marinhas §7que aumenta suas chances de",
+          "§7fisgar criaturas marinhas"
+        ],
+        "5": [
+          "§7Concede §a12.5 §3α Chance de Criaturas",
+          "§3Marinhas §7que aumenta suas chances de",
+          "§7fisgar criaturas marinhas"
+        ]
+      },
+      "expCosts": {
+        "1": 3.5,
+        "2": 7.0,
+        "3": 10.5,
+        "4": 14.0,
+        "5": 17.5
+      },
+      "sellPrices": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0,
+        "4": 100.0,
+        "5": 125.0
+      },
+      "targets": [
+        "FISHING_ROD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "PRESAGE": {
+    "id": 168,
+    "reference": "presage",
+    "name": "Presságio",
+    "maxLevel": 3,
+    "firstBonus": 2.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a2.0 §3♠ Chance de Tesouros §7que",
+          "§7aumenta suas chances de encontrar tesouros"
+        ],
+        "2": [
+          "§7Concede §a4.0 §3♠ Chance de Tesouros §7que",
+          "§7aumenta suas chances de encontrar tesouros"
+        ],
+        "3": [
+          "§7Concede §a6.0 §3♠ Chance de Tesouros §7que",
+          "§7aumenta suas chances de encontrar tesouros"
+        ]
+      },
+      "expCosts": {
+        "1": 6.5,
+        "2": 13.0,
+        "3": 19.5
+      },
+      "sellPrices": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0
+      },
+      "targets": [
+        "FISHING_ROD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "SHOAL": {
+    "id": 169,
+    "reference": "shoal",
+    "name": "Cardume",
+    "maxLevel": 5,
+    "firstBonus": 10.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a10.0 §3☤ Bônus de Pesca§7 que",
+          "§7aumenta os drops de pesca."
+        ],
+        "2": [
+          "§7Concede §a20.0 §3☤ Bônus de Pesca§7 que",
+          "§7aumenta os drops de pesca."
+        ],
+        "3": [
+          "§7Concede §a30.0 §3☤ Bônus de Pesca§7 que",
+          "§7aumenta os drops de pesca."
+        ],
+        "4": [
+          "§7Concede §a40.0 §3☤ Bônus de Pesca§7 que",
+          "§7aumenta os drops de pesca."
+        ],
+        "5": [
+          "§7Concede §a50.0 §3☤ Bônus de Pesca§7 que",
+          "§7aumenta os drops de pesca."
+        ]
+      },
+      "expCosts": {
+        "1": 3.5,
+        "2": 7.0,
+        "3": 10.5,
+        "4": 14.0,
+        "5": 17.5
+      },
+      "sellPrices": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0,
+        "4": 100.0,
+        "5": 125.0
+      },
+      "targets": [
+        "FISHING_ROD"
+      ],
+      "conflicts": [],
+      "replaces": []
+    }
+  },
+  "HOOK_BATTER": {
+    "id": 170,
+    "reference": "hook_batter",
+    "name": "Bate-Anzol",
+    "maxLevel": 3,
+    "firstBonus": 4.0,
+    "secondBonus": 0.0,
+    "allowedInEnchantTable": true,
+    "extra": {
+      "descriptions": {
+        "1": [
+          "§7Concede §a4.0% §7chance de",
+          "§7fisgar recompensas dobradas."
+        ],
+        "2": [
+          "§7Concede §a8.0% §7chance de",
+          "§7fisgar recompensas dobradas."
+        ],
+        "3": [
+          "§7Concede §a12.0% §7chance de",
+          "§7fisgar recompensas dobradas."
+        ]
+      },
+      "expCosts": {
+        "1": 3.5,
+        "2": 7.0,
+        "3": 10.5
+      },
+      "sellPrices": {
+        "1": 25.0,
+        "2": 50.0,
+        "3": 75.0
+      },
+      "targets": [
+        "FISHING_ROD"
+      ],
+      "conflicts": [],
       "replaces": []
     }
   }
