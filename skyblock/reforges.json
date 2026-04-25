@@ -45,38 +45,38 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 5.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 10.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 10.0
       },
       "RARE": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 18.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 18.0
       },
       "EPIC": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 32.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 32.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 50.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "CRIT_DAMAGE": 50.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 65.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 65.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 32.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 32.0
       }
     }
   },
@@ -126,45 +126,45 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 3.0
       },
       "EPIC": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 6.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 8.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 8.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 16.0,
         "MAX_INTELLIGENCE": 10.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 16.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 6.0
       }
     }
   },
@@ -176,53 +176,53 @@
     "obtainable": false,
     "stats": {
       "COMMON": {
-        "SPEED": 5.0,
         "CRIT_CHANCE": 25.0,
-        "CRIT_DAMAGE": 5.0,
         "MAX_INTELLIGENCE": 10.0,
-        "STRENGTH": 20.0
+        "STRENGTH": 20.0,
+        "SPEED": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "UNCOMMON": {
-        "SPEED": 5.0,
         "CRIT_CHANCE": 45.0,
-        "CRIT_DAMAGE": 5.0,
         "MAX_INTELLIGENCE": 25.0,
-        "STRENGTH": 25.0
+        "STRENGTH": 25.0,
+        "SPEED": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "RARE": {
-        "SPEED": 10.0,
         "CRIT_CHANCE": 50.0,
-        "CRIT_DAMAGE": 10.0,
         "MAX_INTELLIGENCE": 35.0,
-        "STRENGTH": 35.0
+        "STRENGTH": 35.0,
+        "SPEED": 10.0,
+        "CRIT_DAMAGE": 10.0
       },
       "EPIC": {
-        "SPEED": 10.0,
         "CRIT_CHANCE": 50.0,
-        "CRIT_DAMAGE": 10.0,
         "MAX_INTELLIGENCE": 45.0,
-        "STRENGTH": 35.0
+        "STRENGTH": 35.0,
+        "SPEED": 10.0,
+        "CRIT_DAMAGE": 10.0
       },
       "LEGENDARY": {
-        "SPEED": 15.0,
         "CRIT_CHANCE": 60.0,
-        "CRIT_DAMAGE": 15.0,
         "MAX_INTELLIGENCE": 45.0,
-        "STRENGTH": 40.0
+        "STRENGTH": 40.0,
+        "SPEED": 15.0,
+        "CRIT_DAMAGE": 15.0
       },
       "MYTHICAL": {
-        "SPEED": 15.0,
         "CRIT_CHANCE": 65.0,
-        "CRIT_DAMAGE": 20.0,
         "MAX_INTELLIGENCE": 50.0,
-        "STRENGTH": 40.0
+        "STRENGTH": 40.0,
+        "SPEED": 15.0,
+        "CRIT_DAMAGE": 20.0
       },
       "SPECIAL": {
-        "SPEED": 10.0,
         "CRIT_CHANCE": 50.0,
-        "CRIT_DAMAGE": 10.0,
         "MAX_INTELLIGENCE": 45.0,
-        "STRENGTH": 35.0
+        "STRENGTH": 35.0,
+        "SPEED": 10.0,
+        "CRIT_DAMAGE": 10.0
       }
     }
   },
@@ -234,39 +234,39 @@
     "obtainable": false,
     "stats": {
       "COMMON": {
-        "CRIT_DAMAGE": 5.0,
         "MAX_INTELLIGENCE": 10.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 5.0
       },
       "UNCOMMON": {
-        "CRIT_DAMAGE": 10.0,
         "MAX_INTELLIGENCE": 25.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 10.0
       },
       "RARE": {
-        "CRIT_DAMAGE": 15.0,
         "MAX_INTELLIGENCE": 20.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 15.0
       },
       "EPIC": {
-        "CRIT_DAMAGE": 15.0,
         "MAX_INTELLIGENCE": 30.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 15.0
       },
       "LEGENDARY": {
-        "CRIT_DAMAGE": 15.0,
         "MAX_INTELLIGENCE": 35.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 15.0
       },
       "MYTHICAL": {
-        "CRIT_DAMAGE": 25.0,
         "MAX_INTELLIGENCE": 45.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 25.0
       },
       "SPECIAL": {
-        "CRIT_DAMAGE": 15.0,
         "MAX_INTELLIGENCE": 30.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 15.0
       }
     }
   },
@@ -283,33 +283,33 @@
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "EPIC": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 5.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 15.0,
-        "CRIT_DAMAGE": 10.0,
-        "STRENGTH": 20.0
+        "STRENGTH": 20.0,
+        "CRIT_DAMAGE": 10.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 5.0
       }
     }
   },
@@ -322,45 +322,45 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 10.0,
         "MAX_INTELLIGENCE": 10.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 10.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -397,45 +397,45 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 6.0
+        "STRENGTH": 6.0,
+        "CRIT_DAMAGE": 3.0
       },
       "EPIC": {
         "CRIT_CHANCE": 7.0,
-        "CRIT_DAMAGE": 7.0,
         "MAX_INTELLIGENCE": 15.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 7.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 7.0,
-        "CRIT_DAMAGE": 7.0,
         "MAX_INTELLIGENCE": 25.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 7.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 14.0,
-        "CRIT_DAMAGE": 14.0,
         "MAX_INTELLIGENCE": 35.0,
-        "STRENGTH": 20.0
+        "STRENGTH": 20.0,
+        "CRIT_DAMAGE": 14.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 7.0,
-        "CRIT_DAMAGE": 7.0,
         "MAX_INTELLIGENCE": 15.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 7.0
       }
     }
   },
@@ -447,19 +447,19 @@
     "obtainable": false,
     "stats": {
       "RARE": {
-        "CRIT_DAMAGE": 10.0,
         "MAX_INTELLIGENCE": 50.0,
-        "STRENGTH": 20.0
+        "STRENGTH": 20.0,
+        "CRIT_DAMAGE": 10.0
       },
       "EPIC": {
-        "CRIT_DAMAGE": 20.0,
         "MAX_INTELLIGENCE": 100.0,
-        "STRENGTH": 30.0
+        "STRENGTH": 30.0,
+        "CRIT_DAMAGE": 20.0
       },
       "SPECIAL": {
-        "CRIT_DAMAGE": 20.0,
         "MAX_INTELLIGENCE": 100.0,
-        "STRENGTH": 30.0
+        "STRENGTH": 30.0,
+        "CRIT_DAMAGE": 20.0
       }
     }
   },
@@ -472,38 +472,38 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_INTELLIGENCE": 5.0
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_INTELLIGENCE": 7.0
+        "MAX_INTELLIGENCE": 7.0,
+        "CRIT_DAMAGE": 3.0
       },
       "RARE": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 5.0,
-        "MAX_INTELLIGENCE": 10.0
+        "MAX_INTELLIGENCE": 10.0,
+        "CRIT_DAMAGE": 5.0
       },
       "EPIC": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 5.0,
-        "MAX_INTELLIGENCE": 15.0
+        "MAX_INTELLIGENCE": 15.0,
+        "CRIT_DAMAGE": 5.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 10.0,
-        "MAX_INTELLIGENCE": 20.0
+        "MAX_INTELLIGENCE": 20.0,
+        "CRIT_DAMAGE": 10.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 15.0,
-        "CRIT_DAMAGE": 15.0,
-        "MAX_INTELLIGENCE": 25.0
+        "MAX_INTELLIGENCE": 25.0,
+        "CRIT_DAMAGE": 15.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 5.0,
-        "MAX_INTELLIGENCE": 15.0
+        "MAX_INTELLIGENCE": 15.0,
+        "CRIT_DAMAGE": 5.0
       }
     }
   },
@@ -672,38 +672,38 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_INTELLIGENCE": 1.0
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_INTELLIGENCE": 1.0
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_INTELLIGENCE": 2.0
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
         "CRIT_CHANCE": 6.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_INTELLIGENCE": 3.0
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 8.0,
-        "CRIT_DAMAGE": 5.0,
-        "MAX_INTELLIGENCE": 5.0
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 18.0,
-        "CRIT_DAMAGE": 7.0,
-        "MAX_INTELLIGENCE": 7.0
+        "MAX_INTELLIGENCE": 7.0,
+        "CRIT_DAMAGE": 7.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 6.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_INTELLIGENCE": 3.0
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -716,45 +716,45 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 3.0
       },
       "EPIC": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 6.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 8.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 8.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 7.0,
-        "CRIT_DAMAGE": 12.0,
         "MAX_INTELLIGENCE": 9.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 12.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 6.0
       }
     }
   },
@@ -803,46 +803,46 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "SPEED": 5.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_INTELLIGENCE": -5.0
+        "MAX_INTELLIGENCE": -5.0,
+        "SPEED": 5.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
-        "SPEED": 10.0,
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_INTELLIGENCE": -10.0
+        "MAX_INTELLIGENCE": -10.0,
+        "SPEED": 10.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
-        "SPEED": 18.0,
         "CRIT_CHANCE": 4.0,
-        "CRIT_DAMAGE": 4.0,
-        "MAX_INTELLIGENCE": -18.0
+        "MAX_INTELLIGENCE": -18.0,
+        "SPEED": 18.0,
+        "CRIT_DAMAGE": 4.0
       },
       "EPIC": {
-        "SPEED": 20.0,
         "CRIT_CHANCE": 7.0,
-        "CRIT_DAMAGE": 7.0,
-        "MAX_INTELLIGENCE": -32.0
+        "MAX_INTELLIGENCE": -32.0,
+        "SPEED": 20.0,
+        "CRIT_DAMAGE": 7.0
       },
       "LEGENDARY": {
-        "SPEED": 24.0,
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 10.0,
-        "MAX_INTELLIGENCE": -50.0
+        "MAX_INTELLIGENCE": -50.0,
+        "SPEED": 24.0,
+        "CRIT_DAMAGE": 10.0
       },
       "MYTHICAL": {
-        "SPEED": 30.0,
         "CRIT_CHANCE": 15.0,
-        "CRIT_DAMAGE": 15.0,
-        "MAX_INTELLIGENCE": -100.0
+        "MAX_INTELLIGENCE": -100.0,
+        "SPEED": 30.0,
+        "CRIT_DAMAGE": 15.0
       },
       "SPECIAL": {
-        "SPEED": 20.0,
         "CRIT_CHANCE": 7.0,
-        "CRIT_DAMAGE": 7.0,
-        "MAX_INTELLIGENCE": -32.0
+        "MAX_INTELLIGENCE": -32.0,
+        "SPEED": 20.0,
+        "CRIT_DAMAGE": 7.0
       }
     }
   },
@@ -855,45 +855,45 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 6.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_INTELLIGENCE": 6.0,
-        "STRENGTH": 6.0
+        "STRENGTH": 6.0,
+        "CRIT_DAMAGE": 6.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -981,38 +981,38 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 4.0,
-        "CRIT_DAMAGE": 4.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 4.0
       },
       "RARE": {
         "CRIT_CHANCE": 7.0,
-        "CRIT_DAMAGE": 7.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 7.0
       },
       "EPIC": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 10.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 10.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 15.0,
-        "CRIT_DAMAGE": 15.0,
-        "STRENGTH": 15.0
+        "STRENGTH": 15.0,
+        "CRIT_DAMAGE": 15.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 25.0,
-        "CRIT_DAMAGE": 25.0,
-        "STRENGTH": 25.0
+        "STRENGTH": 25.0,
+        "CRIT_DAMAGE": 25.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 10.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 10.0
       }
     }
   },
@@ -1024,32 +1024,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 5.0
       },
       "UNCOMMON": {
-        "CRIT_DAMAGE": 10.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 10.0
       },
       "RARE": {
-        "CRIT_DAMAGE": 18.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 18.0
       },
       "EPIC": {
-        "CRIT_DAMAGE": 32.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 32.0
       },
       "LEGENDARY": {
-        "CRIT_DAMAGE": 50.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 50.0
       },
       "MYTHICAL": {
-        "CRIT_DAMAGE": 75.0,
-        "STRENGTH": 12.0
+        "STRENGTH": 12.0,
+        "CRIT_DAMAGE": 75.0
       },
       "SPECIAL": {
-        "CRIT_DAMAGE": 32.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 32.0
       }
     }
   },
@@ -1069,28 +1069,28 @@
       },
       "RARE": {
         "FARMING_FORTUNE": 10.0,
-        "SPEED": 5.0,
-        "MAX_INTELLIGENCE": 10.0
+        "MAX_INTELLIGENCE": 10.0,
+        "SPEED": 5.0
       },
       "EPIC": {
         "FARMING_FORTUNE": 10.0,
-        "SPEED": 10.0,
-        "MAX_INTELLIGENCE": 15.0
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 10.0
       },
       "LEGENDARY": {
         "FARMING_FORTUNE": 15.0,
-        "SPEED": 15.0,
-        "MAX_INTELLIGENCE": 20.0
+        "MAX_INTELLIGENCE": 20.0,
+        "SPEED": 15.0
       },
       "MYTHICAL": {
         "FARMING_FORTUNE": 45.0,
-        "SPEED": 35.0,
-        "MAX_INTELLIGENCE": 40.0
+        "MAX_INTELLIGENCE": 40.0,
+        "SPEED": 35.0
       },
       "SPECIAL": {
         "FARMING_FORTUNE": 10.0,
-        "SPEED": 10.0,
-        "MAX_INTELLIGENCE": 15.0
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 10.0
       }
     }
   },
@@ -1103,38 +1103,38 @@
     "stats": {
       "COMMON": {
         "FARMING_FORTUNE": 10.0,
-        "SPEED": -5.0,
-        "MAX_INTELLIGENCE": -5.0
+        "MAX_INTELLIGENCE": -5.0,
+        "SPEED": -5.0
       },
       "UNCOMMON": {
         "FARMING_FORTUNE": 10.0,
-        "SPEED": -10.0,
-        "MAX_INTELLIGENCE": -10.0
+        "MAX_INTELLIGENCE": -10.0,
+        "SPEED": -10.0
       },
       "RARE": {
         "FARMING_FORTUNE": 20.0,
-        "SPEED": -20.0,
-        "MAX_INTELLIGENCE": -10.0
+        "MAX_INTELLIGENCE": -10.0,
+        "SPEED": -20.0
       },
       "EPIC": {
         "FARMING_FORTUNE": 25.0,
-        "SPEED": -25.0,
-        "MAX_INTELLIGENCE": -15.0
+        "MAX_INTELLIGENCE": -15.0,
+        "SPEED": -25.0
       },
       "LEGENDARY": {
         "FARMING_FORTUNE": 30.0,
-        "SPEED": -30.0,
-        "MAX_INTELLIGENCE": -20.0
+        "MAX_INTELLIGENCE": -20.0,
+        "SPEED": -30.0
       },
       "MYTHICAL": {
         "FARMING_FORTUNE": 50.0,
-        "SPEED": -40.0,
-        "MAX_INTELLIGENCE": -30.0
+        "MAX_INTELLIGENCE": -30.0,
+        "SPEED": -40.0
       },
       "SPECIAL": {
         "FARMING_FORTUNE": 25.0,
-        "SPEED": -25.0,
-        "MAX_INTELLIGENCE": -15.0
+        "MAX_INTELLIGENCE": -15.0,
+        "SPEED": -25.0
       }
     }
   },
@@ -1146,50 +1146,50 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_HEALTH": 1.0,
-        "MAX_INTELLIGENCE": 1.0
+        "MAX_INTELLIGENCE": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_HEALTH": 1.0,
-        "MAX_INTELLIGENCE": 2.0
+        "MAX_INTELLIGENCE": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
-        "DEFENSE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 2.0
+        "MAX_INTELLIGENCE": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
+        "MAX_HEALTH": 2.0,
+        "MAX_INTELLIGENCE": 3.0,
         "DEFENSE": 3.0,
         "SPEED": 1.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 3.0
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
+        "MAX_HEALTH": 3.0,
+        "MAX_INTELLIGENCE": 3.0,
         "DEFENSE": 3.0,
         "SPEED": 2.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_HEALTH": 3.0,
-        "MAX_INTELLIGENCE": 3.0
+        "CRIT_DAMAGE": 3.0
       },
       "MYTHICAL": {
+        "MAX_HEALTH": 4.0,
+        "MAX_INTELLIGENCE": 4.0,
         "DEFENSE": 4.0,
         "SPEED": 3.0,
-        "CRIT_DAMAGE": 4.0,
-        "MAX_HEALTH": 4.0,
-        "MAX_INTELLIGENCE": 4.0
+        "CRIT_DAMAGE": 4.0
       },
       "SPECIAL": {
+        "MAX_HEALTH": 2.0,
+        "MAX_INTELLIGENCE": 3.0,
         "DEFENSE": 3.0,
         "SPEED": 1.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 3.0
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -1201,32 +1201,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "SPEED": 1.0,
-        "HASTE": 2.0
+        "HASTE": 2.0,
+        "SPEED": 1.0
       },
       "UNCOMMON": {
-        "SPEED": 1.0,
-        "HASTE": 3.0
+        "HASTE": 3.0,
+        "SPEED": 1.0
       },
       "RARE": {
-        "SPEED": 2.0,
-        "HASTE": 3.0
+        "HASTE": 3.0,
+        "SPEED": 2.0
       },
       "EPIC": {
-        "SPEED": 2.0,
-        "HASTE": 4.0
+        "HASTE": 4.0,
+        "SPEED": 2.0
       },
       "LEGENDARY": {
-        "SPEED": 3.0,
-        "HASTE": 5.0
+        "HASTE": 5.0,
+        "SPEED": 3.0
       },
       "MYTHICAL": {
-        "SPEED": 4.0,
-        "HASTE": 5.0
+        "HASTE": 5.0,
+        "SPEED": 4.0
       },
       "SPECIAL": {
-        "SPEED": 2.0,
-        "HASTE": 4.0
+        "HASTE": 4.0,
+        "SPEED": 2.0
       }
     }
   },
@@ -1239,52 +1239,52 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": -1.0,
-        "CRIT_DAMAGE": -1.0,
         "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": -1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": -2.0,
-        "CRIT_DAMAGE": -2.0,
         "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 6.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": -2.0
       },
       "RARE": {
         "CRIT_CHANCE": -2.0,
-        "CRIT_DAMAGE": -2.0,
         "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 10.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": -2.0
       },
       "EPIC": {
         "CRIT_CHANCE": -3.0,
-        "CRIT_DAMAGE": -3.0,
         "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 15.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": -3.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": -4.0,
-        "CRIT_DAMAGE": -4.0,
         "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 20.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": -4.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": -4.0,
-        "CRIT_DAMAGE": -4.0,
         "MAX_HEALTH": 4.0,
         "MAX_INTELLIGENCE": 25.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": -4.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": -3.0,
-        "CRIT_DAMAGE": -3.0,
         "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 15.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": -3.0
       }
     }
   },
@@ -1296,39 +1296,39 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       },
       "RARE": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       },
       "EPIC": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       },
       "LEGENDARY": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       },
       "MYTHICAL": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       },
       "SPECIAL": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       }
     }
   },
@@ -1340,46 +1340,46 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "MINING_FORTUNE": 1.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "MINING_FORTUNE": 1.0,
+        "STRENGTH": 1.0,
+        "SPEED": 1.0
       },
       "UNCOMMON": {
-        "MINING_FORTUNE": 1.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "STRENGTH": 2.0
+        "MINING_FORTUNE": 1.0,
+        "STRENGTH": 2.0,
+        "SPEED": 1.0
       },
       "RARE": {
-        "MINING_FORTUNE": 2.0,
-        "SPEED": 2.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "MINING_FORTUNE": 2.0,
+        "STRENGTH": 1.0,
+        "SPEED": 2.0
       },
       "EPIC": {
-        "MINING_FORTUNE": 2.0,
-        "SPEED": 2.0,
         "MAX_HEALTH": 2.0,
-        "STRENGTH": 2.0
+        "MINING_FORTUNE": 2.0,
+        "STRENGTH": 2.0,
+        "SPEED": 2.0
       },
       "LEGENDARY": {
-        "MINING_FORTUNE": 2.0,
-        "SPEED": 2.0,
         "MAX_HEALTH": 3.0,
-        "STRENGTH": 3.0
+        "MINING_FORTUNE": 2.0,
+        "STRENGTH": 3.0,
+        "SPEED": 2.0
       },
       "MYTHICAL": {
-        "MINING_FORTUNE": 3.0,
-        "SPEED": 3.0,
         "MAX_HEALTH": 3.0,
-        "STRENGTH": 3.0
+        "MINING_FORTUNE": 3.0,
+        "STRENGTH": 3.0,
+        "SPEED": 3.0
       },
       "SPECIAL": {
-        "MINING_FORTUNE": 2.0,
-        "SPEED": 2.0,
         "MAX_HEALTH": 2.0,
-        "STRENGTH": 2.0
+        "MINING_FORTUNE": 2.0,
+        "STRENGTH": 2.0,
+        "SPEED": 2.0
       }
     }
   },
@@ -1391,53 +1391,53 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": -5.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 1.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": -10.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "RARE": {
-        "DEFENSE": 2.0,
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": -18.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
-        "DEFENSE": 3.0,
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": -32.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
-        "DEFENSE": 5.0,
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 5.0,
         "MAX_INTELLIGENCE": -50.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "DEFENSE": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
-        "DEFENSE": 6.0,
         "CRIT_CHANCE": 6.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_INTELLIGENCE": -72.0,
-        "STRENGTH": 6.0
+        "STRENGTH": 6.0,
+        "DEFENSE": 6.0,
+        "CRIT_DAMAGE": 6.0
       },
       "SPECIAL": {
-        "DEFENSE": 3.0,
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": -32.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -1486,32 +1486,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "CRIT_DAMAGE": 3.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 3.0
       },
       "UNCOMMON": {
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 5.0
       },
       "RARE": {
-        "CRIT_DAMAGE": 8.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 8.0
       },
       "EPIC": {
-        "CRIT_DAMAGE": 12.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 12.0
       },
       "LEGENDARY": {
-        "CRIT_DAMAGE": 12.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 12.0
       },
       "MYTHICAL": {
-        "CRIT_DAMAGE": 16.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 16.0
       },
       "SPECIAL": {
-        "CRIT_DAMAGE": 12.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 12.0
       }
     }
   },
@@ -1535,24 +1535,24 @@
         "MAX_INTELLIGENCE": 10.0
       },
       "EPIC": {
-        "SPEED": 1.0,
         "MAX_HEALTH": 3.0,
-        "MAX_INTELLIGENCE": 15.0
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 1.0
       },
       "LEGENDARY": {
-        "SPEED": 2.0,
         "MAX_HEALTH": 4.0,
-        "MAX_INTELLIGENCE": 15.0
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 2.0
       },
       "MYTHICAL": {
-        "SPEED": 3.0,
         "MAX_HEALTH": 5.0,
-        "MAX_INTELLIGENCE": 15.0
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 3.0
       },
       "SPECIAL": {
-        "SPEED": 1.0,
         "MAX_HEALTH": 3.0,
-        "MAX_INTELLIGENCE": 15.0
+        "MAX_INTELLIGENCE": 15.0,
+        "SPEED": 1.0
       }
     }
   },
@@ -1564,53 +1564,53 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
-        "DEFENSE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "EPIC": {
-        "DEFENSE": 4.0,
-        "CRIT_DAMAGE": 4.0,
         "MAX_HEALTH": 4.0,
         "MAX_INTELLIGENCE": 4.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "DEFENSE": 4.0,
+        "CRIT_DAMAGE": 4.0
       },
       "LEGENDARY": {
-        "DEFENSE": 5.0,
-        "CRIT_DAMAGE": 5.0,
         "MAX_HEALTH": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "DEFENSE": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
-        "DEFENSE": 6.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_HEALTH": 6.0,
         "MAX_INTELLIGENCE": 6.0,
-        "STRENGTH": 6.0
+        "STRENGTH": 6.0,
+        "DEFENSE": 6.0,
+        "CRIT_DAMAGE": 6.0
       },
       "SPECIAL": {
-        "DEFENSE": 4.0,
-        "CRIT_DAMAGE": 4.0,
         "MAX_HEALTH": 4.0,
         "MAX_INTELLIGENCE": 4.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "DEFENSE": 4.0,
+        "CRIT_DAMAGE": 4.0
       }
     }
   },
@@ -1622,44 +1622,44 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 1.0,
         "MAX_HEALTH": 2.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0
       },
       "RARE": {
-        "DEFENSE": 1.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0,
+        "SPEED": 1.0
       },
       "EPIC": {
-        "DEFENSE": 2.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "SPEED": 1.0
       },
       "LEGENDARY": {
-        "DEFENSE": 2.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 2.0,
+        "SPEED": 1.0
       },
       "MYTHICAL": {
-        "DEFENSE": 3.0,
-        "SPEED": 2.0,
         "MAX_HEALTH": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "SPEED": 2.0
       },
       "SPECIAL": {
-        "DEFENSE": 2.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "SPEED": 1.0
       }
     }
   },
@@ -1716,32 +1716,32 @@
     "obtainable": false,
     "stats": {
       "COMMON": {
-        "DEFENSE": 10.0,
-        "MAX_HEALTH": 20.0
+        "MAX_HEALTH": 20.0,
+        "DEFENSE": 10.0
       },
       "UNCOMMON": {
-        "DEFENSE": 10.0,
-        "MAX_HEALTH": 30.0
+        "MAX_HEALTH": 30.0,
+        "DEFENSE": 10.0
       },
       "RARE": {
-        "DEFENSE": 20.0,
-        "MAX_HEALTH": 40.0
+        "MAX_HEALTH": 40.0,
+        "DEFENSE": 20.0
       },
       "EPIC": {
-        "DEFENSE": 30.0,
-        "MAX_HEALTH": 50.0
+        "MAX_HEALTH": 50.0,
+        "DEFENSE": 30.0
       },
       "LEGENDARY": {
-        "DEFENSE": 40.0,
-        "MAX_HEALTH": 60.0
+        "MAX_HEALTH": 60.0,
+        "DEFENSE": 40.0
       },
       "MYTHICAL": {
-        "DEFENSE": 60.0,
-        "MAX_HEALTH": 80.0
+        "MAX_HEALTH": 80.0,
+        "DEFENSE": 60.0
       },
       "SPECIAL": {
-        "DEFENSE": 30.0,
-        "MAX_HEALTH": 50.0
+        "MAX_HEALTH": 50.0,
+        "DEFENSE": 30.0
       }
     }
   },
@@ -1799,38 +1799,38 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_INTELLIGENCE": 1.0
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_INTELLIGENCE": 1.0
+        "MAX_INTELLIGENCE": 1.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_INTELLIGENCE": 2.0
+        "MAX_INTELLIGENCE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
         "CRIT_CHANCE": 6.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_INTELLIGENCE": 3.0
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 8.0,
-        "CRIT_DAMAGE": 5.0,
-        "MAX_INTELLIGENCE": 5.0
+        "MAX_INTELLIGENCE": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 16.0,
-        "CRIT_DAMAGE": 10.0,
-        "MAX_INTELLIGENCE": 12.0
+        "MAX_INTELLIGENCE": 12.0,
+        "CRIT_DAMAGE": 10.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 6.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_INTELLIGENCE": 3.0
+        "MAX_INTELLIGENCE": 3.0,
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -1847,45 +1847,45 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 3.0
       },
       "EPIC": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 6.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 8.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 8.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 12.0,
         "MAX_INTELLIGENCE": 8.0,
-        "STRENGTH": 16.0
+        "STRENGTH": 16.0,
+        "CRIT_DAMAGE": 12.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 6.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 6.0
       }
     }
   },
@@ -1901,46 +1901,46 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 2.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
-        "DEFENSE": 2.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
-        "DEFENSE": 3.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
-        "DEFENSE": 1.0,
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
-        "DEFENSE": 4.0,
         "CRIT_CHANCE": 6.0,
-        "CRIT_DAMAGE": 10.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "DEFENSE": 4.0,
+        "CRIT_DAMAGE": 10.0
       },
       "SPECIAL": {
-        "DEFENSE": 3.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -1957,45 +1957,45 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 10.0,
-        "CRIT_DAMAGE": 10.0,
         "MAX_INTELLIGENCE": 10.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 10.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -2064,32 +2064,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
-        "MAX_INTELLIGENCE": 5.0
+        "MAX_INTELLIGENCE": 5.0,
+        "DEFENSE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 2.0,
-        "MAX_INTELLIGENCE": 18.0
+        "MAX_INTELLIGENCE": 18.0,
+        "DEFENSE": 2.0
       },
       "RARE": {
-        "DEFENSE": 2.0,
-        "MAX_INTELLIGENCE": 18.0
+        "MAX_INTELLIGENCE": 18.0,
+        "DEFENSE": 2.0
       },
       "EPIC": {
-        "DEFENSE": 3.0,
-        "MAX_INTELLIGENCE": 32.0
+        "MAX_INTELLIGENCE": 32.0,
+        "DEFENSE": 3.0
       },
       "LEGENDARY": {
-        "DEFENSE": 5.0,
-        "MAX_INTELLIGENCE": 50.0
+        "MAX_INTELLIGENCE": 50.0,
+        "DEFENSE": 5.0
       },
       "MYTHICAL": {
-        "DEFENSE": 15.0,
-        "MAX_INTELLIGENCE": 75.0
+        "MAX_INTELLIGENCE": 75.0,
+        "DEFENSE": 15.0
       },
       "SPECIAL": {
-        "DEFENSE": 3.0,
-        "MAX_INTELLIGENCE": 32.0
+        "MAX_INTELLIGENCE": 32.0,
+        "DEFENSE": 3.0
       }
     }
   },
@@ -2105,46 +2105,46 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
+        "MAX_HEALTH": 1.0,
         "DEFENSE": 1.0,
         "SPEED": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 1.0
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
+        "MAX_HEALTH": 2.0,
         "DEFENSE": 2.0,
         "SPEED": 3.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_HEALTH": 2.0
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
+        "MAX_HEALTH": 2.0,
         "DEFENSE": 2.0,
         "SPEED": 3.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_HEALTH": 2.0
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
+        "MAX_HEALTH": 3.0,
         "DEFENSE": 3.0,
         "SPEED": 5.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_HEALTH": 3.0
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
+        "MAX_HEALTH": 5.0,
         "DEFENSE": 5.0,
         "SPEED": 10.0,
-        "CRIT_DAMAGE": 5.0,
-        "MAX_HEALTH": 5.0
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
+        "MAX_HEALTH": 7.0,
         "DEFENSE": 9.0,
         "SPEED": 15.0,
-        "CRIT_DAMAGE": 7.0,
-        "MAX_HEALTH": 7.0
+        "CRIT_DAMAGE": 7.0
       },
       "SPECIAL": {
+        "MAX_HEALTH": 3.0,
         "DEFENSE": 3.0,
         "SPEED": 5.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_HEALTH": 3.0
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -2160,39 +2160,39 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
+        "MAX_HEALTH": 1.0,
         "DEFENSE": 1.0,
-        "SPEED": 1.0,
-        "MAX_HEALTH": 1.0
+        "SPEED": 1.0
       },
       "UNCOMMON": {
+        "MAX_HEALTH": 1.0,
         "DEFENSE": 4.0,
-        "SPEED": 1.0,
-        "MAX_HEALTH": 1.0
+        "SPEED": 1.0
       },
       "RARE": {
+        "MAX_HEALTH": 1.0,
         "DEFENSE": 4.0,
-        "SPEED": 1.0,
-        "MAX_HEALTH": 1.0
+        "SPEED": 1.0
       },
       "EPIC": {
+        "MAX_HEALTH": 2.0,
         "DEFENSE": 7.0,
-        "SPEED": 1.0,
-        "MAX_HEALTH": 2.0
+        "SPEED": 1.0
       },
       "LEGENDARY": {
+        "MAX_HEALTH": 2.0,
         "DEFENSE": 10.0,
-        "SPEED": 1.0,
-        "MAX_HEALTH": 2.0
+        "SPEED": 1.0
       },
       "MYTHICAL": {
+        "MAX_HEALTH": 4.0,
         "DEFENSE": 14.0,
-        "SPEED": 1.0,
-        "MAX_HEALTH": 4.0
+        "SPEED": 1.0
       },
       "SPECIAL": {
+        "MAX_HEALTH": 2.0,
         "DEFENSE": 7.0,
-        "SPEED": 1.0,
-        "MAX_HEALTH": 2.0
+        "SPEED": 1.0
       }
     }
   },
@@ -2208,53 +2208,53 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0,
+        "SPEED": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 2.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 12.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "SPEED": 1.0
       },
       "RARE": {
-        "DEFENSE": 2.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 12.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "SPEED": 1.0
       },
       "EPIC": {
-        "DEFENSE": 3.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 18.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "SPEED": 1.0
       },
       "LEGENDARY": {
-        "DEFENSE": 5.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 5.0,
         "MAX_INTELLIGENCE": 25.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "DEFENSE": 5.0,
+        "SPEED": 1.0
       },
       "MYTHICAL": {
-        "DEFENSE": 10.0,
-        "SPEED": 2.0,
         "MAX_HEALTH": 10.0,
         "MAX_INTELLIGENCE": 30.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "DEFENSE": 10.0,
+        "SPEED": 2.0
       },
       "SPECIAL": {
-        "DEFENSE": 3.0,
-        "SPEED": 1.0,
         "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 18.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "SPEED": 1.0
       }
     }
   },
@@ -2271,38 +2271,38 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 2.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "CRIT_DAMAGE": 3.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 6.0,
-        "CRIT_DAMAGE": 6.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 6.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 2.0
       }
     }
   },
@@ -2318,46 +2318,46 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
+        "MAX_HEALTH": 1.0,
         "DEFENSE": 3.0,
         "SPEED": -3.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 1.0
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
+        "MAX_HEALTH": 2.0,
         "DEFENSE": 6.0,
         "SPEED": -6.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_HEALTH": 2.0
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
+        "MAX_HEALTH": 4.0,
         "DEFENSE": 10.0,
         "SPEED": -10.0,
-        "CRIT_DAMAGE": 2.0,
-        "MAX_HEALTH": 4.0
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
+        "MAX_HEALTH": 7.0,
         "DEFENSE": 15.0,
         "SPEED": -15.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_HEALTH": 7.0
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
+        "MAX_HEALTH": 10.0,
         "DEFENSE": 20.0,
         "SPEED": -20.0,
-        "CRIT_DAMAGE": 5.0,
-        "MAX_HEALTH": 10.0
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
+        "MAX_HEALTH": 25.0,
         "DEFENSE": 30.0,
         "SPEED": -30.0,
-        "CRIT_DAMAGE": 8.0,
-        "MAX_HEALTH": 25.0
+        "CRIT_DAMAGE": 8.0
       },
       "SPECIAL": {
+        "MAX_HEALTH": 7.0,
         "DEFENSE": 15.0,
         "SPEED": -15.0,
-        "CRIT_DAMAGE": 3.0,
-        "MAX_HEALTH": 7.0
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -2373,60 +2373,60 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
         "MAX_HEALTH": 1.0,
         "MAX_INTELLIGENCE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "DEFENSE": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 2.0,
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "RARE": {
-        "DEFENSE": 2.0,
         "CRIT_CHANCE": 2.0,
-        "CRIT_DAMAGE": 2.0,
         "MAX_HEALTH": 2.0,
         "MAX_INTELLIGENCE": 2.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "DEFENSE": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
-        "DEFENSE": 3.0,
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0
       },
       "LEGENDARY": {
-        "DEFENSE": 5.0,
         "CRIT_CHANCE": 5.0,
-        "CRIT_DAMAGE": 5.0,
         "MAX_HEALTH": 5.0,
         "MAX_INTELLIGENCE": 5.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "DEFENSE": 5.0,
+        "CRIT_DAMAGE": 5.0
       },
       "MYTHICAL": {
-        "DEFENSE": 9.0,
         "CRIT_CHANCE": 9.0,
-        "CRIT_DAMAGE": 9.0,
         "MAX_HEALTH": 9.0,
         "MAX_INTELLIGENCE": 9.0,
-        "STRENGTH": 9.0
+        "STRENGTH": 9.0,
+        "DEFENSE": 9.0,
+        "CRIT_DAMAGE": 9.0
       },
       "SPECIAL": {
-        "DEFENSE": 3.0,
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
         "MAX_HEALTH": 3.0,
         "MAX_INTELLIGENCE": 3.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "DEFENSE": 3.0,
+        "CRIT_DAMAGE": 3.0
       }
     }
   },
@@ -2442,39 +2442,39 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "SPEED": 1.0,
         "MAX_HEALTH": 1.0,
-        "MAX_INTELLIGENCE": 10.0
+        "MAX_INTELLIGENCE": 10.0,
+        "SPEED": 1.0
       },
       "UNCOMMON": {
-        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 35.0
+        "MAX_INTELLIGENCE": 35.0,
+        "SPEED": 1.0
       },
       "RARE": {
-        "SPEED": 1.0,
         "MAX_HEALTH": 2.0,
-        "MAX_INTELLIGENCE": 35.0
+        "MAX_INTELLIGENCE": 35.0,
+        "SPEED": 1.0
       },
       "EPIC": {
-        "SPEED": 2.0,
         "MAX_HEALTH": 3.0,
-        "MAX_INTELLIGENCE": 65.0
+        "MAX_INTELLIGENCE": 65.0,
+        "SPEED": 2.0
       },
       "LEGENDARY": {
-        "SPEED": 2.0,
         "MAX_HEALTH": 5.0,
-        "MAX_INTELLIGENCE": 100.0
+        "MAX_INTELLIGENCE": 100.0,
+        "SPEED": 2.0
       },
       "MYTHICAL": {
-        "SPEED": 6.0,
         "MAX_HEALTH": 10.0,
-        "MAX_INTELLIGENCE": 125.0
+        "MAX_INTELLIGENCE": 125.0,
+        "SPEED": 6.0
       },
       "SPECIAL": {
-        "SPEED": 2.0,
         "MAX_HEALTH": 3.0,
-        "MAX_INTELLIGENCE": 65.0
+        "MAX_INTELLIGENCE": 65.0,
+        "SPEED": 2.0
       }
     }
   },
@@ -2491,38 +2491,38 @@
     "stats": {
       "COMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 1.0
       },
       "RARE": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 1.0
       },
       "EPIC": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 1.0
       },
       "LEGENDARY": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 10.0
+        "STRENGTH": 10.0,
+        "CRIT_DAMAGE": 1.0
       },
       "MYTHICAL": {
         "CRIT_CHANCE": 3.0,
-        "CRIT_DAMAGE": 3.0,
-        "STRENGTH": 14.0
+        "STRENGTH": 14.0,
+        "CRIT_DAMAGE": 3.0
       },
       "SPECIAL": {
         "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 7.0
+        "STRENGTH": 7.0,
+        "CRIT_DAMAGE": 1.0
       }
     }
   },
@@ -2538,28 +2538,28 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0
       },
       "UNCOMMON": {
-        "DEFENSE": 6.0,
-        "MAX_HEALTH": 6.0
+        "MAX_HEALTH": 6.0,
+        "DEFENSE": 6.0
       },
       "RARE": {
-        "DEFENSE": 10.0,
-        "MAX_HEALTH": 10.0
+        "MAX_HEALTH": 10.0,
+        "DEFENSE": 10.0
       },
       "EPIC": {
-        "DEFENSE": 15.0,
-        "MAX_HEALTH": 15.0
+        "MAX_HEALTH": 15.0,
+        "DEFENSE": 15.0
       },
       "LEGENDARY": {
-        "DEFENSE": 20.0,
-        "MAX_HEALTH": 20.0
+        "MAX_HEALTH": 20.0,
+        "DEFENSE": 20.0
       },
       "MYTHICAL": {
-        "DEFENSE": 30.0,
-        "MAX_HEALTH": 30.0
+        "MAX_HEALTH": 30.0,
+        "DEFENSE": 30.0
       }
     }
   },
@@ -2617,27 +2617,27 @@
       },
       "RARE": {
         "FARMING_FORTUNE": 10.0,
-        "SPEED": 5.0,
         "MAX_HEALTH": 20.0,
-        "MAX_INTELLIGENCE": 20.0
+        "MAX_INTELLIGENCE": 20.0,
+        "SPEED": 5.0
       },
       "EPIC": {
         "FARMING_FORTUNE": 15.0,
-        "SPEED": 10.0,
         "MAX_HEALTH": 30.0,
-        "MAX_INTELLIGENCE": 20.0
+        "MAX_INTELLIGENCE": 20.0,
+        "SPEED": 10.0
       },
       "LEGENDARY": {
         "FARMING_FORTUNE": 15.0,
-        "SPEED": 10.0,
         "MAX_HEALTH": 40.0,
-        "MAX_INTELLIGENCE": 30.0
+        "MAX_INTELLIGENCE": 30.0,
+        "SPEED": 10.0
       },
       "MYTHICAL": {
         "FARMING_FORTUNE": 25.0,
-        "SPEED": 20.0,
         "MAX_HEALTH": 40.0,
-        "MAX_INTELLIGENCE": 40.0
+        "MAX_INTELLIGENCE": 40.0,
+        "SPEED": 20.0
       }
     }
   },
@@ -2652,32 +2652,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "CRIT_DAMAGE": 1.0,
-        "BONUS_ATTACK_SPEED": 1.0
+        "BONUS_ATTACK_SPEED": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
-        "CRIT_DAMAGE": 1.0,
-        "BONUS_ATTACK_SPEED": 1.0
+        "BONUS_ATTACK_SPEED": 1.0,
+        "CRIT_DAMAGE": 1.0
       },
       "RARE": {
-        "CRIT_DAMAGE": 1.0,
-        "BONUS_ATTACK_SPEED": 2.0
+        "BONUS_ATTACK_SPEED": 2.0,
+        "CRIT_DAMAGE": 1.0
       },
       "EPIC": {
-        "CRIT_DAMAGE": 2.0,
-        "BONUS_ATTACK_SPEED": 2.0
+        "BONUS_ATTACK_SPEED": 2.0,
+        "CRIT_DAMAGE": 2.0
       },
       "LEGENDARY": {
-        "CRIT_DAMAGE": 2.0,
-        "BONUS_ATTACK_SPEED": 3.0
+        "BONUS_ATTACK_SPEED": 3.0,
+        "CRIT_DAMAGE": 2.0
       },
       "MYTHICAL": {
-        "CRIT_DAMAGE": 3.0,
-        "BONUS_ATTACK_SPEED": 4.0
+        "BONUS_ATTACK_SPEED": 4.0,
+        "CRIT_DAMAGE": 3.0
       },
       "SPECIAL": {
-        "CRIT_DAMAGE": 2.0,
-        "BONUS_ATTACK_SPEED": 2.0
+        "BONUS_ATTACK_SPEED": 2.0,
+        "CRIT_DAMAGE": 2.0
       }
     }
   },
@@ -2692,60 +2692,60 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
+        "CRIT_CHANCE": 1.0,
+        "MAX_HEALTH": 2.0,
+        "BONUS_ATTACK_SPEED": 1.0,
         "DEFENSE": 1.0,
         "SPEED": 1.0,
-        "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 2.0,
-        "BONUS_ATTACK_SPEED": 1.0
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
+        "CRIT_CHANCE": 1.0,
+        "MAX_HEALTH": 3.0,
+        "BONUS_ATTACK_SPEED": 1.0,
         "DEFENSE": 1.0,
         "SPEED": 1.0,
-        "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 3.0,
-        "BONUS_ATTACK_SPEED": 1.0
+        "CRIT_DAMAGE": 1.0
       },
       "RARE": {
+        "CRIT_CHANCE": 1.0,
+        "MAX_HEALTH": 4.0,
+        "BONUS_ATTACK_SPEED": 1.0,
         "DEFENSE": 1.0,
         "SPEED": 1.0,
-        "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 4.0,
-        "BONUS_ATTACK_SPEED": 1.0
+        "CRIT_DAMAGE": 1.0
       },
       "EPIC": {
+        "CRIT_CHANCE": 1.0,
+        "MAX_HEALTH": 5.0,
+        "BONUS_ATTACK_SPEED": 1.0,
         "DEFENSE": 1.0,
         "SPEED": 1.0,
-        "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 5.0,
-        "BONUS_ATTACK_SPEED": 1.0
+        "CRIT_DAMAGE": 1.0
       },
       "LEGENDARY": {
+        "CRIT_CHANCE": 1.0,
+        "MAX_HEALTH": 6.0,
+        "BONUS_ATTACK_SPEED": 1.0,
         "DEFENSE": 2.0,
         "SPEED": 2.0,
-        "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 6.0,
-        "BONUS_ATTACK_SPEED": 1.0
+        "CRIT_DAMAGE": 1.0
       },
       "MYTHICAL": {
+        "CRIT_CHANCE": 1.0,
+        "MAX_HEALTH": 7.0,
+        "BONUS_ATTACK_SPEED": 2.0,
         "DEFENSE": 2.0,
         "SPEED": 2.0,
-        "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 7.0,
-        "BONUS_ATTACK_SPEED": 2.0
+        "CRIT_DAMAGE": 1.0
       },
       "SPECIAL": {
+        "CRIT_CHANCE": 1.0,
+        "MAX_HEALTH": 5.0,
+        "BONUS_ATTACK_SPEED": 1.0,
         "DEFENSE": 1.0,
         "SPEED": 1.0,
-        "CRIT_CHANCE": 1.0,
-        "CRIT_DAMAGE": 1.0,
-        "MAX_HEALTH": 5.0,
-        "BONUS_ATTACK_SPEED": 1.0
+        "CRIT_DAMAGE": 1.0
       }
     }
   },
@@ -2826,32 +2826,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 1.0,
-        "HASTE": 1.0
+        "HASTE": 1.0,
+        "DEFENSE": 1.0
       },
       "UNCOMMON": {
-        "DEFENSE": 2.0,
-        "HASTE": 2.0
+        "HASTE": 2.0,
+        "DEFENSE": 2.0
       },
       "RARE": {
-        "DEFENSE": 3.0,
-        "HASTE": 3.0
+        "HASTE": 3.0,
+        "DEFENSE": 3.0
       },
       "EPIC": {
-        "DEFENSE": 4.0,
-        "HASTE": 4.0
+        "HASTE": 4.0,
+        "DEFENSE": 4.0
       },
       "LEGENDARY": {
-        "DEFENSE": 4.0,
-        "HASTE": 5.0
+        "HASTE": 5.0,
+        "DEFENSE": 4.0
       },
       "MYTHICAL": {
-        "DEFENSE": 4.0,
-        "HASTE": 6.0
+        "HASTE": 6.0,
+        "DEFENSE": 4.0
       },
       "SPECIAL": {
-        "DEFENSE": 4.0,
-        "HASTE": 4.0
+        "HASTE": 4.0,
+        "DEFENSE": 4.0
       }
     }
   },
@@ -2866,32 +2866,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "DEFENSE": 2.0,
-        "MAX_HEALTH": 2.0
+        "MAX_HEALTH": 2.0,
+        "DEFENSE": 2.0
       },
       "UNCOMMON": {
-        "DEFENSE": 3.0,
-        "MAX_HEALTH": 3.0
+        "MAX_HEALTH": 3.0,
+        "DEFENSE": 3.0
       },
       "RARE": {
-        "DEFENSE": 4.0,
-        "MAX_HEALTH": 4.0
+        "MAX_HEALTH": 4.0,
+        "DEFENSE": 4.0
       },
       "EPIC": {
-        "DEFENSE": 5.0,
-        "MAX_HEALTH": 5.0
+        "MAX_HEALTH": 5.0,
+        "DEFENSE": 5.0
       },
       "LEGENDARY": {
-        "DEFENSE": 6.0,
-        "MAX_HEALTH": 6.0
+        "MAX_HEALTH": 6.0,
+        "DEFENSE": 6.0
       },
       "MYTHICAL": {
-        "DEFENSE": 8.0,
-        "MAX_HEALTH": 8.0
+        "MAX_HEALTH": 8.0,
+        "DEFENSE": 8.0
       },
       "SPECIAL": {
-        "DEFENSE": 5.0,
-        "MAX_HEALTH": 5.0
+        "MAX_HEALTH": 5.0,
+        "DEFENSE": 5.0
       }
     }
   },
@@ -2906,32 +2906,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 1.0
       },
       "UNCOMMON": {
-        "CRIT_DAMAGE": 1.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 1.0
       },
       "RARE": {
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 2.0
       },
       "EPIC": {
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 2.0
       },
       "LEGENDARY": {
-        "CRIT_DAMAGE": 3.0,
-        "STRENGTH": 5.0
+        "STRENGTH": 5.0,
+        "CRIT_DAMAGE": 3.0
       },
       "MYTHICAL": {
-        "CRIT_DAMAGE": 4.0,
-        "STRENGTH": 6.0
+        "STRENGTH": 6.0,
+        "CRIT_DAMAGE": 4.0
       },
       "SPECIAL": {
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 4.0
+        "STRENGTH": 4.0,
+        "CRIT_DAMAGE": 2.0
       }
     }
   },
@@ -2946,32 +2946,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "CRIT_DAMAGE": 2.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 2.0
       },
       "UNCOMMON": {
-        "CRIT_DAMAGE": 3.0,
-        "STRENGTH": 1.0
+        "STRENGTH": 1.0,
+        "CRIT_DAMAGE": 3.0
       },
       "RARE": {
-        "CRIT_DAMAGE": 3.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 3.0
       },
       "EPIC": {
-        "CRIT_DAMAGE": 4.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 4.0
       },
       "LEGENDARY": {
-        "CRIT_DAMAGE": 4.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 4.0
       },
       "MYTHICAL": {
-        "CRIT_DAMAGE": 5.0,
-        "STRENGTH": 3.0
+        "STRENGTH": 3.0,
+        "CRIT_DAMAGE": 5.0
       },
       "SPECIAL": {
-        "CRIT_DAMAGE": 4.0,
-        "STRENGTH": 2.0
+        "STRENGTH": 2.0,
+        "CRIT_DAMAGE": 4.0
       }
     }
   },
@@ -3026,32 +3026,32 @@
     "obtainable": true,
     "stats": {
       "COMMON": {
-        "MAGIC_DAMAGE": 5.0,
-        "MAX_INTELLIGENCE": 1.0
+        "MAX_INTELLIGENCE": 1.0,
+        "MAGIC_DAMAGE": 5.0
       },
       "UNCOMMON": {
-        "MAGIC_DAMAGE": 10.0,
-        "MAX_INTELLIGENCE": 2.0
+        "MAX_INTELLIGENCE": 2.0,
+        "MAGIC_DAMAGE": 10.0
       },
       "RARE": {
-        "MAGIC_DAMAGE": 20.0,
-        "MAX_INTELLIGENCE": 3.0
+        "MAX_INTELLIGENCE": 3.0,
+        "MAGIC_DAMAGE": 20.0
       },
       "EPIC": {
-        "MAGIC_DAMAGE": 20.0,
-        "MAX_INTELLIGENCE": 4.0
+        "MAX_INTELLIGENCE": 4.0,
+        "MAGIC_DAMAGE": 20.0
       },
       "LEGENDARY": {
-        "MAGIC_DAMAGE": 30.0,
-        "MAX_INTELLIGENCE": 6.0
+        "MAX_INTELLIGENCE": 6.0,
+        "MAGIC_DAMAGE": 30.0
       },
       "MYTHICAL": {
-        "MAGIC_DAMAGE": 40.0,
-        "MAX_INTELLIGENCE": 8.0
+        "MAX_INTELLIGENCE": 8.0,
+        "MAGIC_DAMAGE": 40.0
       },
       "SPECIAL": {
-        "MAGIC_DAMAGE": 20.0,
-        "MAX_INTELLIGENCE": 4.0
+        "MAX_INTELLIGENCE": 4.0,
+        "MAGIC_DAMAGE": 20.0
       }
     }
   }
