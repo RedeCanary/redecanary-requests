@@ -82,7 +82,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "398ae55c-0d66-4076-9088-4f4a2dc8580c",
+            "id": "9abc5eda-06b8-466a-a1fb-a8e011126efb",
             "properties": {
               "properties": {}
             },
@@ -138,7 +138,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "5d186e8a-952e-4f70-9151-978efc4119a8",
+            "id": "0839dcd1-4aec-48a9-b3c0-ff30ad89cc31",
             "properties": {
               "properties": {}
             },
@@ -280,7 +280,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "ae0a1926-ac84-4daf-ab5d-36bfd7182edf",
+            "id": "5ee5bd83-724a-4840-8d08-35b147fb3d13",
             "properties": {
               "properties": {}
             },
@@ -361,7 +361,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "282a8d32-079c-45a4-b571-7dad45f9f8c1",
+            "id": "6414931a-671a-4930-9eb4-3eac8d033a39",
             "properties": {
               "properties": {}
             },
@@ -527,7 +527,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "22261083-52d8-4e3f-beb5-0daa454f61bf",
+            "id": "58b2a6f0-f0c6-41c4-8104-cebdd91ee949",
             "properties": {
               "properties": {}
             },
@@ -668,7 +668,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "7f2fe8a2-e2db-41c4-b4ec-151ae45f777e",
+            "id": "2f2874b0-94d8-4977-9698-d3f38630ff15",
             "properties": {
               "properties": {}
             },
@@ -769,7 +769,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "4d40489b-1b28-4569-a849-aa4dc9b245ad",
+            "id": "53929914-d522-4ee7-bfc1-31f23943d934",
             "properties": {
               "properties": {}
             },
@@ -889,7 +889,7 @@
         "durability": 3,
         "meta": {
           "profile": {
-            "id": "fe28bbb0-0099-458d-804d-12c8ef3b19bf",
+            "id": "59330dc8-742b-47e4-866c-b45efbe9f29c",
             "properties": {
               "properties": {}
             },
@@ -1085,7 +1085,7 @@
       "reward": 25.0
     },
     "drops": [],
-    "size": 4,
+    "size": 3,
     "canSplit": false
   },
   "PIGMAN": {
@@ -1177,7 +1177,7 @@
       "reward": 35.0
     },
     "drops": [],
-    "size": 3,
+    "size": 4,
     "canSplit": false
   },
   "MAGMA_BOSS": {
