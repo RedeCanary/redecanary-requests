@@ -3,8 +3,8 @@
     "skyblock": {
       "0": "§6§lANÚNCIO §8• §eVantagens exclusivas disponíveis §8• §eAcesse §fredecanary.net",
       "1": "§6§lEVENTO §8• §d§lXP EM DOBRO §enas habilidades §8• §eApenas no Fim de Semana",
-      "2": "§6§lSKYBLOCK §8• §eJogue na §fRedeCanary §8• §eIP §fredecanary.fun",
-      "3": "§6§lOFERTA §8• §eCupom §dOVINHO §8• §c§l50% OFF §8• §eAcesse §fredecanary.net"
+      "2": "§6§lSKYBLOCK §8• §eJogue na §fRedeCanary §8• §eIP §fredecanary.net",
+      "3": "§6§lOFERTA §8• §eCupom §aBAIACU §8• §c§l40% OFF §8• §eAcesse §fredecanary.net"
     },
     "globalMessages": [
       [
@@ -29,7 +29,7 @@
         "§fredecanary.net/forum.php"
       ],
       [
-        "§7Algum jogador §cofendeu §evocê?",
+        "§7Algum jogador §cofendeu §7você?",
         "§7Sua denúncia ajuda a manter a ordem!",
         "",
         "§eFale com nosso suporte",
@@ -50,22 +50,22 @@
         "§f/textura"
       ],
       [
-        "§7Ganhe §c50% OFF§7 em toda a loja!",
+        "§7Ganhe §c40% OFF§7 em toda a loja!",
         "§7Use o cupom:",
         "",
-        "§d§lOVINHO",
+        "§a§lBAIACU",
         "",
         "§aAcesse nossa loja",
         "§fredecanary.net"
       ],
       [
-        "§7Use o cupom §dOVINHO§7 e ganhe:",
-        "§c§l50% DE DESCONTO",
+        "§7Use o cupom §a§lBAIACU§7 e ganhe:",
+        "§c§l40% DE DESCONTO",
         "",
         "§aPlanos disponíveis:",
-        "§aVIP §7» §f3,75",
-        "§6MVP §7» §f6,25",
-        "§bMVP+ §7» §f9,38",
+        "§aVIP §7» §f4,50",
+        "§6MVP §7» §f7,50",
+        "§bMVP+ §7» §f11,25",
         "",
         "§aAdquira seu plano",
         "§fredecanary.net"
