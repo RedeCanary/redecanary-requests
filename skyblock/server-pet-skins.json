@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Mamute",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmIxMDcxNTczMmNkMWZkNDlmYTFiNjE4Nzk0N2MzMDdkZDQ2ODcxMDVjZjAzMzg0MDYwN2Y5ZDYyMzQ3NDNhZCJ9fX0=",
+    "pet": "ELEFANTE"
+  },
+  {
+    "name": "Dragão de Ossos",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFiZjkwNDVmNzVkYjkxMGY2YTEzMjMxMmY4MzQ0ZjMzMDc1YmVmOGQzOTNiMTM5YTcwOTM5MjBjNDk3NWZhZSJ9fX0=",
+    "pet": "DRAGAO_DO_FIM"
+  }
+  {
+    "name": "Baiacu em Aquário",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZhOTFlZTMwZTAzMTM0NmZkZTAxMDUxODhiOTNiNmMwY2FhNTJkYTZlN2VkZjkzZmVjMzc0M2RlODE2NjdhZCJ9fX0=",
+    "pet": "BAIACU"
+  }
+]
