@@ -8,68 +8,13 @@
     },
     "globalMessages": [
       [
-        "§7Está curtindo jogar na §bRedeCanary§7?",
-        "§7Apoie o servidor e desbloqueie vantagens!",
+        "§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-",
+        "§eEstá curtindo jogar na §fRede Canary§e?",
+        "§eApoie o servidor e desbloqueie vantagens!",
         "",
-        "§eAcesse nossa loja",
-        "§fredecanary.net"
-      ],
-      [
-        "§7Encontrou algum §cproblema§7?",
-        "§7Reporte e ganhe §arecompensas§7!",
-        "",
-        "§eFale com nosso suporte",
-        "§fredecanary.net/forum.php"
-      ],
-      [
-        "§7Viu algo §csuspeito§7 ou irregular?",
-        "§7Sua denúncia ajuda toda a comunidade!",
-        "",
-        "§eFale com nosso suporte",
-        "§fredecanary.net/forum.php"
-      ],
-      [
-        "§7Algum jogador §cofendeu §7você?",
-        "§7Sua denúncia ajuda a manter a ordem!",
-        "",
-        "§eFale com nosso suporte",
-        "§fredecanary.net/forum.php"
-      ],
-      [
-        "§7Tem alguma ideia para o servidor?",
-        "§7Sua sugestão pode ser adicionada!",
-        "",
-        "§eEnvie no fórum",
-        "§fredecanary.net/forum.php"
-      ],
-      [
-        "§7Melhore sua experiência no jogo!",
-        "§7Use nossa §btextura oficial§7.",
-        "",
-        "§eDigite o comando",
-        "§f/textura"
-      ],
-      [
-        "§7Ganhe §c45% OFF§7 em toda a loja!",
-        "§7Use o cupom:",
-        "",
-        "§6§lCANARIO",
-        "",
-        "§aAcesse nossa loja",
-        "§fredecanary.net"
-      ],
-      [
-        "§7Use o cupom §6§lCANARIO§7 e ganhe:",
-        "§c§l45% DE DESCONTO",
-        "",
-        "§aPlanos disponíveis:",
-        "§aVIP §7» §f4,12 R$",
-        "§6MVP §7» §f6,87 R$",
-        "§bMVP+ §7» §f10,31 R$",
-        "",
-        "§aAdquira seu plano",
-        "§fredecanary.net"
+        "§eAcesse nossa §floja §eem:",
+        "§e§l➡ §fredecanary.net",
+        "§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-§f-§c-"
       ]
-    ]
   }
 }
