@@ -1,0 +1,332 @@
+{
+  "BUG_ABUSE": {
+    "reason": "Abuso de Bugs",
+    "description": [
+      "Aproveitar-se de qualquer maneira de um",
+      "erro em nossos sistemas para benefício",
+      "próprio ou ter conhecimento de um erro e",
+      "não reportá-lo.",
+      "",
+      "Caso não reportado adequadamente:",
+      "Jogadores cúmplices serão punidos e",
+      "sofrerão as mesmas consequências.",
+      "Ao receber esta punição, todos os dados",
+      "do jogador serão zerados permanentemente.",
+      ""
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "15d"
+      },
+      {
+        "type": "BAN",
+        "duration": "30d"
+      },
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "ANTI_GAME": {
+    "reason": "Anti-Jogo ou Macro",
+    "description": [
+      "Atitudes que podem prejudicar a",
+      "jogabilidade de outros jogadores,",
+      "economia ou uso de macro dentro de",
+      "nosso servidor."
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "1d"
+      },
+      {
+        "type": "BAN",
+        "duration": "3d"
+      },
+      {
+        "type": "BAN",
+        "duration": "7d"
+      }
+    ]
+  },
+
+  "THREAT": {
+    "reason": "Ameaça",
+    "description": [
+      "Realizar ameaças a outros jogadores com",
+      "relação à sua pessoa, sua família,",
+      "seus bens ou sua conta."
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "15d"
+      },
+      {
+        "type": "BAN",
+        "duration": "30d"
+      }
+    ]
+  },
+
+  "MISINFORMATION": {
+    "reason": "Desinformação",
+    "description": [
+      "Espalhar informações falsas com o",
+      "intuito de prejudicar outros jogadores",
+      "ou causar baderna geral."
+    ],
+    "punishments": [
+      {
+        "type": "MUTE",
+        "duration": "3h"
+      },
+      {
+        "type": "MUTE",
+        "duration": "1d"
+      },
+      {
+        "type": "BAN",
+        "duration": "3d"
+      }
+    ]
+  },
+
+  "DISCRIMINATION": {
+    "reason": "Discriminação",
+    "description": [
+      "Atitudes preconceituosas para com outros jogadores",
+      "motivadas por sua raça, cor, sexo, idade, orientação",
+      "sexual ou religião e consolidadas através de mensagens no chat."
+    ],
+    "punishments": [
+      {
+        "type": "MUTE",
+        "duration": "3d"
+      },
+      {
+        "type": "BAN",
+        "duration": "30d"
+      },
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "EXTERN_COMMERCE": {
+    "reason": "Comércio Externo Inadequado",
+    "description": [
+      "Realizar comércio externo sem o cargo em",
+      "nosso Discord que permita isto ou divulgar",
+      "o comércio externo em canais públicos ou locais",
+      "que se limitem a Rede Canary."
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "DIVULGATION": {
+    "reason": "Divulgação",
+    "description": [
+      "Fazer divulgação de sites, servidores de Discord, servidores",
+      "de Minecraft e vídeos canais em plataformas de mídia de forma",
+      "comedida."
+    ],
+    "punishments": [
+      {
+        "type": "MUTE",
+        "duration": "12h"
+      },
+      {
+        "type": "BAN",
+        "duration": "3d"
+      },
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "REFUND": {
+    "reason": "Estorno de Compra",
+    "description": [
+      "Tentar realizar estorno da compra de um produto adquirido",
+      "em nossa rede através das plataformas de pagamento ou operadora",
+      "de cartão de crédito. A tentativa já é suficiente para punição,",
+      "sendo irrelevante se o estorno foi de fato consolidado."
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "FALSIFICATION_OF_EVIDENCE": {
+    "reason": "Falsificação de Provas",
+    "description": [
+      "Forjar provas com objetivo de fazer jogadores",
+      "inocentes serem punidos de forma errada."
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "FLOOD_OR_SPAM": {
+    "reason": "Flood, Spam ou Tumultuo",
+    "description": [
+      "Enviar mensagens iguais repetidamente em curtos intervalos",
+      "ou enviar mensagens sem sentido algum com objetivo de poluir",
+      "de poluir o chat. Incentivar as atitudes anteriores também",
+      "se enquadra nesta punição."
+    ],
+    "punishments": [
+      {
+        "type": "MUTE",
+        "duration": "4h"
+      },
+      {
+        "type": "MUTE",
+        "duration": "12h"
+      },
+      {
+        "type": "MUTE",
+        "duration": "7d"
+      }
+    ]
+  },
+
+  "HACK": {
+    "reason": "Uso de Trapaças",
+    "description": [
+      "Fazer uso de clientes alternativos ou modificações",
+      "que promovam vantagens sobre outros jogadores.",
+      "",
+      "As trapaças permitidas:",
+      "Utilização de Auto click.",
+      "Utilização de X-Ray.",
+      ""
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "90d"
+      },
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "ACCOUNT_INVASION": {
+    "reason": "Invasão de Conta",
+    "description": [
+      "Invadir contas de outros jogadores por quaisquer métodos",
+      "sem o consentimento dos mesmos."
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "INAPPROPRIATE_BEHAVIOUR": {
+    "reason": "Comportamento Inapropriado",
+    "description": [
+      "Condutas ofensivas, discriminatórias, com teor",
+      "sexual ou de ódio independente do meio, seja com",
+      "nicknames, construções, skins, símbolos, comentários",
+      "e entre outros."
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "30d"
+      },
+      {
+        "type": "BAN",
+        "duration": "90d"
+      },
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "PLAYER_OFFENSE": {
+    "reason": "Ofensa a Jogador",
+    "description": [
+      "Ofender jogadores através do chat in-game",
+      "utilizando-se de palavrões, xingamentos,",
+      "comparações ou qualquer outra forma de ofensa."
+    ],
+    "punishments": [
+      {
+        "type": "MUTE",
+        "duration": "4h"
+      },
+      {
+        "type": "MUTE",
+        "duration": "12h"
+      },
+      {
+        "type": "BAN",
+        "duration": "3d"
+      }
+    ]
+  },
+
+  "ALT_ACCOUNT": {
+    "reason": "Conta Alternativa",
+    "description": [
+      "Criar uma conta alternativa ultrapassando o",
+      "limite de 3 contas por indivíduo."
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "PERMANENT"
+      }
+    ]
+  },
+
+  "MISFEASANCE": {
+    "reason": "Abuso de Poder",
+    "description": [
+      "Abuso de seus comandos ou cargo",
+      "para amedrontar ou exigir de jogadores",
+      "ou membros da equipe.",
+      "",
+      "Caso membros da equipe sejam",
+      "denunciados por Abuso de Poder, serão",
+      "retirados imediatamente do cargo!",
+      ""
+    ],
+    "punishments": [
+      {
+        "type": "BAN",
+        "duration": "30d"
+      }
+    ]
+  }
+}
