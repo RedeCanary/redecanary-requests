@@ -68,11 +68,11 @@
     "punishments": [
       {
         "type": "BAN",
-        "duration": "15d"
+        "duration": "30d"
       },
       {
         "type": "BAN",
-        "duration": "30d"
+        "duration": "PERMANENT"
       }
     ]
   },
