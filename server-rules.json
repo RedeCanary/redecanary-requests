@@ -191,10 +191,10 @@
   "FLOOD_OR_SPAM": {
     "reason": "Flood, Spam ou Tumultuo",
     "description": [
-      "Enviar mensagens iguais repetidamente em curtos intervalos",
-      "ou enviar mensagens sem sentido algum com objetivo de poluir",
-      "de poluir o chat. Incentivar as atitudes anteriores também",
-      "se enquadra nesta punição."
+      "Enviar mensagens iguais repetidamente em curtos intervalos,",
+      "enviar mensagens sem sentido algum com objetivo de poluir o chat",
+      "ou causar baderna/tumultuo negativo ou pejorativo. Incentivar as",
+      "atitudes anteriores também se enquadra nesta punição"
     ],
     "punishments": [
       {
